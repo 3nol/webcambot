@@ -119,34 +119,35 @@ class WebcamBot(Client):
                 await message.channel.send('Your search term is too short.')
             else:
                 result = None
-                query = content.split(' --')[0]
-                if '--country' in content:           # asking for countries
-                    result = sql_query('SELECT continent, name FROM countries WHERE '
-                                       + generate_search('name', query) + ' ORDER BY continent')
-                elif '--region' in content:          # asking for regions
-                    result = sql_query('SELECT country, name FROM regions WHERE '
-                                       + generate_search('name', query) + ' ORDER BY country')
-                elif '--subregion' in content:       # asking for subregions
-                    result = sql_query('SELECT region, name FROM subregions WHERE '
-                                       + generate_search('name', query) + ' ORDER BY region')
-                elif '--location' in content:        # asking for locations
-                    result = sql_query('SELECT subregion, name FROM locations WHERE '
-                                       + generate_search('name', query) + ' ORDER BY subregion')
-                elif '--webcam' in content or True:  # for webcams
-                    result = sql_query('SELECT location, name FROM webcams WHERE '
-                                           + generate_search('name', query) + ' ORDER BY location')
-                if result:
-                    text = ''
-                    for element in result:  # formatting bold headers
-                        if element[0] in text:
-                            text += ', ' + element[1]
-                        else:
-                            text += '\n**' + element[0] + '**\n' + str(element[1])
-                    for i in range(0, len(text), 2000):  # splitting in pieces of 2000 chars
-                        await message.channel.send(text[i:i + 2000])
+                if ',' not in content:
+                    query = content.split(' --')[0]
+                    if '--country' in content:           # asking for countries
+                        result = sql_query('SELECT continent, name FROM countries WHERE '
+                                           + generate_search('name', query) + ' ORDER BY continent')
+                    elif '--region' in content:          # asking for regions
+                        result = sql_query('SELECT country, name FROM regions WHERE '
+                                           + generate_search('name', query) + ' ORDER BY country')
+                    elif '--subregion' in content:       # asking for subregions
+                        result = sql_query('SELECT region, name FROM subregions WHERE '
+                                           + generate_search('name', query) + ' ORDER BY region')
+                    elif '--location' in content:        # asking for locations
+                        result = sql_query('SELECT subregion, name FROM locations WHERE '
+                                           + generate_search('name', query) + ' ORDER BY subregion')
+                    elif '--webcam' in content or True:  # for webcams
+                        result = sql_query('SELECT location, name FROM webcams WHERE '
+                                               + generate_search('name', query) + ' ORDER BY location')
+                    if result:
+                        text = ''
+                        for element in result:  # formatting bold headers
+                            if element[0] in text:
+                                text += ', ' + element[1]
+                            else:
+                                text += '\n**' + element[0] + '**\n' + str(element[1])
+                        for i in range(0, len(text), 2000):  # splitting in pieces of 2000 chars
+                            await message.channel.send(text[i:i + 2000])
 
                 # search for specific webcam
-                elif ',' in content:
+                else:
                     location = split(' *, *', content.rsplit(' -d ', 1)[0], 1)[0]
                     webcam = split(' *, *', content.rsplit(' -d ', 1)[0], 1)[1]
                     result = sql_query('SELECT camid, url FROM webcams WHERE '
@@ -183,7 +184,7 @@ class WebcamBot(Client):
                                 await message.channel.send(url)
                             return
                     await message.channel.send('No accessible webcam was found in the database.')
-                elif not result:
+                if not result:
                     await message.channel.send('There are no results for this query.')
                 else:
                     await message.channel.send('Unknown command.')
