@@ -145,6 +145,7 @@ class WebcamBot(Client):
                                 text += '\n**' + element[0] + '**\n' + str(element[1])
                         for i in range(0, len(text), 2000):  # splitting in pieces of 2000 chars
                             await message.channel.send(text[i:i + 2000])
+                        return
 
                 # search for specific webcam
                 else:
@@ -184,6 +185,7 @@ class WebcamBot(Client):
                                 await message.channel.send(url)
                             return
                     await message.channel.send('No accessible webcam was found in the database.')
+                    return
                 if not result:
                     await message.channel.send('There are no results for this query.')
                 else:
