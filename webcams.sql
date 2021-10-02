@@ -120,6 +120,7 @@ Slowakei	6	Europa	slovakia
 Bosnien Herzegowina	2	Europa	bosnien-herzegowina
 Vereinigte Staaten von Amerika	1	Nordamerika	usa
 Gr├Ânland	1	Europa	greenland
+Polen	0	Europa	polska
 \.
 
 
@@ -142,2603 +143,2798 @@ Ossiach	K├ñrnten	6	Region Villach - Faaker See...
 Dellach im Gailtal	K├ñrnten	1	Nassfeld / Pressegger See
 Koralpe	K├ñrnten	2	Lavanttal
 Lajen	S├╝dtirol	1	Dolomiten
-Dorflift Johnsbach	Steiermark	2	Steiermark
-Gr├Âbming	Steiermark	2	Gr├Âbminger Land
-Tanvaldsk├¢ ┼ápi─ì├ík / Jizerky	Region Reichenberg	6	Region Reichenberg
-Klostertal	Vorarlberg	7	Alpenregion Bludenz
-Karwendel - Mittenwald	Bayern	6	Bayern
-Oberursel (Taunus)	Hessen	3	Taunus
-Goch	Nordrhein-Westfalen	2	Niederrhein
-Masserberg	Th├╝ringen	2	Coburg Rennsteig / Th├╝ringen
-Esens-Bensersiel	Niedersachsen	0	Nordseek├╝ste
-Waldkirch im Elztal	Baden-W├╝rttemberg	1	Elztal & Simonsw├ñldertal
+Liestal	Basel Region	1	Baselland
+Glarus	Ostschweiz	2	Glarnerland
+Oberkirch	Baden-W├╝rttemberg	1	Renchtal
+Bruck an der Mur	Steiermark	2	Bruck - Kapfenberg
+Suche	Kleinpolen	0	Kleinpolen
+Valgrisenche	Aostatal	1	Aostatal
+Spittal an der Drau	K├ñrnten	5	Millst├ñtter See
+Hochfilzen	Tirol	2	Pillerseetal
+Bodenmais	Bayern	6	Arberland
+Ebbs	Tirol	2	Kufsteinerland
+Kiental	Berner Oberland	0	<missing>
+Bremgarten	Aargau	0	<missing>
+Evol├¿ne	Wallis	4	Wallis
+Helmstedt	Niedersachsen	3	Elm-Lappwald / Niedersachsen
+Darmst├ñdter H├╝tte	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Grenchen	Jura & Drei-Seen-Land	2	Solothurn und Region
+Obstalden	Ostschweiz	1	Glarus Nord
+Lana und Umgebung	S├╝dtirol	3	Meran und Umgebung
+Herscheid	Nordrhein-Westfalen	2	M├ñrkisches Sauerland
+Ovindoli - Monte Magnola	Abruzzen	1	Abruzzen
+Katrin	Ober├Âsterreich	3	Ober├Âsterreich
+Betzenstein	Bayern	1	Frankenjura
+Heiligenschwendi - Hubelweid	Berner Oberland	1	Berner Oberland
+Thunersee	Berner Oberland	5	Interlaken
+Gitschberg Jochtal	S├╝dtirol	22	S├╝dtirol
+Dolomitental Villn├Âss	S├╝dtirol	4	Dolomiten
+Latsch - Tarscher Alm	S├╝dtirol	1	Latsch - Martelltal
+Windischgarsten	Ober├Âsterreich	8	Urlaubsregion Pyhrn - Priel
+Insel Pa┼íman	Dalmatien - Zadar	2	Dalmatien - Zadar
+Neukirchen am Walde	Ober├Âsterreich	2	Donau Ober├Âsterreich
+Natternbach	Ober├Âsterreich	1	Donau Ober├Âsterreich
+Luftenberg an der Donau	Ober├Âsterreich	1	M├╝hlviertel
+Kapfenstein	Steiermark	1	Bad Gleichenberg
+K├Ânigswiesen	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
+Scheidegg	Bayern	1	Westallg├ñu
+┼áentjo┼ít nad Horjulom	Zentralslowenien	1	Zentralslowenien
+Unterach am Attersee	Ober├Âsterreich	3	Attersee - Attergau
+Prato Selva	Abruzzen	0	Abruzzen
+N├Ârdlingen	Bayern	4	Bayerisch-Schwaben
+Bad T├Âlz	Bayern	7	T├Âlzer Land
+Kochel am See	Bayern	0	T├Âlzer Land
+Wei├ƒenstadt	Bayern	2	Fichtelgebirge
+Brodok - Por├í─ì	Kaschauer Landschaftsverband	0	Kaschauer Landschaftsverband
+Elm	Ostschweiz	7	Ostschweiz
+Monschau	Nordrhein-Westfalen	1	Eifel & Aachen
+Ple┼íivec - Abertamy	Region Karlsbad	9	Region Karlsbad
+Pot┼»─ìky	Region Karlsbad	0	Region Karlsbad
+Schierke	Sachsen-Anhalt	18	Der Harz/ Sachsen-Anhalt
+Ahrntal	S├╝dtirol	49	Kronplatz - Dolomiten
+St. Oswald bei Bad Kleinkirchheim	K├ñrnten	0	<missing>
+Gratwein-Stra├ƒengel	Steiermark	2	OberGraz
+Sportgastein	Salzburger Land	7	Gasteinertal
+K├Âttmannsdorf	K├ñrnten	2	Carnica Region Rosental
+Naturpark Diemtigtal	Berner Oberland	6	Berner Oberland
+Herrenschwand - Todtmoos	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Schratten Fl├╝hli	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
+Schwoich	Tirol	1	Kufsteinerland
+Unsere liebe Frau im Walde	S├╝dtirol	1	Ultental - Deutschnonsberg
+Alpe Teglio / Prato Valentino	Lombardei	1	Lombardei
+Klausberg - Ahrntal	S├╝dtirol	27	S├╝dtirol
+Zieleniec	Niederschlesien	0	Niederschlesien
+Grasgehren Lifte / Obermaiselstein	Bayern	2	Bayern
+Gstaad	Berner Oberland	16	Berner Oberland
+Naturns	S├╝dtirol	7	Meran und Umgebung
+Prambachkirchen	Ober├Âsterreich	5	Hausruckviertel
+Wiler	Wallis	5	L├Âtschental
+Braunschweig	Niedersachsen	4	Braunschweiger Land
+Bodman-Ludwigshafen	Baden-W├╝rttemberg	2	Westlicher Bodensee
+Mellau	Vorarlberg	10	Bregenzerwald
+Feldis	Graub├╝nden	5	Graub├╝nden
+Raggal - Marul	Vorarlberg	3	Biosph├ñrenpark Gro├ƒes Walsertal
+An der Kniebreche / Steinbach-Hallenberg	Th├╝ringen	1	Th├╝ringen
+Bad Kleinkirchheim	K├ñrnten	19	Bad Kleinkirchheim & Feld am See
+Gr├╝nberg Obsteig	Tirol	3	Tirol
+Rossberg - Oberwil	Berner Oberland	2	Berner Oberland
+Landeck - Zams - Fliess / Venetregion	Tirol	1	Tirol
+Rom	Latium	0	<missing>
+Spital am Semmering - Stuhleck	Steiermark	6	Semmering-Waldheimat-Veitsch
+Hildburghausen	Th├╝ringen	1	Th├╝ringer Wald
+Torfhauslifte Altenau	Niedersachsen	2	Niedersachsen
+Simplon	Wallis	4	Brig Simplon
+Sinabelkirchen	Steiermark	1	Thermen- & Vulkanland Steiermark
+Cordon	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
+Lennestadt	Nordrhein-Westfalen	0	Sauerland/ Nordrhein-Westfalen
+Wintersport Stokinger Freudenstadt	Baden-W├╝rttemberg	0	Baden-W├╝rttemberg
+G├Âtzis	Vorarlberg	1	Bodensee - Vorarlberg
+Vars - La F├┤ret Blanche	Provence-Alpes-C├┤te dÔÇÖAzur	6	Provence-Alpes-C├┤te dÔÇÖAzur
+Wil SG	Ostschweiz	1	Ferienregion Toggenburg
+Sant Juli├á de L├▓ria	Andorra	2	Andorra
+Rees	Nordrhein-Westfalen	3	Niederrhein
+Prali	Piemont	2	Piemont
+San Isidro / Cebolledo - Requejines	Kastilien und Le├│n	2	Kastilien und Le├│n
+Gutshof Obersalzberg / Berchtesgaden	Bayern	5	Bayern
+Breitnau	Baden-W├╝rttemberg	2	Hochschwarzwald
+Olsberg	Nordrhein-Westfalen	2	Sauerland/ Nordrhein-Westfalen
+B├ñretswil	Z├╝rich & Z├╝rich Region	4	Z├╝rcher Oberland
+Familienschiberg St. Jakob im Walde	Steiermark	7	Steiermark
+Oberammergau	Bayern	8	Ammergauer Alpen
+Bergeralm - Steinach am Brenner	Tirol	5	Tirol
+Moers	Nordrhein-Westfalen	0	Niederrhein
+Elzach	Baden-W├╝rttemberg	1	Elztal & Simonsw├ñldertal
+Bou┼Ö┼ê├ík	Region ├Üst├¡	8	Region ├Üst├¡
+Lech - Z├╝rs am Arlberg	Vorarlberg	13	Arlberg
+Pozza di Fassa - Buffaure / Val di Fassa	Trentino	11	Trentino
+Aachen	Nordrhein-Westfalen	1	Eifel & Aachen
+Zwiesel - Skilift Glasberg	Bayern	2	Bayern
+St. Peter in der Au	Nieder├Âsterreich	1	Moststra├ƒe
+Millstatt am See	K├ñrnten	2	Millst├ñtter See
+Marchtrenk	Ober├Âsterreich	1	Hausruckviertel
+Rennweg am Katschberg	K├ñrnten	11	Katschberg - Rennweg
+Neumarkt in der Oberpfalz	Bayern	1	Bayerischer Jura
+Klagenfurt am W├Ârthersee	K├ñrnten	7	Klagenfurt und Umgebung
+Mondsee am Mondsee	Ober├Âsterreich	4	Mondseeland / Mondsee-Irrsee
+Alpes-de-Haute-Provence	Provence-Alpes-C├┤te dÔÇÖAzur	3	Provence-Alpes-C├┤te dÔÇÖAzur
+Benneckenstein	Sachsen-Anhalt	1	Der Harz/ Sachsen-Anhalt
+SnowWorld Zoetermeer	S├╝dholland	0	S├╝dholland
+Steinhaus am Semmering	Steiermark	0	<missing>
+D├╝ren	Nordrhein-Westfalen	1	Eifel & Aachen
+Schwangau - Tegelberg	Bayern	32	Ostallg├ñu
+Val Thorens / Les 3 Vall├®es	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
+Familienschigebiet Rieseralm - Obdach	Steiermark	1	Steiermark
+Bad Endorf	Bayern	8	Region Simssee
+Morillon - Le Grand Massif	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Schilifte Kirchschlag	Ober├Âsterreich	12	Ober├Âsterreich
+Krippenstein / Obertraun	Ober├Âsterreich	2	Dachstein Salzkammergut
+Lessinia	Venetien	0	Verona
+Gais - Uttenheim	S├╝dtirol	1	Kronplatz - Dolomiten
+St. Georgen am Kreischberg	Steiermark	8	Murau - Kreischberg
+Ueckerm├╝nde	Mecklenburg-Vorpommern	0	Usedom
+Hallenberg	Nordrhein-Westfalen	1	Sauerland/ Nordrhein-Westfalen
+Aschau im Zillertal	Tirol	6	<missing>
+Wels	Ober├Âsterreich	1	Hausruckviertel
+Enzkl├Âsterle	Baden-W├╝rttemberg	1	Enztal
+La Chaux-de-Fonds	Jura & Drei-Seen-Land	2	Neuenburg
+Spieserlifte - Sonnenhanglift / Unterjoch	Bayern	2	Bayern
+Mo┼í─çenice Draga	Kvarner	1	Kvarner
+Friedrichroda	Th├╝ringen	3	Th├╝ringer Wald
+S├Ârenberg	Luzern - Vierwaldst├ñttersee	15	UNESCO Biosph├ñre Entlebuch
+Russbach am Pa├ƒ Gsch├╝tt - Dachstein West	Salzburger Land	11	Tennengau - Dachstein West
+H├╝ttschlag	Salzburger Land	1	Gro├ƒarltal
+Unternberg / Ruhpolding	Bayern	1	Bayern
+Aichach	Bayern	1	Bayerisch-Schwaben
+Skilift Raffelmoos-Elbach	Bayern	1	Bayern
+Balme - Vallorcine	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
+Oberfrauenwald / Waldkirchen	Bayern	1	Bayern
+Seiffen	Sachsen	3	Erzgebirge
+Rittner Horn	S├╝dtirol	3	S├╝dtirol
+Silvretta Montafon	Vorarlberg	25	Vorarlberg
+Berchtesgaden	Bayern	30	Berchtesgadener Land
+Oberschlierbach	Ober├Âsterreich	0	Traunviertel
+Treviso	Venetien	10	Venetien
+Starnberg	Bayern	1	Starnberger F├╝nf-Seen-Land
+Emberger Alm	K├ñrnten	2	Oberdrautal / Nationalpark-Region...
+Kirchdorf an der Krems	Ober├Âsterreich	1	Steyr und die Nationalpark Region
+Bad Lauterberg im Harz	Niedersachsen	1	Der Harz/ Niedersachsen
+Schliersee - Neuhaus - Spitzingsee	Bayern	25	Alpenregion Tegernsee - Schliersee
+Oberjoch Bad Hindelang	Bayern	16	Bayern
+Berlin	Berlin	4	Berlin
+Stuben am Arlberg	Vorarlberg	3	Vorarlberg
+Ebenalp	Ostschweiz	7	Appenzell Innerrhoden
+Gurtis	Vorarlberg	6	Vorarlberg
+Chamonix Mont-Blanc	Auvergne-Rh├┤ne-Alpes	12	Auvergne-Rh├┤ne-Alpes
+G├Ârlitz	Sachsen	1	Neisseland
+Oberschwaben - Allg├ñu	Baden-W├╝rttemberg	17	Baden-W├╝rttemberg
+┼áilo	Kvarner	1	Insel Krk
+Schilifte Feistritzsattel	Nieder├Âsterreich	1	Nieder├Âsterreich
+St. Jakob in Defereggen	Tirol	3	Defereggental
+D├Âbriach / Radenthein	K├ñrnten	3	Millst├ñtter See
+Les Brasses	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
+Halver	Nordrhein-Westfalen	1	M├ñrkisches Sauerland
+St. Blasien - Menzenschwand	Baden-W├╝rttemberg	9	Baden-W├╝rttemberg
+Hauser Kaibling / Schladming - Ski amade	Steiermark	11	Steiermark
+Koksijde	Fl├ñmische Region	4	Belgische K├╝ste
+Sch├Âneben - Haideralm / Reschenpass	S├╝dtirol	12	S├╝dtirol
+Grimmialp / Diemtigtal	Berner Oberland	2	Berner Oberland
+Langschlag im Waldviertel	Nieder├Âsterreich	3	Waldviertel Mitte
+Bonera Ramzov├í	Region Olm├╝tz	3	Region Olm├╝tz
+Altena	Nordrhein-Westfalen	1	M├ñrkisches Sauerland
+Gloggnitz	Nieder├Âsterreich	3	Semmering - Rax - Schneeberg
+St. Koloman	Salzburger Land	2	Tennengau - Dachstein West
+Altenburg	Th├╝ringen	0	Th├╝ringen
+Lizzola - Valbondione	Lombardei	5	Lombardei
+Skilift Thurner	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Malga Ciapela	Venetien	0	<missing>
+Hilchenbach	Nordrhein-Westfalen	2	Siegen-Wittgenstein
+Bad Tabarz	Th├╝ringen	3	Th├╝ringer Wald
+Fr├Âhnd	Baden-W├╝rttemberg	1	Schwarzwaldregion Belchen
+Neukirchen b. Hl. Blut	Bayern	1	Region Cham
+Mainz	Rheinland-Pfalz	2	Rheinhessen
+Monte Cimone / Sestola	Emilia-Romagna	6	Emilia-Romagna
+Station des Rousses - Jura sur L├®man	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
+Lajoux	Burgund-Freigrafschaft	0	Burgund-Freigrafschaft
+Grabenst├ñtt	Bayern	1	Chiemgau - Chiemsee
+Saas-Almagell	Wallis	0	Saastal
+Torgon	Wallis	1	Portes du Soleil
+Ilanz	Graub├╝nden	1	Ilanz / Glion
+Sella Nevea - Canin	Friaul-Julisch Venetien	4	Friaul-Julisch Venetien
+Oudenaarde	Fl├ñmische Region	1	Flandern
+Dachstein Gletscher	Steiermark	3	Ramsau am Dachstein
+Forni di Sopra	Friaul-Julisch Venetien	8	Carnia
 Le Mont Dore - Massif du Sancy	Auvergne-Rh├┤ne-Alpes	9	Auvergne-Rh├┤ne-Alpes
-D├╝rnstein in der Wachau	Nieder├Âsterreich	9	Wachau - Nibelungengau - Kremstal
-Bleniotal / Valle Blenio	Tessin	1	Tessin
-Santa Caterina / Valfurva	Lombardei	2	Alta Valtellina
-Krali─ì├ík	Region Olm├╝tz	4	Region Olm├╝tz
-St. Gilgen - Zw├Âlferhorn	Salzburger Land	3	Wolfgangsee - Salzkammergut
-Unterw├Âssen - Balsberg	Bayern	6	Bayern
-Schidorf Kirchbach	Nieder├Âsterreich	1	Nieder├Âsterreich
-Kaunertaler Gletscher	Tirol	6	Tiroler Oberland
-Wald AR	Ostschweiz	1	Appenzell Ausserrhoden
-Klippitzt├Ârl	K├ñrnten	8	K├ñrnten
-Gaaler Lifte	Steiermark	1	Steiermark
-Panticosa	Aragonien	0	<missing>
-W├Ârth am Rhein	Rheinland-Pfalz	0	<missing>
+Benediktbeuern	Bayern	1	T├Âlzer Land
+Unterammergau	Bayern	2	Ammergauer Alpen
+Champ├®ry	Wallis	1	R├®gion Dents du Midi
+Schouwen-Duiveland	Zeeland	6	Zeeland
+Sierning	Ober├Âsterreich	1	Traunviertel
+Strobl am Wolfgangsee	Salzburger Land	2	Wolfgangsee - Salzkammergut
+Mauth	Bayern	1	Freyung-Grafenau
+Traunreut	Bayern	2	Chiemgau - Chiemsee
+Korbach	Hessen	1	Waldecker Land
+Skilift Breitnau	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Bad Heilbrunn	Bayern	1	T├Âlzer Land
+Primo┼íten	Dalmatien - ┼áibenik	0	Dalmatien - ┼áibenik
+Bruson - Verbier	Wallis	2	Wallis
+Torbole sul Garda - Nago	Trentino	5	Garda Trentino
+Schw├ñrzenlifte Eschach	Bayern	2	Bayern
+Skilift Schw├ñrzenbach / Titisee-Neustadt	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Saint Lary Soulan	Okzitanien	0	Okzitanien
+Hagnau	Baden-W├╝rttemberg	1	Bodensee - Deutschland
+Zandvoort	Nordholland	1	Nordholland
+Wien - Stadt	Wien	19	Wien und Umgebung
+Ro├ƒhaupten	Bayern	2	Ostallg├ñu
+Linz	Ober├Âsterreich	7	Donau Ober├Âsterreich
+Scharten	Ober├Âsterreich	1	Hausruckviertel
+Gl├Âdnitz - Flattnitz	K├ñrnten	2	Mittelk├ñrnten
+Henndorf am Wallersee	Salzburger Land	1	Salzburger Seenland
+Villingen-Schwenningen	Baden-W├╝rttemberg	0	Schwarzwald
+Hinterriss	Tirol	2	Silberregion Karwendel
+Hellenthal	Nordrhein-Westfalen	4	Nordeifel
+Kvilda	S├╝db├Âhmische Region	6	S├╝db├Âhmische Region
+Wieden im Schwarzwald	Baden-W├╝rttemberg	2	Schwarzwaldregion Belchen
+Lahr / Schwarzwald	Baden-W├╝rttemberg	1	Ortenau
+Kobarid	Gori┼íka - Smaragdstra├ƒe	2	So─ìa-Tal
+Bovec	Gori┼íka - Smaragdstra├ƒe	11	So─ìa-Tal
+Hermsdorf / Erzgebirge	Sachsen	1	Sachsen
+Alba di Canazei - Ciampac / Val di Fassa	Trentino	5	Trentino
+Monte Tamaro	Tessin	1	Malcantone
+Pf├ñlzerwald	Rheinland-Pfalz	1	Pfalz
+Torgon / Portes du Soleil	Wallis	1	Wallis
+Oberhof / Fallbachlift - Alte Golfwiese	Th├╝ringen	8	Th├╝ringen
+Hohe Wand	Nieder├Âsterreich	5	Schneebergland - Wiener Alpen
+Alpsteinblick / Gonten	Ostschweiz	4	Ostschweiz
+Walcheren	Zeeland	6	Zeeland
+St. Veit im Pongau - Astenlift	Salzburger Land	1	Salzburger Land
+Blomberg - Bad T├Âlz	Bayern	7	Bayern
+Vilters-Wangs	Ostschweiz	7	Bad Ragaz, Pizol und Umgebung
+V├Âls am Schlern	S├╝dtirol	1	Seiser Alm
+Jungfrau Ski Region M├╝rren - Schilthorn	Berner Oberland	4	Berner Oberland
+Carezza - Karersee - Rosengarten	S├╝dtirol	28	S├╝dtirol
+Dorfberglift - Kanterlift / Kartitsch - Osttirol	Tirol	2	Tirol
+Spiazzi di Gromo / Boario	Lombardei	2	Lombardei
+Magdeburg	Sachsen-Anhalt	1	Magdeburg-Elbe-B├Ârde-Heide
+Praz de Lys Sommand	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Kiel	Schleswig-Holstein	2	Ostsee - Schleswig Holstein
+H├╝ndle - Thalkirchdorf	Bayern	1	Bayern
+Les Mar├®cottes	Wallis	1	Wallis
+Aalen - Hirtenteich	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Mehliskopf	Baden-W├╝rttemberg	4	B├╝hl-B├╝hlertal
+Schwedeneck	Schleswig-Holstein	1	Eckernf├Ârder Bucht
+Kurzras	S├╝dtirol	5	Schnalstal
+Jenesien	S├╝dtirol	1	Bozen und Umgebung - S├╝dtirols S├╝den
+Piesendorf Niedernsill	Salzburger Land	2	Nationalpark Hohe Tauern
+Schenna	S├╝dtirol	8	Meran und Umgebung
+Santa Caterina Valfurva	Lombardei	2	Lombardei
+Adlwang	Ober├Âsterreich	2	Tourismusregion Bad Hall
+Hemberg	Ostschweiz	3	Ostschweiz
+Pragelato / Via Lattea	Piemont	1	Piemont
+Hinterstoder - H├Âss	Ober├Âsterreich	18	Ober├Âsterreich
+Leutschach an der Weinstra├ƒe	Steiermark	1	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
+M├Ânichkirchen	Nieder├Âsterreich	3	Wechselland - Wiener Alpen
+Valdelinares	Aragonien	0	<missing>
+Bottighofen	Ostschweiz	1	Kreuzlingen
+Liezen	Steiermark	2	Schladming - Dachstein
+Nauders - Reschenpass	Tirol	26	Tiroler Oberland
+Ch├ótel	Auvergne-Rh├┤ne-Alpes	2	Haute-Savoie
+Morter	S├╝dtirol	3	Insel Murter
+Gressoney Saint Jean	Aostatal	1	Monte Rosa
+Liebenau	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
+Ceillac en Queyras	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
+Nad N├ídra┼¥├¡m - Belveder	Region Pilsen	5	Region Pilsen
+Imster Bergbahnen	Tirol	2	Tirol
+Campo Blenio - Ghirone	Tessin	0	Tessin
+Spielberg	Steiermark	6	Am Spielberg
+Dolomites Val Gardena / Gr├Âden - St. Christina	S├╝dtirol	18	S├╝dtirol
+Riezlern	Vorarlberg	11	Kleinwalsertal
+Schilpario	Lombardei	1	Lombardei
+Ankogel - Mallnitz	K├ñrnten	7	K├ñrnten
+Sontheim an der Brenz	Baden-W├╝rttemberg	1	Heidenheimer Brenzregion
+Mayrhofen - Zillertal	Tirol	12	Tirol
+Hochf├╝gen	Tirol	2	Erste Ferienregion im Zillertal
+Stuhleck - Semmering	Steiermark	9	Steiermark
+Frauenau / Skilift Zell	Bayern	1	Bayern
+Matrei am Brenner-M├╝hlbachl-Pfons	Tirol	5	Wipptal
+Passo Rolle	Trentino	11	San Martino di Castrozza
+St. Georgen am Walde	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
+Missen-Wilhams	Bayern	3	Oberallg├ñu
+Klausenlift Mehlmeisel	Bayern	10	Bayern
+Slovenska Bistrica	Podravska	1	Podravska
+SKI Telg├írt	Neusohler Landschaftsverband	2	Neusohler Landschaftsverband
+Le Grand Puy / Seyne-les-Alpes	Provence-Alpes-C├┤te dÔÇÖAzur	2	Provence-Alpes-C├┤te dÔÇÖAzur
+Logarska dolina	Savinjska	2	Savinjska
+Muttereralm	Tirol	0	<missing>
+Podbansk├®	Eperieser Landschaftsverband	1	Eperieser Landschaftsverband
+L├ñngenfeld - Huben - Gries	Tirol	9	├ûtztal
+Trafoi am Ortler / Furkel	S├╝dtirol	3	S├╝dtirol
+Ringelai	Bayern	1	Freyung-Grafenau
+Aschau im Chiemgau	Bayern	11	Chiemsee - Alpenland
+Kartitsch	Tirol	3	Hochpustertal - Osttirol
+Vallemaggia	Tessin	6	Tessin
+Wechselland - Wiener Alpen	Nieder├Âsterreich	12	Wiener Alpen
+Habkern	Berner Oberland	1	Interlaken
+Yverdon-les-Bains	Jura & Drei-Seen-Land	5	Drei-Seen-Land
+Hochplett - Oberaschau	Ober├Âsterreich	1	Ober├Âsterreich
+St. Oswald bei Freistadt	Ober├Âsterreich	3	M├╝hlviertler Alm Freistadt
+Skiclub Falkenau	Sachsen	1	Sachsen
+Sirnitz - Hochrindl - Albeck	K├ñrnten	4	Nockberge
+Korenica - Plitvicer Seen	Lika - Karlovac	1	Lika-Senj
+Innsbruck - Nordkette	Tirol	23	Tirol
+Griffen	K├ñrnten	1	Klopeiner See - S├╝dk├ñrnten
+Burscheid	Nordrhein-Westfalen	1	Bergisches Land
+Serlesbahnen Mieders	Tirol	5	Tirol
+Vy┼ín├í Slan├í - J├║lius	Kaschauer Landschaftsverband	1	Kaschauer Landschaftsverband
+Brela	Dalmatien - Split	1	Mittel-Dalmatien
+Brunnalm - Hohe Veitsch	Steiermark	3	Steiermark
+Steinberg am Rofan - Rofanlifte	Tirol	1	Tirol
+Pfarrwerfen	Salzburger Land	9	Tennengebirge - Hagengebirge
+Gnas	Steiermark	1	Feldbach
+Anz├¿re	Wallis	2	Anz├¿re/ Valais
+Birnbaum	K├ñrnten	0	<missing>
+Arosa Lenzerheide	Graub├╝nden	21	Graub├╝nden
+Arnoldstein	K├ñrnten	2	Region Villach - Faaker See...
+Nesselwang	Bayern	3	Ostallg├ñu
+Kor─ìula	Dalmatien - Dubrovnik	2	Insel Kor─ìula
+Zw├Âlferhorn Seilbahn St. Gilgen	Salzburger Land	5	Salzburger Land
+Gargellen im Montafon	Vorarlberg	5	Montafon
+Attergau	Ober├Âsterreich	0	<missing>
+Appenzell	Ostschweiz	18	Appenzell Innerrhoden
+Ch├ñserrugg	Ostschweiz	2	Ferienregion Toggenburg
+Lichtensteig	Ostschweiz	1	Ferienregion Toggenburg
+Strallegg - Joglland	Steiermark	2	Steiermark
+Wiedingharde	Schleswig-Holstein	1	Nordfriesland
+Trassenheide	Mecklenburg-Vorpommern	2	Usedom
+Skilifte Puchenstuben - Turmkogel	Nieder├Âsterreich	2	Nieder├Âsterreich
+Zwettl	Nieder├Âsterreich	1	Waldviertel Mitte
+K├Âln	Nordrhein-Westfalen	6	K├Âln & Rhein-Erft-Kreis
+Cogne - Gran Paradiso	Aostatal	5	Aostatal
+Seefeld Rossh├╝tte - H├ñrmelekopf	Tirol	1	Seefeld Olympiaregion
+Wendelstein	Bayern	7	Alpenregion Tegernsee - Schliersee
+Scheffau am Wilden Kaiser	Tirol	1	Wilder Kaiser
+Diex	K├ñrnten	2	Klopeiner See - S├╝dk├ñrnten
+Oberstaufen	Bayern	12	Oberallg├ñu
+Bad Reichenhall	Bayern	32	Berchtesgadener Land
+Sehmatal -  Paulusberg/Neutal	Sachsen	1	Sachsen
 Pezinsk├í Baba	Bratislavaer Landschaftsverband	0	<missing>
 Leipzig	Sachsen	0	<missing>
-Sistrans bei Innsbruck	Tirol	2	<missing>
-Weener	Niedersachsen	0	<missing>
-Obergurgl - Hochgurgl	Tirol	17	├ûtztal
-Lobmingtal	Steiermark	1	Am Spielberg
-Amberg	Bayern	1	<missing>
-La Molina / Alp 2500	Katalonien	5	Katalonien
-Auerberg / Bernbeuren	Bayern	1	Bayern
-Novalja	Dalmatien - Zadar	3	Insel Pag
-Bischofsgr├╝n	Bayern	12	Fichtelgebirge
-Thyon / 4 Vall├®es	Wallis	7	Wallis
-Davos Schatzalp - Strela	Graub├╝nden	12	Graub├╝nden
-Lech Z├╝rs am Arlberg	Vorarlberg	13	Vorarlberg
-Hochrindl - Sirnitz - Deutsch Griffen	K├ñrnten	4	K├ñrnten
-Stockenboi	K├ñrnten	2	Weissensee
+Sattelegg / Einsiedeln	Luzern - Vierwaldst├ñttersee	1	Luzern - Vierwaldst├ñttersee
+Skilift Beuerberg	Bayern	1	Bayern
+Hammelburg	Bayern	1	Die Rh├Ân/ Bayern
+Hochb├ñrneck	Nieder├Âsterreich	1	Nieder├Âsterreich
+Mariborsko Pohorje	Podravska	16	Podravska
+Attersee am Attersee	Ober├Âsterreich	3	Attersee - Attergau
+Saalfelden	Salzburger Land	10	Saalfelden - Leogang
+┼áacberk / Zborn├í	Region Vyso─ìina	1	Region Vyso─ìina
+Malin├┤ Brdo - Ru┼¥omberok	Silleiner Landschaftsverband	1	Silleiner Landschaftsverband
+Muggenbrunn	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Kl├¡novec / Keilberg	Region Karlsbad	12	Region Karlsbad
+St. Radegund bei Graz	Steiermark	3	Grazer Bergland - Sch├Âcklland
+Heidelberg	Baden-W├╝rttemberg	2	Bergstra├ƒe / Baden-W├╝rttemberg
+De Panne	Fl├ñmische Region	2	Belgische K├╝ste
+Aichelberglifte Karlstift	Nieder├Âsterreich	1	Nieder├Âsterreich
+J├Âchelspitze - Lechtaler Bergbahnen	Tirol	4	Tirol
+Horn	Nieder├Âsterreich	1	Kamptal - Manhartsberg
+Kope	Koro┼íka	5	Koro┼íka
+La D├┤le - Jura sur L├®man	Waadtland / Genferseegebiet	5	Waadtland / Genferseegebiet
+Engstligenalp - Adelboden	Berner Oberland	0	Berner Oberland
+Niederalpl	Steiermark	1	Steiermark
+Bad V├Âslau	Nieder├Âsterreich	0	<missing>
+Skilift Gohrersberg / Kreuzthal	Bayern	0	Bayern
+Tambach-Dietharz	Th├╝ringen	1	Th├╝ringer Wald
+St. Barbara im M├╝rztal	Steiermark	3	Semmering-Waldheimat-Veitsch
+Beskid-Spytkowice	Kleinpolen	0	Kleinpolen
+Wismar	Mecklenburg-Vorpommern	0	Ostseek├╝ste Mecklenburg
+Brunni - Haggenegg	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
+Limone Piemonte / Riserva Bianca	Piemont	7	Piemont
+Bardonecchia	Piemont	5	Susatal und Val Chisone
+Glanz an der Weinstra├ƒe	Steiermark	0	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
+Survih - Samedan	Graub├╝nden	1	Graub├╝nden
+Valbondione	Lombardei	5	Alto Serio und Asta
+Sch├Âckl	Steiermark	5	Grazer Bergland - Sch├Âcklland
+Baltrum	Niedersachsen	7	Ostfriesische Inseln
+Radolfzell	Baden-W├╝rttemberg	2	Westlicher Bodensee
+Seebach	Baden-W├╝rttemberg	6	Schwarzwald
+Sassotetto - S.M. Maddalena / Monti Sibillini	Marken	1	Marken
+Autrans	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
+Bodenmais - Silberberg	Bayern	6	Bayern
+Wald am Schoberpass	Steiermark	0	Erzberg Land
+Willebadessen	Nordrhein-Westfalen	2	Teutoburger Wald
+Siegen-Wittgenstein	Nordrhein-Westfalen	6	Nordrhein-Westfalen
+Winterberg	Nordrhein-Westfalen	54	Sauerland/ Nordrhein-Westfalen
+Champoluc	Aostatal	5	Aostatal
+Bernau im Schwarzwald	Baden-W├╝rttemberg	5	Hochschwarzwald
+Insel Poel	Mecklenburg-Vorpommern	1	Ostseek├╝ste Mecklenburg
+Gstadt - Gollenshausen	Bayern	1	Chiemsee - Alpenland
+Kappl	Tirol	6	Paznaun - Ischgl
+Steyr	Ober├Âsterreich	3	Steyr und die Nationalpark Region
+Charmey	Freiburg Region	3	Gruy├¿res
+Skilift Tettau / Wildberg	Bayern	1	Bayern
+SnowWorld Landgraaf	Limburg	0	Limburg
+Maurach am Achensee - Rofanseilbahn	Tirol	3	Tirol
+Aigen im Ennstal	Steiermark	2	Grimming - Donnersbachtal
+Nu├ƒdorf am Inn	Bayern	1	Chiemsee - Alpenland
+Riesneralm - Schneeb├ñren	Steiermark	11	Steiermark
+B├╝hlertal	Baden-W├╝rttemberg	0	<missing>
+Ladir	Graub├╝nden	3	Ilanz / Glion
+Au - Schoppernau	Vorarlberg	11	Bregenzerwald
+Hohentauern	Steiermark	7	Steiermark
+Winklmoos Steinplatte / Reit im Winkl	Bayern	3	Bayern
+Bodental	K├ñrnten	4	K├ñrnten
+Fanningberg - Mariapfarr	Salzburger Land	6	Salzburger Land
+La Rosi├¿re - Espace San Bernardo	Auvergne-Rh├┤ne-Alpes	7	Auvergne-Rh├┤ne-Alpes
+Kop┼Öivn├í	M├ñhren-Schlesien	0	M├ñhren-Schlesien
+Hochfelln	Bayern	6	Bayern
+Brembo Tal / San Simone - Foppolo - Carona	Lombardei	4	Lombardei
+Kirchstetten	Nieder├Âsterreich	1	Wienerwald
+Mei├ƒner / Eschwege	Hessen	1	Hessen
+Ehrenberg / Luftkurort W├╝stensachsen	Hessen	1	Rh├Ân / Hessen
+Umhausen - Niederthai	Tirol	6	Tirol
+Belchen	Baden-W├╝rttemberg	5	Baden-W├╝rttemberg
+Str├í┼¥n├¢	S├╝db├Âhmische Region	4	S├╝db├Âhmische Region
+Bibione / San Michele al Tagliamento	Venetien	0	Venezia
+Ski- und Gletscherwelt Zillertal 3000	Tirol	1	Tirol
+Zuoz	Graub├╝nden	3	Graub├╝nden
+Eutin	Schleswig-Holstein	2	Holsteinische Schweiz
+Witzenhausen	Hessen	2	Geo-Naturpark Frau-Holle-Land
+Wernigerode	Sachsen-Anhalt	11	Der Harz/ Sachsen-Anhalt
+Nov├® Hamry	Region Karlsbad	1	Region Karlsbad
+Noord-Beveland	Zeeland	1	Zeeland
+Amlach	Tirol	2	Lienzer Dolomiten - Osttirol
+Sulzberg	Vorarlberg	3	Bregenzerwald
+Bergisch Gladbach	Nordrhein-Westfalen	2	Bergisches Land
+See im Paznauntal	Tirol	4	<missing>
+Aldrov - Vitkovice	Region Reichenberg	1	Region Reichenberg
+Argenb├╝hl	Baden-W├╝rttemberg	0	<missing>
+Gitschtal - Wei├ƒbriach	K├ñrnten	1	Nassfeld / Pressegger See
+Bad Kleinkirchheim & Feld am See	K├ñrnten	16	K├ñrnten
+Westernberg / Ruhpolding	Bayern	2	Bayern
+Gosau	Ober├Âsterreich	7	Dachstein Salzkammergut
+Balderschwang	Bayern	11	Bayern
+Pettneu-Schnann am Arlberg	Tirol	1	Ferienregion St. Anton am Arlberg
+St. P├Âlten	Nieder├Âsterreich	2	Mostviertel
+Nesselw├ñngle	Tirol	4	Tannheimer Tal
+Orava Snow - Oravsk├í Lesn├í	Silleiner Landschaftsverband	0	Silleiner Landschaftsverband
+Brotterode	Th├╝ringen	1	Th├╝ringen
+Meix-Musy - Pierre ├í Feu	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
+Makov-Kas├írne	Region Zlin	3	Region Zlin
+Schauinslandbahn	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Tollet	Ober├Âsterreich	1	Hausruckviertel
+Fl├╝hli	Luzern - Vierwaldst├ñttersee	2	UNESCO Biosph├ñre Entlebuch
+Isny im Allg├ñu	Baden-W├╝rttemberg	7	Oberschwaben - Allg├ñu
+Nonnenhorn	Baden-W├╝rttemberg	1	Bodensee - Deutschland
+Kitzb├╝hel - Kirchberg	Tirol	46	Tirol
+Feldberg im Schwarzwald	Baden-W├╝rttemberg	13	Hochschwarzwald
+Mals / Burgeis	S├╝dtirol	4	Obervinschgau
+Maria Lankowitz	Steiermark	1	Lipizzanerheimat - Steirische...
+Haugschlag	Nieder├Âsterreich	1	Oberes Waldviertel
+Val di Zoldo	Venetien	5	Area Civetta 
+Heidi Alm Falkert - Falkertsee	K├ñrnten	7	Nockberge
+Ibergeregg	Luzern - Vierwaldst├ñttersee	2	Mythenregion
+Friesoythe	Niedersachsen	1	Th├╝lsfelder Talsperre
+Viktorsberg	Vorarlberg	1	Bodensee - Vorarlberg
+Feldbach	Steiermark	1	Feldbach
+San Bernardino	Graub├╝nden	1	Graub├╝nden
+Bornheim	Nordrhein-Westfalen	1	Rhein-Voreifel
+Champex-Lac	Wallis	0	Pays du Saint-Bernard
+Stoaninger Alm	Ober├Âsterreich	2	Ober├Âsterreich
+Davos	Graub├╝nden	8	Davos Klosters
+Ybbs an der Donau	Nieder├Âsterreich	2	Wachau - Nibelungengau - Kremstal
+Faschina - Fontanella	Vorarlberg	7	Vorarlberg
+Alpenstadt Bludenz	Vorarlberg	8	Alpenregion Bludenz
+Magdalensberg	K├ñrnten	1	Mittelk├ñrnten
+Gr├╝nberg-Gmunden	Ober├Âsterreich	3	Traunsee-Almtal
+Hornlift - Fr├Âhnd	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Castellina in Chianti	Toskana	0	Chiantigebiet
+Ascona	Tessin	3	Ascona - Locarno / Lago Maggiore
+Lermoos - Grubigsteinbahnen	Tirol	8	Tirol
+Wei├ƒer Stein Eifel	Nordrhein-Westfalen	4	Nordrhein-Westfalen
+Zernez	Graub├╝nden	1	Engadin Scuol Zernez
+Sarn - Heinzenberg	Graub├╝nden	0	Graub├╝nden
+Dorflift Johnsbach	Steiermark	2	Steiermark
+Toblach	S├╝dtirol	15	Dolomitenregion Drei Zinnen
+Saint Pierre de Chartreuse - Le Planolet	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Lauerz	Luzern - Vierwaldst├ñttersee	1	Rigi
+Kumberg	Steiermark	2	Graz und Region Graz
+Pfelders im Passeiertal	S├╝dtirol	7	S├╝dtirol
+Nova Gorica	Gori┼íka - Smaragdstra├ƒe	1	Gori┼íka
+SC Ga─ìe	S├╝dostslowenien	6	S├╝dostslowenien
+Sunnb├╝el - Kandersteg	Berner Oberland	0	<missing>
+St. Johann am Wimberg	Ober├Âsterreich	2	Ferienregion B├Âhmerwald
+Ferienregion Interlaken	Berner Oberland	4	Interlaken
+Blatten-Belalp	Wallis	6	Brig Simplon
+Eggberge / Fl├╝elen	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
+Saalfelden - Hinterreit	Salzburger Land	9	Salzburger Land
+Oberstdorf / S├Âllereck - H├Âllwies	Bayern	4	Oberallg├ñu
+Lanersbach - Eggalm	Tirol	2	<missing>
+Leutasch	Tirol	4	Seefeld Olympiaregion
+Oberaudorf Hocheck	Bayern	6	Bayern
+Weissee Gletscherwelt	Salzburger Land	6	Salzburger Land
+Raron-Niedergesteln	Wallis	3	Wallis
+Seewalchen am Attersee	Ober├Âsterreich	2	Attersee - Attergau
+Medebach - Hallenberg - Schlossberg	Nordrhein-Westfalen	2	Nordrhein-Westfalen
+Memmingen	Bayern	1	Unterallg├ñu
+Fageralm / Forstau - Ski amade	Salzburger Land	2	Salzburger Land
+Bizau	Vorarlberg	1	Bregenzerwald
+Skicentrum Strednica - ┼¢diar	Eperieser Landschaftsverband	1	Eperieser Landschaftsverband
+Sainte Croix - Les Rasses	Waadtland / Genferseegebiet	5	Waadtland / Genferseegebiet
+Gmund am Tegernsee	Bayern	1	Alpenregion Tegernsee - Schliersee
+Warth - Schr├Âcken	Vorarlberg	11	<missing>
+Bayrischzell	Bayern	13	Alpenregion Tegernsee - Schliersee
+Airolo - Pesci├╝m	Tessin	4	Tessin
+Ludwigsburg	Baden-W├╝rttemberg	1	Region Stuttgart
+Cr├®voux	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
+B├╝sum	Schleswig-Holstein	4	Dithmarschen
+Brixen	S├╝dtirol	16	Eisacktal
+Les Arcs - Bourg Saint Maurice	Auvergne-Rh├┤ne-Alpes	7	Savoie Mont Blanc
+Hockenheim	Baden-W├╝rttemberg	1	Kurpfalz
+Moena - Alpe Lusia - Bellamonte / Trevalli	Trentino	14	Trentino
+Naarn im Machlande	Ober├Âsterreich	1	Donau Ober├Âsterreich
+Hintersee	Salzburger Land	2	Fuschlsee - Ferienregion
+Heiden	Ostschweiz	1	Appenzell Ausserrhoden
+Goms	Wallis	15	Oberwallis
+Steinbach an der Steyr	Ober├Âsterreich	0	<missing>
+Velk├® Mezi┼Ö├¡─ì├¡ - Fajt┼»v kopec	Region Vyso─ìina	1	Region Vyso─ìina
+Hintertuxer Gletscher / Hintertux	Tirol	6	Tirol
+Vorchdorf im Almtal	Ober├Âsterreich	1	Traunsee-Almtal
+Wirsberg	Bayern	1	Frankenwald
+Javornik	Gori┼íka	3	Gori┼íka
+Bad Traunstein	Nieder├Âsterreich	0	Waldviertel Mitte
+St. Corona / St. Peter - Simas-Lifte	Nieder├Âsterreich	1	Nieder├Âsterreich
+Le Semnoz	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Grosio	Lombardei	2	Media Valtellina Terziere Superiore
+Bodenteich	Niedersachsen	1	Heideregion Uelzen
+Dale─ì├¡n	Region Vyso─ìina	0	Region Vyso─ìina
+Lac Blanc	Grand Est	1	Grand Est
+G├®rardmer	Grand Est	3	Grand Est
+Le Manon / Septmoncel	Burgund-Freigrafschaft	0	Burgund-Freigrafschaft
+Dorf Tirol	S├╝dtirol	6	Meran und Umgebung
+Bad Kreuzen	Ober├Âsterreich	1	Donau Ober├Âsterreich
+Gsieser Tal - Welsberg - Taisten	S├╝dtirol	13	Kronplatz - Dolomiten
+Tannheim	Tirol	8	Tannheimer Tal
+Hirschbergarena - Wickenrode / Helsa	Hessen	1	Hessen
+Halbinsel Fischland-Dar├ƒ-Zingst	Mecklenburg-Vorpommern	2	Mecklenburg-Vorpommern
+Le Lioran	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
+Alpe du Grand Serre - La Morte	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Roccaraso - Rivisondoli / Alto Sangro	Abruzzen	0	Abruzzen
+Abondance / Portes du Soleil	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Sappey-en-Chartreuse	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
+Le Plateau de Retord	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Haldenk├Âpfle / Schauinsland	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Schneeberglifte Waldau	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Leibnitz	Steiermark	2	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
+Hellmons├Âdt	Ober├Âsterreich	3	M├╝hlviertler Sterngartl
+Saalbach Hinterglemm Leogang Fieberbrunn	Salzburger Land	21	Salzburger Land
+Chur - Brambr├╝esch	Graub├╝nden	2	Graub├╝nden
+Lauchernalp - L├Âtschental	Wallis	16	Wallis
+St. Peter am Ottersbach	Steiermark	1	Radkersburger Teich- und H├╝gelland
+Vigo di Fassa	Trentino	11	Fassatal
+Aeschi	Berner Oberland	1	Berner Oberland
+Le Collet d┬┤Allevard	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Hinterfeldlift M├Âsern	Tirol	2	Tirol
+Kasina Ski&Bike Park	Kleinpolen	1	Kleinpolen
+Ebnat-Kappel	Ostschweiz	2	Ferienregion Toggenburg
+St. Georgen - Schlo├ƒberg	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Sch├Ânhagen	Schleswig-Holstein	0	Ostsee - Schleswig Holstein
+Bielefeld	Nordrhein-Westfalen	7	Teutoburger Wald
+Flandern	Fl├ñmische Region	46	Fl├ñmische Region
+Cardada Cimetta / Locarno	Tessin	8	Tessin
+Isola 2000	Provence-Alpes-C├┤te dÔÇÖAzur	4	Provence-Alpes-C├┤te dÔÇÖAzur
+St. Leonhard bei Freistadt	Ober├Âsterreich	1	M├╝hlviertler Alm Freistadt
+Sch├Ânau am K├Ânigssee	Bayern	12	Berchtesgadener Land
+Kirchberglift / Oberwei├ƒbach	Th├╝ringen	1	Th├╝ringen
+Telnice	Region ├Üst├¡	4	Region ├Üst├¡
+Leverkusen	Nordrhein-Westfalen	2	Nordrhein-Westfalen
+Beuron	Baden-W├╝rttemberg	1	Naturpark Obere Donau
+Silvretta Bielerh├Âhe im Montafon	Vorarlberg	1	Vorarlberg
+Carosello 3000/ Livigno	Lombardei	5	Lombardei
+Jasn├í N├¡zke Tatry / Chopok	Silleiner Landschaftsverband	3	Silleiner Landschaftsverband
+Gr├®oli├¿res-Les-Neiges	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
+Huaraz	Ancash	1	<missing>
+Flumserberg	Ostschweiz	18	Ostschweiz
+Fichtelberg	Bayern	1	Fichtelgebirge
+Ribnica na Pohorju	Koro┼íka - slowenisches K├ñrnten	1	Koro┼íka
+Bremerhaven	Bremen	3	Hansestadt Bremen
+Bramsche	Niedersachsen	1	VarusRegion
+Sonntag - Buchboden	Vorarlberg	1	Biosph├ñrenpark Gro├ƒes Walsertal
+Schmallenberg	Nordrhein-Westfalen	7	Sauerland/ Nordrhein-Westfalen
+Filzmoos	Salzburger Land	8	Salzburger Sportwelt
+Grafenau	Bayern	0	Freyung-Grafenau
+Reutlingen	Baden-W├╝rttemberg	2	Schw├ñbische Alb
+Hallau	Ostschweiz	1	SchaffhauserLand
+Deutschlandsberg	Steiermark	6	Schilcherland Steiermark
+Biel / Bienne Seeland	Jura & Drei-Seen-Land	2	Drei-Seen-Land
+Andelsbuch Bergbahnen	Vorarlberg	3	Vorarlberg
+Morbier - Les Gentianes	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
+St. Martin im Kofel	S├╝dtirol	1	Latsch - Martelltal
+Vigiljoch - Lana	S├╝dtirol	2	S├╝dtirol
+B├ñrnau	Bayern	5	Stiftland
+Valdezcaray	La Rioja	3	La Rioja
+Freyung - Geyersberg	Bayern	3	Bayern
+Zell am Ziller - Zillertal Arena	Tirol	7	Tirol
+Hessen Mitte	Hessen	3	<missing>
+Ochsenkopf	Bayern	19	Bayern
+Ast├║n	Aragonien	5	Aragonien
+Gondo-Zwischbergen	Wallis	2	Brig Simplon
+Bagolino	Trentino	1	Idrosee / Val Sabbia
+Canazei - Belvedere / Val di Fassa	Trentino	69	Trentino
+Wetzikon	Z├╝rich & Z├╝rich Region	1	Z├╝rcher Oberland
+Masserberg	Th├╝ringen	2	Coburg Rennsteig / Th├╝ringen
+Esens-Bensersiel	Niedersachsen	0	Nordseek├╝ste
+Les Menuires / Les 3 Vall├®es	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Schollenwiesenlift / H├Âfen bei Reutte	Tirol	1	Tirol
+F├╝gen - Spieljoch	Tirol	15	Tirol
+Tux - Finkenberg	Tirol	14	Zillertal
+Bad Essen	Niedersachsen	0	VarusRegion
+Furtnerlifte - Rohr im Gebirge	Nieder├Âsterreich	1	Nieder├Âsterreich
+Jungholz	Tirol	6	Tirol
+Freyung	Bayern	2	Freyung-Grafenau
+Sonneberg	Th├╝ringen	1	Coburg Rennsteig / Th├╝ringen
+Naturpark Zirbitzkogel - Grebenzen	Steiermark	5	Murau-Murtal
+Weinebene	K├ñrnten	2	K├ñrnten
+Reiteralm / Schladming - Ski amade	Steiermark	4	Steiermark
+St. Aegyd am Neuwalde	Nieder├Âsterreich	2	Traisen-G├Âlsental
+Reichenau / Rax - Raxalpe	Nieder├Âsterreich	3	Semmering - Rax - Schneeberg
+Ehrwalder Almbahn / Ehrwald	Tirol	15	Tirol
+Ostheim vor der Rh├Ân	Bayern	1	Die Rh├Ân/ Bayern
+Starigrad - Paklenica	Dalmatien - Zadar	1	Region Zadar
+Mittenwald	Bayern	4	Alpenwelt Karwendel
+S├ñgenhof Urach / V├Âhrenbach	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Verbier	Wallis	11	Unterwallis
+Rattiszell	Bayern	2	Sankt Englmar
+Berwang	Tirol	13	Tirol
+Gr├╝nten	Bayern	2	Bayern
+St-Luc / Chandolin	Wallis	9	Sierre Anniviers
+Zugspitze	Tirol	13	Bayern
+D├╝rrnberg Zinken	Salzburger Land	1	Salzburger Land
+Pula	Istrien	1	Istrien
+Alagna Valsesia	Piemont	2	Vercelli und Umgebung
+Pore─ì	Istrien	2	Istrien
+Heigenbr├╝cken	Bayern	1	Spessart-Mainland / Bayern
+Burghausen	Bayern	1	<missing>
+Pognana Lario	Lombardei	1	<missing>
+Platak	Kvarner	0	Kvarner
+St. Anton an der Je├ƒnitz	Nieder├Âsterreich	1	Eisenstra├ƒe Nieder├Âsterreich
+Stilfserjoch	S├╝dtirol	12	Ortlergebiet
+Leoben	Steiermark	4	Leoben - Niklasdorf
+L├╝denscheid	Nordrhein-Westfalen	3	M├ñrkisches Sauerland
+Savognin	Graub├╝nden	15	Graub├╝nden
+Davos Jakobshorn	Graub├╝nden	13	Graub├╝nden
+Schwarzsee / Kaiseregg Bahnen	Freiburg Region	5	Freiburg Region
+De Haan - Wenduine	Fl├ñmische Region	7	Belgische K├╝ste
+Ebensee - Feuerkogel	Ober├Âsterreich	5	Traunsee-Almtal
+Thale am Harz	Sachsen-Anhalt	4	Bodetal
+Bad Gr├Ânenbach	Bayern	1	Unterallg├ñu
+Kitzsteinhorn / Maiskogel - Kaprun	Salzburger Land	11	Salzburger Land
+Feistritz im Rosental	K├ñrnten	2	Carnica Region Rosental
+Wendelstein - Brannenburg	Bayern	7	Bayern
+Schnepfau	Vorarlberg	1	Bregenzerwald
+M├Âhnesee	Nordrhein-Westfalen	4	Sauerland/ Nordrhein-Westfalen
+Aflenz	Steiermark	3	Alpenregion Hochschwab / Aflenz-Th├Ârl
+Gemeindealpe	Nieder├Âsterreich	21	Nieder├Âsterreich
+Schladming	Steiermark	6	Schladming-Rohrmoos-Pichl
+Neve 2000 / Monte Spada	Sardinien	1	Sardinien
+St. Andreasberg - Sonnenberg	Niedersachsen	1	Niedersachsen
+Heidenheim an der Brenz	Baden-W├╝rttemberg	1	Heidenheimer Brenzregion
+Enzkl├Âsterle - Hirschkopflifte	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Aalen	Baden-W├╝rttemberg	5	Ostalbkreis
+B├╝hl	Baden-W├╝rttemberg	2	B├╝hl-B├╝hlertal
+Bad Ragaz	Ostschweiz	3	Bad Ragaz, Pizol und Umgebung
+Oberstdorf im Allg├ñu	Bayern	24	Oberallg├ñu
+Butjadingen	Niedersachsen	1	Nordseek├╝ste
+Mont-Noble / Nax	Wallis	1	Val d`H├®rens
+Mayen	Rheinland-Pfalz	1	Erlebnisregion N├╝rburgring
+Novska	Mittelkroatien	1	Sisak-Moslavina
+M├Ânichwald / Hochwechsellifte - Joglland	Steiermark	4	Steiermark
+St. Oswald-M├Âderbrugg	Steiermark	0	P├Âlstal
+Trient	Trentino	1	Trento - Monte Bondone - Valle dei Laghi
+Mol├®son - La Gruy├¿re	Freiburg Region	4	Freiburg Region
+Marling	S├╝dtirol	3	Meran und Umgebung
+Brusson / Monterosa	Aostatal	3	Aostatal
+Hinterzarten Thoma	Baden-W├╝rttemberg	6	Baden-W├╝rttemberg
+La Magdeleine / Aosta Tal	Aostatal	1	Aostatal
+Altaussee - Loser	Steiermark	11	Ausseerland - Salzkammergut
+Villars - Gryon	Waadtland / Genferseegebiet	6	Alpes Vaudoises
+Turnersee - St. Primus	K├ñrnten	3	Klopeiner See - S├╝dk├ñrnten
+Berg im Drautal	K├ñrnten	7	Oberdrautal / Nationalpark-Region...
+Hippach	Tirol	1	Mayrhofen - Hippach
+Euratsfeld	Nieder├Âsterreich	1	Moststra├ƒe
+Kreuth - Hirschberglifte	Bayern	2	Bayern
+Urnerboden	Ostschweiz	1	Braunwald
+Jeizinen - Feselalpe	Wallis	12	Wallis
+Sportgastein - Ski amade	Salzburger Land	7	Salzburger Land
+Gr├╝sch Danusa	Graub├╝nden	3	Graub├╝nden
+├£berlingen	Baden-W├╝rttemberg	2	Bodensee - Deutschland
+Giubiasco	Tessin	1	Bellinzona und Umgebung
+Neustadtl an der Donau	Nieder├Âsterreich	2	Moststra├ƒe
+Zuberec - Janovky	Silleiner Landschaftsverband	0	Silleiner Landschaftsverband
+Gantrisch - Gurnigel	Bern & Region Bern	5	Bern & Region Bern
+Frankenburg am Hausruck	Ober├Âsterreich	3	Hausruckviertel
+Weitra	Nieder├Âsterreich	1	Oberes Waldviertel
+Kandellifte	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Altes Almhaus	Steiermark	3	Steiermark
+Chur	Graub├╝nden	3	Graub├╝nden
+Kronberg im Taunus	Hessen	1	Taunus
+Daun	Rheinland-Pfalz	2	Vulkaneifel
+Ribni┼íko Pohorje	Koro┼íka	1	Koro┼íka
+Bodensdorf / Steindorf am Ossiacher See	K├ñrnten	1	Region Villach - Faaker See...
+Mallnitz - Ankogel	K├ñrnten	7	Hohe Tauern - die Nationalpark-Region...
+Jaworzyna Krynicka	Kleinpolen	2	Kleinpolen
+Les Arcs - Bourg-Saint-Maurice / Paradiski	Auvergne-Rh├┤ne-Alpes	7	Auvergne-Rh├┤ne-Alpes
+Matrei - GG Resorts Kals-Matrei	Tirol	6	Tirol
+Avers / Ferrera	Graub├╝nden	5	Viamala
+Bitburger Land	Rheinland-Pfalz	2	Eifel/ Rheinland-Pfalz
+Lackenhof - ├ûtscher	Nieder├Âsterreich	9	Nieder├Âsterreich
+St. Anna am Aigen	Steiermark	3	Feldbach
+Besse Super Besse - Massif du Sancy	Auvergne-Rh├┤ne-Alpes	12	Auvergne-Rh├┤ne-Alpes
+Hainfeld	Nieder├Âsterreich	3	Traisen-G├Âlsental
+Flirsch	Tirol	1	Ferienregion St. Anton am Arlberg
+Grafengehaig	Bayern	1	Frankenwald
+Donnstetten / R├Âmerstein	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Les Gets / Portes du Soleil	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
+Sigriswil und Gunten	Berner Oberland	1	Thunersee
+Petting	Bayern	1	Waginger See
+Ramsau am Dachstein	Steiermark	11	Ramsau am Dachstein
+Ulm	Baden-W├╝rttemberg	1	Schw├ñbische Alb
+Baden-Baden	Baden-W├╝rttemberg	3	Schwarzwald
+├£bach-Palenberg	Nordrhein-Westfalen	1	Heinsberger Land
+Herrsching am Ammersee	Bayern	0	Starnberger F├╝nf-Seen-Land
+St. Peter-Ording	Schleswig-Holstein	9	Halbinsel Eiderstedt
+Vla┼íi─ç	F├Âderation Bosnien und Herzegowina	2	F├Âderation Bosnien und Herzegowina
+Leysin - Les Mosses - La L├®cherette	Waadtland / Genferseegebiet	7	Waadtland / Genferseegebiet
+Bad Sachsa - Ravensberg	Niedersachsen	1	Niedersachsen
+Ramsau / Dachstein - Ski amade	Steiermark	11	Steiermark
+Sierre	Wallis	0	Sierre Anniviers
+Glasenberg - Maria Neustift	Ober├Âsterreich	3	Ober├Âsterreich
+Aosta	Aostatal	9	Aosta und Umgebung
+Schloss-Stadt H├╝ckeswagen	Nordrhein-Westfalen	2	Bergisches Land
+Ski Makov	Silleiner Landschaftsverband	0	Silleiner Landschaftsverband
+Gori┼íka	Gori┼íka - Smaragdstra├ƒe	19	Gori┼íka
+La Sambuy	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Krimml - Hochkrimml	Salzburger Land	10	Nationalpark Hohe Tauern
+Bellevaux Hirmentaz	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
+Hauteville - Terre Ronde	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Vojsko	Gori┼íka	1	Gori┼íka
+Ar├¬ches-Beaufort	Auvergne-Rh├┤ne-Alpes	5	Auvergne-Rh├┤ne-Alpes
+Vichtenstein	Ober├Âsterreich	1	Donau Ober├Âsterreich
+Clausthal-Zellerfeld	Niedersachsen	1	Oberharz
+La Combe Saint-Pierre	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
+Cully	Waadtland / Genferseegebiet	1	<missing>
+St. Fran├ºois Longchamp - Le Grand Domaine	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Schulenberg	Niedersachsen	1	Oberharz
+Ostfriesland	Niedersachsen	65	Niedersachsen
+Les Saisies - Espace Diamant	Auvergne-Rh├┤ne-Alpes	7	Auvergne-Rh├┤ne-Alpes
+Reutte	Tirol	6	Naturparkregion Reutte
+Bozen und Umgebung - S├╝dtirols S├╝den	S├╝dtirol	54	S├╝dtirol
+Obervellach	K├ñrnten	1	Hohe Tauern - die Nationalpark-Region...
+Innervillgraten / Villgratental	Tirol	4	Hochpustertal - Osttirol
+Flattnitz	K├ñrnten	2	K├ñrnten
+Vogelsberg	Hessen	3	Hessen
+Kru┼íetnica	Silleiner Landschaftsverband	1	Silleiner Landschaftsverband
+Scheffau - SkiWelt	Tirol	1	Tirol
+Seggauberg	Steiermark	0	<missing>
+Lugano und Umgebung	Tessin	8	Tessin
+Aussois	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Isny - Felderhalde / Max Wild Arena	Bayern	7	Bayern
+Atzm├ñnnig	Ostschweiz	2	Ostschweiz
+Tirano	Lombardei	0	Media Valtellina Terziere Superiore
+Toggenburg	Ostschweiz	18	<missing>
+Hinwil	Z├╝rich & Z├╝rich Region	1	Z├╝rcher Oberland
+Bern - Stadt	Bern & Region Bern	5	Bern & Region Bern
+Neunkirch	Ostschweiz	1	Klettgau
+Hohenems	Vorarlberg	2	Bodensee - Vorarlberg
+Gai├ƒau	Vorarlberg	1	Bodensee - Vorarlberg
+Cham ZG	Luzern - Vierwaldst├ñttersee	1	Luzern - Vierwaldst├ñttersee
+Thollon les M├®mises	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+M├╝nstertal-Wieden	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+St. Martin im Passeiertal	S├╝dtirol	0	Passeiertal
+Le Markstein	Grand Est	4	Grand Est
+Amsterdam	Nordholland	3	Nordholland
+Courmayeur	Aostatal	12	Aostatal
+Marktredwitz	Bayern	0	Naturpark Steinwald
+Guttannen	Berner Oberland	6	Haslital
+Ferienregion Toggenburg	Ostschweiz	16	Toggenburg
+Sch├Âmberg	Baden-W├╝rttemberg	2	Enztal
+Ravna Planina	Republika Srpska	4	Republika Srpska
+Koh├║tka	Region Zlin	3	Region Zlin
+Morschach	Luzern - Vierwaldst├ñttersee	1	Stoos-Muotatal
+Gols	Burgenland	5	Neusiedler See
+Ellmau	Tirol	8	Wilder Kaiser
+Stoderzinken - Ski amade	Steiermark	1	Steiermark
+Holzgau	Tirol	2	Lechtal
+Bad Gro├ƒpertholz	Nieder├Âsterreich	2	Oberes Waldviertel
+Walchsee / Zahmer Kaiser - Durchholzen	Tirol	8	<missing>
+La Pesse	Burgund-Freigrafschaft	2	Burgund-Freigrafschaft
+Ruhrquelle	Nordrhein-Westfalen	2	Nordrhein-Westfalen
+Gossensass	S├╝dtirol	3	Eisacktal
+Bozen	S├╝dtirol	17	Bozen und Umgebung - S├╝dtirols S├╝den
+Schonach - Rohrhardsberg-Lift	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Vattaro (Altopiano della Vigolana)	Trentino	0	Valsugana - Lagorai - Vigolana...
+San Cassiano	S├╝dtirol	11	Alta Badia
+Zuclo	Trentino	0	Valli Giudicarie
+Hinterhornbach	Tirol	2	Lechtal
+Wattens	Tirol	6	Ferienregion Hall - Wattens
+Sch├Âneck - Hohe Reuth	Sachsen	5	Sachsen
+Seiffen - Reicheltberg	Sachsen	1	Sachsen
+Velk├í ├Üpa / ─îern├í hora - Pec	Region K├Âniggr├ñtz	3	Region K├Âniggr├ñtz
+H├Ârnle - Bad Kohlgrub	Bayern	2	Bayern
+Kotelnica Bia┼écza┼äska	Kleinpolen	3	Kleinpolen
+Wildmoos-Lift - Oberau / Berchtesgadener Land	Bayern	1	Bayern
+Niederstotzingen	Baden-W├╝rttemberg	0	<missing>
+Stoos	Luzern - Vierwaldst├ñttersee	16	Stoos-Muotatal
+Hohenbogen	Bayern	4	Bayern
+Kufstein	Tirol	4	Kufsteinerland
+Oberegg	Ostschweiz	5	Appenzell Innerrhoden
+Breitbrunn am Chiemsee	Bayern	1	Chiemsee - Alpenland
+Rieden am Forggensee	Bayern	3	Ostallg├ñu
+Giller / Hilchenbach-L├╝tzel	Nordrhein-Westfalen	2	Nordrhein-Westfalen
+Folgarida - Marilleva - Val di Sole / Dolomiti di Brenta	Trentino	18	Trentino
+Jaun Gastlosen	Freiburg Region	1	Freiburg Region
+S├ñchsische Schweiz	Sachsen	4	Sachsen
+Vigo di Fassa - Catinaccio / Val di Fassa	Trentino	11	Trentino
+Kl├¡ny - Ra┼íov	Region ├Üst├¡	3	Region ├Üst├¡
+Treuchtlingen	Bayern	1	Naturpark Altm├╝hltal
+Sankt Englmar	Bayern	15	Bayern
+Katzenkopf Leutasch	Tirol	4	Tirol
+Enns	Ober├Âsterreich	0	Donau Ober├Âsterreich
+M├®tabief	Burgund-Freigrafschaft	2	Burgund-Freigrafschaft
+Hopfgarten	Tirol	2	Ferienregion Hohe Salve
+Seeg	Bayern	2	Ostallg├ñu
+Alpe Devero	Piemont	1	Piemont
+Gerlosstein / Hainzenberg - Zillertal Arena	Tirol	0	Tirol
+Sattel Hochstuckli	Luzern - Vierwaldst├ñttersee	1	Luzern - Vierwaldst├ñttersee
+Region Murtensee	Jura & Drei-Seen-Land	1	Drei-Seen-Land
+Wildon	Steiermark	0	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
+Soglio	Graub├╝nden	1	Val Bregaglia
+Eschenberglifte / Niedersfeld	Nordrhein-Westfalen	0	Nordrhein-Westfalen
+Zell am Pettenfirst	Ober├Âsterreich	1	Hausruckviertel
+Naturpark Almenland Teichalm - Sommeralm	Steiermark	7	Oststeiermark
+Kesselmannlift Faistenau	Salzburger Land	0	Salzburger Land
+Reith im Alpbachtal	Tirol	3	Alpbachtal
+Crans Montana - Aminona	Wallis	9	Unterwallis
+Pordoipass	Trentino	1	Fassatal
+Tauplitz / Bad Mitterndorf - Schneeb├ñren	Steiermark	6	Steiermark
+St. Gallen	Ostschweiz	5	St. Gallen und Umgebung
+Heiden / Bischofsberg	Ostschweiz	3	Ostschweiz
+Falkert HEIDI ALM BergResort	K├ñrnten	7	K├ñrnten
+Montgen├¿vre - La Voie Lactee / Via Lattea	Provence-Alpes-C├┤te dÔÇÖAzur	6	Provence-Alpes-C├┤te dÔÇÖAzur
+Oberbayern	Bayern	107	Bayern
+Lalling	Bayern	1	Deggendorfer Land
+Neuglobsow	Brandenburg	1	Ruppiner Seenland
+Kaltennordheim	Th├╝ringen	1	Die Rh├Ân/ Th├╝ringen
+Maria Neustift	Ober├Âsterreich	3	Steyr und die Nationalpark Region
+Donau Ober├Âsterreich	Ober├Âsterreich	23	M├╝hlviertel
+Passau	Bayern	8	Passauer Land
+Thaler H├Âhe eG	Bayern	2	Bayern
+Hersbruck	Bayern	1	N├╝rnberger Land
+Jahorina	Republika Srpska	4	Republika Srpska
+Lappach	S├╝dtirol	1	Ahrntal
+V├Âcklabruck	Ober├Âsterreich	2	Hausruckviertel
+Auer - Montan - Neumarkt - Salurn / Castelfeder	S├╝dtirol	1	Bozen und Umgebung - S├╝dtirols S├╝den
+Pr├ñgraten am Gro├ƒvenediger	Tirol	7	NationalparkRegion Hohe Tauern Osttirol
+St. Leonhard in Passeier	S├╝dtirol	4	Passeiertal
+┼ÿ├¡─ìky v Orlick├¢ch hor├ích	Region K├Âniggr├ñtz	3	Region K├Âniggr├ñtz
+Snowpark Lu─ìivn├í	Eperieser Landschaftsverband	1	Eperieser Landschaftsverband
+Monte Maniva	Lombardei	0	Lombardei
+Bad Schwanberg	Steiermark	7	Schilcherland Steiermark
+Arriach	K├ñrnten	1	Region Villach - Faaker See...
+Burglift Stans	Tirol	1	<missing>
+Oberwangen	Z├╝rich & Z├╝rich Region	0	Z├╝rich & Z├╝rich Region
+Crest-Voland Cohennoz - Espace Diamant	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
+Sibratsgf├ñll - Kr├ñhenberg	Vorarlberg	2	Vorarlberg
+Bad Leonfelden	Ober├Âsterreich	4	M├╝hlviertler Hochland
 Feistritz an der Gail	K├ñrnten	1	Region Villach - Faaker See...
-P├Âllau	Steiermark	1	Naturpark P├Âllauer Tal
 Avers	Graub├╝nden	5	Graub├╝nden
 Schwellbrunn	Ostschweiz	2	Ostschweiz
 Waging am See	Bayern	4	Waginger See
-Fischen	Bayern	1	Bayern
-Bolsterlang / H├Ârnerbahn	Bayern	4	Bayern
-Tangerm├╝nde	Sachsen-Anhalt	1	Altmark
-Erlebnisregion Edersee	Hessen	6	GrimmHeimat NordHessen
-├£bach-Palenberg	Nordrhein-Westfalen	1	Heinsberger Land
-Iserlohn	Nordrhein-Westfalen	5	M├ñrkisches Sauerland
-Bremerhaven	Bremen	3	Hansestadt Bremen
-Waltenhofen	Bayern	2	Oberallg├ñu
-Frankenhain	Th├╝ringen	0	<missing>
-Gh├Âch	Z├╝rich & Z├╝rich Region	2	Z├╝rich & Z├╝rich Region
-Bad Lobenstein	Th├╝ringen	0	Th├╝ringer Wald
-Br├®vent - Fl├®g├¿re / Chamonix	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
-Gruy├¿res	Freiburg Region	11	Freiburg Region
-Morillon - Le Grand Massif	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Beatenberg - Niederhorn - Hohwald	Berner Oberland	2	Berner Oberland
+Lechbruck am See	Bayern	0	Ostallg├ñu
+Bettlerjoch	Liechtenstein - Unterland	1	Liechtenstein - Unterland
+Pian Cales / San Bernardino	Graub├╝nden	1	Graub├╝nden
+Romanshorn	Ostschweiz	1	Thurgau Bodensee
+Abfaltersbach	Tirol	1	Hochpustertal - Osttirol
+Kasprowy Wierch / Zakopane	Kleinpolen	4	Kleinpolen
+Hundseck - B├╝hlertallifte	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Weiz	Steiermark	1	Tourismusregion Weiz/St. Ruprecht an...
+PARK SNOW Donovaly	Neusohler Landschaftsverband	8	Neusohler Landschaftsverband
+Greifenburg	K├ñrnten	1	Oberdrautal / Nationalpark-Region...
+Grimentz - Zinal	Wallis	5	Wallis
+Fa┼¥ana	Istrien	1	Istrien
+Lenningen	Baden-W├╝rttemberg	1	Region Stuttgart
+Bad Goisern	Ober├Âsterreich	1	Dachstein Salzkammergut
+Naturpark Obere Donau	Baden-W├╝rttemberg	6	Schw├ñbische Alb
+Tarsch	S├╝dtirol	1	Latsch - Martelltal
+S├Âll	Tirol	3	Wilder Kaiser
+Szczyrk Mountain Resort	Schlesien	0	Schlesien
+Ritten - Rittner Horn - Klobenstein	S├╝dtirol	3	Bozen und Umgebung - S├╝dtirols S├╝den
+Simmern / Hunsr├╝ck	Rheinland-Pfalz	0	<missing>
+Bergneustadt	Nordrhein-Westfalen	1	Bergisches Land
+Elferbahnen Neustift / Stubaital	Tirol	19	Tirol
+Rabenkopf - Oberau	Bayern	2	Bayern
+Valchiavenna - Madesimo/ÔÇïCampodolcino	Lombardei	7	Lombardei
+Bad Hindelang	Bayern	17	Oberallg├ñu
+Rosegg	K├ñrnten	1	Carnica Region Rosental
+G├Âppingen	Baden-W├╝rttemberg	2	Region Stuttgart
+Niederthai 	Tirol	5	├ûtztal
+Bischofsmais	Bayern	4	Arberland
+Santa Caterina / Valfurva	Lombardei	2	Alta Valtellina
+Stilfser Joch - Ortlergebiet	S├╝dtirol	13	S├╝dtirol
+Aldein Radein	S├╝dtirol	2	Bozen und Umgebung - S├╝dtirols S├╝den
+Bielmonte	Piemont	6	Piemont
+Hollenstein an der Ybbs	Nieder├Âsterreich	2	Eisenstra├ƒe Nieder├Âsterreich
+Hochzeiger - Pitztal	Tirol	19	Pitztal
+Strallegg	Steiermark	2	Joglland - Waldheimat
+Gro├ƒraming	Ober├Âsterreich	3	Steyr und die Nationalpark Region
+Lustenau	Vorarlberg	1	Bodensee - Vorarlberg
+Bad Harzburg	Niedersachsen	1	Der Harz/ Niedersachsen
+Sch├Ânwald im Schwarzwald	Baden-W├╝rttemberg	2	Ferienland Schwarzwald
+Schleppe Alm	K├ñrnten	0	<missing>
+Titisee-Neustadt	Baden-W├╝rttemberg	3	Hochschwarzwald
+Eichst├ñtt	Bayern	2	Naturpark Altm├╝hltal
+Brigels	Graub├╝nden	13	Brigels Waltensburg Andiast
+Paseky nad Jizerou / Rokytnice nad Jizerou	Region Reichenberg	3	Region Reichenberg
+Schwarzwald	Baden-W├╝rttemberg	99	Baden-W├╝rttemberg
+Triest	Friaul-Julisch Venetien	1	Triest und Karst
+T├╝rnitz	Nieder├Âsterreich	1	Traisen-G├Âlsental
+Ehrwald Wettersteinbahnen	Tirol	4	Tirol
+Zadov	S├╝db├Âhmische Region	11	S├╝db├Âhmische Region
+Natz-Schabs	S├╝dtirol	2	Eisacktal
+Beuren	Baden-W├╝rttemberg	8	Schw├ñbische Alb
 Frutigen	Berner Oberland	1	Adelboden
-Les 2 Alpes	Auvergne-Rh├┤ne-Alpes	8	Auvergne-Rh├┤ne-Alpes
-Aeschi	Berner Oberland	1	Berner Oberland
-Grimmialp / Diemtigtal	Berner Oberland	2	Berner Oberland
-Langschlag im Waldviertel	Nieder├Âsterreich	3	Waldviertel Mitte
-Skilift in Griminitzen	K├ñrnten	1	K├ñrnten
-Schaffhausen	Ostschweiz	3	SchaffhauserLand
-Muottas Muragl	Graub├╝nden	5	Graub├╝nden
-Ravna Planina	Republika Srpska	4	Republika Srpska
-Jungfrau Ski Region Grindelwald - Wengen	Berner Oberland	38	Berner Oberland
-Heiligenschwendi - Hubelweid	Berner Oberland	1	Berner Oberland
-Mittenwald	Bayern	4	Alpenwelt Karwendel
-Leukerbad	Wallis	5	Wallis
-Flims Laax Falera	Graub├╝nden	10	Graub├╝nden
-Alpsteinblick / Gonten	Ostschweiz	4	Ostschweiz
-Fellhorn - Kanzelwand	Bayern	17	Bayern
-F├╝rstenfeldbruck	Bayern	1	Oberbayern
-Sulzberg	Vorarlberg	3	Bregenzerwald
-M├ñhren und Schlesien	M├ñhren-Schlesien	2	M├ñhren-Schlesien
-Meziho┼Ö├¡	Region ├Üst├¡	3	Region ├Üst├¡
-Schwarzenbach am Wald	Bayern	0	Frankenwald
-F├╝ssen	Bayern	14	Ostallg├ñu
-B├Âdefeld - Hunau / Schmallenberg	Nordrhein-Westfalen	2	Nordrhein-Westfalen
-Dahlem	Nordrhein-Westfalen	5	Eifel & Aachen
-Lahr / Schwarzwald	Baden-W├╝rttemberg	1	Ortenau
-Antholz Obertal	S├╝dtirol	1	Antholzertal
-Laste	Venetien	1	Marmolada - Dolomiten
+Liftanlagen Oberwilhams	Bayern	1	Bayern
+Krimml / Hochkrimml ÔÇô Zillertal Arena	Salzburger Land	11	Salzburger Land
+Mulhouse / M├╝lhausen	Grand Est	0	Haut-Rhin
+Jalovec	Region Vyso─ìina	0	Region Vyso─ìina
+SNOWLAND ÔÇô Val─ìianska dolina	Silleiner Landschaftsverband	1	Silleiner Landschaftsverband
+Prato Nevoso / Artesina / Frabosa Soprana	Piemont	3	Piemont
+Destination Gstaad	Berner Oberland	13	Berner Oberland
+Aurach am Hongar	Ober├Âsterreich	2	Attersee - Attergau
+Hundsheim	Nieder├Âsterreich	1	R├Âmerland Carnuntum - Marchfeld
+Skizentrum Schlick 2000 - Fulpmes	Tirol	17	Tirol
+Vall de N├║ria	Katalonien	3	Katalonien
+Campitello di Fassa	Trentino	5	Fassatal
+Aillons-Marg├®riaz	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Obdach	Steiermark	3	Steiermark
+Bad Teinach-Zavelstein	Baden-W├╝rttemberg	4	Nagoldtal
+Bad Sch├Ânborn	Baden-W├╝rttemberg	1	Kraichgau Stromberg
+Pokljuka - Vi┼íevnik	Gorenjska	4	Gorenjska
 St Gervais Mont-Blanc - Evasion Mont-Blanc	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
 Bormio	Lombardei	13	Alta Valtellina
-Andalo	Trentino	17	Altopiano della Paganella
-Les 7 Laux	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
-Les Carroz - Grand Massif - Mont Blanc	Auvergne-Rh├┤ne-Alpes	6	Auvergne-Rh├┤ne-Alpes
-Podbansk├®	Eperieser Landschaftsverband	1	Eperieser Landschaftsverband
+Simonh├Âhe - Sankt Urban	K├ñrnten	3	K├ñrnten
+La Thuile / La Rosiere - ├ëspace San Bernardo	Aostatal	5	Mont Blanc
+St. Jakob in Ahrn	S├╝dtirol	2	Ahrntal
+Peio	Trentino	3	Val di Sole
+Gehrenberg - Bodensee	Baden-W├╝rttemberg	2	Bodensee - Deutschland
+Malta	K├ñrnten	3	Lieser - Maltatal
+Lagazuoi - Cinque Torri	Venetien	4	Cortina d`Ampezzo
+Harus├ík / Nov├® M─østo na Morav─ø	Region Vyso─ìina	4	Region Vyso─ìina
+Olpe - Fahlenscheid	Nordrhein-Westfalen	2	Nordrhein-Westfalen
+Weisweil am Rhein	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
 Valgrande-Pajares	Asturien	1	Asturien
-Lavam├╝nd	K├ñrnten	1	Lavanttal
-K├Âniz	Bern & Region Bern	1	Bern - Stadt
-Val Thorens	Auvergne-Rh├┤ne-Alpes	1	Les 3 Vall├®es
-Praz de Lys Sommand	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+San Pellegrino	Trentino	12	Fassatal
+M├╝nchen	Bayern	22	Oberbayern
+Haus im Ennstal	Steiermark	11	Haus - Aich - G├Âssenberg
+Vacha	Th├╝ringen	0	<missing>
+├ûhringen	Baden-W├╝rttemberg	2	Hohenlohe
+Nussdorf am Attersee	Ober├Âsterreich	1	Attersee - Attergau
+Carlsfeld	Sachsen	5	Sachsen
+Jever	Niedersachsen	1	Binnenland Ostfriesland
+La Jarjatte - Lus-la-Croix-Haute	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Rosenburg-Mold	Nieder├Âsterreich	1	Kamptal - Manhartsberg
+Ravne na Koro┼íkem	Koro┼íka - slowenisches K├ñrnten	1	Koro┼íka
+Siders	Wallis	1	Sierre Anniviers
+Obersaxen Mundaun	Graub├╝nden	14	Graub├╝nden
+Meran 2000	S├╝dtirol	17	S├╝dtirol
+Trieben	Steiermark	3	Hohentauern
+Mayrhofen - Hippach	Tirol	13	Zillertal
+Wagrain - Snow Space Salzburg - Ski amade	Salzburger Land	3	Salzburger Land
+Tofana - Ra Valles	Venetien	6	Venetien
+Proveis	S├╝dtirol	1	Ultental - Deutschnonsberg
+Pieve di Cadore	Venetien	1	Misurina-Auronzo-Cadore
+Auronzo - Monte Agudo	Venetien	2	Venetien
+Rund um Visp	Wallis	21	Oberwallis
+G├Âttingen	Niedersachsen	2	Niedersachsen
+Radstadt - Altenmarkt - Ski amade	Salzburger Land	12	Salzburger Land
+Seis am Schlern	S├╝dtirol	1	Seiser Alm
+Berg├╝n	Graub├╝nden	1	Berg├╝n Filisur
+Ternitz	Nieder├Âsterreich	2	Semmering - Rax - Schneeberg
+Golm im Montafon	Vorarlberg	10	Vorarlberg
+Gaschurn - Partenen	Vorarlberg	7	Montafon
+Chanavey / Rh├¬mes-Notre-Dame	Aostatal	1	Aostatal
+Sch├Âneck	Sachsen	5	Vogtland / Sachsen
+Mariazell	Steiermark	19	Mariazeller Land
+Valsavarenche	Aostatal	2	Gran Paradiso / Grand Paradis
+Hopfgarten in Defereggen	Tirol	1	Defereggental
+Urn├ñsch / Osteregg	Ostschweiz	1	Ostschweiz
+M├╝nstertal	Baden-W├╝rttemberg	1	Hochschwarzwald
+Murzasichle	Kleinpolen	0	Kleinpolen
+Lermoos	Tirol	8	Zugspitz Arena
+Sch├Ânau im Schwarzwald	Baden-W├╝rttemberg	1	Schwarzwaldregion Belchen
+Bre┼¥ice	Posavska	2	Spodnjeposavska
+Erlebnisregion N├╝rburgring	Rheinland-Pfalz	7	Eifel/ Rheinland-Pfalz
+Jochberg	Tirol	16	Kitzb├╝hel
+Bartholom├ñberg	Vorarlberg	3	Montafon
+W├ñldi-Lipperswil	Ostschweiz	1	Kreuzlingen
+Laber - Oberammergau	Bayern	3	Bayern
+Berg├╝n - Filisur / Darlux	Graub├╝nden	7	Graub├╝nden
+Erlangen	Bayern	2	St├ñdteregion N├╝rnberg
+Andermatt	Luzern - Vierwaldst├ñttersee	22	Uri
+Caslano	Tessin	1	Lugano und Umgebung
+Eggalm - Tux - Lanersbach	Tirol	2	<missing>
+Obertilliach / Lesachtal	Tirol	3	Hochpustertal - Osttirol
+Tauplitzalm	Steiermark	2	Ausseerland - Salzkammergut
+Lunz am See	Nieder├Âsterreich	1	Eisenstra├ƒe Nieder├Âsterreich
+Berg├╝n Filisur	Graub├╝nden	7	Graub├╝nden
+Volkach	Bayern	1	Fr├ñnkisches Weinland
+Werfen	Salzburger Land	3	Tennengebirge - Hagengebirge
+Axalp / Brienz	Berner Oberland	3	Berner Oberland
+Duvin	Graub├╝nden	1	Ilanz / Glion
+Nordseek├╝ste	Niedersachsen	19	Ostfriesland
+Maria Laach am Jauerling	Nieder├Âsterreich	3	Wachau - Nibelungengau - Kremstal
+Ru├ƒbach am Pa├ƒ Gsch├╝tt - Dachstein West	Salzburger Land	11	Salzburger Land
+Dietfurt	Bayern	3	Naturpark Altm├╝hltal
+Bonn Rhein-Sieg-Kreis Ahrweiler	Nordrhein-Westfalen	9	<missing>
+Skilift Argental - Weitnau	Bayern	2	Bayern
+Thierseetal	Tirol	7	Kufsteinerland
+Steinbach am Attersee	Ober├Âsterreich	0	<missing>
+Ftan	Graub├╝nden	2	Engadin Scuol Zernez
+Arolla	Wallis	3	Wallis
+Wildhaus - Alt St. Johann	Ostschweiz	7	Ferienregion Toggenburg
+Hohlgassland	Luzern - Vierwaldst├ñttersee	4	Rigi
+Scuol Motta Naluns	Graub├╝nden	10	Graub├╝nden
+Beilngries	Bayern	0	Naturpark Altm├╝hltal
+Turracher H├Âhe	K├ñrnten	14	Steiermark
+Fusch an der Gro├ƒglocknerstra├ƒe	Salzburger Land	4	Bruck Fusch - Grossglockner
+Bad Lauterberg - Heibek	Niedersachsen	1	Niedersachsen
+Freiamt im Schwarzwald	Baden-W├╝rttemberg	1	Elztal & Simonsw├ñldertal
+Riva del Garda	Trentino	8	Garda Trentino
+Mutten - Obermutten	Graub├╝nden	0	Graub├╝nden
+┼ápindler┼»v Ml├¢n / Horn├¡ M├¡se─ìky - Medv─ød├¡n	Region K├Âniggr├ñtz	9	Region K├Âniggr├ñtz
+Wenigzell	Steiermark	1	Joglland - Waldheimat
+Eggiwil	Berner Oberland	2	Berner Oberland
+Gran Paradiso / Orco Tal - Soana Tal	Piemont	1	Turin und Umgebung
+Immenstaad am Bodensee	Baden-W├╝rttemberg	3	Bodensee - Deutschland
+Vorderstoder	Ober├Âsterreich	1	Urlaubsregion Pyhrn - Priel
+Skilift in Griminitzen	K├ñrnten	1	K├ñrnten
+Kaiserau	Steiermark	1	Ges├ñuse
+Admont	Steiermark	2	Ges├ñuse
+Marbach - Marbachegg	Luzern - Vierwaldst├ñttersee	4	Luzern - Vierwaldst├ñttersee
+Raurisertal - Hochalmbahnen	Salzburger Land	11	Salzburger Land
+Pinzolo - Val Rendena / Dolomiti di Brenta	Trentino	3	Trentino
+Weissensee	K├ñrnten	9	Nassfeld - Pressegger See / Lesachtal...
+Hochkar	Nieder├Âsterreich	16	Nieder├Âsterreich
+Maishofen	Salzburger Land	3	Salzburger Land
+Judenburg	Steiermark	1	Murau-Murtal
+Rothwald - Wasenalp am Simplon	Wallis	3	Wallis
+Eberschwang	Ober├Âsterreich	2	Ober├Âsterreich
+Warth - Schr├Âcken am Arlberg	Vorarlberg	11	Bregenzerwald
+Ski Arena Szrenica / Sudety Lift - Szklarska Poreba	Niederschlesien	3	Niederschlesien
+Zell am See - Kaprun	Salzburger Land	24	Salzburger Land
+Labeaume	Auvergne-Rh├┤ne-Alpes	1	Pont d`Arc Ard├¿che
+Rehetobel	Ostschweiz	1	Appenzell Ausserrhoden
+Albstadt	Baden-W├╝rttemberg	7	Zollernalb
+Friaul Julisch Venetien	Friaul-Julisch Venetien	1	Friaul-Julisch Venetien
+Tarvis und Umgebung	Friaul-Julisch Venetien	18	Friaul-Julisch Venetien
+Kitzeck im Sausal	Steiermark	1	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
+Aflenzer B├╝rgeralm	Steiermark	4	Steiermark
+Vinschgau	S├╝dtirol	57	S├╝dtirol
+Zoldo Alto	Venetien	1	Val di Zoldo
+Kemnath	Bayern	6	Naturpark Steinwald
+Bad Gastein	Salzburger Land	21	Gasteinertal
+Gro├ƒenl├╝der	Hessen	0	<missing>
+Muhr / Rotg├╝lden	Salzburger Land	1	Lungau - Ferienregion
+Monte Generoso	Tessin	9	Mendrisiotto und Basso Ceresio
+Silberregion Karwendel	Tirol	18	Tirol
+Sillian - Hochpustertal	Tirol	10	Tirol
+Ellmau - SkiWelt	Tirol	8	Tirol
+St. Veit im Pongau	Salzburger Land	1	Salzburger Sonnenterrasse
+M├╝hlbach am Hochk├Ânig	Salzburger Land	5	Hochk├Ânig
+Toggenburg / Wildhaus	Ostschweiz	9	Ostschweiz
+Le Revard	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
+Eisenach	Th├╝ringen	0	Welterberegion Wartburg Hainich
+Frauenkirchen	Burgenland	7	Neusiedler See
+Muggendorf / Thal	Nieder├Âsterreich	1	Schneebergland - Wiener Alpen
+Skilifte Sinswang	Bayern	2	Bayern
+Sipplingen	Baden-W├╝rttemberg	1	<missing>
+Zell am Ziller	Tirol	7	Zillertal Arena
+Tisno	Dalmatien - ┼áibenik	1	Insel Murter
+Skizentrum Ludwigsstadt / Wetzel	Bayern	2	Bayern
+Skikarussell Altastenberg	Nordrhein-Westfalen	7	Nordrhein-Westfalen
+Zagreb - Stadt	Zagreb	6	Zagreb
+Trije Kralji	Podravska	1	Podravska
+Frankenfels	Nieder├Âsterreich	1	Pielachtal
+Le Locle	Jura & Drei-Seen-Land	0	Drei-Seen-Land
+M├®ribel / Les 3 Vall├®es	Auvergne-Rh├┤ne-Alpes	6	Auvergne-Rh├┤ne-Alpes
+Ascona - Locarno / Lago Maggiore	Tessin	20	Tessin
+Skilift Mastrils	Graub├╝nden	1	Graub├╝nden
+Pichl	Steiermark	3	Schladming-Rohrmoos-Pichl
+Degen	Graub├╝nden	1	Val Lumnezia
+Villanders	S├╝dtirol	3	Eisacktal
+Ruden	K├ñrnten	2	Klopeiner See - S├╝dk├ñrnten
+Kierspe	Nordrhein-Westfalen	1	M├ñrkisches Sauerland
+Stadt Pag	Dalmatien - Zadar	4	Insel Pag
+Piran	Adria K├╝ste / Karst Region	3	Adria K├╝ste / Karst Region
+Mon├¡nec	Mittelb├Âhmische Region	1	Mittelb├Âhmische Region
+┼ápi─ì├ík	Region Pilsen	10	Region Pilsen
+Kandersteg - Sunnb├╝el	Berner Oberland	0	<missing>
+Peisey Vallandry / Paradiski	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
+Grafenhausen - Br├╝nlisbach	Baden-W├╝rttemberg	0	Baden-W├╝rttemberg
+Naturpark Zittauer Gebirge	Sachsen	1	Zittauer Gebirge
+Vulkaneifel	Rheinland-Pfalz	3	Eifel/ Rheinland-Pfalz
+Solothurn	Jura & Drei-Seen-Land	3	Solothurn und Region
+Oberwiesenthal	Sachsen	12	Erzgebirge
+Arralifte Harmanschlag	Nieder├Âsterreich	4	Nieder├Âsterreich
+Gehlberg	Th├╝ringen	1	Th├╝ringen
+Riefensberg	Vorarlberg	2	Bregenzerwald
+Albrechtsberg an der gro├ƒen Krems	Nieder├Âsterreich	1	Waldviertel Mitte
+Oppenau	Baden-W├╝rttemberg	1	Renchtal
+Steyregg	Ober├Âsterreich	0	Donau Ober├Âsterreich
+Grandvalira / Pas de la Casa - Grau Roig - Soldeu - El Tarter	Andorra	9	Andorra
+Bernau am Chiemsee	Bayern	5	Chiemsee - Alpenland
+Neumarkt am Wallersee	Salzburger Land	1	Salzburger Seenland
+St. Margarethen im Lungau	Salzburger Land	1	Lungau - Ferienregion
+La Punt - M├╝sella	Graub├╝nden	4	Graub├╝nden
+Sierra de B├®jar - La Covatilla	Kastilien und Le├│n	2	Kastilien und Le├│n
+Achenkirch am Achensee	Tirol	8	Achensee
+Telfes im Stubaital	Tirol	0	Stubaital
+Wassertr├╝dingen	Bayern	0	Romantisches Franken
+Bad Soden am Taunus	Hessen	1	Taunus
+Untergriesbach	Bayern	1	Passauer Land
+H├╝ttegglift Weerberg	Tirol	5	Tirol
+Lenk im Simmental	Berner Oberland	1	Lenk-Simmental
+Zw├Âlfmorgental Wernigerode	Sachsen-Anhalt	17	Sachsen-Anhalt
+Gersfeld	Hessen	8	Rh├Ân / Hessen
+Skihalle Neuss	Nordrhein-Westfalen	3	Nordrhein-Westfalen
+Rodeneck	S├╝dtirol	5	Eisacktal
+Z├╝rcher Oberland	Z├╝rich & Z├╝rich Region	14	Z├╝rich
+Hochzillertal	Tirol	23	Tirol
+Gr├Âmitz	Schleswig-Holstein	2	Ostsee - Schleswig Holstein
+Dortmund	Nordrhein-Westfalen	8	Ruhrgebiet
+Erbeskopf - Thalfang	Rheinland-Pfalz	2	Rheinland-Pfalz
+Pfronten	Bayern	13	Ostallg├ñu
+Lesko-Ski / Weremie┼ä	Karpatenvorland	0	Karpatenvorland
+Zoncolan - Ravascletto - Sutrio	Friaul-Julisch Venetien	3	Carnia
+Les Pl├®iades	Waadtland / Genferseegebiet	1	Waadtland / Genferseegebiet
+Bardolino	Venetien	2	Gardasee
+Region Murtensee / Freiburg	Freiburg Region	1	Freiburg Region
+Weener	Niedersachsen	0	<missing>
+Obergurgl - Hochgurgl	Tirol	17	├ûtztal
+Wehrheim	Hessen	2	Taunus
+Lobmingtal	Steiermark	1	Am Spielberg
+Madonna di Campiglio / Dolomiti di Brenta	Trentino	23	Trentino
+Valmorel - Le Grand Domaine	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
+Colfosco	S├╝dtirol	13	Alta Badia
+Fiss	Tirol	7	Serfaus - Fiss - Ladis
+St. Corona am Wechsel	Nieder├Âsterreich	6	Wechselland - Wiener Alpen
+St. Corona am Wechsel - Familienskiland der Erlebnisarena	Nieder├Âsterreich	5	Nieder├Âsterreich
+Lanzenkirchen	Nieder├Âsterreich	0	Bucklige Welt - Wiener Alpen
+Feltre	Venetien	1	Area Feltrino
+Brusson	Aostatal	3	Monte Rosa
+Cr├®vacol - Saint Rhemy en Bosses	Aostatal	2	Aostatal
+Lech Z├╝rs am Arlberg	Vorarlberg	13	Vorarlberg
+Postira	Dalmatien - Split	1	Insel Bra─ì
+M├╝nsing	Bayern	4	T├Âlzer Land
+Scharnitz	Tirol	1	Seefeld Olympiaregion
+Aprica	Lombardei	6	Lombardei
+M├ñhren und Schlesien	M├ñhren-Schlesien	2	M├ñhren-Schlesien
+Stubaier Gletscher / Stubaital	Tirol	2	Tirol
+Imbergbahn & Ski-Arena Steibis	Bayern	11	Bayern
+Les Moussi├¿res	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
+SKI B├¡l├í	M├ñhren-Schlesien	4	M├ñhren-Schlesien
+Ole┼ínice	Region Vyso─ìina	3	Region Vyso─ìina
+Frauenzell / Brennberg	Bayern	1	Bayern
+Barbian	S├╝dtirol	2	Eisacktal
+Gries - L├ñngenfeld	Tirol	9	Tirol
+Pr├® Saint Didier	Aostatal	1	Mont Blanc
+Monte Purito - Selvino	Lombardei	2	Lombardei
+St. Englmar	Bayern	2	Sankt Englmar
+Darmstadt	Hessen	3	Bergstra├ƒe / Hessen
+Gaienhofen	Baden-W├╝rttemberg	2	Westlicher Bodensee
+Schwaz-Pill - Kellerjochbahn	Tirol	7	Tirol
+Abtenau	Salzburger Land	4	Tennengau - Dachstein West
+Aarau	Aargau	4	Berner Aargau
+Bolsterlang / H├Ârnerd├Ârfer	Bayern	2	Oberallg├ñu
+Bietigheim-Bissingen	Baden-W├╝rttemberg	3	Kraichgau Stromberg
+Scopello - Alpe di Mera / Monterosa	Piemont	0	Piemont
+Moena	Trentino	15	Fassatal
+Schleching	Bayern	5	Achental
+Skizentrum Sonnenbichl	Bayern	3	Bayern
+Saas Grund - Hohsaas	Wallis	6	Wallis
+Neuss	Nordrhein-Westfalen	3	Nordrhein-Westfalen
+Sylt	Schleswig-Holstein	13	Nordsee - Schleswig-Holstein
+St. Vigil in Enneberg	S├╝dtirol	9	Kronplatz - Dolomiten
+Lutherstadt Eisleben	Sachsen-Anhalt	2	Der Harz/ Sachsen-Anhalt
+Schw├ñbische Alb	Baden-W├╝rttemberg	65	Baden-W├╝rttemberg
+Spitz an der Donau	Nieder├Âsterreich	1	Wachau - Nibelungengau - Kremstal
+Wolkersdorf	Nieder├Âsterreich	1	Weinviertel
+Davos Schatzalp - Strela	Graub├╝nden	12	Graub├╝nden
+SKICENTRUM De┼ítn├®	Region K├Âniggr├ñtz	2	Region K├Âniggr├ñtz
+Levico Terme / Valsugana	Trentino	2	Valsugana - Lagorai - Vigolana...
+Novo mesto	S├╝dostslowenien	8	S├╝dostslowenien
+Les Angles	Okzitanien	1	Okzitanien
+Verbier / 4 Vall├®es	Wallis	7	Wallis
+Nenzing	Vorarlberg	8	Biosph├ñrenpark Gro├ƒes Walsertal
+Alberschwende	Vorarlberg	2	Vorarlberg
+Zuckerfeld	Hessen	1	Hessen
+Hildesheim	Niedersachsen	1	Hildesheim Region
+K├╝hlungsborn	Mecklenburg-Vorpommern	2	Ostseek├╝ste Mecklenburg
+Barban	Istrien	1	Istrien
+La Grave - La Meije	Provence-Alpes-C├┤te dÔÇÖAzur	2	Provence-Alpes-C├┤te dÔÇÖAzur
+Schmitten - Zell am See	Salzburger Land	15	Salzburger Land
+─îern├í hora - Jansk├® L├ízn─ø / ─îern├í hora - Pec	Region K├Âniggr├ñtz	3	Region K├Âniggr├ñtz
+Albstadt - Ebingen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+La Molina / Alp 2500	Katalonien	5	Katalonien
+Barzio - Piani di Bobbio	Lombardei	3	Lombardei
+Wald-Michelbach	Hessen	1	Vorderer Odenwald
+Campitello - Col Rodella / Val di Fassa	Trentino	5	Trentino
+Unken - Heutal	Salzburger Land	4	Salzburger Saalachtal
+Rugiswalde	Sachsen	1	Sachsen
+Olang	S├╝dtirol	4	Kronplatz - Dolomiten
+Brenzone	Venetien	0	Gardasee
+Oberndorf in Tirol	Tirol	2	Kitzb├╝heler Alpen St. Johann in Tirol
+Chieming	Bayern	2	Chiemgau - Chiemsee
+Waldm├╝nchen	Bayern	5	Region Cham
+Andorra la Vella	Andorra	1	Andorra
+Pr├ñbichl	Steiermark	3	Leoben - Niklasdorf
+Faistenau	Salzburger Land	2	Fuschlsee - Ferienregion
+Moosalpregion	Wallis	4	Oberwallis
+─îern├¢ D┼»l / ─îern├í hora - Pec	Region K├Âniggr├ñtz	2	Region K├Âniggr├ñtz
+Winklern	K├ñrnten	1	Hohe Tauern - die Nationalpark-Region...
+Valle di Ledro	Trentino	1	Trentino
+Westerstede	Niedersachsen	2	Ammerland
+Jelsa	Dalmatien - Split	1	Insel Hvar
+Laste	Venetien	1	Marmolada - Dolomiten
+Wald AR	Ostschweiz	1	Appenzell Ausserrhoden
+Engadin Scuol Zernez	Graub├╝nden	11	Graub├╝nden
+Hagen	Nordrhein-Westfalen	4	Ruhrgebiet
+Rasen Antholz / Antholzertal	S├╝dtirol	1	Antholzertal
+Maria Luggau	K├ñrnten	0	<missing>
+Champorcher	Aostatal	1	Valle Centrale - Mont Avic
+Innerkrems	K├ñrnten	4	Nockberge
+Lunz am See - Maiszinken	Nieder├Âsterreich	1	Nieder├Âsterreich
+Krispl-Gai├ƒau	Salzburger Land	12	Tennengau - Dachstein West
+Wallgau	Bayern	2	Alpenwelt Karwendel
+Rossfeld / Berchtesgadener Land	Bayern	5	Bayern
+Fageralm / Forstau	Steiermark	2	Schladming - Dachstein
+Herl├¡kovice & Bubakov	Region K├Âniggr├ñtz	3	Region K├Âniggr├ñtz
+Bad Laasphe - Hesselbach	Nordrhein-Westfalen	2	Nordrhein-Westfalen
+Biberwier	Tirol	6	Zugspitz Arena
+Sudelfeld - Bayrischzell	Bayern	13	Bayern
+Br├®vent - Fl├®g├¿re / Chamonix	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
+Bellinzona	Tessin	7	Bellinzona und Umgebung
+Log pod Mangartom	Gori┼íka - Smaragdstra├ƒe	1	So─ìa-Tal
+Gresse en Vercors	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+M├╝cheln (Geiseltal)	Sachsen-Anhalt	2	Halle-Saale-Unstrut
+Schlitters	Tirol	1	Erste Ferienregion im Zillertal
+Oberried	Baden-W├╝rttemberg	3	Hochschwarzwald
+S├Âll - SkiWelt	Tirol	3	Tirol
+Hamburg - Hansestadt	Hamburg	7	Hamburg
+Hermagor - Pressegger See	K├ñrnten	8	Nassfeld / Pressegger See
+Michaelerberg-Pruggern	Steiermark	6	Gr├Âbminger Land
+Neuburg an der Donau	Bayern	10	Naturpark Altm├╝hltal
+Klein St. Paul	K├ñrnten	2	Mittelk├ñrnten
+Brotterode-Trusetal	Th├╝ringen	2	Th├╝ringer Wald
+Hoek van Holland	S├╝dholland	1	Rotterdam
+Lebring-Sankt Margarethen	Steiermark	2	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
+H├Âchstadt an der Aisch	Bayern	1	Steigerwald
+St. Wolfgang am Wolfgangsee	Salzburger Land	3	Wolfgangsee - Salzkammergut
+Traun	Ober├Âsterreich	1	Traunviertel
+Tschiertschen-Praden	Graub├╝nden	5	Schanfigg
+St. Johann - Alpendorf - Snow Space Salzburg - Ski amade	Salzburger Land	3	Salzburger Land
+Modriach-Winkel Hoislifte	Steiermark	0	Steiermark
+Anras	Tirol	1	Hochpustertal - Osttirol
+Champ├®ry - Les Crosets / Portes du Soleil	Wallis	1	Wallis
+Maseben - Langtaufers - Reschenpass	S├╝dtirol	1	S├╝dtirol
+Meransen	S├╝dtirol	4	Eisacktal
+Gummersbach	Nordrhein-Westfalen	1	Bergisches Land
+Postwiese - Neuastenberg	Nordrhein-Westfalen	10	Nordrhein-Westfalen
+Marmolada Gletscher	Venetien	8	Venetien
+Tiroler Zugspitzbahn	Tirol	6	Tirol
+Gerolzhofen	Bayern	2	Steigerwald
+Dienten am Hochk├Ânig	Salzburger Land	7	Hochk├Ânig
+Neustift im Stubaital	Tirol	26	Stubaital
+Skilift Brunni	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
+H├Âchenschwand	Baden-W├╝rttemberg	2	Hochschwarzwald
+Reinswald Sarntal	S├╝dtirol	8	S├╝dtirol
+Bernau - Hofeck	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Bischofsgr├╝n	Bayern	12	Fichtelgebirge
+Thyon / 4 Vall├®es	Wallis	7	Wallis
+Krali─ì├ík	Region Olm├╝tz	4	Region Olm├╝tz
+Sipbachzell	Ober├Âsterreich	1	Hausruckviertel
+Bad S├ñckingen	Baden-W├╝rttemberg	1	Hochrhein
+Hlubok├í u Trhov├® Kamenice	Region Pardubice	1	Region Pardubice
+Grainet	Bayern	1	Freyung-Grafenau
+Steinegg	S├╝dtirol	1	Eggental
+Planai / Schladming - Ski amade	Steiermark	8	Steiermark
+Interlaken - Matten - Unterseen	Berner Oberland	4	<missing>
+Chabanon	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
+Haldenlift Wintersulgen / Heiligenberg	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Kappel am Krappfeld	K├ñrnten	1	Mittelk├ñrnten
+Kaiserstuhl und Tuniberg	Baden-W├╝rttemberg	4	Schwarzwald
+Bachledka Ski & Sun	Eperieser Landschaftsverband	2	Eperieser Landschaftsverband
+Hochstr├ñ├ƒlifte Oberreute	Bayern	1	Bayern
+Fellhorn - Kanzelwand	Bayern	17	Bayern
+Klaus - Steyrling - Kniewas	Ober├Âsterreich	3	Urlaubsregion Pyhrn - Priel
+V├Âcklamarkt	Ober├Âsterreich	1	Hausruckviertel
+Brunnen	Luzern - Vierwaldst├ñttersee	1	Brunnen-Schwyz
+Georgsmarienh├╝tte	Niedersachsen	1	Osnabr├╝cker Land
+Espot	Katalonien	1	Katalonien
+Oberhof	Th├╝ringen	11	Th├╝ringer Wald
+Heiligenkreuz am Waasen	Steiermark	1	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
+Sommeralm - Pirstingerkogellift	Steiermark	2	Steiermark
+Edenkoben	Rheinland-Pfalz	1	Deutsche Weinstra├ƒe
+Faloria - Monte Cristallo - Mietres	Venetien	10	Venetien
+Furtwangen	Baden-W├╝rttemberg	1	Schwarzwald
+Avoriaz 1800 / Portes du Soleil	Auvergne-Rh├┤ne-Alpes	5	Auvergne-Rh├┤ne-Alpes
+Altenau im Harz	Niedersachsen	1	Oberharz
+Thalgau	Salzburger Land	2	Salzburger Land
+Fontanella - Faschina	Vorarlberg	7	Biosph├ñrenpark Gro├ƒes Walsertal
+Gams	Ostschweiz	1	Werdenberg Region
+Friedewald	Hessen	1	N├Ârdliche Kuppenrh├Ân
+Waldsassen	Bayern	1	Naturpark Steinwald
+Seewiesen - Seeberg	Steiermark	1	Pogusch - Steirische Romantik
+Petzen - Feistritz ob Bleiburg	K├ñrnten	6	K├ñrnten
+K├Âtschach-Mauthen	K├ñrnten	6	Nassfeld / Pressegger See
+Breitenberg - Hochalpe / Pfronten	Bayern	5	Bayern
+Zeneggen	Wallis	1	Moosalpregion
+├ûblarn-Nieder├Âblarn	Steiermark	2	├ûblarn-Nieder├Âblarn
+Carolinensiel-Harlesiel	Niedersachsen	1	Nordseek├╝ste
+Leogang - Saalbach Hinterglemm Fieberbrunn	Salzburger Land	7	Salzburger Land
+Armeno	Piemont	1	Lago d┬┤Orta
+Sestriere / Via Lattea	Piemont	4	Piemont
+San Domenico	Piemont	3	Lago Maggiore - Lago Mergozzo...
+Waldshut-Tiengen	Baden-W├╝rttemberg	2	Hochrhein
+Bohinj	Gorenjska	10	Gorenjska
+Faltschen - Reichenbach im Kandertal	Berner Oberland	0	Berner Oberland
+Asolo	Venetien	1	Monte Grappa
+Gerlos	Tirol	5	Zillertal Arena
+Gruy├¿res	Freiburg Region	11	Freiburg Region
+Auronzo di Cadore	Venetien	2	Misurina-Auronzo-Cadore
+Schmitten im Taunus	Hessen	3	Taunus
+Maribor-Pohorje	Podravska	16	Podravska
+Novigrad	Istrien	4	Istrien
+Paganella - Andalo	Trentino	18	Trentino
+Zwiesel	Bayern	3	Arberland
+S├Âlden	Tirol	14	├ûtztal
+Todtnau	Baden-W├╝rttemberg	7	Hochschwarzwald
+Steinach	Th├╝ringen	4	Coburg Rennsteig / Th├╝ringen
+K├Âthen (Anhalt)	Sachsen-Anhalt	2	Anhalt-Dessau-Wittenberg
+Domleschg - Feldis - Mutten	Graub├╝nden	5	Viamala
+Oetz	Tirol	10	├ûtztal
+Wolkenstein - Selva di Val Gardena / Dolomites Val Gardena - Gr├Âden	S├╝dtirol	24	Dolomites Val Gardena / Gr├Âden
+Emmental	Bern & Region Bern	4	Bern & Region Bern
+Mittenwald - Kranzberg	Bayern	8	Bayern
+Vysok├í u Havl├¡─ìkova Brodu	Region Vyso─ìina	2	Region Vyso─ìina
+Albiez Montrond	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
+Beerfelden	Hessen	1	Hessen
+Traben-Trarbach	Rheinland-Pfalz	1	Moselregion Traben-Trarbach Kr├Âv
+Sluis - Aardenburg	Zeeland	6	Zeeuws-Vlaanderen
+Goldeck am Millst├ñtter See	K├ñrnten	6	K├ñrnten
+Samo├½ns - Sixt - Le Grand Massif	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
+Brtnice	Region Vyso─ìina	1	Region Vyso─ìina
+Kouty	Region Olm├╝tz	3	Region Olm├╝tz
+Frankenhain	Th├╝ringen	0	<missing>
+Gh├Âch	Z├╝rich & Z├╝rich Region	2	Z├╝rich & Z├╝rich Region
+Elbigenalp	Tirol	0	Lechtal
+Lenk-Simmental	Berner Oberland	21	Berner Oberland
+Zlarin	Dalmatien - ┼áibenik	1	Insel Zlarin
+Muottas Muragl	Graub├╝nden	5	Graub├╝nden
+Schwarzsee - Senseland	Freiburg Region	5	Freiburg Region
+Altenberg bei Linz	Ober├Âsterreich	1	Region Gusental
+Buttes La Robella	Jura & Drei-Seen-Land	1	Neuenburg
+Saint Colomban des Villards - Les Sybelles	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Les Diablerets - Glacier 3000	Waadtland / Genferseegebiet	6	Waadtland / Genferseegebiet
+Manigod - Massif des Aravis	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Skilift Buchserberg-Malbun	Ostschweiz	1	Ostschweiz
+Skilift Hittisberg	Vorarlberg	2	Vorarlberg
+Villach	K├ñrnten	27	Region Villach - Faaker See...
+Katschberg	K├ñrnten	34	K├ñrnten
+Winterwelt Rehefeld	Sachsen	1	Sachsen
+Kuchl	Salzburger Land	1	Tennengau - Dachstein West
+Spl├╝gen / Rheinwald	Graub├╝nden	2	Graub├╝nden
+S├ñntis / Schw├ñgalp	Ostschweiz	2	Appenzell Ausserrhoden
+Lindberg	Bayern	3	Arberland
+St Hilaire du Touvet	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
+Leitariegos	Kastilien und Le├│n	0	Kastilien und Le├│n
+Limburg - Flandern	Fl├ñmische Region	12	Flandern
+Albstadt - Pfeffingen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Wiener Neustadt	Nieder├Âsterreich	1	Schneebergland - Wiener Alpen
+Feistritz ob Bleiburg	K├ñrnten	1	Klopeiner See - S├╝dk├ñrnten
+Kematen an der Krems	Ober├Âsterreich	0	Traunviertel
+Riepenlift - Antholz Mittertal	S├╝dtirol	1	S├╝dtirol
+Flumet - Saint Nicolas la Chapelle - Espace Diamant	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
+Veysonnaz	Wallis	4	Thyon les Collons
+Kiens	S├╝dtirol	1	Kronplatz - Dolomiten
+Lauscha	Th├╝ringen	3	Coburg Rennsteig / Th├╝ringen
+Buchenberg	Bayern	1	Oberallg├ñu
+Retz	Nieder├Âsterreich	1	Nationalparkregion Thayatal
+Bad Birnbach	Bayern	2	Ferienregion Rottal-Inn
+Sulz / R├Âthis	Vorarlberg	2	Bodensee - Vorarlberg
+Buchs	Ostschweiz	1	Werdenberg Region
+Hartberg	Steiermark	1	Hartbergerland
+Ski- & Rodelcentrum Hohegei├ƒ / Braunlage	Niedersachsen	1	Niedersachsen
+Nauders	Tirol	26	Tirol
+K├╝htai	Tirol	5	Innsbruck und seine Feriend├Ârfer
+Sch├Ânengrund	Ostschweiz	1	Appenzell Ausserrhoden
+Lindau - Bodensee Bayern	Bayern	2	Bayerisch-Schwaben
+Kleve	Nordrhein-Westfalen	2	Niederrhein
+Waldbach-M├Ânichwald	Steiermark	4	Joglland - Waldheimat
+Sch├Ânberg	Bayern	1	Freyung-Grafenau
+Wangen im Allg├ñu	Baden-W├╝rttemberg	3	Oberschwaben - Allg├ñu
+Oberhofen am Irrsee	Ober├Âsterreich	1	Mondseeland / Mondsee-Irrsee
+Furth bei G├Âttweig	Nieder├Âsterreich	8	Wachau - Nibelungengau - Kremstal
+Ratingen	Nordrhein-Westfalen	1	D├╝sseldorf & Neanderland
+Albstadt - Tailfingen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Dolomites Val Gardena / Gr├Âden - Wolkenstein	S├╝dtirol	30	S├╝dtirol
+Fischen	Bayern	1	Bayern
+Monts Jura	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Timmendorfer Strand / Niendorf	Schleswig-Holstein	11	Ostsee - Schleswig Holstein
+Antagnod - Ayas / Monterosa	Aostatal	2	Aostatal
+Albaredo	Lombardei	1	Morbegno Bassa Valle
+B├Âdefeld - Hunau / Schmallenberg	Nordrhein-Westfalen	2	Nordrhein-Westfalen
+Grosser Arber	Bayern	10	Bayern
+Les Karellis	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Samerberg	Bayern	4	Chiemsee - Alpenland
+San Simone - Foppolo - Carona	Lombardei	1	Lombardei
+Pejo 3000 / Val di Sole	Trentino	4	Trentino
+M├Âlltaler Gletscher	K├ñrnten	8	Hohe Tauern - die Nationalpark-Region...
+Salzstiegl bei Hirschegg	Steiermark	2	Steiermark
+Bregenz - Pf├ñnderbahn	Vorarlberg	1	Bodensee - Vorarlberg
+Wei├ƒenbach bei Liezen	Steiermark	0	<missing>
+Skilift Grainet	Bayern	1	Bayern
+Skilift Rettenegg	Steiermark	1	Steiermark
+Immenstadt im Allg├ñu	Bayern	4	Alpsee-Gr├╝nten
+Altenmarkt-Zauchensee	Salzburger Land	12	Salzburger Sportwelt
+Unteriberg	Luzern - Vierwaldst├ñttersee	2	Einsiedeln-Ybrig-Z├╝richsee
+San Martino di Castrozza / Rolle Pass	Trentino	24	Trentino
+Bohinjska Bistrica	Gorenjska	3	Gorenjska
+Colere	Lombardei	2	Lombardei
+San Colombano - Valdidentro	Lombardei	0	Lombardei
+M├╝nsingen - Dottingen	Baden-W├╝rttemberg	6	Baden-W├╝rttemberg
+Rali┼íka	Region Zlin	2	Region Zlin
+Laterns - Gapfohl	Vorarlberg	13	Vorarlberg
+Seilbahn Bezau	Vorarlberg	2	Vorarlberg
+Neuharlingersiel	Niedersachsen	1	Nordseek├╝ste
+Oberegg / St. Anton	Ostschweiz	5	Ostschweiz
+Schwemmalm - Ultental	S├╝dtirol	11	S├╝dtirol
+Geiselbach	Bayern	1	Spessart-Mainland / Bayern
+Hinterzarten	Baden-W├╝rttemberg	6	Hochschwarzwald
+Peuerbach	Ober├Âsterreich	1	Hausruckviertel
+Valmeinier - Galibier Thabor	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Val Cenis	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Teglio	Lombardei	1	Media Valtellina Terziere Superiore
+Sierra Nevada / Pradollano	Andalusien	28	Andalusien
+┼¢ivogo┼í─ìe	Dalmatien - Split	3	Mittel-Dalmatien
+Braunlage	Niedersachsen	6	Der Harz/ Niedersachsen
+Bar├ƒel-Saterland	Niedersachsen	1	Oldenburger M├╝nsterland
+Puchberg am Schneeberg	Nieder├Âsterreich	15	Schneebergland - Wiener Alpen
+Alkoven	Ober├Âsterreich	1	Donau Ober├Âsterreich
+Schluchsee	Baden-W├╝rttemberg	3	Hochschwarzwald
+Rieneck	Bayern	1	Spessart-Mainland / Bayern
+Inzell	Bayern	3	Chiemgau - Chiemsee
+SKALKA arena	Neusohler Landschaftsverband	3	Neusohler Landschaftsverband
+Klewenalp - Stockh├╝tte	Luzern - Vierwaldst├ñttersee	5	Luzern - Vierwaldst├ñttersee
+Murska Sobota	Pomurska	2	Pomurska
+Wei├ƒenbach am Lech	Tirol	1	Naturparkregion Reutte
+Gumpoldskirchen	Nieder├Âsterreich	8	Wienerwald
+Maurach - Eben am Achensee	Tirol	5	Achensee
+Gro├ƒ-Siegharts	Nieder├Âsterreich	2	Nationalparkregion Thayatal
+Kronstorf	Ober├Âsterreich	1	Traunviertel
+M├╝hldorf a. Inn	Bayern	1	Inn - Salzach
+Teufen	Ostschweiz	1	Appenzell Ausserrhoden
+Airolo - L├╝ina	Tessin	1	Tessin
+Lienzer Bergbahnen - Zettersfeld/Hochstein	Tirol	11	Tirol
+Turnau - Schwabenbergarena	Steiermark	1	Steiermark
+Vlieland	Friesland	2	Westfriesische Inseln / Waddeneilanden
+Sexten	S├╝dtirol	32	Dolomitenregion Drei Zinnen
+Val Comelico - Sappada	Venetien	2	Belluno-Dolomiti
+Gro├ƒarl Tal - Ski amade	Salzburger Land	11	Salzburger Land
+Sebnitz am Buchberg	Sachsen	0	Sachsen
+Stockenboi	K├ñrnten	2	Weissensee
+Ertl	Nieder├Âsterreich	1	Moststra├ƒe
+Gr├╝nsteinlift - Sch├Ânau am K├Ânigssee / Berchtesgadener Land	Bayern	1	<missing>
+Altaussee	Steiermark	2	Ausseerland - Salzkammergut
+K├╝ssnacht	Luzern - Vierwaldst├ñttersee	2	Hohlgassland
+Wolgast	Mecklenburg-Vorpommern	1	Usedom
+Vall├®e de Joux	Waadtland / Genferseegebiet	2	Waadtland / Genferseegebiet
+Steig - B├ñretswil	Z├╝rich & Z├╝rich Region	0	Z├╝rich & Z├╝rich Region
+Skipark Vy┼ín├® Ru┼¥bachy	Eperieser Landschaftsverband	0	Eperieser Landschaftsverband
+Skilift Au - Bad Feilnbach	Bayern	2	Bayern
+St. Veit in Defereggen	Tirol	1	Defereggental
+Bad Sachsa	Niedersachsen	1	Der Harz/ Niedersachsen
+Brandenberg	Tirol	1	Alpbachtal
+Stadt Rab	Kvarner	1	Insel Rab
+SKI ORAVICE Meander Skipark	Silleiner Landschaftsverband	3	Silleiner Landschaftsverband
+Ljubljana	Zentralslowenien	1	Zentralslowenien
+Saas Almagell	Wallis	1	Wallis
+Reichshof	Nordrhein-Westfalen	0	Bergisches Land
+Bad Hofgastein	Salzburger Land	32	Gasteinertal
+Alta Badia	S├╝dtirol	92	S├╝dtirol
+Feldthurns	S├╝dtirol	0	Eisacktal
+Halde / Westerheim	Baden-W├╝rttemberg	5	Baden-W├╝rttemberg
+Gr├╝nbach am Schneeberg	Nieder├Âsterreich	1	Schneebergland - Wiener Alpen
+Saalbach Hinterglemm	Salzburger Land	21	Salzburger Land
+Turnau	Steiermark	1	Pogusch - Steirische Romantik
+Haag	Nieder├Âsterreich	1	Moststra├ƒe
+Paternion	K├ñrnten	1	Region Villach - Faaker See...
+La Giettaz - Portes du Mont-Blanc	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Orelle Val Thorens / Les 3 Vall├®es	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Les Contamines Montjoie - Evasion Mont-Blanc	Auvergne-Rh├┤ne-Alpes	19	Auvergne-Rh├┤ne-Alpes
+Stockerau	Nieder├Âsterreich	1	Kamptal - Wagram - Tullner Donauraum
+Seeboden am Millst├ñttersee	K├ñrnten	1	Millst├ñtter See
+Lofer - Almenwelt Lofer	Salzburger Land	16	Salzburger Saalachtal
+Tschierv	Graub├╝nden	1	Engadin Val M├╝stair
+Siena	Toskana	1	Terre di Siena
+Tschiertschen	Graub├╝nden	6	Graub├╝nden
+Bad Feilnbach	Bayern	2	Chiemsee - Alpenland
+Wangerland	Niedersachsen	12	Nordseek├╝ste
+Homberg / Skilift Dreiligass-Winteregg	Bern & Region Bern	0	<missing>
+Wuppertal	Nordrhein-Westfalen	1	Die Bergischen Drei
+Javalambre	Aragonien	0	<missing>
+─îazma	Mittelkroatien	1	Bjelovar-Bilogora
+Innichen	S├╝dtirol	14	Dolomitenregion Drei Zinnen
+Flawil	Ostschweiz	1	St. Gallen und Umgebung
+Samnaun	Graub├╝nden	8	Graub├╝nden
+Lesachtal	K├ñrnten	12	Nassfeld - Pressegger See / Lesachtal...
+Passo San Pellegrino - Falcade / Trevalli	Trentino	20	Trentino
+Bingen am Rhein	Rheinland-Pfalz	2	Rheinhessen
+Folgarida	Trentino	13	Val di Sole
+Presena Gletscher - Adamello Ski	Trentino	1	Trentino
+Borkum	Niedersachsen	6	Ostfriesische Inseln
+─îervenohorsk├® sedlo	Region Olm├╝tz	5	Region Olm├╝tz
+Wurster Nordseek├╝ste	Niedersachsen	2	Cuxland
+Bernstein	Burgenland	1	S├╝dburgenland
+Tannheim - Neunerk├Âpfle	Tirol	15	Tirol
+Melk	Nieder├Âsterreich	5	Wachau - Nibelungengau - Kremstal
+Thusis / Heinzenberg	Graub├╝nden	2	Viamala
+Haute-Corse	Korsika	1	Korsika
+Filipovice	Region Olm├╝tz	2	Region Olm├╝tz
+Weitnau	Bayern	2	Oberallg├ñu
+Skilift Berger H├Âhe / Wangen	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Fl├ñming	Brandenburg	1	Brandenburg
+Vr├ítna Free Time Zone	Silleiner Landschaftsverband	4	Silleiner Landschaftsverband
+Gm├╝nd	K├ñrnten	3	Lieser - Maltatal
+St. Andr├ñ	K├ñrnten	1	Lavanttal
+Lienz	Tirol	9	Lienzer Dolomiten - Osttirol
+Reichraming	Ober├Âsterreich	1	Steyr und die Nationalpark Region
+Panoramabahn Kitzb├╝heler Alpen - Mittersill	Salzburger Land	2	Salzburger Land
+Waldzell	Ober├Âsterreich	0	Ober├Âsterreich
+Haibach ob der Donau	Ober├Âsterreich	1	Donau Ober├Âsterreich
+Stanzach	Tirol	0	Lechtal
+St. Moritz - Corviglia	Graub├╝nden	29	Graub├╝nden
+Diavolezza	Graub├╝nden	10	Engadin St. Moritz
+Finale Ligure und Umgebung	Ligurien	1	Ligurien
+La Tania / Les 3 Vall├®es	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Kyffh├ñuser	Th├╝ringen	1	Th├╝ringen
+Kolsassberg	Tirol	2	Silberregion Karwendel
+Diedamskopf - Schoppernau	Vorarlberg	14	Vorarlberg
+Amrum	Schleswig-Holstein	8	Nordsee - Schleswig-Holstein
+Leutkirch im Allg├ñu	Baden-W├╝rttemberg	0	<missing>
+Bach-Stockach im Lechtal	Tirol	4	Lechtal
+Balderschwang / H├Ârnerd├Ârfer	Bayern	11	Oberallg├ñu
+Hohe Bracht / Lennestadt	Nordrhein-Westfalen	0	Nordrhein-Westfalen
+Gaberl	Steiermark	2	Steiermark
+Friesach	K├ñrnten	1	Mittelk├ñrnten
+Oberzent	Hessen	1	Bergstra├ƒe Odenwald
+Lautertal bei Coburg	Bayern	1	Coburger Land
+Gampel-Bratsch	Wallis	12	Wallis
+Dorfgastein	Salzburger Land	14	Gasteinertal
+Gr├ñn-Haldensee - F├╝ssener J├Âchle	Tirol	9	Tannheimer Tal
+Schwarzenb├╝hl / Selital	Bern & Region Bern	4	Bern & Region Bern
+N├Âtsch im Gailtal	K├ñrnten	2	Region Villach - Faaker See...
+Weitensfeld im Gurktal	K├ñrnten	0	Mittelk├ñrnten
+Pielachtal	Nieder├Âsterreich	3	Mostviertel
+Monte Lussari / Tarvisio	Friaul-Julisch Venetien	12	Friaul-Julisch Venetien
+Waldhausen im Strudengau	Ober├Âsterreich	1	Donau Ober├Âsterreich
+Jesolo / Lido di Jesolo	Venetien	9	Venezia
+Eisenstadt	Burgenland	5	Neusiedler See
+Bleckede	Niedersachsen	0	Niedersachsen
+Innertkirchen	Berner Oberland	1	Haslital
+Laterns-Gapfohl	Vorarlberg	13	Bodensee - Vorarlberg
+Lago d┬┤Orta	Piemont	2	Piemont
+Stupava	S├╝dm├ñhrische Region	0	S├╝dm├ñhrische Region
+Wildflecken	Bayern	1	Die Rh├Ân/ Bayern
+Prien am Chiemsee	Bayern	5	Chiemsee - Alpenland
+Savognin Bivio Albula	Graub├╝nden	16	Graub├╝nden
+Nendaz / 4 Vall├®es	Wallis	6	Wallis
+Hinterstoder	Ober├Âsterreich	18	Urlaubsregion Pyhrn - Priel
+Klosterneuburg	Nieder├Âsterreich	1	Wienerwald
+Schwarzenberg am B├Âhmerwald	Ober├Âsterreich	12	Ferienregion B├Âhmerwald
+Bad Radkersburg	Steiermark	6	Region Bad Radkersburg
+Herchenhainer H├Âhe	Hessen	1	Hessen
+Mollis	Ostschweiz	0	Glarus Nord
+Langtaufers	S├╝dtirol	1	Reschenpass
+St. Kathrein am Offenegg	Steiermark	1	Naturpark Almenland Teichalm - Sommeralm
+Baqueira-Beret	Katalonien	7	Katalonien
+Roh├í─ìe - Sp├ílen├í dolina	Silleiner Landschaftsverband	1	Silleiner Landschaftsverband
+Liddes - Vich├¿res	Wallis	1	Wallis
+W├╝rzburg	Bayern	3	Fr├ñnkisches Weinland
+Yspertal	Nieder├Âsterreich	1	S├╝dliches Waldviertel
+Meiningen - Th├╝ringer Wald	Th├╝ringen	1	Th├╝ringer Wald
+Valloire - Galibier Thabor	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Terlan an der Weinstrasse	S├╝dtirol	1	Bozen und Umgebung - S├╝dtirols S├╝den
+Gro├ƒer Feldberg / Oberreifenberg	Hessen	2	Hessen
+Murter	Dalmatien - ┼áibenik	3	Insel Murter
+Strunjan	Adria K├╝ste / Karst Region	1	Adria K├╝ste / Karst Region
+Leukerbad	Wallis	5	Wallis
+Den Haag	S├╝dholland	4	S├╝dholland
+Oldenburg	Niedersachsen	1	Niedersachsen
+Gemeindealpe / Mitterbach am Erlaufsee	Nieder├Âsterreich	5	Traisen-G├Âlsental
+Emmendingen	Baden-W├╝rttemberg	4	Elztal & Simonsw├ñldertal
+Axams / Axamer Lizum	Tirol	3	Innsbruck und seine Feriend├Ârfer
+Rein in Taufers	S├╝dtirol	3	Ahrntal
+Bleniotal / Valle Blenio	Tessin	1	Tessin
+Loser - Altaussee - Schneeb├ñren	Steiermark	14	Steiermark
+Fischbacher Skilift - Schluchsee	Baden-W├╝rttemberg	3	Baden-W├╝rttemberg
+M├╝nster	Nordrhein-Westfalen	3	M├╝nsterland
+St. Thomas am Blasenstein	Ober├Âsterreich	1	M├╝hlviertler Alm Freistadt
+Haideralm - St. Valentin / Reschenpass	S├╝dtirol	8	Reschenpass
+St. Magdalena / Gsieser Tal	S├╝dtirol	12	S├╝dtirol
+Garmisch-Partenkirchen	Bayern	12	Zugspitzland
+La Punt	Graub├╝nden	4	Engadin St. Moritz
+Genua und Umgebung	Ligurien	13	Ligurien
+Golte	Savinjska	2	Savinjska
+Gr├Âbming	Steiermark	2	Gr├Âbminger Land
+Tanvaldsk├¢ ┼ápi─ì├ík / Jizerky	Region Reichenberg	6	Region Reichenberg
+Klaffer am Hochficht	Ober├Âsterreich	11	Ferienregion B├Âhmerwald
+Jenner - Sch├Ânau am K├Ânigssee / Berchtesgadener Land	Bayern	24	Bayern
+Eisenberg / Neuenstein	Hessen	1	Hessen
+Sulden am Ortler	S├╝dtirol	7	Ortlergebiet
+Rogla	Savinjska	5	Savinjska
+Bad Bleiberg	K├ñrnten	2	Region Villach - Faaker See...
+Corvatsch	Graub├╝nden	14	Engadin St. Moritz
+Heum├Âserlift / Ebnit	Vorarlberg	2	Vorarlberg
+Split	Dalmatien - Split	5	Mittel-Dalmatien
+Wurzeralm - Spital am Pyhrn	Ober├Âsterreich	18	Ober├Âsterreich
+Lorsch	Hessen	1	Bergstra├ƒe / Hessen
+Jakobsbad - Kronberg	Ostschweiz	4	Appenzell Innerrhoden
+Sillian	Tirol	7	Hochpustertal - Osttirol
+Celerina 	Graub├╝nden	4	Engadin St. Moritz
+Bludenz	Vorarlberg	2	Alpenstadt Bludenz
+Madonna di Campiglio	Trentino	23	Madonna di Campiglio, Pinzolo und Val...
+Crikvenica	Kvarner	1	Kvarner
+Gries im Sellrain	Tirol	2	Innsbruck und seine Feriend├Ârfer
+Wurmbergseilbahn - Braunlage	Niedersachsen	5	Niedersachsen
+Zell im Rosental	K├ñrnten	0	Carnica Region Rosental
+Altenberg	Sachsen	4	S├ñchsische Schweiz
+Toggenburg - Ch├ñserrugg / Alt St. Johann / Unterwasser	Ostschweiz	2	Ostschweiz
+Ramsau bei Berchtesgaden	Bayern	15	Berchtesgadener Land
+Oberstdorf / Nebelhorn	Bayern	13	Oberallg├ñu
+Wangerooge	Niedersachsen	1	Ostfriesische Inseln
+Feldkirch	Vorarlberg	3	Bodensee - Vorarlberg
+Poprad	Neusohler Landschaftsverband	7	Eperieser Landschaftsverband
+Boi-Ta├╝ll Resort	Katalonien	3	Katalonien
+Wallberg Tegernseer Tal	Bayern	12	Bayern
+Bergwelt Hahnenkamm	Tirol	6	Tirol
+Prag / Praha	Region Prag	7	Region Prag
+Hum	Istrien	2	Istrien
+Schnepfenried	Grand Est	1	Grand Est
+Prato Nevoso	Piemont	3	Cuneo und Umgebung
+Safiental	Graub├╝nden	3	Graub├╝nden
+Gunzesried / Gunzesrieder Tal	Bayern	2	Alpsee-Gr├╝nten
+Fischbachau	Bayern	1	Alpenregion Tegernsee - Schliersee
+Pelje┼íac	Dalmatien - Dubrovnik	1	Dalmatien - Dubrovnik
+Bischofswiesen	Bayern	3	Berchtesgadener Land
+Miesbach	Bayern	1	Alpenregion Tegernsee - Schliersee
+Kegelberg - Erlbach	Sachsen	2	Sachsen
+Hochfeldlift - Schwoich	Tirol	1	Tirol
+Lackenhof am ├ûtscher	Nieder├Âsterreich	9	Eisenstra├ƒe Nieder├Âsterreich
+Eibiswald	Steiermark	2	Schilcherland Steiermark
+Kehl	Baden-W├╝rttemberg	0	Ortenau
+Jura bernois	Jura & Drei-Seen-Land	2	Drei-Seen-Land
+Siegen	Nordrhein-Westfalen	4	Siegen-Wittgenstein
+Sainte Foy Tarentaise	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Valfr├®jus	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Hausham	Bayern	2	Alpenregion Tegernsee - Schliersee
+Schilift Bazora	Vorarlberg	6	Vorarlberg
+Gaal	Steiermark	1	Am Spielberg
+Ottnang am Hausruck	Ober├Âsterreich	3	Hausruckviertel
+Wernstein am Inn	Ober├Âsterreich	1	Innviertel
+Pamhagen	Burgenland	1	Neusiedler See
+┼áimuni	Dalmatien - Zadar	1	Insel Pag
+Sampzon	Auvergne-Rh├┤ne-Alpes	1	Pont d`Arc Ard├¿che
+Mezzana-Marilleva / Val di Sole	Trentino	5	Val di Sole
+Br├╝gge	Fl├ñmische Region	7	Belgische K├╝ste
+Dornbirn	Vorarlberg	4	Bodensee - Vorarlberg
+Zlaim - Grundlsee	Steiermark	1	Steiermark
+Gaissau Hintersee	Salzburger Land	12	Salzburger Land
+Ruhestein	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Schattwald - Z├Âblen	Tirol	5	Tannheimer Tal
+Kaberlaba	Venetien	1	Venetien
+Rabenstein an der Pielach	Nieder├Âsterreich	1	Pielachtal
+Dorflift Sulzberg	Vorarlberg	3	Vorarlberg
+Hochficht - B├Âhmerwald	Ober├Âsterreich	26	Ober├Âsterreich
+Schwaz	Tirol	2	Silberregion Karwendel
+St. Veit an der Glan	K├ñrnten	2	Mittelk├ñrnten
+Wagrain / Wagrain - Kleinarl	Salzburger Land	3	Salzburger Sportwelt
+Br├╝hl (Rheinland)	Nordrhein-Westfalen	3	K├Âln & Rhein-Erft-Kreis
+Masserberg - Am Ersteberg	Th├╝ringen	2	Th├╝ringen
+Davos Klosters	Graub├╝nden	79	Graub├╝nden
+Grand-Ballon	Grand Est	1	Grand Est
+Lutherstadt Wittenberg	Sachsen-Anhalt	0	Anhalt-Dessau-Wittenberg
+Meersburg	Baden-W├╝rttemberg	5	Bodensee - Deutschland
+Bad Wildbad	Baden-W├╝rttemberg	1	Enztal
+Sljeme	Zagreb	3	Zagreb
+Menthi├¿res - Ch├®zery	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Auron	Provence-Alpes-C├┤te dÔÇÖAzur	4	Provence-Alpes-C├┤te dÔÇÖAzur
+Vintl	S├╝dtirol	1	Eisacktal
+Rettenegg	Steiermark	1	Joglland - Waldheimat
+Kirchzarten	Baden-W├╝rttemberg	1	Hochschwarzwald
+Notschrei Skilifte	Baden-W├╝rttemberg	0	Baden-W├╝rttemberg
+Schwarzenbach	Nieder├Âsterreich	1	Bucklige Welt - Wiener Alpen
+R├╝schegg - Eywald	Bern & Region Bern	1	Bern & Region Bern
+Koro┼íka	Koro┼íka - slowenisches K├ñrnten	9	Koro┼íka
+Zwiesel - Skilift Rabenstein	Bayern	1	Bayern
+Fischenthal	Z├╝rich & Z├╝rich Region	2	Z├╝rich & Z├╝rich Region
+Probstei und Kieler F├Ârde	Schleswig-Holstein	5	Ostsee - Schleswig Holstein
+Gutenbrunn	Nieder├Âsterreich	1	Waldviertel Mitte
+Mecklenburgische Seenplatte	Mecklenburg-Vorpommern	5	Mecklenburg-Vorpommern
+Aschach an der Steyr	Ober├Âsterreich	1	Traunviertel
+Val Seriana / Serio-Tal	Lombardei	14	Lombardei
 Emden	Niedersachsen	4	Ostfriesland
 Badenweiler	Baden-W├╝rttemberg	4	Schwarzwald
 Balmberg	Bern & Region Bern	0	Bern & Region Bern
 Solingen	Nordrhein-Westfalen	0	<missing>
 See im Paznaun	Tirol	4	Paznaun - Ischgl
-Kals - GG Resorts Kals-Matrei	Tirol	17	Tirol
-Weissee Gletscherwelt	Salzburger Land	6	Salzburger Land
-Unken - Heutal	Salzburger Land	4	Salzburger Saalachtal
-Locarno	Tessin	1	Ascona - Locarno / Lago Maggiore
-Lofer - Almenwelt Lofer	Salzburger Land	16	Salzburger Saalachtal
-Tschierv	Graub├╝nden	1	Engadin Val M├╝stair
-Maloja	Graub├╝nden	2	Val Bregaglia
-Oberegg / St. Anton	Ostschweiz	5	Ostschweiz
-Kyritz an der Knatter	Brandenburg	2	Prignitz
-La Chaux-de-Fonds	Jura & Drei-Seen-Land	2	Neuenburg
-Ascona	Tessin	3	Ascona - Locarno / Lago Maggiore
-Emmental	Bern & Region Bern	4	Bern & Region Bern
-Oberhof	Th├╝ringen	11	Th├╝ringer Wald
-Mittenwald - Kranzberg	Bayern	8	Bayern
-Vysok├í u Havl├¡─ìkova Brodu	Region Vyso─ìina	2	Region Vyso─ìina
-Rogoznica	Dalmatien - ┼áibenik	1	Dalmatien - ┼áibenik
-Donnstetten / R├Âmerstein	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Allensbach am Bodensee	Baden-W├╝rttemberg	1	Westlicher Bodensee
-Breitnau	Baden-W├╝rttemberg	2	Hochschwarzwald
-Marling	S├╝dtirol	3	Meran und Umgebung
-Madonna di Campiglio	Trentino	23	Madonna di Campiglio, Pinzolo und Val...
-Le Tanet	Grand Est	0	Grand Est
-Ravascletto-Sutrio / Monte Zoncolan	Friaul-Julisch Venetien	3	Friaul-Julisch Venetien
-Liestal	Basel Region	1	Baselland
-Zinal	Wallis	1	Sierre Anniviers
-Brusson / Monterosa	Aostatal	3	Aostatal
-La Magdeleine / Aosta Tal	Aostatal	1	Aostatal
-Wetzikon	Z├╝rich & Z├╝rich Region	1	Z├╝rcher Oberland
-Besse Super Besse - Massif du Sancy	Auvergne-Rh├┤ne-Alpes	12	Auvergne-Rh├┤ne-Alpes
-Albiez Montrond	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
-Grand Tourmalet - Pic du Midi / Bar├¿ges - La Mongie	Okzitanien	7	Okzitanien
-Koksijde	Fl├ñmische Region	4	Belgische K├╝ste
-Kvilda	S├╝db├Âhmische Region	6	S├╝db├Âhmische Region
-San Isidro / Cebolledo - Requejines	Kastilien und Le├│n	2	Kastilien und Le├│n
-Umag	Istrien	3	Istrien
-Fischenthal	Z├╝rich & Z├╝rich Region	2	Z├╝rich & Z├╝rich Region
-Korenica - Plitvicer Seen	Lika - Karlovac	1	Lika-Senj
-Montafoner Kristbergbahn - Silbertal	Vorarlberg	8	Vorarlberg
-Klagenfurt am W├Ârthersee	K├ñrnten	7	Klagenfurt und Umgebung
-Mondsee am Mondsee	Ober├Âsterreich	4	Mondseeland / Mondsee-Irrsee
-Innsbruck - Nordkette	Tirol	23	Tirol
-Alpes-de-Haute-Provence	Provence-Alpes-C├┤te dÔÇÖAzur	3	Provence-Alpes-C├┤te dÔÇÖAzur
-Brandenburg an der Havel	Brandenburg	4	Havelland
-Vulkaneifel	Rheinland-Pfalz	3	Eifel/ Rheinland-Pfalz
-Schwarzsee / Kaiseregg Bahnen	Freiburg Region	5	Freiburg Region
-Halde / Westerheim	Baden-W├╝rttemberg	5	Baden-W├╝rttemberg
-B├Âhmenkirch - Treffelhausen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Skilifte Puchenstuben - Turmkogel	Nieder├Âsterreich	2	Nieder├Âsterreich
-Zwettl	Nieder├Âsterreich	1	Waldviertel Mitte
-Lans en Vercors	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
-Albstadt - Pfeffingen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Le Revard	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
-Le Larmont / Pontarlier	Burgund-Freigrafschaft	4	Burgund-Freigrafschaft
-Oeschinen - Kandersteg	Berner Oberland	10	Ferienregion Kandertal
-Varese	Lombardei	1	Lombardei
-Le Semnoz	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Monts Jura	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-M├®audre	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Valmeinier - Galibier Thabor	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Val Cenis	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Str├í┼¥n├¢	S├╝db├Âhmische Region	4	S├╝db├Âhmische Region
-Koh├║tka	Region Zlin	3	Region Zlin
-Rali┼íka	Region Zlin	2	Region Zlin
-Jasn├í N├¡zke Tatry / Chopok	Silleiner Landschaftsverband	3	Silleiner Landschaftsverband
-Lutherstadt Eisleben	Sachsen-Anhalt	2	Der Harz/ Sachsen-Anhalt
-Wusterhausen/Dosse	Brandenburg	0	Prignitz
-Schw├ñbische Alb	Baden-W├╝rttemberg	65	Baden-W├╝rttemberg
-Neustadtl an der Donau	Nieder├Âsterreich	2	Moststra├ƒe
-Albstadt - Ebingen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Fulpmes / Stubaital	Tirol	17	Stubaital
-Innerkrems	K├ñrnten	4	Nockberge
-Steyregg	Ober├Âsterreich	0	Donau Ober├Âsterreich
-Stoaninger Alm	Ober├Âsterreich	2	Ober├Âsterreich
-Holzgau	Tirol	2	Lechtal
-Gramais	Tirol	2	Lechtal
-Eggalm Bahnen / Tux-Lanersbach	Tirol	4	Tirol
-Wei├ƒenbach am Lech	Tirol	1	Naturparkregion Reutte
-Valdezcaray	La Rioja	3	La Rioja
-Torfhaus im Harz	Niedersachsen	1	Oberharz
-Region Murtensee	Jura & Drei-Seen-Land	1	Drei-Seen-Land
-De Panne	Fl├ñmische Region	2	Belgische K├╝ste
-Michelbach	Nieder├Âsterreich	1	Elsbeere-Wienerwald
-Kappl / Paznaun-Ischgl	Tirol	6	Tirol
-Hallein / Bad D├╝rrnberg	Salzburger Land	1	Tennengau - Dachstein West
-Rankweil	Vorarlberg	2	Bodensee - Vorarlberg
-Kl├Âsterle am Arlberg - Sonnenkopf	Vorarlberg	5	Kl├Âsterle - Stuben am Arlberg
-Sankt Urban - Simonh├Âhe	K├ñrnten	3	Mittelk├ñrnten
-Weinebene	K├ñrnten	2	K├ñrnten
-Pichl	Steiermark	3	Schladming-Rohrmoos-Pichl
-Murauer Frauenalpe	Steiermark	2	Steiermark
-Katrin	Ober├Âsterreich	3	Ober├Âsterreich
-Sandl / Viehberg	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
-Gr├╝nau im Almtal	Ober├Âsterreich	11	Traunsee-Almtal
-Stanzach	Tirol	0	Lechtal
-Lohnsburg am Kobernau├ƒerwald	Ober├Âsterreich	1	s`Innviertel
-Eggiwil	Berner Oberland	2	Berner Oberland
-Chur - Brambr├╝esch	Graub├╝nden	2	Graub├╝nden
-Engadin Scuol Zernez	Graub├╝nden	11	Graub├╝nden
-Villingen-Schwenningen	Baden-W├╝rttemberg	0	Schwarzwald
-Teufen	Ostschweiz	1	Appenzell Ausserrhoden
-Elm	Ostschweiz	7	Ostschweiz
-Sattel Hochstuckli	Luzern - Vierwaldst├ñttersee	1	Luzern - Vierwaldst├ñttersee
-M├╝nsing	Bayern	4	T├Âlzer Land
-Gro├ƒostheim	Bayern	1	Churfranken
-Timmendorfer Strand / Niendorf	Schleswig-Holstein	11	Ostsee - Schleswig Holstein
-Meg├¿ve - Evasion Mont-Blanc	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Podkoren	Gorenjska	1	Gorenjska
-Campo Felice	Abruzzen	7	Abruzzen
-Stari vrh	Gorenjska	2	Gorenjska
-Les Arcs - Bourg Saint Maurice	Auvergne-Rh├┤ne-Alpes	7	Savoie Mont Blanc
-Fichtelberg - Oberwiesenthal	Sachsen	12	Sachsen
-Basel	Basel Region	6	Basel Region
-Val di Scalve	Lombardei	2	Val Seriana / Serio-Tal
-Val Seriana / Serio-Tal	Lombardei	14	Lombardei
-Bad Goisern	Ober├Âsterreich	1	Dachstein Salzkammergut
-St. Moritz	Graub├╝nden	8	Engadin St. Moritz
-Skilift Mastrils	Graub├╝nden	1	Graub├╝nden
-Svratka	Region Vyso─ìina	1	Region Vyso─ìina
-Bad Urach	Baden-W├╝rttemberg	9	Schw├ñbische Alb
-Wehr am Hochrhein	Baden-W├╝rttemberg	1	Hochrhein
-Sever├ík / Jizerky	Region Reichenberg	4	Region Reichenberg
-Schladming-Rohrmoos-Pichl	Steiermark	16	Schladming - Dachstein
-Sternstein Lifte - Bad Leonfelden	Ober├Âsterreich	4	Ober├Âsterreich
-Pfelders	S├╝dtirol	7	Passeiertal
-Gro├ƒenl├╝der	Hessen	0	<missing>
-Treviso	Venetien	10	Venetien
-Malcesine - Monte Baldo	Venetien	1	Venetien
-Monte Avena - Croce d┬┤Aune	Venetien	1	Venetien
-Dachau	Bayern	1	<missing>
-Mitterdorf - Mitterfirmansreut	Bayern	3	Bayern
-Liftanlagen Oberwilhams	Bayern	1	Bayern
-Ilmenau	Th├╝ringen	3	Th├╝ringer Wald
-Greising - Deggendorf	Bayern	2	Bayern
-Treuchtlingen	Bayern	1	Naturpark Altm├╝hltal
-Sankt Englmar	Bayern	15	Bayern
-Hohenems	Vorarlberg	2	Bodensee - Vorarlberg
-Gai├ƒau	Vorarlberg	1	Bodensee - Vorarlberg
-Hochf├╝gen Zillertal	Tirol	2	Tirol
-Stuben am Arlberg	Vorarlberg	3	Vorarlberg
-Bludenz	Vorarlberg	2	Alpenstadt Bludenz
-Diex	K├ñrnten	2	Klopeiner See - S├╝dk├ñrnten
-Rosegg	K├ñrnten	1	Carnica Region Rosental
-Arnoldstein	K├ñrnten	2	Region Villach - Faaker See...
-St. Andr├ñ	K├ñrnten	1	Lavanttal
-Millstatt am See	K├ñrnten	2	Millst├ñtter See
-Marchtrenk	Ober├Âsterreich	1	Hausruckviertel
-Neumarkt im M├╝hlkreis	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
-Enns	Ober├Âsterreich	0	Donau Ober├Âsterreich
-Obertilliach / Lesachtal	Tirol	3	Hochpustertal - Osttirol
-Kempten	Bayern	1	Oberallg├ñu
-Zauchensee - Flachauwinkl - Ski amade	Salzburger Land	10	Salzburger Land
-Obersaxen Mundaun	Graub├╝nden	14	Graub├╝nden
-Corvatsch - Furtschellas	Graub├╝nden	16	Graub├╝nden
-Val Bregaglia	Graub├╝nden	5	Graub├╝nden
-Engadin Val M├╝stair	Graub├╝nden	7	Graub├╝nden
-Atzm├ñnnig	Ostschweiz	2	Ostschweiz
-Glarus	Ostschweiz	2	Glarnerland
-Annaberg	Nieder├Âsterreich	11	Nieder├Âsterreich
-H├╝ttegglift Weerberg	Tirol	5	Tirol
-Hum	Istrien	2	Istrien
-Wildon	Steiermark	0	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
-Nesselwang	Bayern	3	Ostallg├ñu
-Spital am Semmering - Stuhleck	Steiermark	6	Semmering-Waldheimat-Veitsch
-Judenburg	Steiermark	1	Murau-Murtal
-┼áentjo┼ít nad Horjulom	Zentralslowenien	1	Zentralslowenien
-Flaine - Le Grand Massif	Auvergne-Rh├┤ne-Alpes	9	Auvergne-Rh├┤ne-Alpes
-Naumburg	Sachsen-Anhalt	0	Halle-Saale-Unstrut
-Limburg an der Lahn	Hessen	2	Lahntal / Hessen
-Hohenbogen	Bayern	4	Bayern
-Mariborsko Pohorje	Podravska	16	Podravska
-Cerkno	Gori┼íka	2	Gori┼íka
-Hohenschwangau	Bayern	8	Ostallg├ñu
-Reit im Winkl	Bayern	8	Bayern
-Donauw├Ârth	Bayern	9	Bayerisch-Schwaben
-Langenfeld (Rheinland)	Nordrhein-Westfalen	1	D├╝sseldorf & Neanderland
-Clausthal-Zellerfeld	Niedersachsen	1	Oberharz
-Aussois	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Gaienhofen	Baden-W├╝rttemberg	2	Westlicher Bodensee
-Schauinslandbahn	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Mehliskopf	Baden-W├╝rttemberg	4	B├╝hl-B├╝hlertal
-Valloire-Valmeinier	Auvergne-Rh├┤ne-Alpes	0	<missing>
-Zauberberg Semmering - Hirschenkogel	Nieder├Âsterreich	6	Nieder├Âsterreich
-Gars am Kamp	Nieder├Âsterreich	2	Kamptal - Manhartsberg
-Skipark Vy┼ín├® Ru┼¥bachy	Eperieser Landschaftsverband	0	Eperieser Landschaftsverband
-Seibelseckle	Baden-W├╝rttemberg	5	Baden-W├╝rttemberg
-Latsch - Martelltal	S├╝dtirol	5	Vinschgau
-Formigal	Aragonien	5	<missing>
-Luchon-Superbagn├¿res	Okzitanien	2	Okzitanien
-Kaberlaba	Venetien	1	Venetien
-Tarvis und Umgebung	Friaul-Julisch Venetien	18	Friaul-Julisch Venetien
-SnowWorld Landgraaf	Limburg	0	Limburg
-Livorno	Toskana	0	Toskana
-Vall de N├║ria	Katalonien	3	Katalonien
-La Thuile / La Rosiere - ├ëspace San Bernardo	Aostatal	5	Mont Blanc
-San Simone - Foppolo - Carona	Lombardei	1	Lombardei
-Vigo di Fassa	Trentino	11	Fassatal
-Pejo 3000 / Val di Sole	Trentino	4	Trentino
-Rom	Latium	0	<missing>
-Maribor-Pohorje	Podravska	16	Podravska
-Flumet - Saint Nicolas la Chapelle - Espace Diamant	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
-Den Haag	S├╝dholland	4	S├╝dholland
-St. Agatha	Ober├Âsterreich	1	Donau Ober├Âsterreich
-Baumgartenberg	Ober├Âsterreich	1	Donau Ober├Âsterreich
-Bad Tatzmannsdorf	Burgenland	1	S├╝dburgenland
-Nassereith	Tirol	1	Outdoorregion Imst
-Hochzillertal	Tirol	23	Tirol
-Mariastein	Tirol	1	Ferienregion Hohe Salve
-Altheim	Ober├Âsterreich	1	s`Innviertel
-Chiemgau - Chiemsee	Bayern	52	Oberbayern
-Visperterminen	Wallis	11	Wallis
-L├╝beck	Schleswig-Holstein	3	Ostsee - Schleswig Holstein
-Gehlberg	Th├╝ringen	1	Th├╝ringen
-Obdach	Steiermark	3	Steiermark
-Hellmons├Âdt	Ober├Âsterreich	3	M├╝hlviertler Sterngartl
-Wachtberglifte Weyregg am Attersee	Ober├Âsterreich	4	Ober├Âsterreich
-Sipbachzell	Ober├Âsterreich	1	Hausruckviertel
-Niederthai 	Tirol	5	├ûtztal
-Veysonnaz	Wallis	4	Thyon les Collons
-Brigels Waltensburg Andiast	Graub├╝nden	13	Graub├╝nden
-Soglio	Graub├╝nden	1	Val Bregaglia
-Flawil	Ostschweiz	1	St. Gallen und Umgebung
-Losenstein	Ober├Âsterreich	3	Steyr und die Nationalpark Region
-Velk├® Mezi┼Ö├¡─ì├¡ - Fajt┼»v kopec	Region Vyso─ìina	1	Region Vyso─ìina
-Kr├íliky	Neusohler Landschaftsverband	1	Neusohler Landschaftsverband
-┼áibenik	Dalmatien - ┼áibenik	2	Dalmatien - ┼áibenik
-Faloria - Monte Cristallo - Mietres	Venetien	10	Venetien
-Valsavarenche	Aostatal	2	Gran Paradiso / Grand Paradis
-Berg├╝n	Graub├╝nden	1	Berg├╝n Filisur
-Skilift Argental - Weitnau	Bayern	2	Bayern
-Ettal - Graswang - Linderhof	Bayern	2	Ammergauer Alpen
-Val di Sole / Passo Tonale	Trentino	4	Val di Sole
-Bleaml Alm - Neubau / Fichtelberg	Bayern	1	Bayern
-Pozza di Fassa	Trentino	11	Fassatal
-Oberallg├ñu	Bayern	103	Allg├ñu
-Luggi-Leitner-Lifte Scheidegg	Bayern	1	Bayern
-─îrna na Koro┼íkem	Koro┼íka - slowenisches K├ñrnten	1	Koro┼íka
-Salem	Baden-W├╝rttemberg	2	Bodensee - Linzgau
-Gutenbrunn	Nieder├Âsterreich	1	Waldviertel Mitte
-Thaya	Nieder├Âsterreich	3	Nationalparkregion Thayatal
-Dornbirn	Vorarlberg	4	Bodensee - Vorarlberg
-Sibratsgf├ñll - Kr├ñhenberg	Vorarlberg	2	Vorarlberg
-Dellach im Drautal	K├ñrnten	2	Oberdrautal / Nationalpark-Region...
-P├Âllauberg	Steiermark	1	Naturpark P├Âllauer Tal
-Seewiesen - Seeberg	Steiermark	1	Pogusch - Steirische Romantik
-Tauplitzalm	Steiermark	2	Ausseerland - Salzkammergut
-K├╝htai	Tirol	5	Innsbruck und seine Feriend├Ârfer
-Virgen in Osttirol	Tirol	3	Tirol
-Lermoos	Tirol	8	Zugspitz Arena
-Kartitsch	Tirol	3	Hochpustertal - Osttirol
-Gr├Âdig	Salzburger Land	1	Stadt Salzburg & Umgebung
-Reinswald Sarntal	S├╝dtirol	8	S├╝dtirol
-Andorra la Vella	Andorra	1	Andorra
-Ladurns - Pflerschtal	S├╝dtirol	3	S├╝dtirol
-Faaker See	K├ñrnten	0	<missing>
-Korneuburg	Nieder├Âsterreich	1	Kamptal - Wagram - Tullner Donauraum
-Alpe Cimbra / Folgaria - Lavarone - Luserna	Trentino	2	Trentino
-Fischbachau	Bayern	1	Alpenregion Tegernsee - Schliersee
-Berchtesgaden	Bayern	30	Berchtesgadener Land
-Ratingen	Nordrhein-Westfalen	1	D├╝sseldorf & Neanderland
-Hallau	Ostschweiz	1	SchaffhauserLand
-Cardada Cimetta / Locarno	Tessin	8	Tessin
-Jungholz	Tirol	6	Tirol
-Schattwald - Z├Âblen im Tannheimertal	Tirol	5	Tirol
-Skizentrum Schlick 2000 - Fulpmes	Tirol	17	Tirol
-Hinterhornbach	Tirol	2	Lechtal
-Gries am Brenner	Tirol	2	Wipptal
-Wattens	Tirol	6	Ferienregion Hall - Wattens
-K├Âssen	Tirol	12	Kaiserwinkl
-Warth - Schr├Âcken	Vorarlberg	11	<missing>
-Bremgarten	Aargau	0	<missing>
-Kun─ìice	Region Olm├╝tz	0	<missing>
-Sonntagberg	Nieder├Âsterreich	2	Mostviertel
-Hainfeld	Nieder├Âsterreich	3	Traisen-G├Âlsental
-Stockerau	Nieder├Âsterreich	1	Kamptal - Wagram - Tullner Donauraum
-Naturpark Zirbitzkogel - Grebenzen	Steiermark	5	Murau-Murtal
-Kiental	Berner Oberland	0	<missing>
+Oetz - Hochoetz	Tirol	11	Tirol
+Alpes Vaudoises	Waadtland / Genferseegebiet	23	Waadtland / Genferseegebiet
+Kampenwandseilbahn / Aschau im Chiemgau	Bayern	10	Bayern
+Klostertal	Vorarlberg	7	Alpenregion Bludenz
 St. Andr├ñ am Zicksee	Burgenland	0	<missing>
-Wechselland - Wiener Alpen	Nieder├Âsterreich	12	Wiener Alpen
-Puchberg am Schneeberg	Nieder├Âsterreich	15	Schneebergland - Wiener Alpen
-Ehrwalder Almbahn / Ehrwald	Tirol	15	Tirol
-Emberger Alm	K├ñrnten	2	Oberdrautal / Nationalpark-Region...
-Bodensdorf / Steindorf am Ossiacher See	K├ñrnten	1	Region Villach - Faaker See...
-Reiteralm / Schladming - Ski amade	Steiermark	4	Steiermark
-Reichraming	Ober├Âsterreich	1	Steyr und die Nationalpark Region
-Lovere	Lombardei	0	Iseosee
-Alkoven	Ober├Âsterreich	1	Donau Ober├Âsterreich
-Wildsch├Ânau - Ski Juwel Alpbachtal Wildsch├Ânau	Tirol	16	Tirol
-Hochzeiger - Jerzens im Pitztal	Tirol	19	Tirol
-Wildkogel-Arena / Neukirchen - Bramberg	Salzburger Land	6	Salzburger Land
-Goldegg - Ski amade	Salzburger Land	2	Salzburger Land
-Bad Hofgastein - Ski amade	Salzburger Land	32	Salzburger Land
-├ägerital - Sattel	Luzern - Vierwaldst├ñttersee	6	Brunnen-Schwyz
-St-Luc / Chandolin	Wallis	9	Sierre Anniviers
-Arth-Goldau	Luzern - Vierwaldst├ñttersee	1	Rigi
-Galgenen	Luzern - Vierwaldst├ñttersee	2	Einsiedeln-Ybrig-Z├╝richsee
-Kelheim	Bayern	0	Landkreis Kelheim
-Skilift Wurmstein / Flossenb├╝rg	Bayern	0	Bayern
-Hopfen am See	Bayern	3	Ostallg├ñu
-R├Âdental	Bayern	1	Coburger Land
-Teisendorf	Bayern	1	Berchtesgadener Land
-Gardelegen	Sachsen-Anhalt	1	Altmark
-Boltenhagen	Mecklenburg-Vorpommern	3	Ostseek├╝ste Mecklenburg
-Altenberg - Geising	Sachsen	4	Sachsen
-Furtwangen - Skilift Bregtallift	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Waldburg im Allg├ñu	Baden-W├╝rttemberg	2	Region Waldburg
-Bad Sch├Ânborn	Baden-W├╝rttemberg	1	Kraichgau Stromberg
-Hockenheim	Baden-W├╝rttemberg	1	Kurpfalz
-Prati di Tivo	Abruzzen	2	Abruzzen
-Celjska ko─ìa	Savinjska	2	Savinjska
-Balme - Vallorcine	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
-Zlarin	Dalmatien - ┼áibenik	1	Insel Zlarin
-See im Paznauntal	Tirol	4	<missing>
-Oberfrauenwald / Waldkirchen	Bayern	1	Bayern
-AktivArena am Kolben / Oberammergau	Bayern	5	Bayern
-Neukirchen / Lautertal	Bayern	1	Bayern
-Skilift Quellenwiese	Nieder├Âsterreich	0	Nieder├Âsterreich
-St. Anton an der Je├ƒnitz	Nieder├Âsterreich	1	Eisenstra├ƒe Nieder├Âsterreich
-K├Ânigsberg - Hollenstein/Ybbs	Nieder├Âsterreich	1	Nieder├Âsterreich
-N├Âtsch im Gailtal	K├ñrnten	2	Region Villach - Faaker See...
-Weitensfeld im Gurktal	K├ñrnten	0	Mittelk├ñrnten
-St. Thomas am Blasenstein	Ober├Âsterreich	1	M├╝hlviertler Alm Freistadt
-Spitz an der Donau	Nieder├Âsterreich	1	Wachau - Nibelungengau - Kremstal
-Wolkersdorf	Nieder├Âsterreich	1	Weinviertel
-Z├╝rich	Z├╝rich & Z├╝rich Region	26	Z├╝rich & Z├╝rich Region
-Zell am Ziller - Zillertal Arena	Tirol	7	Tirol
-Reith im Alpbachtal	Tirol	3	Alpbachtal
-St. Christoph am Arlberg	Tirol	1	Ferienregion St. Anton am Arlberg
-Lermoos - Grubigsteinbahnen	Tirol	8	Tirol
-St. Koloman	Salzburger Land	2	Tennengau - Dachstein West
-Panoramabahn Kitzb├╝heler Alpen - Mittersill	Salzburger Land	2	Salzburger Land
-Safiental	Graub├╝nden	3	Graub├╝nden
-Pizol - Bad Ragaz - Wangs	Ostschweiz	21	Ostschweiz
-Appenzell	Ostschweiz	18	Appenzell Innerrhoden
-Ch├ñserrugg	Ostschweiz	2	Ferienregion Toggenburg
-Lichtensteig	Ostschweiz	1	Ferienregion Toggenburg
-Hohe Bracht / Lennestadt	Nordrhein-Westfalen	0	Nordrhein-Westfalen
-Lappach	S├╝dtirol	1	Ahrntal
-Pula	Istrien	1	Istrien
-Pila / Aostatal	Aostatal	29	Aostatal
-Monte Maniva	Lombardei	0	Lombardei
-Fedaiapass	Trentino	0	Fassatal
-Pore─ì	Istrien	2	Istrien
-Hochgratbahn Oberstaufen - Steibis	Bayern	9	Bayern
-Oberstdorf / S├Âllereck - H├Âllwies	Bayern	4	Oberallg├ñu
-Tettau	Bayern	1	Frankenwald
-St. Johann am Wimberg	Ober├Âsterreich	2	Ferienregion B├Âhmerwald
-Abfaltersbach	Tirol	1	Hochpustertal - Osttirol
-Maishofen	Salzburger Land	3	Salzburger Land
-Corvatsch	Graub├╝nden	14	Engadin St. Moritz
-Silvretta Arena Samnaun / Ischgl	Graub├╝nden	9	Graub├╝nden
-Kalte Herberge Urach / V├Âhrenbach	Baden-W├╝rttemberg	0	Baden-W├╝rttemberg
-Wiesensteig - Bl├ñsiberg	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-L├╝sen	S├╝dtirol	1	Eisacktal
-Plose Brixen	S├╝dtirol	18	S├╝dtirol
-Ebenalp-Horn	Ostschweiz	8	Ostschweiz
-Quarten	Ostschweiz	1	Walensee
-Meiringen - Hasliberg	Berner Oberland	7	Berner Oberland
-H├Âchstadt an der Aisch	Bayern	1	Steigerwald
-St. Wolfgang am Wolfgangsee	Salzburger Land	3	Wolfgangsee - Salzkammergut
-Dietramszell	Bayern	0	T├Âlzer Land
-Mont-Noble / Nax	Wallis	1	Val d`H├®rens
-Thal / Staad / Altenrhein	Ostschweiz	2	St. Gallen und Umgebung
-Pf├ñfers	Ostschweiz	1	Bad Ragaz, Pizol und Umgebung
-B├╝sum	Schleswig-Holstein	4	Dithmarschen
-Wasserkuppe	Hessen	7	Hessen
-Traisen	Nieder├Âsterreich	0	Traisen-G├Âlsental
-B├ñrnkopf	Nieder├Âsterreich	1	Waldviertel Mitte
-Gloggnitz	Nieder├Âsterreich	3	Semmering - Rax - Schneeberg
-Walmendingerhorn - Ifen - Heuberg	Vorarlberg	16	Vorarlberg
-Fl├ñming	Brandenburg	1	Brandenburg
-Seiffen	Sachsen	3	Erzgebirge
-Oberhof / Fallbachlift - Alte Golfwiese	Th├╝ringen	8	Th├╝ringen
-Steinach	Th├╝ringen	4	Coburg Rennsteig / Th├╝ringen
-Ebensee - Feuerkogel	Ober├Âsterreich	5	Traunsee-Almtal
-Gams	Ostschweiz	1	Werdenberg Region
-Thale am Harz	Sachsen-Anhalt	4	Bodetal
-Gr├Âmitz	Schleswig-Holstein	2	Ostsee - Schleswig Holstein
-Schl├╝chtern	Hessen	0	Spessart
-Tonnerh├╝tte - Zirbitzkogel	Steiermark	0	<missing>
-Macesnovc	Gorenjska	1	Gorenjska
-Eschenbach	Z├╝rich & Z├╝rich Region	1	Z├╝rcher Oberland
-Oberndorf in Tirol	Tirol	2	Kitzb├╝heler Alpen St. Johann in Tirol
-Sportgastein	Salzburger Land	7	Gasteinertal
-Bodenmais - Silberberg	Bayern	6	Bayern
-Krimml - Hochkrimml	Salzburger Land	10	Nationalpark Hohe Tauern
-Gro├ƒeck - Speiereck - Mauterndorf	Salzburger Land	19	Salzburger Land
-Serlesbahnen Mieders	Tirol	5	Tirol
-Russbach am Pa├ƒ Gsch├╝tt - Dachstein West	Salzburger Land	11	Tennengau - Dachstein West
-St. Martin am Tennengebirge	Salzburger Land	3	Salzburger Land
-Muhr / Rotg├╝lden	Salzburger Land	1	Lungau - Ferienregion
-Mittelberg	Vorarlberg	12	Kleinwalsertal
-Fontanella - Faschina	Vorarlberg	7	Biosph├ñrenpark Gro├ƒes Walsertal
-Verbier / 4 Vall├®es	Wallis	7	Wallis
-Grebenzen - St.Lambrecht	Steiermark	4	Steiermark
-Bad Waltersdorf	Steiermark	0	Bad Waltersdorf
-Murau - Kreischberg	Steiermark	27	Murau
-Turracher H├Âhe	K├ñrnten	14	Steiermark
-Grafengehaig	Bayern	1	Frankenwald
-Hellenthal	Nordrhein-Westfalen	4	Nordeifel
-St. M├ñrgen	Baden-W├╝rttemberg	1	Hochschwarzwald
-Herrischried	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Font-Romeu - Pyr├®n├®es 2000	Okzitanien	1	Okzitanien
-Alpe Teglio / Prato Valentino	Lombardei	1	Lombardei
-Bonera Ramzov├í	Region Olm├╝tz	3	Region Olm├╝tz
-Ba┼íka Voda	Dalmatien - Split	1	Mittel-Dalmatien
-Vorderlanersbach - Rastkogel	Tirol	1	<missing>
-Valdelinares	Aragonien	0	<missing>
-Bad V├Âslau	Nieder├Âsterreich	0	<missing>
-Haldenk├Âpfle / Schauinsland	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Pustevny	M├ñhren-Schlesien	4	M├ñhren-Schlesien
-Wieselburg	Nieder├Âsterreich	1	Eisenstra├ƒe Nieder├Âsterreich
-Bietigheim-Bissingen	Baden-W├╝rttemberg	3	Kraichgau Stromberg
-Lana und Umgebung	S├╝dtirol	3	Meran und Umgebung
-─îervenohorsk├® sedlo	Region Olm├╝tz	5	Region Olm├╝tz
-Triest und Karst	Friaul-Julisch Venetien	2	Friaul-Julisch Venetien
-Prato Nevoso / Artesina / Frabosa Soprana	Piemont	3	Piemont
-Nara / Leontica-Cancor├¼	Tessin	1	Tessin
-Engelberg Titlis	Luzern - Vierwaldst├ñttersee	14	Luzern - Vierwaldst├ñttersee
-Hoch - Ybrig	Luzern - Vierwaldst├ñttersee	5	Einsiedeln-Ybrig-Z├╝richsee
-Nordhausen	Th├╝ringen	3	Der Harz/ Th├╝ringen
-Mittag Skicenter	Bayern	12	Oberallg├ñu
-Alpspitz / Edelsberg	Bayern	1	Ostallg├ñu
-Wolfsburg	Niedersachsen	1	Braunschweiger Land
-Bad Staffelstein	Bayern	7	Obermain Jura
-Oberaudorf Hocheck	Bayern	6	Bayern
-Hallig Hooge	Schleswig-Holstein	3	Halligen
-Bad Honnef	Nordrhein-Westfalen	0	Siebengebirge
-Radevormwald	Nordrhein-Westfalen	1	Bergisches Land
-Wilhelmshaven	Niedersachsen	1	Ostfriesland
-Wieden im Schwarzwald	Baden-W├╝rttemberg	2	Schwarzwaldregion Belchen
-Hinterzarten Thoma	Baden-W├╝rttemberg	6	Baden-W├╝rttemberg
-Arolla	Wallis	3	Wallis
-Oberneukirchen-Waxenberg-Traberg	Ober├Âsterreich	1	M├╝hlviertler Hochland
-Wernstein am Inn	Ober├Âsterreich	1	Innviertel
-Pamhagen	Burgenland	1	Neusiedler See
-Furna	Graub├╝nden	2	Pr├ñttigau
-Tschappina-Urmein-Heinzenberg	Graub├╝nden	4	Graub├╝nden
-Klewenalp - Stockh├╝tte	Luzern - Vierwaldst├ñttersee	5	Luzern - Vierwaldst├ñttersee
-Oberammergau	Bayern	8	Ammergauer Alpen
-Rosenheim	Bayern	1	Chiemsee - Alpenland
-Schleching - Ettenhausen	Bayern	4	Bayern
-Sauerland/ Nordrhein-Westfalen	Nordrhein-Westfalen	94	Nordrhein-Westfalen
-Br├╝hl (Rheinland)	Nordrhein-Westfalen	3	K├Âln & Rhein-Erft-Kreis
-Masserberg - Am Ersteberg	Th├╝ringen	2	Th├╝ringen
-Traben-Trarbach	Rheinland-Pfalz	1	Moselregion Traben-Trarbach Kr├Âv
-Winklmoos Steinplatte / Reit im Winkl	Bayern	3	Bayern
 Murnau am Staffelsee	Bayern	4	Das Blaue Land
-La Robella	Jura & Drei-Seen-Land	1	Jura & Drei-Seen-Land
-Oeschinensee - Kandersteg	Berner Oberland	10	Berner Oberland
-Meiringen	Berner Oberland	2	Haslital
-Fischen im Allg├ñu / H├Ârnerd├Ârfer	Bayern	1	Oberallg├ñu
-Oberkirch	Baden-W├╝rttemberg	1	Renchtal
-Grafenhausen	Baden-W├╝rttemberg	0	Hochschwarzwald
-St. Magdalena / Gsieser Tal	S├╝dtirol	12	S├╝dtirol
-Gaschurn - Partenen	Vorarlberg	7	Montafon
-Augsburg	Bayern	2	Bayerisch-Schwaben
-Flossenb├╝rg	Bayern	0	Oberpf├ñlzer Wald
-Alpsee Bergwelt	Bayern	0	Oberallg├ñu
-B├╝singen am Hochrhein	Baden-W├╝rttemberg	0	Baden-W├╝rttemberg
-Kirchzarten	Baden-W├╝rttemberg	1	Hochschwarzwald
-Notschrei Skilifte	Baden-W├╝rttemberg	0	Baden-W├╝rttemberg
-Albstadt	Baden-W├╝rttemberg	7	Zollernalb
-Reschen	S├╝dtirol	7	Reschenpass
-Malcesine	Venetien	4	Gardasee
-Furtnerlifte - Rohr im Gebirge	Nieder├Âsterreich	1	Nieder├Âsterreich
-Zagreb - Stadt	Zagreb	6	Zagreb
-Trije Kralji	Podravska	1	Podravska
+Kals am Gro├ƒglockner	Tirol	18	NationalparkRegion Hohe Tauern Osttirol
+Kleinwalsertal	Vorarlberg	28	Vorarlberg
+Hochlitten Riefensberg	Vorarlberg	1	Vorarlberg
+Anger	Bayern	7	Berchtesgadener Land
+Modriach	Steiermark	0	Steiermark
+Breuil Cervinia	Aostatal	3	Matterhorn / Mont Cervin
+Elsigenalp - Metschalp Frutigen	Berner Oberland	2	Berner Oberland
+Skilift Pichl / Gsieser Tal	S├╝dtirol	1	S├╝dtirol
+Flattach	K├ñrnten	2	Hohe Tauern - die Nationalpark-Region...
+Pr├╝m	Rheinland-Pfalz	2	Eifel/ Rheinland-Pfalz
+Sand in Taufers	S├╝dtirol	8	Ahrntal
+Cesana - Sansicario	Piemont	6	Susatal und Val Chisone
+Bad W├╝nnenberg	Nordrhein-Westfalen	1	Sauerland/ Nordrhein-Westfalen
+Eichholzkopf / Dietzh├Âlztal	Hessen	1	Hessen
+Rottach - Egern	Bayern	3	Alpenregion Tegernsee - Schliersee
+Waren (M├╝ritz)	Mecklenburg-Vorpommern	3	M├╝ritz "plus"
+Paderborn	Nordrhein-Westfalen	3	Teutoburger Wald
+Flensburg	Schleswig-Holstein	1	Flensburger F├Ârde
+Miesenbach - Wiesenhofer	Steiermark	1	Steiermark
+Lispach - La Bresse	Grand Est	0	Grand Est
+F├Âhr	Schleswig-Holstein	7	Nordsee - Schleswig-Holstein
+St. Jakob im Defereggental / Brunnalm	Tirol	4	Tirol
+Virgen	Tirol	3	NationalparkRegion Hohe Tauern Osttirol
+Kreischberg / Murau	Steiermark	25	Steiermark
+Gardelegen	Sachsen-Anhalt	1	Altmark
+Doln├¡ Morava	Region Olm├╝tz	7	Region Olm├╝tz
+Lochau	Vorarlberg	0	Bodensee - Vorarlberg
+Herzogstand - Walchensee	Bayern	9	Bayern
+Rosenheim	Bayern	1	Chiemsee - Alpenland
 Cerknica	K├╝stenland-Innerkrain	5	Notranjsko-Kra┼íka
 Untersch├ñchen	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
-Kolsassberg	Tirol	2	Silberregion Karwendel
-Malta	K├ñrnten	3	Lieser - Maltatal
-Silberregion Karwendel	Tirol	18	Tirol
-Wildalpen	Steiermark	1	Ges├ñuse
-Deutschlandsberg	Steiermark	6	Schilcherland Steiermark
-Feldbach	Steiermark	1	Feldbach
-Salzstiegl	Steiermark	2	Lipizzanerheimat - Steirische...
-Wildhaus - Alt St. Johann	Ostschweiz	7	Ferienregion Toggenburg
-Hohlgassland	Luzern - Vierwaldst├ñttersee	4	Rigi
-Untergriesbach	Bayern	1	Passauer Land
-Wallgau	Bayern	2	Alpenwelt Karwendel
-Wiesbaden	Hessen	2	Rheingau
-Zempin	Mecklenburg-Vorpommern	2	Usedom
-Sundern	Nordrhein-Westfalen	1	Sauerland/ Nordrhein-Westfalen
-Genua und Umgebung	Ligurien	13	Ligurien
-Santa Caterina Valfurva	Lombardei	2	Lombardei
-Levico Terme / Valsugana	Trentino	2	Valsugana - Lagorai - Vigolana...
-Hildesheim	Niedersachsen	1	Hildesheim Region
-St. Englmar	Bayern	2	Sankt Englmar
-Bayrischzell	Bayern	13	Alpenregion Tegernsee - Schliersee
-Frauenzell / Brennberg	Bayern	1	Bayern
-Schw├ñrzenlifte Eschach	Bayern	2	Bayern
-Herzogstand - Walchensee	Bayern	9	Bayern
-Rabenkopf - Oberau	Bayern	2	Bayern
-Bornheim	Nordrhein-Westfalen	1	Rhein-Voreifel
-Lauscha	Th├╝ringen	3	Coburg Rennsteig / Th├╝ringen
-Neuharlingersiel	Niedersachsen	1	Nordseek├╝ste
-Pichl-Reiteralm	Steiermark	16	Schladming - Dachstein
-Maria Lankowitz	Steiermark	1	Lipizzanerheimat - Steirische...
-Altes Almhaus	Steiermark	3	Steiermark
-St. Marienkirchen an der Polsenz	Ober├Âsterreich	3	Hausruckviertel
-Hansberg	Ober├Âsterreich	2	Ober├Âsterreich
-Aigen - Schl├ñgl	Ober├Âsterreich	2	Ferienregion B├Âhmerwald
-S├Âlden	Tirol	14	├ûtztal
-Maria Luggau	K├ñrnten	0	<missing>
-Champorcher	Aostatal	1	Valle Centrale - Mont Avic
-Furth bei G├Âttweig	Nieder├Âsterreich	8	Wachau - Nibelungengau - Kremstal
-Steibis	Bayern	10	Oberallg├ñu
-Frankenfels	Nieder├Âsterreich	1	Pielachtal
-M├Ânichkirchen	Nieder├Âsterreich	3	Wechselland - Wiener Alpen
-Schwarzach	Bayern	2	Bodensee - Vorarlberg
-Schilift Hrast / Feistritz a.d. Gail	K├ñrnten	7	K├ñrnten
-Sirnitz - Hochrindl - Albeck	K├ñrnten	4	Nockberge
-Bad Eisenkappel	K├ñrnten	2	Klopeiner See - S├╝dk├ñrnten
-Ratten	Steiermark	1	Joglland - Waldheimat
-Loser - Altaussee - Schneeb├ñren	Steiermark	14	Steiermark
-Neukirchen am Walde	Ober├Âsterreich	2	Donau Ober├Âsterreich
-Natternbach	Ober├Âsterreich	1	Donau Ober├Âsterreich
-Luftenberg an der Donau	Ober├Âsterreich	1	M├╝hlviertel
-Schlitters	Tirol	1	Erste Ferienregion im Zillertal
-Hochfilzen	Tirol	2	Pillerseetal
-Galt├╝r /  Paznaun-Ischgl	Tirol	17	Tirol
-F├╝gen	Tirol	15	Erste Ferienregion im Zillertal
-Pettneu-Schnann am Arlberg	Tirol	1	Ferienregion St. Anton am Arlberg
-Flirsch	Tirol	1	Ferienregion St. Anton am Arlberg
-Degen	Graub├╝nden	1	Val Lumnezia
-Savognin	Graub├╝nden	15	Graub├╝nden
-Davos Klosters Parsenn	Graub├╝nden	31	Graub├╝nden
-Skilift Linden	Bern & Region Bern	1	Bern & Region Bern
-Schwyz	Luzern - Vierwaldst├ñttersee	1	Brunnen-Schwyz
-Gehrenberg - Bodensee	Baden-W├╝rttemberg	2	Bodensee - Deutschland
-Klaffer am Hochficht	Ober├Âsterreich	11	Ferienregion B├Âhmerwald
-Hinterstoder	Ober├Âsterreich	18	Urlaubsregion Pyhrn - Priel
-Radstadt - Altenmarkt - Ski amade	Salzburger Land	12	Salzburger Land
-W├ñldi-Lipperswil	Ostschweiz	1	Kreuzlingen
-Laber - Oberammergau	Bayern	3	Bayern
-Bad Traunstein	Nieder├Âsterreich	0	Waldviertel Mitte
-St. Corona / St. Peter - Simas-Lifte	Nieder├Âsterreich	1	Nieder├Âsterreich
-Biel / Bienne Seeland	Jura & Drei-Seen-Land	2	Drei-Seen-Land
-Andelsbuch Bergbahnen	Vorarlberg	3	Vorarlberg
-Griffen	K├ñrnten	1	Klopeiner See - S├╝dk├ñrnten
-Heidi Alm Falkert - Falkertsee	K├ñrnten	7	Nockberge
-Gitschtal - Wei├ƒbriach	K├ñrnten	1	Nassfeld / Pressegger See
-Bad Kleinkirchheim & Feld am See	K├ñrnten	16	K├ñrnten
-Grabenst├ñtt	Bayern	1	Chiemgau - Chiemsee
+Altenberg - Geising	Sachsen	4	Sachsen
+Filzberg / Landsberied	Bayern	1	Bayern
+Gressoney La Trinit├®	Aostatal	5	Monte Rosa
+Fai della Paganella	Trentino	1	Altopiano della Paganella
+Finkenstein am Faaker See	K├ñrnten	2	Region Villach - Faaker See...
+Nara / Leontica-Cancor├¼	Tessin	1	Tessin
+Wolfsburg	Niedersachsen	1	Braunschweiger Land
+Bad Staffelstein	Bayern	7	Obermain Jura
+Schl├╝chtern	Hessen	0	Spessart
+Haidm├╝hle - Bischofsreut - Frauenberg	Bayern	0	Bayern
+D├╝rnstein in der Wachau	Nieder├Âsterreich	9	Wachau - Nibelungengau - Kremstal
+Gitschberg - Jochtal	S├╝dtirol	11	Eisacktal
+Zadar	Dalmatien - Zadar	5	Region Zadar
+Buchenbergbahn - Buching	Bayern	4	Bayern
+Iserlohn	Nordrhein-Westfalen	5	M├ñrkisches Sauerland
+Muotathal	Luzern - Vierwaldst├ñttersee	1	Stoos-Muotatal
+G├Ârz	Friaul-Julisch Venetien	1	G├Ârz / Collio
+Grand Tourmalet - Pic du Midi / Bar├¿ges - La Mongie	Okzitanien	7	Okzitanien
+St. Gilgen - Zw├Âlferhorn	Salzburger Land	3	Wolfgangsee - Salzkammergut
+Unterw├Âssen - Balsberg	Bayern	6	Bayern
+Brunni-Alpthal	Luzern - Vierwaldst├ñttersee	2	Mythenregion
 Bad Salzuflen	Nordrhein-Westfalen	7	Teutoburger Wald
 Prad─ød - Klobouk / Ski Karlov	M├ñhren-Schlesien	1	M├ñhren-Schlesien
 Algund	S├╝dtirol	4	Meran und Umgebung
-Mezzana-Marilleva / Val di Sole	Trentino	5	Val di Sole
-Lavaz├®pass / Passo Lavaz├®	Trentino	2	Fleimstal / Val di Fiemme
-Lauerz	Luzern - Vierwaldst├ñttersee	1	Rigi
-Stupava	S├╝dm├ñhrische Region	0	S├╝dm├ñhrische Region
-Wildflecken	Bayern	1	Die Rh├Ân/ Bayern
-Rogla	Savinjska	5	Savinjska
-Siegerland - Wittgenstein	Nordrhein-Westfalen	5	<missing>
-Murska Sobota	Pomurska	2	Pomurska
-Lindberg	Bayern	3	Arberland
-Bad Heilbrunn	Bayern	1	T├Âlzer Land
-Ebnat-Kappel	Ostschweiz	2	Ferienregion Toggenburg
-La Plagne / Paradiski	Auvergne-Rh├┤ne-Alpes	10	Auvergne-Rh├┤ne-Alpes
-La Gruy├¿re - Mol├®son	Freiburg Region	4	Gruy├¿res
-St. Veit an der G├Âlsen	Nieder├Âsterreich	2	Traisen-G├Âlsental
-Unterberg - Pernitz	Nieder├Âsterreich	5	Nieder├Âsterreich
-Kitzb├╝hel	Tirol	41	Tirol
-Lustenau	Vorarlberg	1	Bodensee - Vorarlberg
-Ghisoni Capanelle	Korsika	0	Korsika
-Bad Mitterndorf	Steiermark	4	Ausseerland - Salzkammergut
-Vichtenstein	Ober├Âsterreich	1	Donau Ober├Âsterreich
-Euratsfeld	Nieder├Âsterreich	1	Moststra├ƒe
-Sportbahnen Eischoll	Wallis	1	Wallis
-Argenb├╝hl	Baden-W├╝rttemberg	0	<missing>
-Simplon	Wallis	4	Brig Simplon
-Vals	Graub├╝nden	3	Graub├╝nden
-Friedrichroda	Th├╝ringen	3	Th├╝ringer Wald
-S├Ârenberg	Luzern - Vierwaldst├ñttersee	15	UNESCO Biosph├ñre Entlebuch
-Unternberg / Ruhpolding	Bayern	1	Bayern
-Aichach	Bayern	1	Bayerisch-Schwaben
-Skilift Raffelmoos-Elbach	Bayern	1	Bayern
-Hallenberg	Nordrhein-Westfalen	1	Sauerland/ Nordrhein-Westfalen
-Chastreix-Sancy Massif du Sancy	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Georgsmarienh├╝tte	Niedersachsen	1	Osnabr├╝cker Land
-Sampzon	Auvergne-Rh├┤ne-Alpes	1	Pont d`Arc Ard├¿che
-Rappottenstein	Nieder├Âsterreich	1	Waldviertel Mitte
-Valgrisenche	Aostatal	1	Aostatal
-Rauris	Salzburger Land	11	Nationalpark Hohe Tauern
-Eben - monte popolo - Ski amade	Salzburger Land	2	Salzburger Land
-Maria W├Ârth	K├ñrnten	3	W├Ârthersee
-Toggenburg - Ch├ñserrugg / Alt St. Johann / Unterwasser	Ostschweiz	2	Ostschweiz
-Ebenalp	Ostschweiz	7	Appenzell Innerrhoden
-V├ñttis	Ostschweiz	1	Bad Ragaz, Pizol und Umgebung
-Monte Tamaro	Tessin	1	Malcantone
-Campo Blenio - Ghirone	Tessin	0	Tessin
-Caslano	Tessin	1	Lugano und Umgebung
-Lenk im Simmental	Berner Oberland	1	Lenk-Simmental
-Eggalm - Tux - Lanersbach	Tirol	2	<missing>
-Kitzsteinhorn / Maiskogel - Kaprun	Salzburger Land	11	Salzburger Land
-Neukirchen - Bramberg / Wildkogel-Arena	Salzburger Land	7	Nationalpark Hohe Tauern
-San Bernardino	Graub├╝nden	1	Graub├╝nden
-Erzgebirge	Sachsen	27	Sachsen
-Braunwald	Ostschweiz	9	Glarnerland
-Les Paccots - Ch├ótel Saint Denis	Freiburg Region	2	Freiburg Region
-Ro├ƒhaupten	Bayern	2	Ostallg├ñu
-Rottach - Egern	Bayern	3	Alpenregion Tegernsee - Schliersee
-Pitztaler Gletscher - Bergbahnen Rifflsee	Tirol	9	Pitztal
-Skilift H├╝tten Hirschberg Bizau	Vorarlberg	1	Vorarlberg
-Warth - Schr├Âcken am Arlberg	Vorarlberg	11	Bregenzerwald
-Hopfgarten - Itter - Kelchsau - SkiWelt	Tirol	2	Tirol
-Lech - Z├╝rs am Arlberg	Vorarlberg	13	Arlberg
-Riefensberg	Vorarlberg	2	Bregenzerwald
-Dam├╝ls	Vorarlberg	10	Bregenzerwald
-Feistritz im Rosental	K├ñrnten	2	Carnica Region Rosental
-Klein St. Paul	K├ñrnten	2	Mittelk├ñrnten
-Simonh├Âhe - Sankt Urban	K├ñrnten	3	K├ñrnten
-Modriach-Winkel Hoislifte	Steiermark	0	Steiermark
-Fageralm / Forstau	Steiermark	2	Schladming - Dachstein
-Anras	Tirol	1	Hochpustertal - Osttirol
-L├ñngenfeld - Huben - Gries	Tirol	9	├ûtztal
-Grindelwald - M├ñnnlichen	Berner Oberland	11	Jungfrau Region
-Aela / Maloja	Graub├╝nden	1	Graub├╝nden
-Amden - Weesen	Ostschweiz	2	Glarnerland
-Elsigenalp - Metschalp Frutigen	Berner Oberland	2	Berner Oberland
-Brunni-Alpthal	Luzern - Vierwaldst├ñttersee	2	Mythenregion
-Brunnen	Luzern - Vierwaldst├ñttersee	1	Brunnen-Schwyz
-Sudelfeld - Bayrischzell	Bayern	13	Bayern
-Saas-Almagell	Wallis	0	Saastal
-Skizentrum Ludwigsstadt / Wetzel	Bayern	2	Bayern
-Skikarussell Altastenberg	Nordrhein-Westfalen	7	Nordrhein-Westfalen
-Skihalle Neuss	Nordrhein-Westfalen	3	Nordrhein-Westfalen
-Le Manon / Septmoncel	Burgund-Freigrafschaft	0	Burgund-Freigrafschaft
-Sluis - Aardenburg	Zeeland	6	Zeeuws-Vlaanderen
-Ostende	Fl├ñmische Region	2	Belgische K├╝ste
-Harrachov	Region Reichenberg	14	Region Reichenberg
-Kru┼íetnica	Silleiner Landschaftsverband	1	Silleiner Landschaftsverband
-Realp	Luzern - Vierwaldst├ñttersee	0	<missing>
-Leutkirch im Allg├ñu	Baden-W├╝rttemberg	0	<missing>
-Frankenjura	Bayern	7	<missing>
-Goldeck am Millst├ñtter See	K├ñrnten	6	K├ñrnten
-Turnau - Schwabenbergarena	Steiermark	1	Steiermark
-Waldbach-M├Ânichwald	Steiermark	4	Joglland - Waldheimat
-Trag├Â├ƒ-St. Katharein	Steiermark	2	Erzberg Land
-Weyer	Ober├Âsterreich	1	Steyr und die Nationalpark Region
-Gr├╝nberg-Gmunden	Ober├Âsterreich	3	Traunsee-Almtal
-Sch├Âckl	Steiermark	5	Grazer Bergland - Sch├Âcklland
-St. Gotthard im M├╝hlkreis	Ober├Âsterreich	1	M├╝hlviertel
-Attersee am Attersee	Ober├Âsterreich	3	Attersee - Attergau
-Kampenwandseilbahn / Aschau im Chiemgau	Bayern	10	Bayern
-Ovronnaz	Wallis	1	Wallis
-Disentis Sedrun	Graub├╝nden	23	Graub├╝nden
-Tschiertschen	Graub├╝nden	6	Graub├╝nden
-Bad Feilnbach	Bayern	2	Chiemsee - Alpenland
-Gro├ƒer Feldberg / Oberreifenberg	Hessen	2	Hessen
-Bergneustadt	Nordrhein-Westfalen	1	Bergisches Land
-Wertach	Bayern	4	Oberallg├ñu
-Halbinsel Fischland-Dar├ƒ-Zingst	Mecklenburg-Vorpommern	2	Mecklenburg-Vorpommern
-Siegburg	Nordrhein-Westfalen	3	Naturregion Sieg
-Le Lioran	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
-Limburg - Flandern	Fl├ñmische Region	12	Flandern
-Herl├¡kovice & Bubakov	Region K├Âniggr├ñtz	3	Region K├Âniggr├ñtz
-SKICENTRUM De┼ítn├®	Region K├Âniggr├ñtz	2	Region K├Âniggr├ñtz
-SKI Telg├írt	Neusohler Landschaftsverband	2	Neusohler Landschaftsverband
-Champ Du Feu	Grand Est	0	Grand Est
-Le Grand Puy / Seyne-les-Alpes	Provence-Alpes-C├┤te dÔÇÖAzur	2	Provence-Alpes-C├┤te dÔÇÖAzur
-Eupen	Wallonische Region	1	Hohes Venn
-─îern├í hora - Jansk├® L├ízn─ø / ─îern├í hora - Pec	Region K├Âniggr├ñtz	3	Region K├Âniggr├ñtz
-Stadt Pag	Dalmatien - Zadar	4	Insel Pag
-Le D├®sert d┬┤Entremont	Auvergne-Rh├┤ne-Alpes	0	<missing>
-Lu─ìe	Savinjska	0	Savinjska
-Samo├½ns - Sixt - Le Grand Massif	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
-Brtnice	Region Vyso─ìina	1	Region Vyso─ìina
-Kouty	Region Olm├╝tz	3	Region Olm├╝tz
-San Isidro - Salencias	Kastilien und Le├│n	0	Kastilien und Le├│n
-Rettenberg	Bayern	1	<missing>
-Hilchenbach	Nordrhein-Westfalen	2	Siegen-Wittgenstein
-Bad Tabarz	Th├╝ringen	3	Th├╝ringer Wald
-Fr├Âhnd	Baden-W├╝rttemberg	1	Schwarzwaldregion Belchen
-Heilbronn	Baden-W├╝rttemberg	1	Heilbronner Land
-Fischbacher Skilift - Schluchsee	Baden-W├╝rttemberg	3	Baden-W├╝rttemberg
 Engen	Baden-W├╝rttemberg	1	Westlicher Bodensee
-Sand in Taufers	S├╝dtirol	8	Ahrntal
-Passo Fedaia - Marmolada	Venetien	1	Venetien
-Udine und Umgebung	Friaul-Julisch Venetien	2	Friaul-Julisch Venetien
-Prato Selva	Abruzzen	0	Abruzzen
-Gresse en Vercors	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-La Cernay Blanche ÔÇô La Chaux de Gilley	Burgund-Freigrafschaft	0	Burgund-Freigrafschaft
-Hochneukirchen - Gschaidt	Nieder├Âsterreich	1	Bucklige Welt - Wiener Alpen
-Orci├¿res Merlette	Provence-Alpes-C├┤te dÔÇÖAzur	3	Provence-Alpes-C├┤te dÔÇÖAzur
-Schwarzenb├╝hl / Selital	Bern & Region Bern	4	Bern & Region Bern
-Gersau	Luzern - Vierwaldst├ñttersee	1	Rigi
-Mayrhofen - Hippach	Tirol	13	Zillertal
-Hinterpasseier	S├╝dtirol	1	Passeiertal
-UNESCO Biosph├ñre Entlebuch	Luzern - Vierwaldst├ñttersee	23	Luzern und Umgebung
-Alpbach	Tirol	2	Alpbachtal
-Cully	Waadtland / Genferseegebiet	1	<missing>
-Javalambre	Aragonien	0	<missing>
-Oberiberg	Luzern - Vierwaldst├ñttersee	3	Einsiedeln-Ybrig-Z├╝richsee
-Stadt Hof	Bayern	3	Fichtelgebirge
-Benzeck Skilifte / Reit im Winkl	Bayern	1	Bayern
-Braunsbedra	Sachsen-Anhalt	1	Halle-Saale-Unstrut
-Sylt	Schleswig-Holstein	13	Nordsee - Schleswig-Holstein
-Sch├Ânhagen	Schleswig-Holstein	0	Ostsee - Schleswig Holstein
-St. Peter-Ording	Schleswig-Holstein	9	Halbinsel Eiderstedt
-Hamburg - Hansestadt	Hamburg	7	Hamburg
-Wuppertal	Nordrhein-Westfalen	1	Die Bergischen Drei
-Snow World Z├╝schen / Homberg - Ziegenhelle	Nordrhein-Westfalen	0	Nordrhein-Westfalen
-Skilift Breitnau	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-Bad Endorf	Bayern	8	Region Simssee
-Sch├Ânberg	Bayern	1	Freyung-Grafenau
-Vallnord / Pal-Arinsal - La Massana	Andorra	10	Andorra
-Candanch├║	Aragonien	0	Aragonien
-Moselregion Traben-Trarbach Kr├Âv	Rheinland-Pfalz	5	Mosel-Saar
-Sankt Andreasberg	Niedersachsen	5	Oberharz
-Ski-Alpinum Schulenberg	Niedersachsen	1	Niedersachsen
-Salmendingen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Dolomitenregion Drei Zinnen	S├╝dtirol	72	Dolomiten
-Brenzone	Venetien	0	Gardasee
-Jesolo / Lido di Jesolo	Venetien	9	Venezia
-Pordenone	Friaul-Julisch Venetien	1	Pordenone und Umgebung
-Bagolino - Gaverland	Lombardei	1	Lombardei
-Altenmarkt-Zauchensee	Salzburger Land	12	Salzburger Sportwelt
-Vall├®es de Joux	Waadtland / Genferseegebiet	2	Waadtland / Genferseegebiet
-Tauberbischofsheim	Baden-W├╝rttemberg	1	Liebliches Taubertal
-Graun	S├╝dtirol	1	Reschenpass
-Silvretta Jamtal	Vorarlberg	1	<missing>
-Bellinzona	Tessin	7	Bellinzona und Umgebung
-Mo┼í─çenice Draga	Kvarner	1	Kvarner
-K├Âthen (Anhalt)	Sachsen-Anhalt	2	Anhalt-Dessau-Wittenberg
-Nieb├╝ll	Schleswig-Holstein	1	Nordfriesland
-Laboe	Schleswig-Holstein	2	Probstei und Kieler F├Ârde
-Hohe Lied / Schmallenberg-Gellinghausen	Nordrhein-Westfalen	1	Nordrhein-Westfalen
-Siegen-Wittgenstein	Nordrhein-Westfalen	6	Nordrhein-Westfalen
-Wunstorf - Steinhude	Niedersachsen	1	Region Hannover und Umgebung
-Ravensburg	Baden-W├╝rttemberg	1	Oberschwaben - Allg├ñu
-Immenstaad am Bodensee	Baden-W├╝rttemberg	3	Bodensee - Deutschland
-Ibach	Baden-W├╝rttemberg	1	Hochschwarzwald
-Hagnau	Baden-W├╝rttemberg	1	Bodensee - Deutschland
-Prags	S├╝dtirol	2	Dolomitenregion Drei Zinnen
-Lago d┬┤Orta	Piemont	2	Piemont
-Panarotta 2002 - Valsugana	Trentino	2	Trentino
-Figura - Prad─ød	M├ñhren-Schlesien	0	M├ñhren-Schlesien
-Juist	Niedersachsen	3	Ostfriesische Inseln
-Todtnauberg	Baden-W├╝rttemberg	7	Baden-W├╝rttemberg
-Todtnau	Baden-W├╝rttemberg	7	Hochschwarzwald
-Uhldingen-M├╝hlhofen	Baden-W├╝rttemberg	2	Bodensee - Deutschland
-Schwarzwald	Baden-W├╝rttemberg	99	Baden-W├╝rttemberg
-Gitschberg Jochtal	S├╝dtirol	22	S├╝dtirol
-Triest	Friaul-Julisch Venetien	1	Triest und Karst
-T├╝rnitz	Nieder├Âsterreich	1	Traisen-G├Âlsental
-Rossberg - Oberwil	Berner Oberland	2	Berner Oberland
-Landeck - Zams - Fliess / Venetregion	Tirol	1	Tirol
-Adlwang	Ober├Âsterreich	2	Tourismusregion Bad Hall
-Valbondione	Lombardei	5	Alto Serio und Asta
-Auron	Provence-Alpes-C├┤te dÔÇÖAzur	4	Provence-Alpes-C├┤te dÔÇÖAzur
-Mlad├® Buky	Region K├Âniggr├ñtz	3	Region K├Âniggr├ñtz
-St. Ant├Ânien	Graub├╝nden	3	Pr├ñttigau
-St. Gertraud	S├╝dtirol	2	Ultental - Deutschnonsberg
-Buttes La Robella	Jura & Drei-Seen-Land	1	Neuenburg
-Chur	Graub├╝nden	3	Graub├╝nden
-Domleschg - Feldis - Mutten	Graub├╝nden	5	Viamala
-Faltschen - Reichenbach im Kandertal	Berner Oberland	0	Berner Oberland
-Einsiedeln	Luzern - Vierwaldst├ñttersee	2	Einsiedeln-Ybrig-Z├╝richsee
-Mals / Burgeis	S├╝dtirol	4	Obervinschgau
-Ob┼Ö├¡ sud Javorn├¡k	Region Reichenberg	0	Region Reichenberg
-Genua	Ligurien	13	Genua und Umgebung
-Petehovac - Delnice	Kvarner	1	Kvarner
-Ebbs	Tirol	2	Kufsteinerland
-Fieberbrunn - Saalbach Hinterglemm Leogang	Tirol	8	Tirol
-Sonneberg	Th├╝ringen	1	Coburg Rennsteig / Th├╝ringen
-St. Jodok am Brenner - Schmirn - Vals	Tirol	1	Wipptal
-Hopfgarten	Tirol	2	Ferienregion Hohe Salve
-Schneeberglifte Thiersee	Tirol	9	Tirol
-Krispl-Gai├ƒau	Salzburger Land	12	Tennengau - Dachstein West
-Horben	Aargau	1	Aargau
-Grimentz / St-Jean	Wallis	4	Sierre Anniviers
-Champex - Lac	Wallis	0	Wallis
-Bildhaus am Ricken	Ostschweiz	2	Ostschweiz
-Axalp / Brienz	Berner Oberland	3	Berner Oberland
-Cham ZG	Luzern - Vierwaldst├ñttersee	1	Luzern - Vierwaldst├ñttersee
-Morschach	Luzern - Vierwaldst├ñttersee	1	Stoos-Muotatal
-Nordseek├╝ste	Niedersachsen	19	Ostfriesland
-Mittertal / Jaufental	S├╝dtirol	1	Eisacktal
-Voithenberg Gibacht	Bayern	1	Bayern
-Bad Wiessee	Bayern	2	Alpenregion Tegernsee - Schliersee
-Avoriaz 1800 / Portes du Soleil	Auvergne-Rh├┤ne-Alpes	5	Auvergne-Rh├┤ne-Alpes
-Champagny en Vanoise / Paradiski	Auvergne-Rh├┤ne-Alpes	9	Auvergne-Rh├┤ne-Alpes
-Eggental	S├╝dtirol	50	Dolomiten
-La Bresse Hautes-Vosges	Grand Est	6	Grand Est
-Zugspitze	Tirol	13	Bayern
-Vinschgau	S├╝dtirol	57	S├╝dtirol
-Zoldo Alto	Venetien	1	Val di Zoldo
-Ludwigsstadt	Bayern	2	Frankenwald
-Valdidentro	Lombardei	0	Alta Valtellina
-Gumpoldskirchen	Nieder├Âsterreich	8	Wienerwald
-Lochau	Vorarlberg	0	Bodensee - Vorarlberg
-Diedamskopf - Schoppernau	Vorarlberg	14	Vorarlberg
-Ebenthal in K├ñrnten	K├ñrnten	1	Klagenfurt und Umgebung
-Miesenbach bei Birkfeld	Steiermark	1	Joglland - Waldheimat
-Ladir	Graub├╝nden	3	Ilanz / Glion
-Winter Park Martinky	Silleiner Landschaftsverband	5	Silleiner Landschaftsverband
-V├Âls am Schlern	S├╝dtirol	1	Seiser Alm
+Port├® Puymorens	Okzitanien	2	Okzitanien
+Seiser Alm	S├╝dtirol	37	Seiser Alm
+G├Âtschen - Bischofswiesen / Berchtesgaden	Bayern	3	Bayern
+Annaberg - Lung├Âtz - Dachstein West	Salzburger Land	5	Salzburger Land
+Macugnaga	Piemont	1	Piemont
+Kyritz an der Knatter	Brandenburg	2	Prignitz
+Bruson	Wallis	2	Verbier
 Gro├ƒarl	Salzburger Land	10	Gro├ƒarltal
-Thalgau	Salzburger Land	2	Salzburger Land
-L├Âtschental	Wallis	16	Oberwallis
-Yverdon-les-Bains	Jura & Drei-Seen-Land	5	Drei-Seen-Land
-Zermatt	Wallis	26	Mattertal
-Neunkirch	Ostschweiz	1	Klettgau
-Benediktbeuern	Bayern	1	T├Âlzer Land
-Unterammergau	Bayern	2	Ammergauer Alpen
-S├Âllereck - H├Âllwies / Oberstdorf	Bayern	8	Bayern
-Halblech - Buching - Trauchgau	Bayern	6	Ostallg├ñu
-Passau	Bayern	8	Passauer Land
-Thaler H├Âhe eG	Bayern	2	Bayern
-Zw├Âlfmorgental Wernigerode	Sachsen-Anhalt	17	Sachsen-Anhalt
-Gersfeld	Hessen	8	Rh├Ân / Hessen
-Dortmund	Nordrhein-Westfalen	8	Ruhrgebiet
-Erbeskopf - Thalfang	Rheinland-Pfalz	2	Rheinland-Pfalz
-M├╝nsingen - Dottingen	Baden-W├╝rttemberg	6	Baden-W├╝rttemberg
-Hinterzarten	Baden-W├╝rttemberg	6	Hochschwarzwald
-Schluchsee	Baden-W├╝rttemberg	3	Hochschwarzwald
-Klausberg - Ahrntal	S├╝dtirol	27	S├╝dtirol
-Brixen	S├╝dtirol	16	Eisacktal
-Auronzo - Monte Agudo	Venetien	2	Venetien
-Pr├® Saint Didier	Aostatal	1	Mont Blanc
-Monte Purito - Selvino	Lombardei	2	Lombardei
-San Martino di Castrozza	Trentino	35	Trentino
-Kanin - Bovec - Sella Nevea	Gori┼íka	14	Gori┼íka
-Ribnica na Pohorju	Koro┼íka - slowenisches K├ñrnten	1	Koro┼íka
-Meran 2000	S├╝dtirol	17	S├╝dtirol
-Jenesien	S├╝dtirol	1	Bozen und Umgebung - S├╝dtirols S├╝den
-Pescegallo / Valgerola	Lombardei	1	Lombardei
-Zernez	Graub├╝nden	1	Engadin Scuol Zernez
-Sarn - Heinzenberg	Graub├╝nden	0	Graub├╝nden
-Celerina 	Graub├╝nden	4	Engadin St. Moritz
-Mels	Ostschweiz	0	Bad Ragaz, Pizol und Umgebung
-Monte San Salvatore	Tessin	7	Malcantone
-Eriz	Berner Oberland	2	Berner Oberland
-Holzhau	Sachsen	2	Sachsen
-F├╝ssener J├Âchle - Gr├ñn	Tirol	8	Tirol
-Wals-Siezenheim	Salzburger Land	2	Stadt Salzburg & Umgebung
-Dienten am Hochk├Ânig	Salzburger Land	7	Hochk├Ânig
-Skilift Brunni	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
-Val Ferret - La Fouly	Wallis	2	Pays du Saint-Bernard
-Berg├╝n - Filisur / Darlux	Graub├╝nden	7	Graub├╝nden
-M├╝stair	Graub├╝nden	1	Engadin Val M├╝stair
-Kreuzberg - Bischofsheim	Bayern	1	Bayern
-Missen-Wilhams	Bayern	3	Oberallg├ñu
-Klausenlift Mehlmeisel	Bayern	10	Bayern
-Kollnburg	Bayern	1	Arberland
-Coburg	Bayern	1	Coburger Land
-Petting	Bayern	1	Waginger See
-H├╝ndle Erlebnisbahn	Bayern	1	Oberallg├ñu
-Skilift Grainet	Bayern	1	Bayern
-Mecklenburgische Seenplatte	Mecklenburg-Vorpommern	5	Mecklenburg-Vorpommern
-Sankt Augustin	Nordrhein-Westfalen	2	Bonn & Rhein-Sieg-Kreis
-Halver	Nordrhein-Westfalen	1	M├ñrkisches Sauerland
-Freyung - Geyersberg	Bayern	3	Bayern
-Gunzesried / Gunzesrieder Tal	Bayern	2	Alpsee-Gr├╝nten
-Husum	Schleswig-Holstein	4	Husum & Husumer Bucht
-Bad Orb	Hessen	2	Spessart
-Sassnitz	Mecklenburg-Vorpommern	1	Halbinsel Jasmund
-M├╝nster	Nordrhein-Westfalen	3	M├╝nsterland
-Moers	Nordrhein-Westfalen	0	Niederrhein
-Elzach	Baden-W├╝rttemberg	1	Elztal & Simonsw├ñldertal
-Haag	Nieder├Âsterreich	1	Moststra├ƒe
-Lagazuoi - Cinque Torri	Venetien	4	Cortina d`Ampezzo
-Bou┼Ö┼ê├ík	Region ├Üst├¡	8	Region ├Üst├¡
-Sierra de B├®jar - La Covatilla	Kastilien und Le├│n	2	Kastilien und Le├│n
-Scheibbs	Nieder├Âsterreich	1	Eisenstra├ƒe Nieder├Âsterreich
-Lilienfeld	Nieder├Âsterreich	1	Traisen-G├Âlsental
-Gemeindealpe	Nieder├Âsterreich	21	Nieder├Âsterreich
-Melk	Nieder├Âsterreich	5	Wachau - Nibelungengau - Kremstal
-Sinabelkirchen	Steiermark	1	Thermen- & Vulkanland Steiermark
-Vorderstoder	Ober├Âsterreich	1	Urlaubsregion Pyhrn - Priel
-Bernstein	Burgenland	1	S├╝dburgenland
-Scheffau am Wilden Kaiser	Tirol	1	Wilder Kaiser
-Matrei in Osttirol	Tirol	7	NationalparkRegion Hohe Tauern Osttirol
-Fiss	Tirol	7	Serfaus - Fiss - Ladis
-Alpbach - Ski Juwel Alpbachtal Wildsch├Ânau	Tirol	10	Tirol
-Obertilliach / Golzentipp - Lesachtal	Tirol	7	Tirol
-Hippach	Tirol	1	Mayrhofen - Hippach
-Mariapfarr	Salzburger Land	6	Lungau - Ferienregion
-St. Johann - Alpendorf - Snow Space Salzburg - Ski amade	Salzburger Land	3	Salzburger Land
-Gries - L├ñngenfeld	Tirol	9	Tirol
-Sulz / R├Âthis	Vorarlberg	2	Bodensee - Vorarlberg
-Laterns - Gapfohl	Vorarlberg	13	Vorarlberg
-Sonntag - Buchboden	Vorarlberg	1	Biosph├ñrenpark Gro├ƒes Walsertal
-Airolo - L├╝ina	Tessin	1	Tessin
-Skilift Rettenegg	Steiermark	1	Steiermark
-Sonnberglifte - Wald am Schoberpass	Steiermark	0	Steiermark
-Kremsm├╝nster	Ober├Âsterreich	1	Traunviertel
-Naarn im Machlande	Ober├Âsterreich	1	Donau Ober├Âsterreich
-Zahmer Kaiser - Walchsee	Tirol	9	Tirol
-Leutasch	Tirol	4	Seefeld Olympiaregion
-Dorfberglift - Kanterlift / Kartitsch - Osttirol	Tirol	2	Tirol
-Seefeld in Tirol	Tirol	10	Seefeld Olympiaregion
-Aeschi bei Spiez	Berner Oberland	1	Thunersee
-Fanningberg - Mariapfarr	Salzburger Land	6	Salzburger Land
-Werfenweng	Salzburger Land	16	Salzburger Land
-Wagrain / Wagrain - Kleinarl	Salzburger Land	3	Salzburger Sportwelt
-Jeizinen - Feselalpe	Wallis	12	Wallis
-Bischofswiesen	Bayern	3	Berchtesgadener Land
-Vachendorf	Bayern	2	Chiemgau - Chiemsee
-Miesbach	Bayern	1	Alpenregion Tegernsee - Schliersee
-Bad Birnbach	Bayern	2	Ferienregion Rottal-Inn
-Leitariegos	Kastilien und Le├│n	0	Kastilien und Le├│n
-Wei├ƒenbach bei Liezen	Steiermark	0	<missing>
-Schwarzenbach	Nieder├Âsterreich	1	Bucklige Welt - Wiener Alpen
-Klosterneuburg	Nieder├Âsterreich	1	Wienerwald
-Oberegg	Ostschweiz	5	Appenzell Innerrhoden
-Laterns-Gapfohl	Vorarlberg	13	Bodensee - Vorarlberg
-Rennweg am Katschberg	K├ñrnten	11	Katschberg - Rennweg
+Carnica Region Rosental	K├ñrnten	10	K├ñrnten
+Sainte Anne la Condamine	Provence-Alpes-C├┤te dÔÇÖAzur	0	Provence-Alpes-C├┤te dÔÇÖAzur
+Lavarone - Luserna / Alpe Cimbra	Trentino	1	Trentino
+Brienz - Axalp	Berner Oberland	3	Brienzersee
+Grands Montets / Chamonix	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
+Fuchsm├╝hl	Bayern	1	Naturpark Steinwald
+Seeon - Seebruck - Truchtlaching	Bayern	5	Chiemgau - Chiemsee
+Rheinbach	Nordrhein-Westfalen	1	Rhein-Voreifel
+Innsbruck Igls - Patscherkofel	Tirol	3	Tirol
+Walchsee	Tirol	8	Kaiserwinkl
+Waltenhofen	Bayern	2	Oberallg├ñu
+Gressoney - La Trinit├® - Alagna Valsesia / Monterosa	Aostatal	6	Aostatal
 Wolfsberg	K├ñrnten	6	Lavanttal
-Seeboden am Millst├ñttersee	K├ñrnten	1	Millst├ñtter See
-Zlaim - Grundlsee	Steiermark	1	Steiermark
-Fehraltorf	Z├╝rich & Z├╝rich Region	1	Z├╝rcher Oberland
-La Berra - La Roche	Freiburg Region	3	Freiburg Region
-Naturpark Diemtigtal	Berner Oberland	6	Berner Oberland
-Chieming	Bayern	2	Chiemgau - Chiemsee
-Waldm├╝nchen	Bayern	5	Region Cham
-Steckenberglifte - Schartenlifte / Unterammergau	Bayern	2	Bayern
-Loddin - K├Âlpinsee	Mecklenburg-Vorpommern	0	Usedom
-M├Âhnesee	Nordrhein-Westfalen	4	Sauerland/ Nordrhein-Westfalen
+Wildsch├Ânau - Ski Juwel Alpbachtal Wildsch├Ânau	Tirol	16	Tirol
+Zwischenwasser	Vorarlberg	1	Bodensee - Vorarlberg
+Lauscha - Ernstthal	Th├╝ringen	3	Th├╝ringen
+Darfo Boario Terme	Lombardei	1	Valcamonica
+Trafoi	S├╝dtirol	3	Ortlergebiet
+Lorch am Rhein	Hessen	1	Rheingau
+Tann / Rh├Ân	Hessen	1	Rh├Ân / Hessen
+Skizentrum Simmelsberg - Skiclub Hanau	Hessen	2	Hessen
+Dresden	Sachsen	4	Dresden Elbland
+Kamenec / Jablonec nad Jizerou	Region Reichenberg	0	Region Reichenberg
+Champ Du Feu	Grand Est	0	Grand Est
+Ski Lysa	Eperieser Landschaftsverband	0	Eperieser Landschaftsverband
+Adria Ski / Kupres	F├Âderation Bosnien und Herzegowina	2	F├Âderation Bosnien und Herzegowina
+Seilbahnen Sonntag	Vorarlberg	1	Vorarlberg
+Krispl / Gai├ƒau	Salzburger Land	1	Salzburger Land
+Ribnica	S├╝dostslowenien	1	S├╝dostslowenien
+Oberneukirchen-Waxenberg-Traberg	Ober├Âsterreich	1	M├╝hlviertler Hochland
+Flaine - Le Grand Massif	Auvergne-Rh├┤ne-Alpes	9	Auvergne-Rh├┤ne-Alpes
+Sankt Augustin	Nordrhein-Westfalen	2	Bonn & Rhein-Sieg-Kreis
+Aigen - Schl├ñgl	Ober├Âsterreich	2	Ferienregion B├Âhmerwald
+Neumarkt im M├╝hlkreis	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
+Graz - Stadt	Steiermark	13	Graz und Region Graz
+Seitenstetten	Nieder├Âsterreich	1	Moststra├ƒe
+Skizentrum Pfronten - Steinach	Bayern	8	Bayern
+Drachselsried	Bayern	3	Arberland
+Tribunj	Dalmatien - ┼áibenik	1	Dalmatien - ┼áibenik
+Bad Waltersdorf	Steiermark	0	Bad Waltersdorf
+Caorle	Venetien	4	Venezia
+Kirchenlamitz	Bayern	2	Fichtelgebirge
+Fahrenberg - Vohenstrau├ƒ	Bayern	1	Bayern
+Alzenau	Bayern	1	Spessart-Mainland / Bayern
+Bischofsheim an der Rh├Ân	Bayern	2	Die Rh├Ân/ Bayern
+Landau an der Isar	Bayern	1	Ferienland Dingolfing-Landau
+Campo Felice	Abruzzen	7	Abruzzen
+Jena	Th├╝ringen	1	Saaleland
+Monterosa	Aostatal	1	Aostatal
+Vohenstrau├ƒ	Bayern	2	Oberpf├ñlzer Wald
+Siegerland - Wittgenstein	Nordrhein-Westfalen	5	<missing>
+UNESCO Biosph├ñre Entlebuch	Luzern - Vierwaldst├ñttersee	23	Luzern und Umgebung
+San Isidro - Salencias	Kastilien und Le├│n	0	Kastilien und Le├│n
+Pustevny	M├ñhren-Schlesien	4	M├ñhren-Schlesien
+Bad Eisenkappel	K├ñrnten	2	Klopeiner See - S├╝dk├ñrnten
+Saint-George	Waadtland / Genferseegebiet	2	Waadtland / Genferseegebiet
+Schmiedefeld am Rennsteig	Th├╝ringen	2	Th├╝ringen
+Stein bei N├╝rnberg	Bayern	1	Romantisches Franken
+Korneuburg	Nieder├Âsterreich	1	Kamptal - Wagram - Tullner Donauraum
+Dermbach	Th├╝ringen	2	Die Rh├Ân/ Th├╝ringen
+Galt├╝r /  Paznaun-Ischgl	Tirol	17	Tirol
+Siegburg	Nordrhein-Westfalen	3	Naturregion Sieg
+Thaur	Tirol	1	Ferienregion Hall - Wattens
+Morgins - Champoussin / Portes du Soleil	Wallis	3	Wallis
+Les Bugnenets - Savagni├¿res	Jura & Drei-Seen-Land	1	Jura & Drei-Seen-Land
+Izver - Sodra┼¥ica	S├╝dostslowenien	1	S├╝dostslowenien
+Husum	Schleswig-Holstein	4	Husum & Husumer Bucht
+Sassnitz	Mecklenburg-Vorpommern	1	Halbinsel Jasmund
 Cottbus	Brandenburg	1	Spreewald
 Frankenlift Wurzbach	Th├╝ringen	0	Th├╝ringen
-Jena	Th├╝ringen	1	Saaleland
 Me├ƒkirch	Baden-W├╝rttemberg	1	Naturpark Obere Donau
-Kaiserstuhl und Tuniberg	Baden-W├╝rttemberg	4	Schwarzwald
-Enzkl├Âsterle	Baden-W├╝rttemberg	1	Enztal
-Luttach	S├╝dtirol	3	Ahrntal
-Vintl	S├╝dtirol	1	Eisacktal
-Pinzolo	Trentino	3	Madonna di Campiglio, Pinzolo und Val...
+F├╝rstenfeldbruck	Bayern	1	Oberbayern
+Wieselburg	Nieder├Âsterreich	1	Eisenstra├ƒe Nieder├Âsterreich
+Kirchberg am Wechsel - Arabichl	Nieder├Âsterreich	1	Wechselland - Wiener Alpen
+Courmayeur und Mont Blanc Tal	Aostatal	10	Mont Blanc
+Bad Ischl	Ober├Âsterreich	3	Salzkammergut Ober├Âsterreich
+Mittelberg	Vorarlberg	12	Kleinwalsertal
+Locarno	Tessin	1	Ascona - Locarno / Lago Maggiore
+Abtenau im Lammertal	Salzburger Land	4	Salzburger Land
+Brandenburg an der Havel	Brandenburg	4	Havelland
+Horn├¡ Domky / Rokytnice nad Jizerou	Region Reichenberg	3	Region Reichenberg
+Hranice - Bo┼¥├¡ Dar	Region Karlsbad	1	Region Karlsbad
+┼ápindler┼»v Ml├¢n / Svat├¢ Petr - Hromovka	Region K├Âniggr├ñtz	11	Region K├Âniggr├ñtz
+Civetta - Alleghe - Selva di Cadore - Val di Zoldo	Venetien	18	Venetien
+Lungern - Sch├Ânb├╝el	Luzern - Vierwaldst├ñttersee	4	Obwalden
+Hall in Tirol	Tirol	10	Ferienregion Hall - Wattens
+Wertach	Bayern	4	Oberallg├ñu
+├ägerital - Sattel	Luzern - Vierwaldst├ñttersee	6	Brunnen-Schwyz
+Kitzb├╝heler Alpen St. Johann in Tirol	Tirol	21	Tirol
+Steckenberglifte - Schartenlifte / Unterammergau	Bayern	2	Bayern
+Loddin - K├Âlpinsee	Mecklenburg-Vorpommern	0	Usedom
+Podkoren	Gorenjska	1	Gorenjska
+Furtwangen - Skilift Bregtallift	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Waldburg im Allg├ñu	Baden-W├╝rttemberg	2	Region Waldburg
+Eisfeld	Th├╝ringen	2	Th├╝ringer Wald
+Heilbronn	Baden-W├╝rttemberg	1	Heilbronner Land
+Andermatt - Gemsstock	Luzern - Vierwaldst├ñttersee	14	Luzern - Vierwaldst├ñttersee
+Allensbach am Bodensee	Baden-W├╝rttemberg	1	Westlicher Bodensee
+Diedamskopf	Vorarlberg	3	Bregenzerwald
+Tiers am Rosengarten	S├╝dtirol	1	Seiser Alm
+Umhausen im ├ûtztal	Tirol	1	├ûtztal
+St. Marienkirchen an der Polsenz	Ober├Âsterreich	3	Hausruckviertel
+Hansberg	Ober├Âsterreich	2	Ober├Âsterreich
+Augustusburg	Sachsen	1	Sachsen
+Eischoll	Wallis	1	Turtmanntal
+Wies	Steiermark	1	Schilcherland Steiermark
+Hohwacht	Schleswig-Holstein	1	Hohwachter Bucht
+Oberiberg	Luzern - Vierwaldst├ñttersee	3	Einsiedeln-Ybrig-Z├╝richsee
+Stadt Hof	Bayern	3	Fichtelgebirge
+Thal / Staad / Altenrhein	Ostschweiz	2	St. Gallen und Umgebung
+Pf├ñfers	Ostschweiz	1	Bad Ragaz, Pizol und Umgebung
+Braunwald	Ostschweiz	9	Glarnerland
+Silvretta Arena Samnaun / Ischgl	Graub├╝nden	9	Graub├╝nden
+Kalte Herberge Urach / V├Âhrenbach	Baden-W├╝rttemberg	0	Baden-W├╝rttemberg
+Wiesensteig - Bl├ñsiberg	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Skilift Quellenwiese	Nieder├Âsterreich	0	Nieder├Âsterreich
+─îrna na Koro┼íkem	Koro┼íka - slowenisches K├ñrnten	1	Koro┼íka
+Olpe	Nordrhein-Westfalen	2	Sauerland/ Nordrhein-Westfalen
+Stegen	Baden-W├╝rttemberg	1	Hochschwarzwald
+Geldern	Nordrhein-Westfalen	1	Niederrhein
+Virgen in Osttirol	Tirol	3	Tirol
+Alpspitz / Edelsberg - Nesselwang	Bayern	4	Bayern
+Biograd na Moru	Dalmatien - Zadar	3	Region Zadar
+Flachau	Salzburger Land	8	Salzburger Sportwelt
+Rosskopf - Monte Cavallo	S├╝dtirol	1	Eisacktal
+K├Ânigswinter	Nordrhein-Westfalen	8	Siebengebirge
+Eben im Pongau	Salzburger Land	2	Salzburger Sportwelt
+Schwyz	Luzern - Vierwaldst├ñttersee	1	Brunnen-Schwyz
+Lagazuoi - 5 Torri / Passo Falzarego	Venetien	4	Venetien
+Brabant - La Bresse	Grand Est	0	Grand Est
+Brig Simplon	Wallis	19	Oberwallis
+Lohnsburg am Kobernau├ƒerwald	Ober├Âsterreich	1	s`Innviertel
+Naturpark Gantrisch	Bern & Region Bern	5	Bern & Region Bern
+Fischlham	Ober├Âsterreich	1	Hausruckviertel
+Schiwiese Markt Piesting	Nieder├Âsterreich	3	Nieder├Âsterreich
+Th├╝ringer Wald	Th├╝ringen	52	Th├╝ringen
+Nahe.Urlaubsregion	Rheinland-Pfalz	3	Rheinland-Pfalz
+Johanngeorgenstadt	Sachsen	2	Erzgebirge
+Westendorf - SkiWelt	Tirol	5	Tirol
+Doubs	Burgund-Freigrafschaft	0	Burgund-Freigrafschaft
+Schneeberglifte Thiersee	Tirol	9	Tirol
 Terme di Comano - Dolomiti di Brenta	Trentino	1	Trentino
-Grand-Ballon	Grand Est	1	Grand Est
+St. Radegund Lift	Steiermark	2	Steiermark
+Mottarone	Piemont	2	Piemont
+Schilift Hrast / Feistritz a.d. Gail	K├ñrnten	7	K├ñrnten
+Kaltern am See / S├╝dtiroler Weinstra├ƒe	S├╝dtirol	5	Bozen und Umgebung - S├╝dtirols S├╝den
+Dahlem	Nordrhein-Westfalen	5	Eifel & Aachen
+Lenk	Berner Oberland	18	Berner Oberland
+Amstetten	Nieder├Âsterreich	1	Moststra├ƒe
+Neukirchen - Bramberg / Wildkogel-Arena	Salzburger Land	7	Nationalpark Hohe Tauern
+Bolsterlang / H├Ârnerbahn	Bayern	4	Bayern
+Diavolezza - Lagalb	Graub├╝nden	10	Graub├╝nden
+Oberursel (Taunus)	Hessen	3	Taunus
+Goch	Nordrhein-Westfalen	2	Niederrhein
+Starnberger F├╝nf-Seen-Land	Bayern	10	Oberbayern
+Ovronnaz	Wallis	1	Wallis
+Wolzenalp / Krummenau	Ostschweiz	1	Ostschweiz
+Fischingen	Ostschweiz	0	Thurgau Bodensee
+Spitzingsee - Tegernsee	Bayern	26	Bayern
+Seeshaupt	Bayern	2	Starnberger F├╝nf-Seen-Land
+Hannover	Niedersachsen	2	Region Hannover und Umgebung
+Varese	Lombardei	1	Lombardei
+Luttach	S├╝dtirol	3	Ahrntal
+Trag├Â├ƒ-St. Katharein	Steiermark	2	Erzberg Land
+Naumburg	Sachsen-Anhalt	0	Halle-Saale-Unstrut
+Bad Lobenstein	Th├╝ringen	0	Th├╝ringer Wald
+Wasserkuppe	Hessen	7	Hessen
+Hahnenklee-Bockswiese / Goslar	Niedersachsen	5	Der Harz/ Niedersachsen
+Lans en Vercors	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
+Interlaken	Berner Oberland	15	<missing>
+Ostalb-Skilifte Aalen	Baden-W├╝rttemberg	4	Baden-W├╝rttemberg
+Bernau - Spitzenberg-K├Âpfle	Baden-W├╝rttemberg	3	Baden-W├╝rttemberg
+Poseka/Ravne	Koro┼íka	1	Koro┼íka
+Hauzenberg	Bayern	0	Passauer Land
+Pertisau am Achensee	Tirol	12	Achensee
+Alleghe	Venetien	7	Area Civetta 
+Schruns - Tschagguns	Vorarlberg	7	Montafon
+Chamrousse	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Furna	Graub├╝nden	2	Pr├ñttigau
+Tschappina-Urmein-Heinzenberg	Graub├╝nden	4	Graub├╝nden
+La Forclaz	Wallis	2	Wallis
+Erzgebirge	Sachsen	27	Sachsen
+Aeschi bei Spiez	Berner Oberland	1	Thunersee
+Stroheim	Ober├Âsterreich	9	Hausruckviertel
+R├Âdental	Bayern	1	Coburger Land
+Teisendorf	Bayern	1	Berchtesgadener Land
+Oberw├Âssen-Unterw├Âssen	Bayern	6	Achental
+Hoch-Ybrig	Luzern - Vierwaldst├ñttersee	7	Luzern - Vierwaldst├ñttersee
+Alpenarena Hochh├ñderich - Hittisau - Riefensberg	Vorarlberg	1	Vorarlberg
+Rigi	Luzern - Vierwaldst├ñttersee	12	Luzern - Vierwaldst├ñttersee
+Monte Avena - Croce d┬┤Aune	Venetien	1	Venetien
+Gro├ƒeck - Speiereck	Salzburger Land	1	Lungau - Ferienregion
+F├╝gen	Tirol	15	Erste Ferienregion im Zillertal
+Speikboden - Tauferer Ahrntal	S├╝dtirol	14	S├╝dtirol
+Langenbruck	Basel Region	5	Baselland
+Inzell Kessel-Lifte	Bayern	2	Bayern
+Rosswald	Wallis	4	Brig Simplon
+Braunsbedra	Sachsen-Anhalt	1	Halle-Saale-Unstrut
+Heiligenblut - Grossglockner	K├ñrnten	24	K├ñrnten
+Les Houches - Chamonix Mont-Blanc	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Hochplatte / Marquartstein	Bayern	5	Bayern
+Lichtenberg	Ober├Âsterreich	1	M├╝hlviertel
+Bonn & Rhein-Sieg-Kreis	Nordrhein-Westfalen	20	Nordrhein-Westfalen
+Vicenza	Venetien	6	Venetien
+Cauterets - Le Lys	Okzitanien	3	Okzitanien
+Malo Polje / Igman	F├Âderation Bosnien und Herzegowina	1	F├Âderation Bosnien und Herzegowina
+Beatenberg - Niederhorn - Hohwald	Berner Oberland	2	Berner Oberland
+Schleching - Ettenhausen	Bayern	4	Bayern
+Semriach	Steiermark	2	Graz und Region Graz
+Loipersdorf	Steiermark	1	Loipersdorf bei F├╝rstenfeld
+Leobendorf	Nieder├Âsterreich	1	Weinviertel
+Traisen	Nieder├Âsterreich	0	Traisen-G├Âlsental
+Alpbach	Tirol	2	Alpbachtal
+Kulmbach	Bayern	3	Frankenwald
+Oberdrauburg	K├ñrnten	1	Oberdrautal / Nationalpark-Region...
+Dornumerland	Niedersachsen	0	Nordseek├╝ste
+Oberwil im Simmental	Berner Oberland	2	Lenk-Simmental
+Alpinwellt Weissenbach / Family Skilift	S├╝dtirol	2	S├╝dtirol
+Hochzeiger - Jerzens im Pitztal	Tirol	19	Tirol
+Wildkogel-Arena / Neukirchen - Bramberg	Salzburger Land	6	Salzburger Land
+Realp	Luzern - Vierwaldst├ñttersee	0	<missing>
+Fideriser Heuberge	Graub├╝nden	4	Graub├╝nden
+Bivio	Graub├╝nden	1	Savognin Bivio Albula
+M├®audre	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+St. M├ñrgen	Baden-W├╝rttemberg	1	Hochschwarzwald
+Ridnaun / Ridnauntal	S├╝dtirol	3	Eisacktal
+Rotenburg a. d. Fulda	Hessen	1	Mittleres Fuldatal
+Skilifte Ibergeregg	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
+San Jose	Kalifornien	1	<missing>
+Bodensee - Vorarlberg	Vorarlberg	42	Vorarlberg
+Hasselt	Fl├ñmische Region	2	Limburg - Flandern
+Oberwaldlift Faistenau	Salzburger Land	2	Salzburger Land
+Bischofshofen	Salzburger Land	1	Salzburger Land
+Oberallg├ñu	Bayern	103	Allg├ñu
+Mutters - Muttereralm	Tirol	0	<missing>
+Z├╝rich	Z├╝rich & Z├╝rich Region	26	Z├╝rich & Z├╝rich Region
+Saint Rh├®my En Bosses	Aostatal	1	Grosser Sankt Bernhardt /...
+K├Ânigsberg - Hollenstein/Ybbs	Nieder├Âsterreich	1	Nieder├Âsterreich
+Waidring	Tirol	6	Pillerseetal
+Schwarzwaldregion Belchen	Baden-W├╝rttemberg	10	Wiesental
+Ginzling	Tirol	3	Mayrhofen - Hippach
+Prags	S├╝dtirol	2	Dolomitenregion Drei Zinnen
+Skiliftkarussell Winterberg	Nordrhein-Westfalen	35	Nordrhein-Westfalen
+Skilift Kellerberg / Haldi	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
+Limburg an der Lahn	Hessen	2	Lahntal / Hessen
+Madesimo 	Lombardei	5	Valchiavenna
+Dageb├╝ll	Schleswig-Holstein	2	Nordfriesland
+Sonnenberglift - Gries im Sellrain	Tirol	1	Tirol
+H├Âfen	Tirol	1	Naturparkregion Reutte
+L├╝sen	S├╝dtirol	1	Eisacktal
+Val Bregaglia	Graub├╝nden	5	Graub├╝nden
+Reschen	S├╝dtirol	7	Reschenpass
+Malcesine	Venetien	4	Gardasee
+Waldkirchen	Bayern	0	Freyung-Grafenau
+R├╝gen	Mecklenburg-Vorpommern	10	Mecklenburg-Vorpommern
+Michelbach	Nieder├Âsterreich	1	Elsbeere-Wienerwald
+Kappl / Paznaun-Ischgl	Tirol	6	Tirol
+Flachau - Snow Space Salzburg - Ski amade	Salzburger Land	8	Salzburger Land
+Star├¢ Smokovec	Eperieser Landschaftsverband	1	Eperieser Landschaftsverband
+St. Moritz	Graub├╝nden	8	Engadin St. Moritz
+Hallstatt	Ober├Âsterreich	1	Dachstein Salzkammergut
+Alpe Cimbra / Folgaria - Lavarone - Luserna	Trentino	2	Trentino
+Lautenbach	Baden-W├╝rttemberg	1	Renchtal
+Schnalstal	S├╝dtirol	26	Meraner Land
+Nieuwpoort	Fl├ñmische Region	1	Belgische K├╝ste
+Coburg	Bayern	1	Coburger Land
+La Magdeleine	Aostatal	1	Matterhorn / Mont Cervin
+Herrischried	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Font-Romeu - Pyr├®n├®es 2000	Okzitanien	1	Okzitanien
+Bad M├╝nstereifel	Nordrhein-Westfalen	3	Nordeifel
+Obwalden	Luzern - Vierwaldst├ñttersee	14	Luzern - Vierwaldst├ñttersee
+Brauneck / Lenggries	Bayern	15	Bayern
+Irschenberg	Bayern	0	Alpenregion Tegernsee - Schliersee
+Deggendorf	Bayern	2	Deggendorfer Land
+Pfaffenwinkel	Bayern	2	Oberbayern
+Neustadt am Rennsteig	Th├╝ringen	1	Th├╝ringer Wald
+Puchenstuben	Nieder├Âsterreich	2	Mostviertel
+Gersau	Luzern - Vierwaldst├ñttersee	1	Rigi
+San Martino di Castrozza	Trentino	35	Trentino
+Kanin - Bovec - Sella Nevea	Gori┼íka	14	Gori┼íka
+Jungfrau Ski Region Grindelwald - Wengen	Berner Oberland	38	Berner Oberland
+Hintertuxer Gletscher	Tirol	4	Tux - Finkenberg
+Mauterndorf	Salzburger Land	12	Lungau - Ferienregion
+Pordenone	Friaul-Julisch Venetien	1	Pordenone und Umgebung
+Bagolino - Gaverland	Lombardei	1	Lombardei
+Langenfeld (Rheinland)	Nordrhein-Westfalen	1	D├╝sseldorf & Neanderland
+S├Âllereck - H├Âllwies / Oberstdorf	Bayern	8	Bayern
+Maasmechelen	Fl├ñmische Region	7	Limburg - Flandern
+Deutschnofen - Obereggen - Eggen - Petersberg	S├╝dtirol	21	Eggental
+Gr├ñchen	Wallis	11	Wallis
+Pitztaler Gletscher - Rifflsee / Pitztal	Tirol	9	Tirol
+Uderns	Tirol	7	Erste Ferienregion im Zillertal
+Snow World Z├╝schen / Homberg - Ziegenhelle	Nordrhein-Westfalen	0	Nordrhein-Westfalen
+Bregenz	Vorarlberg	2	Bodensee - Vorarlberg
+Livorno	Toskana	0	Toskana
+Barmsee / Kr├╝n	Bayern	4	Bayern
+Halblech - Buching - Trauchgau	Bayern	6	Ostallg├ñu
+Zau[:ber:]g Semmering	Nieder├Âsterreich	6	Semmering - Rax - Schneeberg
+Pernitz	Nieder├Âsterreich	4	Schneebergland - Wiener Alpen
+Val Ferret - La Fouly	Wallis	2	Pays du Saint-Bernard
+Schmallenberger H├Âhenlift	Nordrhein-Westfalen	1	Nordrhein-Westfalen
+Micheldorf in Ober├Âsterreich	Ober├Âsterreich	4	Steyr und die Nationalpark Region
+Kuhberglifte Lenzkirch - Saig	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Schmittenh├Âhe	Salzburger Land	5	Zell am See - Kaprun
+St. Martin bei Lofer	Salzburger Land	1	Salzburger Saalachtal
+Mariazeller B├╝rgeralpe	Steiermark	17	Steiermark
+Ebenthal in K├ñrnten	K├ñrnten	1	Klagenfurt und Umgebung
+Miesenbach bei Birkfeld	Steiermark	1	Joglland - Waldheimat
+Winter Park Martinky	Silleiner Landschaftsverband	5	Silleiner Landschaftsverband
+Zermatt	Wallis	26	Mattertal
+Hochf├╝gen Zillertal	Tirol	2	Tirol
+La Robella	Jura & Drei-Seen-Land	1	Jura & Drei-Seen-Land
+Bad Gastein - Ski amade	Salzburger Land	21	Salzburger Land
+Sellinghausen / Schmallenberg	Nordrhein-Westfalen	2	Nordrhein-Westfalen
+Albstadt - Onstmettingen / Ruchtal	Baden-W├╝rttemberg	4	Baden-W├╝rttemberg
+Stollenbach	Baden-W├╝rttemberg	3	Baden-W├╝rttemberg
+Maria W├Ârth	K├ñrnten	3	W├Ârthersee
+Nin	Dalmatien - Zadar	2	Region Zadar
+Grindelwald - M├ñnnlichen	Berner Oberland	11	Jungfrau Region
+Aela / Maloja	Graub├╝nden	1	Graub├╝nden
+Arth-Goldau	Luzern - Vierwaldst├ñttersee	1	Rigi
+Nordfriesland	Schleswig-Holstein	5	<missing>
+Fuldera	Graub├╝nden	2	Engadin Val M├╝stair
+Sonntagberg	Nieder├Âsterreich	2	Mostviertel
+Ibach	Baden-W├╝rttemberg	1	Hochschwarzwald
+Freienbach	Luzern - Vierwaldst├ñttersee	1	Einsiedeln-Ybrig-Z├╝richsee
+Obermaiselstein / H├Ârnerd├Ârfer	Bayern	7	Oberallg├ñu
+Simmern-Rheinb├Âllen	Rheinland-Pfalz	0	Hunsr├╝ck
+Hemmoor	Niedersachsen	1	Cuxland
+Skilift Halblech	Bayern	1	Bayern
+W├Ârgl	Tirol	2	Ferienregion Hohe Salve
+Innsbruck	Tirol	26	Innsbruck und seine Feriend├Ârfer
+Visperterminen	Wallis	11	Wallis
+Kitzb├╝hel	Tirol	41	Tirol
+Kaprun - Kitzsteinhorn	Salzburger Land	11	Zell am See - Kaprun
+Ch├ótel / Portes du Soleil	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Le Reposoir - Le Village	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Is├¿re	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
+Gutenstein	Nieder├Âsterreich	1	Schneebergland - Wiener Alpen
+Les 2 Alpes	Auvergne-Rh├┤ne-Alpes	8	Auvergne-Rh├┤ne-Alpes
+Dolomites Val Gardena / Gr├Âden	S├╝dtirol	70	Dolomiten
+Straden	Steiermark	1	Thermen- & Vulkanland Steiermark
+Oeschinensee - Kandersteg	Berner Oberland	10	Berner Oberland
+Meiringen	Berner Oberland	2	Haslital
+M├Ânichkirchen - Mariensee	Nieder├Âsterreich	3	Nieder├Âsterreich
+Brand	Vorarlberg	11	Brandnertal
+La Norma	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
+Prabour├® - Saint-Anth├®me	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+M├╝stair	Graub├╝nden	1	Engadin Val M├╝stair
+Kreuzberg - Bischofsheim	Bayern	1	Bayern
+Guggenberg / Taisten	S├╝dtirol	1	S├╝dtirol
+Meg├¿ve - Evasion Mont-Blanc	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+St. Kanzian am Klopeinersee	K├ñrnten	6	Klopeiner See - S├╝dk├ñrnten
+Disentis Sedrun	Graub├╝nden	23	Graub├╝nden
+Spital am Semmering	Steiermark	3	Semmering-Waldheimat-Veitsch
+Zauchensee - Flachauwinkl - Ski amade	Salzburger Land	10	Salzburger Land
+Sonnberglifte - Wald am Schoberpass	Steiermark	0	Steiermark
+Kremsm├╝nster	Ober├Âsterreich	1	Traunviertel
+Corvatsch - Furtschellas	Graub├╝nden	16	Graub├╝nden
+Frauenau	Bayern	1	Arberland
+Wiesenfelden	Bayern	1	Sankt Englmar
+Amden - Weesen	Ostschweiz	2	Glarnerland
+Schwarzach	Bayern	2	Bodensee - Vorarlberg
+Dallenwil - Wirzweli	Luzern - Vierwaldst├ñttersee	1	Luzern - Vierwaldst├ñttersee
+Ski are├íl Je┼ít─ød / Liberec	Region Reichenberg	5	Region Reichenberg
+Novako	Region Karlsbad	2	Region Karlsbad
+Zinal	Wallis	1	Sierre Anniviers
+Champex - Lac	Wallis	0	Wallis
+Bildhaus am Ricken	Ostschweiz	2	Ostschweiz
+G├╝tenbach	Baden-W├╝rttemberg	0	<missing>
+St. Georgen am Walde - Schorschi-Lift	Ober├Âsterreich	2	Ober├Âsterreich
+Valgerola	Lombardei	1	Morbegno Bassa Valle
+AktivArena am Kolben / Oberammergau	Bayern	5	Bayern
+Rossatz-Arnsdorf	Nieder├Âsterreich	8	Wachau - Nibelungengau - Kremstal
+Bensheim	Hessen	3	Bergstra├ƒe / Hessen
+Wanderdorf La Val	S├╝dtirol	7	Alta Badia
+St. Gertraud	S├╝dtirol	2	Ultental - Deutschnonsberg
+Steibis	Bayern	10	Oberallg├ñu
+Castione della Presolana - Monte Pora	Lombardei	3	Clusone Presolana
+Misurina - Col de Varda	Venetien	5	Venetien
+Belluno	Venetien	0	Valbelluna
+Ferienregion Kandertal	Berner Oberland	10	Berner Oberland
+Steyr und die Nationalpark Region - Ennstal	Ober├Âsterreich	0	<missing>
+Sonnenb├╝hl - Genkingen	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Friedrichshafen	Baden-W├╝rttemberg	2	Bodensee - Deutschland
+Skilift Falkenstein	Bayern	1	Bayern
+Donnersbachwald - Riesneralm	Steiermark	11	Grimming - Donnersbachtal
+Wildsch├Ânau	Tirol	17	Tirol
+Ilmenau	Th├╝ringen	3	Th├╝ringer Wald
+Tignes - Val dÔÇÖIs├¿re	Auvergne-Rh├┤ne-Alpes	6	Auvergne-Rh├┤ne-Alpes
+Karwendel - Mittenwald	Bayern	6	Bayern
+Antholz Obertal	S├╝dtirol	1	Antholzertal
+Kelheim	Bayern	0	Landkreis Kelheim
+Figura - Prad─ød	M├ñhren-Schlesien	0	M├ñhren-Schlesien
+Rathvel	Freiburg Region	1	Freiburg Region
+Sonnenkopf - Klostertal	Vorarlberg	12	Vorarlberg
+B├Âdele - Schwarzenberg	Vorarlberg	3	Vorarlberg
+La Berra - La Roche	Freiburg Region	3	Freiburg Region
+Rein in Taufers - Tauferer Ahrntal	S├╝dtirol	3	S├╝dtirol
+Sauerland/ Nordrhein-Westfalen	Nordrhein-Westfalen	94	Nordrhein-Westfalen
+M├Ârlialp	Luzern - Vierwaldst├ñttersee	3	Luzern - Vierwaldst├ñttersee
+Torfhaus im Harz	Niedersachsen	1	Oberharz
+Bad Nauheim	Hessen	1	Taunus
+B├ñrnkopf	Nieder├Âsterreich	1	Waldviertel Mitte
+La Clusaz - Lake Annecy Ski Resort	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
+Pf├ñnderbahn - Bregenz am Bodensee	Vorarlberg	3	Vorarlberg
+St. Gallenkirch - Gortipohl	Vorarlberg	5	Montafon
+Auerberg / Bernbeuren	Bayern	1	Bayern
+Novalja	Dalmatien - Zadar	3	Insel Pag
+Annaberg	Nieder├Âsterreich	11	Nieder├Âsterreich
+St. Jodok am Brenner - Schmirn - Vals	Tirol	1	Wipptal
+St. Johann in Salzburg	Salzburger Land	3	Salzburger Sportwelt
+Serfaus - Fiss - Ladis	Tirol	13	Tirol
+Piane di Mocogno	Emilia-Romagna	1	Emilia-Romagna
+Kapfenberg	Steiermark	1	Bruck - Kapfenberg
+Bad Sassendorf	Nordrhein-Westfalen	0	<missing>
+Patscherkofel - Igls	Tirol	3	Innsbruck und seine Feriend├Ârfer
+Ghisoni Capanelle	Korsika	0	Korsika
+Bad Mitterndorf	Steiermark	4	Ausseerland - Salzkammergut
+Thyon les Collons	Wallis	17	Val d`H├®rens
+Bayerisch Eisenstein	Bayern	3	Arberland
+Beckenried - Klewenalp	Luzern - Vierwaldst├ñttersee	4	Vierwaldst├ñttersee / Nidwalden
+Amberg	Bayern	1	<missing>
+Andalo	Trentino	17	Altopiano della Paganella
+Les 7 Laux	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
+F├╝ssen	Bayern	14	Ostallg├ñu
+Skilifte Klingenthal	Sachsen	2	Sachsen
+Wachtberglifte Weyregg am Attersee	Ober├Âsterreich	4	Ober├Âsterreich
+Plose Brixen	S├╝dtirol	18	S├╝dtirol
+Karwendel-Bergbahn Pertisau ÔÇô Achensee	Tirol	12	Tirol
+Werfenweng	Salzburger Land	16	Salzburger Land
+Dolomites Val Gardena / Gr├Âden - St. Ulrich	S├╝dtirol	24	S├╝dtirol
+Mechelen	Fl├ñmische Region	2	Flandern
+Chiavenna	Lombardei	1	Valchiavenna
+Waldeck am Edersee	Hessen	2	Waldecker Land
+Oberwesel	Rheinland-Pfalz	6	Romantischer Rhein
+Marienheide	Nordrhein-Westfalen	1	Bergisches Land
+La Bresse Hautes-Vosges	Grand Est	6	Grand Est
+Valtgeva / Druni KidsArena Sedrun	Graub├╝nden	1	Graub├╝nden
+Obernberg am Brenner	Tirol	7	Wipptal
+Rauris	Salzburger Land	11	Nationalpark Hohe Tauern
+Bad Sooden-Allendorf	Hessen	4	Geo-Naturpark Frau-Holle-Land
+D├╝sseldorf	Nordrhein-Westfalen	5	D├╝sseldorf & Neanderland
+Baiersbronn	Baden-W├╝rttemberg	4	Baden-W├╝rttemberg
+St. Oswald	Nieder├Âsterreich	1	S├╝dliches Waldviertel
+Hallein / Bad D├╝rrnberg	Salzburger Land	1	Tennengau - Dachstein West
+Hallig Langene├ƒ	Schleswig-Holstein	3	Halligen
+Chaux Neuve	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
+Eben - monte popolo - Ski amade	Salzburger Land	2	Salzburger Land
+Siegsdorf	Bayern	3	Chiemgau - Chiemsee
+Sargans	Ostschweiz	4	Bad Ragaz, Pizol und Umgebung
+Landeck	Tirol	1	Tirol West
+Flims Laax Falera	Graub├╝nden	10	Graub├╝nden
+Gosau - Dachstein West	Ober├Âsterreich	6	Ober├Âsterreich
+Norderney	Niedersachsen	1	Ostfriesische Inseln
+Grebenzen - St.Lambrecht	Steiermark	4	Steiermark
+Kaltenbronn	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Tirolina - Ski-, Sport- & Aktivberg Thiersee	Tirol	0	Tirol
+Nebelhorn / Oberstdorf	Bayern	21	Bayern
+Col de Rousset	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Sankt Urban - Simonh├Âhe	K├ñrnten	3	Mittelk├ñrnten
+Passo Fedaia - Marmolada	Venetien	1	Venetien
+Meinerzhagen	Nordrhein-Westfalen	5	M├ñrkisches Sauerland
+Planneralm - Schneeb├ñren	Steiermark	4	Steiermark
+Schotten	Hessen	2	Vogelsberg
+Silvretta Montafon Bergbahnen	Vorarlberg	10	Montafon
 Trins - Wipptal	Tirol	4	Tirol
-Maurach - Eben am Achensee	Tirol	5	Achensee
-Saalbach Hinterglemm	Salzburger Land	21	Salzburger Land
-Raggal - Marul	Vorarlberg	3	Biosph├ñrenpark Gro├ƒes Walsertal
-Bad T├Âlz	Bayern	7	T├Âlzer Land
-Kochel am See	Bayern	0	T├Âlzer Land
-Wei├ƒenstadt	Bayern	2	Fichtelgebirge
-Vacha	Th├╝ringen	0	<missing>
-Bonn Rhein-Sieg-Kreis Ahrweiler	Nordrhein-Westfalen	9	<missing>
-Maria Laach am Jauerling	Nieder├Âsterreich	3	Wachau - Nibelungengau - Kremstal
+Ultental - Deutschnonsberg	S├╝dtirol	14	Meraner Land
+Ischgl	Tirol	12	Paznaun - Ischgl
+Ladurns - Pflerschtal	S├╝dtirol	3	S├╝dtirol
+Rheinhessen	Rheinland-Pfalz	7	Rheinland-Pfalz
+─Éakovo	Slawonien	1	Slawonien
+┼átrbsk├® Pleso	Eperieser Landschaftsverband	1	Eperieser Landschaftsverband
+Odenwald / Baden-W├╝rttemberg	Baden-W├╝rttemberg	1	<missing>
+Grado	Friaul-Julisch Venetien	0	Mittel-Dalmatien
+Varel-Dangast	Niedersachsen	1	Nordseek├╝ste
+SKI ARM├üDA Doln├¡ Lomn├í	M├ñhren-Schlesien	2	M├ñhren-Schlesien
+Genua	Ligurien	13	Genua und Umgebung
+Feldberg Liftverbund	Baden-W├╝rttemberg	13	Baden-W├╝rttemberg
+Rosskopf - Sterzing	S├╝dtirol	6	S├╝dtirol
+Weerberg	Tirol	6	Silberregion Karwendel
+Lavam├╝nd	K├ñrnten	1	Lavanttal
+Mijoux - La Faucille	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Sportbahnen Eischoll	Wallis	1	Wallis
+Boltenhagen	Mecklenburg-Vorpommern	3	Ostseek├╝ste Mecklenburg
+Wusterhausen/Dosse	Brandenburg	0	Prignitz
+Schattwald - Z├Âblen im Tannheimertal	Tirol	5	Tirol
+─îenkovice	Region Pardubice	2	Region Pardubice
+Bad Hofgastein - Ski amade	Salzburger Land	32	Salzburger Land
+Kadle─ì├ík	Region Vyso─ìina	0	Region Vyso─ìina
+Wengen	Berner Oberland	6	Jungfrau Region
+Willingen	Hessen	22	GrimmHeimat NordHessen
+G├╝tersloh	Nordrhein-Westfalen	0	Teutoburger Wald
+Freiburg und Umgebung	Freiburg Region	1	Freiburg Region
+Sandl / Viehberg	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
+St. Peter am Wimberg	Ober├Âsterreich	1	M├╝hlviertel
+Bleaml Alm - Neubau / Fichtelberg	Bayern	1	Bayern
+Pozza di Fassa	Trentino	11	Fassatal
+Neukirchen / Lautertal	Bayern	1	Bayern
+Rettenberg	Bayern	1	<missing>
+Adelboden	Berner Oberland	14	Berner Oberland
+Sever├ík / Jizerky	Region Reichenberg	4	Region Reichenberg
+Bergen	Bayern	3	Chiemgau - Chiemsee
+Schladming-Rohrmoos-Pichl	Steiermark	16	Schladming - Dachstein
+Wintersportarena Liebenau	Ober├Âsterreich	1	Ober├Âsterreich
+Kindberg	Steiermark	1	M├╝rztaler Streuobstregion...
+Freesports Arena Dachstein Krippenstein / Obertraun	Ober├Âsterreich	3	Ober├Âsterreich
+Vallnord / Pal-Arinsal - La Massana	Andorra	10	Andorra
+Moselregion Traben-Trarbach Kr├Âv	Rheinland-Pfalz	5	Mosel-Saar
+Koblenz	Rheinland-Pfalz	7	Romantischer Rhein
+Sternstein Lifte - Bad Leonfelden	Ober├Âsterreich	4	Ober├Âsterreich
+Pfelders	S├╝dtirol	7	Passeiertal
+Bocksberg-Hahnenklee	Niedersachsen	5	Niedersachsen
+Davos Schatzalp	Graub├╝nden	11	Davos Klosters
+Montreux Riviera	Waadtland / Genferseegebiet	2	Waadtland / Genferseegebiet
+Engelhartszell an der Donau	Ober├Âsterreich	1	Donau Ober├Âsterreich
+Janova Hora	Region Reichenberg	0	Region Reichenberg
 Malbun	Liechtenstein - Oberland	7	Liechtenstein - Oberland
 Krems an der Donau	Nieder├Âsterreich	9	Wachau - Nibelungengau - Kremstal
 Ehrwald	Tirol	21	Zugspitz Arena
 Hittisau	Vorarlberg	3	Bregenzerwald
-Oberdrauburg	K├ñrnten	1	Oberdrautal / Nationalpark-Region...
-Winklern	K├ñrnten	1	Hohe Tauern - die Nationalpark-Region...
-Eberstein - Saualpe	K├ñrnten	4	K├ñrnten
-Falkert HEIDI ALM BergResort	K├ñrnten	7	K├ñrnten
-St. Radegund Lift	Steiermark	2	Steiermark
-Lichtenberg	Ober├Âsterreich	1	M├╝hlviertel
-Schwarzenberg am B├Âhmerwald	Ober├Âsterreich	12	Ferienregion B├Âhmerwald
-Bad Radkersburg	Steiermark	6	Region Bad Radkersburg
-M├Âdling	Nieder├Âsterreich	2	Wienerwald
-Tirolina - Ski-, Sport- & Aktivberg Thiersee	Tirol	0	Tirol
-Christlum Achenkirch - Achensee	Tirol	8	Tirol
-Nesselw├ñngle	Tirol	4	Tannheimer Tal
-Fusch an der Gro├ƒglocknerstra├ƒe	Salzburger Land	4	Bruck Fusch - Grossglockner
-Dorfgastein	Salzburger Land	14	Gasteinertal
-Unterb├ñch - Brandalp	Wallis	8	Wallis
-Sierre	Wallis	0	Sierre Anniviers
-Obstalden	Ostschweiz	1	Glarus Nord
-Lessinia	Venetien	0	Verona
-Bad Harzburg	Niedersachsen	1	Der Harz/ Niedersachsen
-Sch├Ânwald im Schwarzwald	Baden-W├╝rttemberg	2	Ferienland Schwarzwald
-Schleppe Alm	K├ñrnten	0	<missing>
-Interlaken	Berner Oberland	15	<missing>
-Albrechtsberg an der gro├ƒen Krems	Nieder├Âsterreich	1	Waldviertel Mitte
-Ybbs an der Donau	Nieder├Âsterreich	2	Wachau - Nibelungengau - Kremstal
-Faschina - Fontanella	Vorarlberg	7	Vorarlberg
-Alpenstadt Bludenz	Vorarlberg	8	Alpenregion Bludenz
-Grenchen	Jura & Drei-Seen-Land	2	Solothurn und Region
-Magdalensberg	K├ñrnten	1	Mittelk├ñrnten
-Champex-Lac	Wallis	0	Pays du Saint-Bernard
-Puschlav	Graub├╝nden	4	Puschlav / Valposchiavo
-Marktredwitz	Bayern	0	Naturpark Steinwald
-Wirsberg	Bayern	1	Frankenwald
-Falkenstein	Bayern	1	Region Cham
-Kulmbach	Bayern	3	Frankenwald
-Marquartstein	Bayern	8	Achental
-Pottenstein	Bayern	6	Fr├ñnkische Schweiz
-Herrsching am Ammersee	Bayern	0	Starnberger F├╝nf-Seen-Land
-Probstei und Kieler F├Ârde	Schleswig-Holstein	5	Ostsee - Schleswig Holstein
-Oberzent	Hessen	1	Bergstra├ƒe Odenwald
-Giller / Hilchenbach-L├╝tzel	Nordrhein-Westfalen	2	Nordrhein-Westfalen
-Schmallenberg	Nordrhein-Westfalen	7	Sauerland/ Nordrhein-Westfalen
-Berlin	Berlin	4	Berlin
-M├╝nstertal	Baden-W├╝rttemberg	1	Hochschwarzwald
-Skilift Berger H├Âhe / Wangen	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-Wiedingharde	Schleswig-Holstein	1	Nordfriesland
-Trassenheide	Mecklenburg-Vorpommern	2	Usedom
-Familienskigebiet Sahnehang	Nordrhein-Westfalen	1	Nordrhein-Westfalen
-Wiehl	Nordrhein-Westfalen	1	Bergisches Land
-Cerler	Aragonien	1	<missing>
-Hergiswil	Luzern - Vierwaldst├ñttersee	1	Vierwaldst├ñttersee / Nidwalden
-Skilift Kellerberg / Haldi	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
-Andermatt - Gemsstock	Luzern - Vierwaldst├ñttersee	14	Luzern - Vierwaldst├ñttersee
-Bad Bleiberg	K├ñrnten	2	Region Villach - Faaker See...
-Nassfeld	K├ñrnten	15	K├ñrnten
-Heiligenblut / Gro├ƒglockner	K├ñrnten	22	Hohe Tauern - die Nationalpark-Region...
-Leventina	Tessin	5	Tessin
-Leogang	Salzburger Land	7	Saalfelden - Leogang
-Bad Hofgastein	Salzburger Land	32	Gasteinertal
-Flachau	Salzburger Land	8	Salzburger Sportwelt
-Champ├®ry	Wallis	1	R├®gion Dents du Midi
-Wendelstein - Brannenburg	Bayern	7	Bayern
-Breitenberg - Hochalpe / Pfronten	Bayern	5	Bayern
-Heigenbr├╝cken	Bayern	1	Spessart-Mainland / Bayern
-Grafenau	Bayern	0	Freyung-Grafenau
-Nu├ƒdorf am Inn	Bayern	1	Chiemsee - Alpenland
-Wernigerode	Sachsen-Anhalt	11	Der Harz/ Sachsen-Anhalt
-Wehrheim	Hessen	2	Taunus
-Bed┼Öichov / Jizerky	Region Reichenberg	4	Region Reichenberg
-Orava Snow - Oravsk├í Lesn├í	Silleiner Landschaftsverband	0	Silleiner Landschaftsverband
-G├Ârlitz	Sachsen	1	Neisseland
-Brotterode	Th├╝ringen	1	Th├╝ringen
-Monterosa	Aostatal	1	Aostatal
-Steyr und die Nationalpark Region - Ennstal	Ober├Âsterreich	0	<missing>
-Homberg / Skilift Dreiligass-Winteregg	Bern & Region Bern	0	<missing>
-Haugschlag	Nieder├Âsterreich	1	Oberes Waldviertel
-Brienz - Axalp	Berner Oberland	3	Brienzersee
-Umhausen - Niederthai	Tirol	6	Tirol
-Ruden	K├ñrnten	2	Klopeiner See - S├╝dk├ñrnten
-Friesach	K├ñrnten	1	Mittelk├ñrnten
-Altaussee - Loser	Steiermark	11	Ausseerland - Salzkammergut
-Graz - Stadt	Steiermark	13	Graz und Region Graz
-Linz	Ober├Âsterreich	7	Donau Ober├Âsterreich
-Klaus - Steyrling - Kniewas	Ober├Âsterreich	3	Urlaubsregion Pyhrn - Priel
-Altenberg bei Linz	Ober├Âsterreich	1	Region Gusental
-Fischlham	Ober├Âsterreich	1	Hausruckviertel
-Pinsdorf	Ober├Âsterreich	0	Traunsee-Almtal
-Oberwil im Simmental	Berner Oberland	2	Lenk-Simmental
-Waidring - Steinplatte	Tirol	6	Tirol
-Jaunpass	Berner Oberland	2	Berner Oberland
-Boden-Bschlabs	Tirol	1	Lechtal
-Fendels	Tirol	0	Naturpark & Gletscherregion Kaunertal
-Oberperfuss - Rangger K├Âpfl	Tirol	6	Tirol
-Sattelegg / Einsiedeln	Luzern - Vierwaldst├ñttersee	1	Luzern - Vierwaldst├ñttersee
-Skilift Beuerberg	Bayern	1	Bayern
-Hammelburg	Bayern	1	Die Rh├Ân/ Bayern
-Stein bei N├╝rnberg	Bayern	1	Romantisches Franken
-Starnberg	Bayern	1	Starnberger F├╝nf-Seen-Land
-Rieneck	Bayern	1	Spessart-Mainland / Bayern
-Inzell	Bayern	3	Chiemgau - Chiemsee
-Eichholzkopf / Dietzh├Âlztal	Hessen	1	Hessen
-Bielefeld	Nordrhein-Westfalen	7	Teutoburger Wald
-L├╝denscheid	Nordrhein-Westfalen	3	M├ñrkisches Sauerland
-Piesendorf Niedernsill	Salzburger Land	2	Nationalpark Hohe Tauern
-Saalbach Hinterglemm Leogang Fieberbrunn	Salzburger Land	21	Salzburger Land
-H├╝ttschlag	Salzburger Land	1	Gro├ƒarltal
-Willingen	Hessen	22	GrimmHeimat NordHessen
-Isny im Allg├ñu	Baden-W├╝rttemberg	7	Oberschwaben - Allg├ñu
-Seebach	Baden-W├╝rttemberg	6	Schwarzwald
-Aschaffenburg	Bayern	6	Spessart-Mainland / Bayern
-Bettlerjoch	Liechtenstein - Unterland	1	Liechtenstein - Unterland
-Hollenstein an der Ybbs	Nieder├Âsterreich	2	Eisenstra├ƒe Nieder├Âsterreich
-Bubikon - Wolfhausen	Z├╝rich & Z├╝rich Region	2	Z├╝rcher Oberland
-Seitenstetten	Nieder├Âsterreich	1	Moststra├ƒe
-Nenzing	Vorarlberg	8	Biosph├ñrenpark Gro├ƒes Walsertal
-Alberschwende	Vorarlberg	2	Vorarlberg
-Treffen - Annenheim - Sattendorf am Ossiacher See	K├ñrnten	9	Region Villach - Faaker See...
-Hermagor - Pressegger See	K├ñrnten	8	Nassfeld / Pressegger See
-Michaelerberg-Pruggern	Steiermark	6	Gr├Âbminger Land
-Les Menuires / Les 3 Vall├®es	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Ch├ótel	Auvergne-Rh├┤ne-Alpes	2	Haute-Savoie
-Walcheren	Zeeland	6	Zeeland
-Hafning bei Trofaiach	Steiermark	0	<missing>
-G├Ârz	Friaul-Julisch Venetien	1	G├Ârz / Collio
-Schwarzenau	Nieder├Âsterreich	0	Waldviertel Mitte
-Mol├®son - La Gruy├¿re	Freiburg Region	4	Freiburg Region
-Rathvel	Freiburg Region	1	Freiburg Region
-Sonnenkopf - Klostertal	Vorarlberg	12	Vorarlberg
-B├Âdele - Schwarzenberg	Vorarlberg	3	Vorarlberg
-Silbertal - Kristberg	Vorarlberg	7	Montafon
-Silvretta Montafon	Vorarlberg	25	Vorarlberg
-Bizau	Vorarlberg	1	Bregenzerwald
-Skilift Hittisberg	Vorarlberg	2	Vorarlberg
-Villach	K├ñrnten	27	Region Villach - Faaker See...
-Katschberg	K├ñrnten	34	K├ñrnten
-Destination Gstaad	Berner Oberland	13	Berner Oberland
-Bad Ischl	Ober├Âsterreich	3	Salzkammergut Ober├Âsterreich
-St. Anton am Arlberg	Tirol	22	Tirol
-Lienzer Bergbahnen - Zettersfeld/Hochstein	Tirol	11	Tirol
-H├Ârnle - Bad Kohlgrub	Bayern	2	Bayern
-Kemnath	Bayern	6	Naturpark Steinwald
-Garmisch-Partenkirchen	Bayern	12	Zugspitzland
-Oberbayern	Bayern	107	Bayern
-Lalling	Bayern	1	Deggendorfer Land
-Bolsterlang / H├Ârnerd├Ârfer	Bayern	2	Oberallg├ñu
-Schleching	Bayern	5	Achental
-Skizentrum Sonnenbichl	Bayern	3	Bayern
-Ru├ƒbach am Pa├ƒ Gsch├╝tt - Dachstein West	Salzburger Land	11	Salzburger Land
-Graal-M├╝ritz	Mecklenburg-Vorpommern	2	Ostseek├╝ste Mecklenburg
-Rees	Nordrhein-Westfalen	3	Niederrhein
-Bad Sachsa - Ravensberg	Niedersachsen	1	Niedersachsen
-Osnabr├╝ck	Niedersachsen	6	Osnabr├╝cker Land
-Altenau im Harz	Niedersachsen	1	Oberharz
-Ruhestein	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Skilift B├Âttingen	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-Diemelsee	Hessen	2	Waldecker Land
-Hochzeiger - Pitztal	Tirol	19	Pitztal
-Kuchl	Salzburger Land	1	Tennengau - Dachstein West
-Eggberge / Fl├╝elen	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
-Spl├╝gen / Rheinwald	Graub├╝nden	2	Graub├╝nden
-Skilift Buchserberg-Malbun	Ostschweiz	1	Ostschweiz
-Fahrenberg - Vohenstrau├ƒ	Bayern	1	Bayern
-Alzenau	Bayern	1	Spessart-Mainland / Bayern
-Bischofsheim an der Rh├Ân	Bayern	2	Die Rh├Ân/ Bayern
-N├Ârdlingen	Bayern	4	Bayerisch-Schwaben
-Zwiesel - Skilift Rabenstein	Bayern	1	Bayern
-Alpspitz / Edelsberg - Nesselwang	Bayern	4	Bayern
-Amstetten	Nieder├Âsterreich	1	Moststra├ƒe
-Katschberg - Rennweg	K├ñrnten	32	K├ñrnten
-Finkenstein am Faaker See	K├ñrnten	2	Region Villach - Faaker See...
-K├Âttmannsdorf	K├ñrnten	2	Carnica Region Rosental
-Feistritz ob Bleiburg	K├ñrnten	1	Klopeiner See - S├╝dk├ñrnten
-Carnica Region Rosental	K├ñrnten	10	K├ñrnten
-Bodental	K├ñrnten	4	K├ñrnten
-Interlaken - Matten - Unterseen	Berner Oberland	4	<missing>
-┼ápindler┼»v Ml├¢n / Svat├¢ Petr - Hromovka	Region K├Âniggr├ñtz	11	Region K├Âniggr├ñtz
-Kamenec / Jablonec nad Jizerou	Region Reichenberg	0	Region Reichenberg
-Ski Lysa	Eperieser Landschaftsverband	0	Eperieser Landschaftsverband
-Brodok - Por├í─ì	Kaschauer Landschaftsverband	0	Kaschauer Landschaftsverband
-Karlovac	Lika - Karlovac	1	Lika - Karlovac
-Insel Cres	Kvarner	1	Kvarner
-Friedewald	Hessen	1	N├Ârdliche Kuppenrh├Ân
-Waldsassen	Bayern	1	Naturpark Steinwald
-F├Âhr	Schleswig-Holstein	7	Nordsee - Schleswig-Holstein
-Offenbach am Main	Hessen	2	FrankfurtRheinMain
-Usedom-Stadt	Mecklenburg-Vorpommern	0	Usedom
-Bad W├╝nnenberg	Nordrhein-Westfalen	1	Sauerland/ Nordrhein-Westfalen
-Oberwesel	Rheinland-Pfalz	6	Romantischer Rhein
-Wurmbergseilbahn - Braunlage	Niedersachsen	5	Niedersachsen
-Seewalchen am Attersee	Ober├Âsterreich	2	Attersee - Attergau
-Medebach - Hallenberg - Schlossberg	Nordrhein-Westfalen	2	Nordrhein-Westfalen
-Bonn & Rhein-Sieg-Kreis	Nordrhein-Westfalen	20	Nordrhein-Westfalen
-Peio	Trentino	3	Val di Sole
-Wangerland	Niedersachsen	12	Nordseek├╝ste
-Rastkogel Bahnen / Tux-Vorderlanersbach	Tirol	1	Tirol
-Ludwigsburg	Baden-W├╝rttemberg	1	Region Stuttgart
-Steinegg	S├╝dtirol	1	Eggental
-Bad Soden am Taunus	Hessen	1	Taunus
-Hochk├Ânig / Maria Alm - Dienten - M├╝hlbach - Ski amade	Salzburger Land	19	Salzburger Land
-Schratten Fl├╝hli	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
-Sauze - Sauze 1700	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
-Anger	Bayern	7	Berchtesgadener Land
-Betzenstein	Bayern	1	Frankenjura
-Ingolstadt	Bayern	8	Naturpark Altm├╝hltal
-Kaltennordheim	Th├╝ringen	1	Die Rh├Ân/ Th├╝ringen
+Wintersport Arena Holzelfingen	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Risoul - La F├┤ret Blanche	Provence-Alpes-C├┤te dÔÇÖAzur	2	Provence-Alpes-C├┤te dÔÇÖAzur
 Roth	Bayern	2	Fr├ñnkisches Seenland
-Lenggries - Brauneck	Bayern	15	T├Âlzer Land
-Sch├Âmberg	Baden-W├╝rttemberg	2	Enztal
-Calw	Baden-W├╝rttemberg	5	Nagoldtal
-Traunkirchen	Ober├Âsterreich	2	Traunsee-Almtal
-Waidring	Tirol	6	Pillerseetal
-Hinterfeldlift M├Âsern	Tirol	2	Tirol
-Tulfes - Glungezer	Tirol	12	Ferienregion Hall - Wattens
-Lienz	Tirol	9	Lienzer Dolomiten - Osttirol
-Diavolezza - Lagalb	Graub├╝nden	10	Graub├╝nden
-Aletsch Arena	Wallis	40	Oberwallis
-Evol├¿ne	Wallis	4	Wallis
-La Punt - M├╝sella	Graub├╝nden	4	Graub├╝nden
-Duvin	Graub├╝nden	1	Ilanz / Glion
-Vilters-Wangs	Ostschweiz	7	Bad Ragaz, Pizol und Umgebung
-Sargans	Ostschweiz	4	Bad Ragaz, Pizol und Umgebung
-Urn├ñsch	Ostschweiz	1	Appenzell Ausserrhoden
-Meinerzhagen	Nordrhein-Westfalen	5	M├ñrkisches Sauerland
-Bosco Gurin	Tessin	5	Tessin
-Beatenberg	Berner Oberland	2	Interlaken
-Arezzo	Toskana	0	Toskana
-Spiazzi di Gromo / Boario	Lombardei	2	Lombardei
-Maasmechelen	Fl├ñmische Region	7	Limburg - Flandern
-Deutschnofen - Obereggen - Eggen - Petersberg	S├╝dtirol	21	Eggental
-Grado	Friaul-Julisch Venetien	0	Mittel-Dalmatien
-San Pellegrino	Trentino	12	Fassatal
-Presena Gletscher - Adamello Ski	Trentino	1	Trentino
-M├®ribel / Les 3 Vall├®es	Auvergne-Rh├┤ne-Alpes	6	Auvergne-Rh├┤ne-Alpes
-Cordon	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
-Lac Blanc	Grand Est	1	Grand Est
-G├®rardmer	Grand Est	3	Grand Est
-Blankenberge	Fl├ñmische Region	3	Belgische K├╝ste
-Telnice	Region ├Üst├¡	4	Region ├Üst├¡
-Leverkusen	Nordrhein-Westfalen	2	Nordrhein-Westfalen
-K├Ânigswinter	Nordrhein-Westfalen	8	Siebengebirge
-Lennestadt	Nordrhein-Westfalen	0	Sauerland/ Nordrhein-Westfalen
-Bitburger Land	Rheinland-Pfalz	2	Eifel/ Rheinland-Pfalz
-Lackenhof - ├ûtscher	Nieder├Âsterreich	9	Nieder├Âsterreich
-Gr├ñn-Haldensee - F├╝ssener J├Âchle	Tirol	9	Tannheimer Tal
-Ast├║n	Aragonien	5	Aragonien
-Zadar	Dalmatien - Zadar	5	Region Zadar
-Zoncolan - Ravascletto - Sutrio	Friaul-Julisch Venetien	3	Carnia
 Cividale del Friuli	Friaul-Julisch Venetien	5	Cividale / Natisone-T├ñler
-Gran Paradiso / Orco Tal - Soana Tal	Piemont	1	Turin und Umgebung
-Chiavenna	Lombardei	1	Valchiavenna
-Waldeck am Edersee	Hessen	2	Waldecker Land
-Pordoipass	Trentino	1	Fassatal
-Skilift Pichl / Gsieser Tal	S├╝dtirol	1	S├╝dtirol
-Bardolino	Venetien	2	Gardasee
-Monte Lussari / Tarvisio	Friaul-Julisch Venetien	12	Friaul-Julisch Venetien
-Sassotetto - S.M. Maddalena / Monti Sibillini	Marken	1	Marken
-Chiesa in Valmalenco	Lombardei	4	Sondrio Valmalenco
-Brembo Tal / San Simone - Foppolo - Carona	Lombardei	4	Lombardei
-Koro┼íka	Koro┼íka - slowenisches K├ñrnten	9	Koro┼íka
-Valberg - Beuil/Valberg	Provence-Alpes-C├┤te dÔÇÖAzur	0	Provence-Alpes-C├┤te dÔÇÖAzur
+Matrei in Osttirol	Tirol	7	NationalparkRegion Hohe Tauern Osttirol
+Schaffhausen	Ostschweiz	3	SchaffhauserLand
+Les Orres	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
+Forsteralm - Waidhofen/Ybbs Gaflenz	Ober├Âsterreich	2	Ober├Âsterreich
+Kals - GG Resorts Kals-Matrei	Tirol	17	Tirol
+Udine und Umgebung	Friaul-Julisch Venetien	2	Friaul-Julisch Venetien
+Malcesine - Monte Baldo	Venetien	1	Venetien
+Andermatt - Oberalp - Sedrun	Graub├╝nden	17	Graub├╝nden
+Heiligenberg ├╝berm Bodensee	Baden-W├╝rttemberg	1	Bodensee - Linzgau
+Aletsch Arena	Wallis	40	Oberwallis
+Celje	Savinjska	2	Savinjska
+Pa┼Öez / Rokytnice nad Jizerou	Region Reichenberg	1	Region Reichenberg
+Salzwinkel / Zainingen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Br├╝ssel	Region Br├╝ssel - Hauptstadt	1	Br├╝sseler Region
+Terenten	S├╝dtirol	1	Kronplatz - Dolomiten
+Insel Cres	Kvarner	1	Kvarner
+Lenggries - Brauneck	Bayern	15	T├Âlzer Land
+St. Cergue	Waadtland / Genferseegebiet	3	Waadtland / Genferseegebiet
+Kirchberg in Tirol	Tirol	3	Kitzb├╝heler Alpen - Brixental
+Kolm Saigurn	Salzburger Land	3	Nationalpark Hohe Tauern
+Adnet	Salzburger Land	3	Tennengau - Dachstein West
+Ramingstein - Karneralm	Salzburger Land	2	Lungau - Ferienregion
+M├╝rren - Schilthorn	Berner Oberland	4	Jungfrau Region
+Mouthe	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
+Emmetten	Luzern - Vierwaldst├ñttersee	3	Luzern - Vierwaldst├ñttersee
+Celle	Niedersachsen	2	L├╝neburger Heide
+N├╝rnberg	Bayern	6	St├ñdteregion N├╝rnberg
+Haut Asco	Korsika	1	Korsika
+Ventron	Grand Est	0	Grand Est
+Hohenpei├ƒenberg	Bayern	1	Pfaffenwinkel
+G├╝nzburg	Bayern	1	Bayerisch-Schwaben
+Landshut	Bayern	1	<missing>
+Lipno	S├╝db├Âhmische Region	12	S├╝db├Âhmische Region
+Predigtstuhl / Bad Reichenhall	Bayern	31	Bayern
+Hofsgrund Schauinsland	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Krummennaab	Bayern	1	Naturpark Steinwald
+Vracl├ívek	M├ñhren-Schlesien	0	M├ñhren-Schlesien
+Simonswald	Baden-W├╝rttemberg	1	Elztal & Simonsw├ñldertal
+Benecko	Region Reichenberg	1	Region Reichenberg
+Karlstadt	Bayern	0	Fr├ñnkisches Weinland
+Sitten	Wallis	0	Unterwallis
+Vercorin	Wallis	2	Sierre Anniviers
+B├╝rchen	Wallis	2	Moosalpregion
+Friedberg	Bayern	0	Bayerisch-Schwaben
+Pany	Graub├╝nden	4	Graub├╝nden
+Amden	Ostschweiz	2	Ostschweiz
+Schwangau	Bayern	1	Ostallg├ñu
+Tutzing	Bayern	2	Starnberger F├╝nf-Seen-Land
+Skilifte Furx	Vorarlberg	0	Vorarlberg
+Domobianca - Moncucco	Piemont	1	Piemont
+Craveggia - Piana di Vigezzo	Piemont	3	Piemont
+St. Jakob im Walde	Steiermark	7	Joglland - Waldheimat
+Schwechat	Nieder├Âsterreich	2	R├Âmerland Carnuntum - Marchfeld
+Pfarrkirchen im M├╝hlkreis	Ober├Âsterreich	1	Donau Ober├Âsterreich
+Pully	Waadtland / Genferseegebiet	1	Lausanne Region
+Heringsdorf	Mecklenburg-Vorpommern	6	<missing>
+Innerschwand am Mondsee	Ober├Âsterreich	1	Mondseeland / Mondsee-Irrsee
+Osnabr├╝ck	Niedersachsen	6	Osnabr├╝cker Land
+Marktschellenberg	Bayern	1	Berchtesgadener Land
+Hopfgarten - Itter - Kelchsau - SkiWelt	Tirol	2	Tirol
+Hallein D├╝rrnberg - Zinkenlifte	Salzburger Land	3	Salzburger Land
+Bubikon - Wolfhausen	Z├╝rich & Z├╝rich Region	2	Z├╝rcher Oberland
+Coswig (Anhalt)	Sachsen-Anhalt	1	Anhalt-Dessau-Wittenberg
+Taufers im M├╝nstertal	S├╝dtirol	3	Obervinschgau
+St. Nikolai im S├Âlktal	Steiermark	2	Naturpark S├Âlkt├ñler
+Kollnburg	Bayern	1	Arberland
+Tauberbischofsheim	Baden-W├╝rttemberg	1	Liebliches Taubertal
+Brig-Glis	Wallis	1	Brig Simplon
+Celjska ko─ìa	Savinjska	2	Savinjska
+Salzburg Stadt	Salzburger Land	9	Stadt Salzburg & Umgebung
+Bad Aussee	Steiermark	1	Ausseerland - Salzkammergut
+Bellwald	Wallis	2	Wallis
+St. Ulrich - Ortisei / Dolomites Val Gardena - Gr├Âden	S├╝dtirol	22	Dolomites Val Gardena / Gr├Âden
+Canazei	Trentino	73	Fassatal
+Crawinkel	Th├╝ringen	0	<missing>
+Saas-Fee	Wallis	18	Wallis
+Langeoog	Niedersachsen	5	Ostfriesische Inseln
+Halle (Saale)	Sachsen-Anhalt	3	Halle-Saale-Unstrut
+Pottenstein	Bayern	6	Fr├ñnkische Schweiz
+Kniebis Freudenstadt	Baden-W├╝rttemberg	11	Baden-W├╝rttemberg
+Tr├Âstau	Bayern	1	Fichtelgebirge
+Monte Verena 2000 / Roana - Asiago	Venetien	1	Venetien
+Lambach	Ober├Âsterreich	1	Hausruckviertel
+St. Agatha	Ober├Âsterreich	1	Donau Ober├Âsterreich
+Murau - Kreischberg	Steiermark	27	Murau
+Langis Glaubenberg	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
+Blankenberge	Fl├ñmische Region	3	Belgische K├╝ste
+Morges Region	Waadtland / Genferseegebiet	1	Waadtland / Genferseegebiet
+Ratschings Jaufen	S├╝dtirol	10	S├╝dtirol
+Westerzgebirge	Sachsen	0	<missing>
+Mayrhofen	Tirol	4	Mayrhofen - Hippach
+St. Andreasberg - Matthias-Schmidt-Berg	Niedersachsen	3	Niedersachsen
+Attersee - Attergau	Ober├Âsterreich	13	<missing>
+Frankenjura	Bayern	7	<missing>
+Helsa	Hessen	1	Geo-Naturpark Frau-Holle-Land
+Kastellaun	Rheinland-Pfalz	0	Hunsr├╝ck
+Unterstmatt - Hochkopf	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Oedberglifte - Gmund am Tegernsee	Bayern	1	Bayern
+Murauer Frauenalpe	Steiermark	2	Steiermark
+Gr├╝nau im Almtal	Ober├Âsterreich	11	Traunsee-Almtal
+Steinhaus im Ahrntal	S├╝dtirol	22	Ahrntal
+Buchberg	Ostschweiz	1	Buchberg-R├╝dlingen
+Le Larmont / Pontarlier	Burgund-Freigrafschaft	4	Burgund-Freigrafschaft
+Schidorf Kirchbach	Nieder├Âsterreich	1	Nieder├Âsterreich
+Engadin Val M├╝stair	Graub├╝nden	7	Graub├╝nden
+La Thuile - La Rosiere / San Bernardo	Aostatal	13	Aostatal
+Mitterdorf - Mitterfirmansreut	Bayern	3	Bayern
+Battenhausen / Hohes Lohr	Hessen	1	Hessen
+Postalm	Salzburger Land	8	Wolfgangsee - Salzkammergut
+Oeschinen - Kandersteg	Berner Oberland	10	Ferienregion Kandertal
+Notre Dame de Bellecombe - Espace Diamant	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
+Petehovac - Delnice	Kvarner	1	Kvarner
+Seibelseckle	Baden-W├╝rttemberg	5	Baden-W├╝rttemberg
+Langenlois	Nieder├Âsterreich	10	Kamptal - Manhartsberg
+Dellach im Drautal	K├ñrnten	2	Oberdrautal / Nationalpark-Region...
+Fichtelberg - Oberwiesenthal	Sachsen	12	Sachsen
+Basel	Basel Region	6	Basel Region
+Val di Scalve	Lombardei	2	Val Seriana / Serio-Tal
+am Gr├╝ndelwald / J├Âhstadt	Sachsen	2	Sachsen
+Arco di Trento	Trentino	2	Garda Trentino
+Salzstiegl	Steiermark	2	Lipizzanerheimat - Steirische...
+Chalmazel	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Sauze - Sauze 1700	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
+Veysonnaz / 4 Vall├®es	Wallis	4	Wallis
+Pinzolo	Trentino	3	Madonna di Campiglio, Pinzolo und Val...
+Lavaz├®pass / Passo Lavaz├®	Trentino	2	Fleimstal / Val di Fiemme
+Ob┼Ö├¡ sud Javorn├¡k	Region Reichenberg	0	Region Reichenberg
+Egg im Bregenzerwald	Vorarlberg	1	Bregenzerwald
+Ingolstadt	Bayern	8	Naturpark Altm├╝hltal
+Weserland / Belgisch - Limburg	Wallonische Region	0	<missing>
+Einsiedeln	Luzern - Vierwaldst├ñttersee	2	Einsiedeln-Ybrig-Z├╝richsee
+Hochwolkersdorf	Nieder├Âsterreich	1	Bucklige Welt - Wiener Alpen
+Traunkirchen	Ober├Âsterreich	2	Traunsee-Almtal
+Vorderlanersbach - Rastkogel	Tirol	1	<missing>
+Arrach-Eck-Riedelstein	Bayern	3	Bayern
+Wei├ƒenbach	S├╝dtirol	3	Ahrntal
+Eppan an der Weinstra├ƒe	S├╝dtirol	4	Bozen und Umgebung - S├╝dtirols S├╝den
+Uhldingen-M├╝hlhofen	Baden-W├╝rttemberg	2	Bodensee - Deutschland
+Ski Center Latemar - Obereggen	S├╝dtirol	33	S├╝dtirol
+Bonn	Nordrhein-Westfalen	4	Bonn & Rhein-Sieg-Kreis
+Thun	Berner Oberland	2	Thunersee
+Aschaffenburg	Bayern	6	Spessart-Mainland / Bayern
+Sils	Graub├╝nden	1	Engadin St. Moritz
+Mittersill - Hollersbach - Stuhlfelden	Salzburger Land	4	Nationalpark Hohe Tauern
+Skilifte Unken / Heutal	Salzburger Land	4	Salzburger Land
+W├Ârthsee	Bayern	2	Starnberger F├╝nf-Seen-Land
+Fanas	Graub├╝nden	1	Pr├ñttigau
+Uttendorf - Weissee	Salzburger Land	6	Nationalpark Hohe Tauern
+Argentera	Piemont	1	Piemont
+Gargellen / Montafon	Vorarlberg	5	Vorarlberg
+Stari vrh	Gorenjska	2	Gorenjska
+Rankweil	Vorarlberg	2	Bodensee - Vorarlberg
+Quedlinburg	Sachsen-Anhalt	1	Der Harz/ Sachsen-Anhalt
+Spiekeroog	Niedersachsen	4	Ostfriesische Inseln
+La Villa	S├╝dtirol	14	Alta Badia
+Rappottenstein	Nieder├Âsterreich	1	Waldviertel Mitte
+Hochwang	Graub├╝nden	1	Chur
+Altglash├╝tte / B├ñrnau	Bayern	5	Bayern
+Jachenau	Bayern	1	T├Âlzer Land
+Meziho┼Ö├¡	Region ├Üst├¡	3	Region ├Üst├¡
+Schwarzenbach am Wald	Bayern	0	Frankenwald
+Skilift H├╝tten Hirschberg Bizau	Vorarlberg	1	Vorarlberg
+Wilhelmshaven	Niedersachsen	1	Ostfriesland
+Ebersdorf	Steiermark	0	Oststeiermark
+Eggental	S├╝dtirol	50	Dolomiten
+Frohnleiten	Steiermark	1	Graz und Region Graz
+Chamonix-Mont-Blanc	Auvergne-Rh├┤ne-Alpes	23	Haute-Savoie
+Bergbahn Pillersee ÔÇô Buchensteinwand	Tirol	4	Tirol
+Garmisch-Classic	Bayern	10	Bayern
+Annaberg-Lung├Âtz - Lammertal	Salzburger Land	6	Tennengau - Dachstein West
+Svratka	Region Vyso─ìina	1	Region Vyso─ìina
+Bad Urach	Baden-W├╝rttemberg	9	Schw├ñbische Alb
+Wehr am Hochrhein	Baden-W├╝rttemberg	1	Hochrhein
+┼¢upa Dubrova─ìka	Dalmatien - Dubrovnik	1	Dalmatien - Dubrovnik
+Maribor	Podravska	15	Maribor-Pohorje
+Gries am Brenner	Tirol	2	Wipptal
+Ludersdorf-Wilfersdorf	Steiermark	1	Region Gleisdorf
+Ges├ñuse	Steiermark	7	Steiermark
+Uri	Luzern - Vierwaldst├ñttersee	30	Luzern - Vierwaldst├ñttersee
+Corviglia	Graub├╝nden	14	Engadin St. Moritz
+Pl├Ân	Schleswig-Holstein	1	Holsteinische Schweiz
+Silvretta Jamtal	Vorarlberg	1	<missing>
+Seninka	Region Zlin	1	Region Zlin
+Meiringen - Hasliberg	Berner Oberland	7	Berner Oberland
+Eschenbach	Z├╝rich & Z├╝rich Region	1	Z├╝rcher Oberland
+M├Ârtschach	K├ñrnten	6	Hohe Tauern - die Nationalpark-Region...
+Sch├Ânwald - Skilift Dobel	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Pec pod Sn─ø┼¥kou / ─îern├í hora - Pec	Region K├Âniggr├ñtz	16	Region K├Âniggr├ñtz
+Breitenberg	Bayern	1	Bayerischer Wald
+Mellau - Dam├╝ls - Faschina Skischaukel	Vorarlberg	10	Vorarlberg
+Monte Bondone	Trentino	5	Trentino
+Hergiswil	Luzern - Vierwaldst├ñttersee	1	Vierwaldst├ñttersee / Nidwalden
+Katschberg - Rennweg	K├ñrnten	32	K├ñrnten
+Losenstein	Ober├Âsterreich	3	Steyr und die Nationalpark Region
+Prati di Tivo	Abruzzen	2	Abruzzen
+Gartow	Niedersachsen	1	Wendland.Elbe
+Skilift Linden	Bern & Region Bern	1	Bern & Region Bern
+Cesana - Sansicario / Via Lattea	Piemont	0	Piemont
+Harrachov	Region Reichenberg	14	Region Reichenberg
+Le D├®sert d┬┤Entremont	Auvergne-Rh├┤ne-Alpes	0	<missing>
+Ptuj	Podravska	1	Podravska
+Walmendingerhorn - Ifen - Heuberg	Vorarlberg	16	Vorarlberg
+Mitterdorf - Philippsreut	Bayern	3	Freyung-Grafenau
+Ratten	Steiermark	1	Joglland - Waldheimat
 Serre Chevalier Vall├®e - Brian├ºon	Provence-Alpes-C├┤te dÔÇÖAzur	2	Provence-Alpes-C├┤te dÔÇÖAzur
 Scheveningen	S├╝dholland	3	Den Haag
-Paseky nad Jizerou / Rokytnice nad Jizerou	Region Reichenberg	3	Region Reichenberg
-Wangen im Allg├ñu	Baden-W├╝rttemberg	3	Oberschwaben - Allg├ñu
-Sonnenb├╝hl - Genkingen	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-Friedrichshafen	Baden-W├╝rttemberg	2	Bodensee - Deutschland
-Waldzell	Ober├Âsterreich	0	Ober├Âsterreich
-SnowWorld Zoetermeer	S├╝dholland	0	S├╝dholland
-Steinhaus am Semmering	Steiermark	0	<missing>
-Prag / Praha	Region Prag	7	Region Prag
-Sierra Nevada / Pradollano	Andalusien	28	Andalusien
-┼¢ivogo┼í─ìe	Dalmatien - Split	3	Mittel-Dalmatien
-Braunlage	Niedersachsen	6	Der Harz/ Niedersachsen
-Bar├ƒel-Saterland	Niedersachsen	1	Oldenburger M├╝nsterland
-Zuberec - Janovky	Silleiner Landschaftsverband	0	Silleiner Landschaftsverband
-┼átrbsk├® Pleso	Eperieser Landschaftsverband	1	Eperieser Landschaftsverband
-Aflenzer B├╝rgeralm	Steiermark	4	Steiermark
-Ramsau am Dachstein	Steiermark	11	Ramsau am Dachstein
-Ulm	Baden-W├╝rttemberg	1	Schw├ñbische Alb
-Baden-Baden	Baden-W├╝rttemberg	3	Schwarzwald
-St. Lorenzen im Lesachtal	K├ñrnten	0	<missing>
-Labeaume	Auvergne-Rh├┤ne-Alpes	1	Pont d`Arc Ard├¿che
-Sipplingen	Baden-W├╝rttemberg	1	<missing>
-Weserland / Belgisch - Limburg	Wallonische Region	0	<missing>
-Attersee - Attergau	Ober├Âsterreich	13	<missing>
-Hessen Mitte	Hessen	3	<missing>
-Hochwolkersdorf	Nieder├Âsterreich	1	Bucklige Welt - Wiener Alpen
-St. Peter in der Au	Nieder├Âsterreich	1	Moststra├ƒe
-Schetteregg	Vorarlberg	2	Vorarlberg
-Rochers de Naye - Caux	Waadtland / Genferseegebiet	3	Waadtland / Genferseegebiet
-Ludmannsdorf	K├ñrnten	1	Carnica Region Rosental
-Crikvenica	Kvarner	1	Kvarner
-Tatransk├í Lomnica	Eperieser Landschaftsverband	6	Eperieser Landschaftsverband
-Split	Dalmatien - Split	5	Mittel-Dalmatien
-Seeg	Bayern	2	Ostallg├ñu
-Halle (Saale)	Sachsen-Anhalt	3	Halle-Saale-Unstrut
-Benneckenstein	Sachsen-Anhalt	1	Der Harz/ Sachsen-Anhalt
-Mei├ƒner / Eschwege	Hessen	1	Hessen
-Lorsch	Hessen	1	Bergstra├ƒe / Hessen
-Vall├®e de Joux	Waadtland / Genferseegebiet	2	Waadtland / Genferseegebiet
-Mutters - Muttereralm	Tirol	0	<missing>
-Hochkar	Nieder├Âsterreich	16	Nieder├Âsterreich
-See / Paznaun-Ischgl	Tirol	5	Tirol
-D├Âbriach / Radenthein	K├ñrnten	3	Millst├ñtter See
-Villanders	S├╝dtirol	3	Eisacktal
-Auer - Montan - Neumarkt - Salurn / Castelfeder	S├╝dtirol	1	Bozen und Umgebung - S├╝dtirols S├╝den
-Sexten	S├╝dtirol	32	Dolomitenregion Drei Zinnen
-Langtaufers	S├╝dtirol	1	Reschenpass
-Aachen	Nordrhein-Westfalen	1	Eifel & Aachen
-La Tzoumaz - Mayens de Riddes	Wallis	2	Wallis
-Anz├¿re	Wallis	2	Anz├¿re/ Valais
-Zwischenwasser	Vorarlberg	1	Bodensee - Vorarlberg
-Leutschach an der Weinstra├ƒe	Steiermark	1	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
-Deutsch Sch├╝tzen-Eisenberg	Burgenland	0	S├╝dburgenland
-Moosalpregion	Wallis	4	Oberwallis
-Arbon	Ostschweiz	1	Thurgau Bodensee
-Siegen	Nordrhein-Westfalen	4	Siegen-Wittgenstein
-Koblenz	Rheinland-Pfalz	7	Romantischer Rhein
-Prad am Stilfserjoch	S├╝dtirol	2	Ortlergebiet
-Kuhberglifte Lenzkirch - Saig	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Konstanz	Baden-W├╝rttemberg	4	Westlicher Bodensee
-Trafoi	S├╝dtirol	3	Ortlergebiet
-Waldhausen im Strudengau	Ober├Âsterreich	1	Donau Ober├Âsterreich
-Liebenau	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
-Schwarzsee - Senseland	Freiburg Region	5	Freiburg Region
-Innsbruck Igls - Patscherkofel	Tirol	3	Tirol
-Thierstein	Bayern	1	Fichtelgebirge
-Oberstaufen	Bayern	12	Oberallg├ñu
-Bad Reichenhall	Bayern	32	Berchtesgadener Land
-Trarego Cheglio Viggiona	Piemont	1	Lago Maggiore - Lago Mergozzo...
-Roccaraso - Rivisondoli / Alto Sangro	Abruzzen	0	Abruzzen
-Abondance / Portes du Soleil	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Sappey-en-Chartreuse	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
-Le Plateau de Retord	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Station des Rousses - Jura sur L├®man	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
-Lajoux	Burgund-Freigrafschaft	0	Burgund-Freigrafschaft
-Tux - Finkenberg	Tirol	14	Zillertal
-Bad S├ñckingen	Baden-W├╝rttemberg	1	Hochrhein
-Clavering-Insel	Tunu (Ostgr├Ânland)	2	<missing>
-Muggenbrunn	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-Schenna	S├╝dtirol	8	Meran und Umgebung
-Orelle Val Thorens / Les 3 Vall├®es	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Jelsa	Dalmatien - Split	1	Insel Hvar
-Rasen Antholz / Antholzertal	S├╝dtirol	1	Antholzertal
-La Villa	S├╝dtirol	14	Alta Badia
-Ridnaun / Ridnauntal	S├╝dtirol	3	Eisacktal
-Civetta - Alleghe - Selva di Cadore - Val di Zoldo	Venetien	18	Venetien
-Scopello	Piemont	0	Vercelli und Umgebung
-Champoluc	Aostatal	5	Aostatal
-Vigo di Fassa - Catinaccio / Val di Fassa	Trentino	11	Trentino
-Ravne na Koro┼íkem	Koro┼íka - slowenisches K├ñrnten	1	Koro┼íka
-Chamrousse	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Le Collet d┬┤Allevard	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Mijoux - La Faucille	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Chaux Neuve	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
-Le Markstein	Grand Est	4	Grand Est
-Harus├ík / Nov├® M─østo na Morav─ø	Region Vyso─ìina	4	Region Vyso─ìina
-─îazma	Mittelkroatien	1	Bjelovar-Bilogora
-Innichen	S├╝dtirol	14	Dolomitenregion Drei Zinnen
-Marmolada Gletscher	Venetien	8	Venetien
-Courmayeur und Mont Blanc Tal	Aostatal	10	Mont Blanc
+Gernsbach	Baden-W├╝rttemberg	3	Murgtal
+Ponte di Legno - Tem├╣ - Adamello Ski	Trentino	1	Trentino
+Panarotta 2002 - Valsugana	Trentino	2	Trentino
+Valtournenche	Aostatal	3	Matterhorn / Mont Cervin
+Allerheiligen im M├╝hlkreis	Ober├Âsterreich	2	Ober├Âsterreich
+Ibiza	Balearen	0	<missing>
+Pizol - Bad Ragaz - Wangs	Ostschweiz	21	Ostschweiz
+Altopiano di Selvino - Aviatico	Lombardei	2	Val Seriana / Serio-Tal
+Portoro┼¥	Adria K├╝ste / Karst Region	4	Adria K├╝ste / Karst Region
+Aschach an der Donau	Ober├Âsterreich	1	Donau Ober├Âsterreich
+Gommiswald	Ostschweiz	4	Ostschweiz
+Graun	S├╝dtirol	1	Reschenpass
+Radevormwald	Nordrhein-Westfalen	1	Bergisches Land
+Tulfes - Glungezer	Tirol	12	Ferienregion Hall - Wattens
+Mottolino Fun Mountain/ Livigno	Lombardei	18	Alta Valtellina
+Dolomitenregion Drei Zinnen	S├╝dtirol	72	Dolomiten
+St. Christoph am Arlberg	Tirol	1	Ferienregion St. Anton am Arlberg
+Fischen im Allg├ñu / H├Ârnerd├Ârfer	Bayern	1	Oberallg├ñu
+Haslital	Berner Oberland	15	Berner Oberland
 Galt├╝r	Tirol	17	Paznaun - Ischgl
-Scharnitz	Tirol	1	Seefeld Olympiaregion
-Oberwaldlift Faistenau	Salzburger Land	2	Salzburger Land
-Bischofshofen	Salzburger Land	1	Salzburger Land
-Morgins - Champoussin / Portes du Soleil	Wallis	3	Wallis
-Samnaun	Graub├╝nden	8	Graub├╝nden
-Minschuns - Val M├╝stair	Graub├╝nden	6	Graub├╝nden
-Fuldera	Graub├╝nden	2	Engadin Val M├╝stair
-St. Radegund bei Graz	Steiermark	3	Grazer Bergland - Sch├Âcklland
-Kappl	Tirol	6	Paznaun - Ischgl
-Wenigzell	Steiermark	1	Joglland - Waldheimat
-Heidelberg	Baden-W├╝rttemberg	2	Bergstra├ƒe / Baden-W├╝rttemberg
-St. Georgen - Schlo├ƒberg	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Nonnenhorn	Baden-W├╝rttemberg	1	Bodensee - Deutschland
-Ultental - Deutschnonsberg	S├╝dtirol	14	Meraner Land
-Ischgl	Tirol	12	Paznaun - Ischgl
-Pertisau am Achensee	Tirol	12	Achensee
-Zell am See - Kaprun	Salzburger Land	24	Salzburger Land
-Gro├ƒeck - Speiereck	Salzburger Land	1	Lungau - Ferienregion
-Krimml / Hochkrimml ÔÇô Zillertal Arena	Salzburger Land	11	Salzburger Land
-Kesselmannlift Faistenau	Salzburger Land	0	Salzburger Land
-Goldegg am See	Salzburger Land	2	Salzburger Sonnenterrasse
-Saas Almagell	Wallis	1	Wallis
-Uri	Luzern - Vierwaldst├ñttersee	30	Luzern - Vierwaldst├ñttersee
-Hochwang	Graub├╝nden	1	Chur
-Corviglia	Graub├╝nden	14	Engadin St. Moritz
-Muotathal	Luzern - Vierwaldst├ñttersee	1	Stoos-Muotatal
-Freienbach	Luzern - Vierwaldst├ñttersee	1	Einsiedeln-Ybrig-Z├╝richsee
-Obermaiselstein / H├Ârnerd├Ârfer	Bayern	7	Oberallg├ñu
-Wiesenfelden	Bayern	1	Sankt Englmar
-Neukirchen b. Hl. Blut	Bayern	1	Region Cham
-Mainz	Rheinland-Pfalz	2	Rheinhessen
-Dachstein Gletscher	Steiermark	3	Ramsau am Dachstein
-Tieschen	Steiermark	3	Region Bad Radkersburg
-Oberw├Âlz - Lachtal	Steiermark	18	Murau-Murtal
-Trieben	Steiermark	3	Hohentauern
-Liezen	Steiermark	2	Schladming - Dachstein
-Lambach	Ober├Âsterreich	1	Hausruckviertel
-Sportgastein - Ski amade	Salzburger Land	7	Salzburger Land
-Gr├╝sch Danusa	Graub├╝nden	3	Graub├╝nden
-├£berlingen	Baden-W├╝rttemberg	2	Bodensee - Deutschland
-Giubiasco	Tessin	1	Bellinzona und Umgebung
-Frauenau / Skilift Zell	Bayern	1	Bayern
-St. Jakob in Defereggen	Tirol	3	Defereggental
+Stuttgart	Baden-W├╝rttemberg	10	Region Stuttgart
+Sappada	Friaul-Julisch Venetien	2	Friaul-Julisch Venetien
+Golf von La Spezia / Golf der Dichter	Ligurien	1	Ligurien
+Benzeck Skilifte / Reit im Winkl	Bayern	1	Bayern
+Valberg - Beuil/Valberg	Provence-Alpes-C├┤te dÔÇÖAzur	0	Provence-Alpes-C├┤te dÔÇÖAzur
+Mels	Ostschweiz	0	Bad Ragaz, Pizol und Umgebung
+Monte San Salvatore	Tessin	7	Malcantone
+Eriz	Berner Oberland	2	Berner Oberland
+F├╝ssener J├Âchle - Gr├ñn	Tirol	8	Tirol
+Ebenalp-Horn	Ostschweiz	8	Ostschweiz
+Abri├¿s en Queyras	Provence-Alpes-C├┤te dÔÇÖAzur	2	Provence-Alpes-C├┤te dÔÇÖAzur
+Ravascletto-Sutrio / Monte Zoncolan	Friaul-Julisch Venetien	3	Friaul-Julisch Venetien
+Hochk├Âssen - Unterberg	Tirol	6	Tirol
+Ravensburg	Baden-W├╝rttemberg	1	Oberschwaben - Allg├ñu
+Durach	Bayern	1	Oberallg├ñu
+Juist	Niedersachsen	3	Ostfriesische Inseln
+Spiss	Tirol	1	Tiroler Oberland
+Faak am See	K├ñrnten	6	Region Villach - Faaker See...
+Murau	Steiermark	3	Murau - Kreischberg
+Tonnerh├╝tte - Zirbitzkogel	Steiermark	0	<missing>
+Macesnovc	Gorenjska	1	Gorenjska
+Kemberg	Sachsen-Anhalt	1	Anhalt-Dessau-Wittenberg
+Lohr am Main	Bayern	1	Spessart-Mainland / Bayern
+Puschlav	Graub├╝nden	4	Puschlav / Valposchiavo
+Schetteregg	Vorarlberg	2	Vorarlberg
+Obertauern	Salzburger Land	39	Salzburger Land
+Baumgartenberg	Ober├Âsterreich	1	Donau Ober├Âsterreich
+Bad Tatzmannsdorf	Burgenland	1	S├╝dburgenland
+Nassereith	Tirol	1	Outdoorregion Imst
+Mariastein	Tirol	1	Ferienregion Hohe Salve
+Lu─ìe	Savinjska	0	Savinjska
 Boden - Bschlabs	Tirol	1	Tirol
 Brandnertal	Vorarlberg	15	Alpenregion Bludenz
 Dreil├ñndereck - Arnoldstein	K├ñrnten	4	K├ñrnten
 Bad St. Leonhard im Lavanttal	K├ñrnten	7	Lavanttal
 Petzen	K├ñrnten	4	Klopeiner See - S├╝dk├ñrnten
-Stelzen - Lohnsburg am Kobernau├ƒerwald	Ober├Âsterreich	1	Ober├Âsterreich
-Nagoldtal	Baden-W├╝rttemberg	10	Schwarzwald
-Haldenlift Wintersulgen / Heiligenberg	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Kniebis Freudenstadt	Baden-W├╝rttemberg	11	Baden-W├╝rttemberg
-Altopiano di Selvino - Aviatico	Lombardei	2	Val Seriana / Serio-Tal
-Portoro┼¥	Adria K├╝ste / Karst Region	4	Adria K├╝ste / Karst Region
-Br├╝ssel	Region Br├╝ssel - Hauptstadt	1	Br├╝sseler Region
-SKI B├¡l├í	M├ñhren-Schlesien	4	M├ñhren-Schlesien
-Ole┼ínice	Region Vyso─ìina	3	Region Vyso─ìina
-Doln├¡ Morava	Region Olm├╝tz	7	Region Olm├╝tz
-Ginzling	Tirol	3	Mayrhofen - Hippach
-Neustift im Stubaital	Tirol	26	Stubaital
-Gurtis	Vorarlberg	6	Vorarlberg
-Mellau	Vorarlberg	10	Bregenzerwald
-V├Âcklabruck	Ober├Âsterreich	2	Hausruckviertel
-Hallstatt	Ober├Âsterreich	1	Dachstein Salzkammergut
-Kirchberg am Wechsel - Arabichl	Nieder├Âsterreich	1	Wechselland - Wiener Alpen
-Reith bei Seefeld	Tirol	1	Seefeld Olympiaregion
-Elferbahnen Neustift / Stubaital	Tirol	19	Tirol
-Stubaier Gletscher / Stubaital	Tirol	2	Tirol
-Les Moussi├¿res	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
-Br├╝gge	Fl├ñmische Region	7	Belgische K├╝ste
-Luka nad Jihlavou	Region Vyso─ìina	1	Region Vyso─ìina
-Studenov / Rokytnice nad Jizerou	Region Reichenberg	4	Region Reichenberg
-Bachledka Ski & Sun	Eperieser Landschaftsverband	2	Eperieser Landschaftsverband
-Stadt Krk	Kvarner	2	Insel Krk
-Eichst├ñtt	Bayern	2	Naturpark Altm├╝hltal
 Bernkastel-Kues	Rheinland-Pfalz	1	Saar-Obermosel
 Worms	Rheinland-Pfalz	2	Rheinhessen
-Rheinhessen	Rheinland-Pfalz	7	Rheinland-Pfalz
-Aalen - Hirtenteich	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-Wolkenstein - Selva di Val Gardena / Dolomites Val Gardena - Gr├Âden	S├╝dtirol	24	Dolomites Val Gardena / Gr├Âden
-Innerschwand am Mondsee	Ober├Âsterreich	1	Mondseeland / Mondsee-Irrsee
-Assling	Tirol	1	Lienzer Dolomiten - Osttirol
-Schattwald - Z├Âblen	Tirol	5	Tannheimer Tal
-Hintertuxer Gletscher	Tirol	4	Tux - Finkenberg
-Mauterndorf	Salzburger Land	12	Lungau - Ferienregion
-Gaissau Hintersee	Salzburger Land	12	Salzburger Land
-Bad Gastein	Salzburger Land	21	Gasteinertal
-Nordfriesland	Schleswig-Holstein	5	<missing>
-K├Ânigsleiten / Wald - Zillertal Arena	Salzburger Land	5	Salzburger Land
-G├╝tenbach	Baden-W├╝rttemberg	0	<missing>
-Bad Sassendorf	Nordrhein-Westfalen	0	<missing>
-Steinhaus im Ahrntal	S├╝dtirol	22	Ahrntal
-Cesana - Sansicario	Piemont	6	Susatal und Val Chisone
-La Jarjatte - Lus-la-Croix-Haute	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Aprica	Lombardei	6	Lombardei
-Diedamskopf	Vorarlberg	3	Bregenzerwald
-Gm├╝nd	K├ñrnten	3	Lieser - Maltatal
-Flattach	K├ñrnten	2	Hohe Tauern - die Nationalpark-Region...
-Bad Leonfelden	Ober├Âsterreich	4	M├╝hlviertler Hochland
-Hinterstoder - H├Âss	Ober├Âsterreich	18	Ober├Âsterreich
-Umhausen im ├ûtztal	Tirol	1	├ûtztal
-Gries im Sellrain	Tirol	2	Innsbruck und seine Feriend├Ârfer
-Saalfelden - Hinterreit	Salzburger Land	9	Salzburger Land
-Berg├╝n Filisur	Graub├╝nden	7	Graub├╝nden
-Fanas	Graub├╝nden	1	Pr├ñttigau
-Davos Schatzalp	Graub├╝nden	11	Davos Klosters
-Montreux Riviera	Waadtland / Genferseegebiet	2	Waadtland / Genferseegebiet
-Sautens	Tirol	1	├ûtztal
-Wintersport Arena Holzelfingen	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-Steinbach am Attersee	Ober├Âsterreich	0	<missing>
-St. Blasien - Menzenschwand	Baden-W├╝rttemberg	9	Baden-W├╝rttemberg
-Dorf Tirol	S├╝dtirol	6	Meran und Umgebung
-Gsieser Tal - Welsberg - Taisten	S├╝dtirol	13	Kronplatz - Dolomiten
-Toblach	S├╝dtirol	15	Dolomitenregion Drei Zinnen
-Rossatz-Arnsdorf	Nieder├Âsterreich	8	Wachau - Nibelungengau - Kremstal
-Ertl	Nieder├Âsterreich	1	Moststra├ƒe
-Kitzb├╝heler Alpen St. Johann in Tirol	Tirol	21	Tirol
-Alpenarena Hochh├ñderich - Hittisau - Riefensberg	Vorarlberg	1	Vorarlberg
-Golm im Montafon	Vorarlberg	10	Vorarlberg
-Imbergbahn & Ski-Arena Steibis	Bayern	11	Bayern
-Sch├Ânau am K├Ânigssee	Bayern	12	Berchtesgadener Land
-Seeshaupt	Bayern	2	Starnberger F├╝nf-Seen-Land
-Samerberg	Bayern	4	Chiemsee - Alpenland
-Aschau im Chiemgau	Bayern	11	Chiemsee - Alpenland
-Hallig Langene├ƒ	Schleswig-Holstein	3	Halligen
-Hirschbergarena - Wickenrode / Helsa	Hessen	1	Hessen
-Bad M├╝nstereifel	Nordrhein-Westfalen	3	Nordeifel
-Neuglobsow	Brandenburg	1	Ruppiner Seenland
-Uelzen	Niedersachsen	1	Heideregion Uelzen
-Ski- & Rodelcentrum Hohegei├ƒ / Braunlage	Niedersachsen	1	Niedersachsen
-Torgon	Wallis	1	Portes du Soleil
-Ilanz	Graub├╝nden	1	Ilanz / Glion
-Sella Nevea - Canin	Friaul-Julisch Venetien	4	Friaul-Julisch Venetien
-Prali	Piemont	2	Piemont
-La Thuile	Aostatal	6	Mont Blanc
-Teglio	Lombardei	1	Media Valtellina Terziere Superiore
-Folgarida	Trentino	13	Val di Sole
-Turnau	Steiermark	1	Pogusch - Steirische Romantik
-Weiz	Steiermark	1	Tourismusregion Weiz/St. Ruprecht an...
-Schmitten im Taunus	Hessen	3	Taunus
+Bad Orb	Hessen	2	Spessart
+Les Paccots - Ch├ótel Saint Denis	Freiburg Region	2	Freiburg Region
+Fuschl am See	Salzburger Land	2	Fuschlsee - Ferienregion
+Baden AG	Aargau	3	Baden
+Abetone - Val di Luce	Toskana	1	Toskana
+Christlum Achenkirch - Achensee	Tirol	8	Tirol
+Unterb├ñch - Brandalp	Wallis	8	Wallis
+Passo Tonale - Adamello Ski / Val di Sole	Trentino	2	Trentino
+Riffenmatt	Berner Oberland	1	Berner Oberland
+Nendaz	Wallis	6	Thyon les Collons
+Edersee	Hessen	6	Erlebnisregion Edersee
+Calw	Baden-W├╝rttemberg	5	Nagoldtal
+Pra Loup / Espace Lumi├¿re	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
+Hallig Hooge	Schleswig-Holstein	3	Halligen
+Bad Honnef	Nordrhein-Westfalen	0	Siebengebirge
+Speyer	Rheinland-Pfalz	0	Rheinland-Pfalz
+Waidring - Steinplatte	Tirol	6	Tirol
+Kun─ìice	Region Olm├╝tz	0	<missing>
+Kleinarl / Wagrain - Kleinarl	Salzburger Land	7	Salzburger Sportwelt
+Oberweissbach	Th├╝ringen	3	Th├╝ringer Wald
+Ofterschwang - Gunzesried	Bayern	6	Bayern
+Stelzen - Lohnsburg am Kobernau├ƒerwald	Ober├Âsterreich	1	Ober├Âsterreich
+Nagoldtal	Baden-W├╝rttemberg	10	Schwarzwald
+Misurina	Venetien	5	Misurina-Auronzo-Cadore
+Cittareale - Selvarotonda	Latium	0	Latium
+Klug Lifte Hebalm - Freil├ñnderalm	Steiermark	1	Steiermark
+Falkenstein	Bayern	1	Region Cham
+Tenna	Graub├╝nden	1	Graub├╝nden
+Filzmoos - Ski amade	Salzburger Land	8	Salzburger Land
+Partschins - Rabland - T├Âll	S├╝dtirol	4	Meran und Umgebung
+Selva di Cadore	Venetien	5	Area Civetta 
+Breitenbrunn am Neusiedler See	Burgenland	1	Neusiedler See
+B├╝ndner Herrschaft	Ostschweiz	1	Heidiland
+Emberger Alm - Berg im Drautal	K├ñrnten	8	K├ñrnten
+St. Christina - San Cristina / Dolomites Val Gardena - Gr├Âden	S├╝dtirol	17	Dolomites Val Gardena / Gr├Âden
+Cinque Terre	Ligurien	2	Ligurien
+Skilift Karsee / Wangen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Gressoney - Saint Jean / Monterosa	Aostatal	1	Aostatal
+Neusiedler See	Burgenland	27	Burgenland
+See / Paznaun-Ischgl	Tirol	5	Tirol
+Bed┼Öichov / Jizerky	Region Reichenberg	4	Region Reichenberg
+Feuerkogel - Ebensee	Ober├Âsterreich	5	Ober├Âsterreich
+Edt bei Lambach	Ober├Âsterreich	0	Traunsee-Almtal
+B├╝singen am Hochrhein	Baden-W├╝rttemberg	0	Baden-W├╝rttemberg
+Altheim	Ober├Âsterreich	1	s`Innviertel
+Chiemgau - Chiemsee	Bayern	52	Oberbayern
+L├╝beck	Schleswig-Holstein	3	Ostsee - Schleswig Holstein
+Senj	Lika - Karlovac	1	Lika-Senj
+Mittertal / Jaufental	S├╝dtirol	1	Eisacktal
+Voithenberg Gibacht	Bayern	1	Bayern
+Bad Wiessee	Bayern	2	Alpenregion Tegernsee - Schliersee
 Se─ìovlje	Adria K├╝ste / Karst Region	1	Adria K├╝ste / Karst Region
-Marktschellenberg	Bayern	1	Berchtesgadener Land
-Beilngries	Bayern	0	Naturpark Altm├╝hltal
-Tr├Âstau	Bayern	1	Fichtelgebirge
-Burghausen	Bayern	1	<missing>
-Pognana Lario	Lombardei	1	<missing>
-Biberwier - Marienbergbahnen	Tirol	6	Tirol
-Tannheim - Neunerk├Âpfle	Tirol	15	Tirol
-San Jose	Kalifornien	1	<missing>
-Lenningen	Baden-W├╝rttemberg	1	Region Stuttgart
-Welschnofen Karersee	S├╝dtirol	26	Eggental
-Auronzo di Cadore	Venetien	2	Misurina-Auronzo-Cadore
-Lavarone - Luserna / Alpe Cimbra	Trentino	1	Trentino
-M├®tabief	Burgund-Freigrafschaft	2	Burgund-Freigrafschaft
-Meix-Musy - Pierre ├í Feu	Burgund-Freigrafschaft	0	Burgund-Freigrafschaft
-Jalovec	Region Vyso─ìina	0	Region Vyso─ìina
-Makov-Kas├írne	Region Zlin	3	Region Zlin
-Sarntal - Reinswald	S├╝dtirol	12	Bozen und Umgebung - S├╝dtirols S├╝den
-3 Zinnen Dolomiten	S├╝dtirol	68	S├╝dtirol
-Biel-Kinzig / B├╝rglen	Luzern - Vierwaldst├ñttersee	3	Uri
-Jachenau / Skilift M├╝hle	Bayern	1	Bayern
-Oberau	Bayern	2	Zugspitzland
-Lindau - Bodensee Bayern	Bayern	2	Bayerisch-Schwaben
-Kl├¡ny - Ra┼íov	Region ├Üst├¡	3	Region ├Üst├¡
-Barban	Istrien	1	Istrien
-Kleve	Nordrhein-Westfalen	2	Niederrhein
-Pf├ñlzerwald	Rheinland-Pfalz	1	Pfalz
-Varel-Dangast	Niedersachsen	1	Nordseek├╝ste
-Sch├Âmberg - Eulenloch	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-Sch├Ânau im Schwarzwald	Baden-W├╝rttemberg	1	Schwarzwaldregion Belchen
-Bernau - Hofeck	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-Terenten	S├╝dtirol	1	Kronplatz - Dolomiten
-Sunnb├╝el - Kandersteg	Berner Oberland	0	<missing>
-Bredene	Fl├ñmische Region	0	<missing>
-Kirchstetten	Nieder├Âsterreich	1	Wienerwald
-Lunz am See	Nieder├Âsterreich	1	Eisenstra├ƒe Nieder├Âsterreich
+Valloire-Valmeinier	Auvergne-Rh├┤ne-Alpes	0	<missing>
+Grindelwald - First	Berner Oberland	19	Jungfrau Region
+Ettal - Graswang - Linderhof	Bayern	2	Ammergauer Alpen
+Val di Sole / Passo Tonale	Trentino	4	Val di Sole
+Schwarzenau	Nieder├Âsterreich	0	Waldviertel Mitte
+Umag	Istrien	3	Istrien
+Le D├®voluy - Superd├®voluy / La Joue du Loup	Provence-Alpes-C├┤te dÔÇÖAzur	2	Provence-Alpes-C├┤te dÔÇÖAzur
+Donovaly	Neusohler Landschaftsverband	8	Neusohler Landschaftsverband
+Unterwei├ƒenbach	Ober├Âsterreich	1	M├╝hlviertler Alm Freistadt
+Galgenen	Luzern - Vierwaldst├ñttersee	2	Einsiedeln-Ybrig-Z├╝richsee
+Skilift Wurmstein / Flossenb├╝rg	Bayern	0	Bayern
+Hopfen am See	Bayern	3	Ostallg├ñu
+Luka nad Jihlavou	Region Vyso─ìina	1	Region Vyso─ìina
+Pinsdorf	Ober├Âsterreich	0	Traunsee-Almtal
+Stadt Krk	Kvarner	2	Insel Krk
+Augsburg	Bayern	2	Bayerisch-Schwaben
+Flossenb├╝rg	Bayern	0	Oberpf├ñlzer Wald
+Alpsee Bergwelt	Bayern	0	Oberallg├ñu
+Chastreix-Sancy Massif du Sancy	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Skilift am K├╝lliggut / Johanngeorgenstadt	Sachsen	2	Sachsen
+Lenzkirch	Baden-W├╝rttemberg	1	Hochschwarzwald
+Rochers de Naye - Caux	Waadtland / Genferseegebiet	3	Waadtland / Genferseegebiet
+Ludmannsdorf	K├ñrnten	1	Carnica Region Rosental
+Rovinj	Istrien	2	Istrien
 Hollenthon	Nieder├Âsterreich	2	Bucklige Welt - Wiener Alpen
 Velden am W├Ârthersee	K├ñrnten	11	W├Ârthersee
 Stubenberg am See	Steiermark	1	Apfelland - Stubenbergsee
 Kleinlobming	Steiermark	1	Steiermark
-Halbenrain	Steiermark	7	Region Bad Radkersburg
-St. Corona am Wechsel	Nieder├Âsterreich	6	Wechselland - Wiener Alpen
-St. Corona am Wechsel - Familienskiland der Erlebnisarena	Nieder├Âsterreich	5	Nieder├Âsterreich
-Lanzenkirchen	Nieder├Âsterreich	0	Bucklige Welt - Wiener Alpen
-Bregenz - Pf├ñnderbahn	Vorarlberg	1	Bodensee - Vorarlberg
-Egg im Bregenzerwald	Vorarlberg	1	Bregenzerwald
-Gargellen im Montafon	Vorarlberg	5	Montafon
-St. Anna am Aigen	Steiermark	3	Feldbach
-Bad Kleinkirchheim	K├ñrnten	19	Bad Kleinkirchheim & Feld am See
-St. Georgen am Kreischberg	Steiermark	8	Murau - Kreischberg
-Mureck	Steiermark	1	Radkersburger Teich- und H├╝gelland
-Oppenau	Baden-W├╝rttemberg	1	Renchtal
-Ostalb-Skilifte Aalen	Baden-W├╝rttemberg	4	Baden-W├╝rttemberg
-Bernau - Spitzenberg-K├Âpfle	Baden-W├╝rttemberg	3	Baden-W├╝rttemberg
-Poseka/Ravne	Koro┼íka	1	Koro┼íka
-Simmern / Hunsr├╝ck	Rheinland-Pfalz	0	<missing>
-Gaberl	Steiermark	2	Steiermark
-Eibiswald	Steiermark	2	Schilcherland Steiermark
-Novigrad	Istrien	4	Istrien
-Breitbrunn am Chiemsee	Bayern	1	Chiemsee - Alpenland
-Rattiszell	Bayern	2	Sankt Englmar
-Hochplatte / Marquartstein	Bayern	5	Bayern
-Waldkirchen	Bayern	0	Freyung-Grafenau
-Trafoi am Ortler / Furkel	S├╝dtirol	3	S├╝dtirol
-Moena - Alpe Lusia - Bellamonte / Trevalli	Trentino	14	Trentino
-La Norma	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
-Prabour├® - Saint-Anth├®me	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Knokke-Heist	Fl├ñmische Region	3	Belgische K├╝ste
-Reutte	Tirol	6	Naturparkregion Reutte
-Bozen und Umgebung - S├╝dtirols S├╝den	S├╝dtirol	54	S├╝dtirol
-Piane di Mocogno	Emilia-Romagna	1	Emilia-Romagna
-Siena	Toskana	1	Terre di Siena
-Colere	Lombardei	2	Lombardei
-San Colombano - Valdidentro	Lombardei	0	Lombardei
-Semriach	Steiermark	2	Graz und Region Graz
-Strallegg	Steiermark	2	Joglland - Waldheimat
-Gro├ƒraming	Ober├Âsterreich	3	Steyr und die Nationalpark Region
-Traun	Ober├Âsterreich	1	Traunviertel
-Prambachkirchen	Ober├Âsterreich	5	Hausruckviertel
-Windischgarsten	Ober├Âsterreich	8	Urlaubsregion Pyhrn - Priel
-Tiroler Zugspitzbahn	Tirol	6	Tirol
-Kufstein	Tirol	4	Kufsteinerland
-Imster Bergbahnen	Tirol	2	Tirol
-St. Veit im Pongau - Astenlift	Salzburger Land	1	Salzburger Land
-Hintersee	Salzburger Land	2	Fuschlsee - Ferienregion
-La Punt	Graub├╝nden	4	Engadin St. Moritz
-Altopiano di Brentonico - Polsa - S. Valentino	Trentino	1	Trentino
-Faak am See	K├ñrnten	6	Region Villach - Faaker See...
-Murau	Steiermark	3	Murau - Kreischberg
-Tonnerh├╝ttenlift - Zirbitzkogel	Steiermark	1	Steiermark
-St. Oswald bei Bad Kleinkirchheim	K├ñrnten	0	<missing>
-Gratwein-Stra├ƒengel	Steiermark	2	OberGraz
-Hauser Kaibling / Schladming - Ski amade	Steiermark	11	Steiermark
-Hartberg	Steiermark	1	Hartbergerland
-Unterach am Attersee	Ober├Âsterreich	3	Attersee - Attergau
-Sierning	Ober├Âsterreich	1	Traunviertel
-Pitztaler Gletscher - Rifflsee / Pitztal	Tirol	9	Tirol
-Uderns	Tirol	7	Erste Ferienregion im Zillertal
-Hall in Tirol	Tirol	10	Ferienregion Hall - Wattens
-Werfen	Salzburger Land	3	Tennengebirge - Hagengebirge
-Gampel-Bratsch	Wallis	12	Wallis
-Ramsau / Dachstein - Ski amade	Steiermark	11	Steiermark
-St. Peter am Wimberg	Ober├Âsterreich	1	M├╝hlviertel
-J├Âchelspitze - Lechtaler Bergbahnen	Tirol	4	Tirol
-Mieming - Wildermieming	Tirol	1	Mieminger Plateau & Inntal
-Hochf├╝gen	Tirol	2	Erste Ferienregion im Zillertal
-Zell am Ziller	Tirol	7	Zillertal Arena
-Crans Montana - Aminona	Wallis	9	Unterwallis
-Lunz am See - Maiszinken	Nieder├Âsterreich	1	Nieder├Âsterreich
-Virgen	Tirol	3	NationalparkRegion Hohe Tauern Osttirol
-Elbigenalp	Tirol	0	Lechtal
-Kreischberg / Murau	Steiermark	25	Steiermark
-Gaal	Steiermark	1	Am Spielberg
-Ottnang am Hausruck	Ober├Âsterreich	3	Hausruckviertel
-Steyr	Ober├Âsterreich	3	Steyr und die Nationalpark Region
-Gosau - Dachstein West	Ober├Âsterreich	6	Ober├Âsterreich
-Spiss	Tirol	1	Tiroler Oberland
-Raurisertal - Hochalmbahnen	Salzburger Land	11	Salzburger Land
-Siders	Wallis	1	Sierre Anniviers
-Verbier	Wallis	11	Unterwallis
-Pf├ñffikon ZH	Z├╝rich & Z├╝rich Region	1	Z├╝rcher Oberland
-Saas-Fee	Wallis	18	Wallis
-Gr├ñchen	Wallis	11	Wallis
-Jura bernois	Jura & Drei-Seen-Land	2	Drei-Seen-Land
-Airolo - Pesci├╝m	Tessin	4	Tessin
-Adelboden	Berner Oberland	14	Berner Oberland
-Altm├╝nster	Ober├Âsterreich	2	Traunsee-Almtal
-Scharnstein im Almtal	Ober├Âsterreich	3	Traunsee-Almtal
-St. Leonhard bei Freistadt	Ober├Âsterreich	1	M├╝hlviertler Alm Freistadt
-Forsteralm - Waidhofen/Ybbs Gaflenz	Ober├Âsterreich	2	Ober├Âsterreich
-Kaunertaler Gletscher / Kaunertal	Tirol	13	Tirol
-Davos Rinerhorn	Graub├╝nden	6	Graub├╝nden
-Alpes Vaudoises	Waadtland / Genferseegebiet	23	Waadtland / Genferseegebiet
-Sainte Croix - Les Rasses	Waadtland / Genferseegebiet	5	Waadtland / Genferseegebiet
-am Gr├╝ndelwald / J├Âhstadt	Sachsen	2	Sachsen
-Langenbruck	Basel Region	5	Baselland
-Inzell Kessel-Lifte	Bayern	2	Bayern
-Schulenberg	Niedersachsen	1	Oberharz
-Ostfriesland	Niedersachsen	65	Niedersachsen
-Tofana - Ra Valles	Venetien	6	Venetien
-Breuil Cervinia	Aostatal	3	Matterhorn / Mont Cervin
-Arco di Trento	Trentino	2	Garda Trentino
-SKI PARK Kub├¡nska ho─¥a	Silleiner Landschaftsverband	2	Silleiner Landschaftsverband
-Vy┼ín├í Slan├í - J├║lius	Kaschauer Landschaftsverband	1	Kaschauer Landschaftsverband
-Milna	Dalmatien - Split	1	Insel Bra─ì
-Brela	Dalmatien - Split	1	Mittel-Dalmatien
-┼áilo	Kvarner	1	Insel Krk
-Hundsheim	Nieder├Âsterreich	1	R├Âmerland Carnuntum - Marchfeld
-Tannheimer Tal	Tirol	38	Tirol
-Hirschegg	Vorarlberg	5	Kleinwalsertal
-Ried im Oberinntal	Tirol	1	Tiroler Oberland
-Thierseetal	Tirol	7	Kufsteinerland
-Abtenau im Lammertal	Salzburger Land	4	Salzburger Land
-Wald - K├Ânigsleiten	Salzburger Land	5	Nationalpark Hohe Tauern
-Annaberg-Lung├Âtz - Lammertal	Salzburger Land	6	Tennengau - Dachstein West
-Brig Simplon	Wallis	19	Oberwallis
-La Forclaz	Wallis	2	Wallis
-Durach	Bayern	1	Oberallg├ñu
-Feldis	Graub├╝nden	5	Graub├╝nden
-Maurach am Achensee - Rofanseilbahn	Tirol	3	Tirol
-Steinberg am Rofan - Rofanlifte	Tirol	1	Tirol
-Pfarrwerfen	Salzburger Land	9	Tennengebirge - Hagengebirge
-Winterpark Postalm	Salzburger Land	9	Salzburger Land
-Uttendorf - Weissee	Salzburger Land	6	Nationalpark Hohe Tauern
-Wiler	Wallis	5	L├Âtschental
-Obergoms / Goms	Wallis	13	Wallis
-Zeneggen	Wallis	1	Moosalpregion
-Bad Neustadt an der Saale	Bayern	1	Die Rh├Ân/ Bayern
-Jimramov	Region Vyso─ìina	0	Region Vyso─ìina
-Horn├¡ Domky / Rokytnice nad Jizerou	Region Reichenberg	3	Region Reichenberg
-Kl├¡novec / Keilberg	Region Karlsbad	12	Region Karlsbad
-Hranice - Bo┼¥├¡ Dar	Region Karlsbad	1	Region Karlsbad
-Attergau	Ober├Âsterreich	0	<missing>
-Hemmoor	Niedersachsen	1	Cuxland
-Glanz an der Weinstra├ƒe	Steiermark	0	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
-Survih - Samedan	Graub├╝nden	1	Graub├╝nden
-Le Locle	Jura & Drei-Seen-Land	0	Drei-Seen-Land
-Nendaz / 4 Vall├®es	Wallis	6	Wallis
-Arosa Lenzerheide	Graub├╝nden	21	Graub├╝nden
-Morges Region	Waadtland / Genferseegebiet	1	Waadtland / Genferseegebiet
-Oberwangen	Z├╝rich & Z├╝rich Region	0	Z├╝rich & Z├╝rich Region
-Skilifte Ibergeregg	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
-Zug	Luzern - Vierwaldst├ñttersee	3	├ägerital - Sattel
-Ofterschwang - Gunzesried	Bayern	6	Bayern
-Bad Hindelang	Bayern	17	Oberallg├ñu
-Gunzenhausen	Bayern	1	Fr├ñnkisches Seenland
-Folgaria - Fiorentini / Alpe Cimbra	Trentino	1	Trentino
-Novo mesto	S├╝dostslowenien	8	S├╝dostslowenien
-Les Angles	Okzitanien	1	Okzitanien
-Chabanon	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
-Isola 2000	Provence-Alpes-C├┤te dÔÇÖAzur	4	Provence-Alpes-C├┤te dÔÇÖAzur
-Ferienregion Kandertal	Berner Oberland	10	Berner Oberland
-Grindelwald - First	Berner Oberland	19	Jungfrau Region
-Skilift Au - Bad Feilnbach	Bayern	2	Bayern
-Bischofsmais	Bayern	4	Arberland
-Alleghe	Venetien	7	Area Civetta 
-Tirano	Lombardei	0	Media Valtellina Terziere Superiore
-Valle di Ledro	Trentino	1	Trentino
-Vrhnika	Zentralslowenien	1	Zentralslowenien
-La Pesse	Burgund-Freigrafschaft	2	Burgund-Freigrafschaft
-Burglift Stans	Tirol	1	<missing>
-Aschau im Zillertal	Tirol	6	<missing>
-Petzen - Feistritz ob Bleiburg	K├ñrnten	6	K├ñrnten
-K├Âtschach-Mauthen	K├ñrnten	6	Nassfeld / Pressegger See
-Schladming	Steiermark	6	Schladming-Rohrmoos-Pichl
-Donnersbachwald - Riesneralm	Steiermark	11	Grimming - Donnersbachtal
-Leoben	Steiermark	4	Leoben - Niklasdorf
-Pelje┼íac	Dalmatien - Dubrovnik	1	Dalmatien - Dubrovnik
-Sljeme	Zagreb	3	Zagreb
-Wurster Nordseek├╝ste	Niedersachsen	2	Cuxland
-Wies	Steiermark	1	Schilcherland Steiermark
-Aflenz	Steiermark	3	Alpenregion Hochschwab / Aflenz-Th├Ârl
-Hohwacht	Schleswig-Holstein	1	Hohwachter Bucht
-Oberschlierbach	Ober├Âsterreich	0	Traunviertel
-Menthi├¿res - Ch├®zery	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-SKALKA arena	Neusohler Landschaftsverband	3	Neusohler Landschaftsverband
-Sch├Ânengrund	Ostschweiz	1	Appenzell Ausserrhoden
 Villn├Âss	S├╝dtirol	5	S├╝dtirol
-Passo Rolle	Trentino	11	San Martino di Castrozza
-Haibach ob der Donau	Ober├Âsterreich	1	Donau Ober├Âsterreich
-Wels	Ober├Âsterreich	1	Hausruckviertel
-Aurach am Hongar	Ober├Âsterreich	2	Attersee - Attergau
-Fuschl am See	Salzburger Land	2	Fuschlsee - Ferienregion
-Baden AG	Aargau	3	Baden
-Abetone - Val di Luce	Toskana	1	Toskana
-Barzio - Piani di Bobbio	Lombardei	3	Lombardei
-Peisey Vallandry / Paradiski	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
-Brabant - La Bresse	Grand Est	0	Grand Est
-Wertheim	Baden-W├╝rttemberg	1	Spessart-Mainland / Baden W├╝rttemberg
-Skilift Schw├ñrzenbach / Titisee-Neustadt	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Salzwinkel / Zainingen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-H├Âchenschwand	Baden-W├╝rttemberg	2	Hochschwarzwald
-Unsere liebe Frau im Walde	S├╝dtirol	1	Ultental - Deutschnonsberg
-Riepenlift - Antholz Mittertal	S├╝dtirol	1	S├╝dtirol
-Asolo	Venetien	1	Monte Grappa
-Brigels	Graub├╝nden	13	Brigels Waltensburg Andiast
-Toggenburg / Wildhaus	Ostschweiz	9	Ostschweiz
-Landau an der Isar	Bayern	1	Ferienland Dingolfing-Landau
-Villars - Gryon	Waadtland / Genferseegebiet	6	Alpes Vaudoises
-Leysin - Les Mosses - La L├®cherette	Waadtland / Genferseegebiet	7	Waadtland / Genferseegebiet
-K├╝ssnacht	Luzern - Vierwaldst├ñttersee	2	Hohlgassland
-Neu├Âtting a. Inn	Bayern	1	Inn - Salzach
-Filzberg / Landsberied	Bayern	1	Bayern
-Neuburg an der Donau	Bayern	10	Naturpark Altm├╝hltal
-Neukirchen/Haggn	Bayern	0	Sankt Englmar
-B├ñrnau	Bayern	5	Stiftland
-Wendelstein	Bayern	7	Alpenregion Tegernsee - Schliersee
-Bad Sooden-Allendorf	Hessen	4	Geo-Naturpark Frau-Holle-Land
-D├╝sseldorf	Nordrhein-Westfalen	5	D├╝sseldorf & Neanderland
-Sch├Âneck	Sachsen	5	Vogtland / Sachsen
-Edenkoben	Rheinland-Pfalz	1	Deutsche Weinstra├ƒe
-Jever	Niedersachsen	1	Binnenland Ostfriesland
-┼ápindler┼»v Ml├¢n / Horn├¡ M├¡se─ìky - Medv─ød├¡n	Region K├Âniggr├ñtz	9	Region K├Âniggr├ñtz
-Espot	Katalonien	1	Katalonien
-Wintersport Stokinger Freudenstadt	Baden-W├╝rttemberg	0	Baden-W├╝rttemberg
-Naturpark Obere Donau	Baden-W├╝rttemberg	6	Schw├ñbische Alb
-Tarsch	S├╝dtirol	1	Latsch - Martelltal
-Tramin an der Weinstrasse	S├╝dtirol	7	Bozen und Umgebung - S├╝dtirols S├╝den
-Schnepfau	Vorarlberg	1	Bregenzerwald
-Engelhartszell an der Donau	Ober├Âsterreich	1	Donau Ober├Âsterreich
-La Grave - La Meije	Provence-Alpes-C├┤te dÔÇÖAzur	2	Provence-Alpes-C├┤te dÔÇÖAzur
-Janova Hora	Region Reichenberg	0	Region Reichenberg
-Bredstedt	Schleswig-Holstein	0	<missing>
-Schilifte Feistritzsattel	Nieder├Âsterreich	1	Nieder├Âsterreich
-Aichelberglifte Karlstift	Nieder├Âsterreich	1	Nieder├Âsterreich
-Westendorf - SkiWelt	Tirol	5	Tirol
-Viktorsberg	Vorarlberg	1	Bodensee - Vorarlberg
-Seilbahnen Sonntag	Vorarlberg	1	Vorarlberg
-Mellau - Dam├╝ls - Faschina Skischaukel	Vorarlberg	10	Vorarlberg
-Turnersee - St. Primus	K├ñrnten	3	Klopeiner See - S├╝dk├ñrnten
-Emberger Alm - Berg im Drautal	K├ñrnten	8	K├ñrnten
-Paternion	K├ñrnten	1	Region Villach - Faaker See...
-Modriach	Steiermark	0	Steiermark
-Ludersdorf-Wilfersdorf	Steiermark	1	Region Gleisdorf
-Ges├ñuse	Steiermark	7	Steiermark
-Spielberg	Steiermark	6	Am Spielberg
-Masella / Alp 2500	Katalonien	1	Katalonien
-┼¢upa Dubrova─ìka	Dalmatien - Dubrovnik	1	Dalmatien - Dubrovnik
-Saint-George	Waadtland / Genferseegebiet	2	Waadtland / Genferseegebiet
-Kandellifte	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Rein in Taufers - Tauferer Ahrntal	S├╝dtirol	3	S├╝dtirol
-Gossensass	S├╝dtirol	3	Eisacktal
-Bozen	S├╝dtirol	17	Bozen und Umgebung - S├╝dtirols S├╝den
-Seis am Schlern	S├╝dtirol	1	Seiser Alm
-Amsterdam	Nordholland	3	Nordholland
-Watles	S├╝dtirol	7	S├╝dtirol
-Piran	Adria K├╝ste / Karst Region	3	Adria K├╝ste / Karst Region
-Mon├¡nec	Mittelb├Âhmische Region	1	Mittelb├Âhmische Region
-┼ápi─ì├ík	Region Pilsen	10	Region Pilsen
-Platak	Kvarner	0	Kvarner
-Kandersteg - Sunnb├╝el	Berner Oberland	0	<missing>
-Westerstede	Niedersachsen	2	Ammerland
-Huaraz	Ancash	1	<missing>
-Lutherstadt Wittenberg	Sachsen-Anhalt	0	Anhalt-Dessau-Wittenberg
-Wei├ƒer Stein Eifel	Nordrhein-Westfalen	4	Nordrhein-Westfalen
-Schonach - Rohrhardsberg-Lift	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Vattaro (Altopiano della Vigolana)	Trentino	0	Valsugana - Lagorai - Vigolana...
-Ljubljana	Zentralslowenien	1	Zentralslowenien
-Celje	Savinjska	2	Savinjska
-Bohinj	Gorenjska	10	Gorenjska
-St Hilaire du Touvet	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
-Les Brasses	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
-Chamonix-Mont-Blanc	Auvergne-Rh├┤ne-Alpes	23	Haute-Savoie
-Sch├Ânwald - Skilift Dobel	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-M├╝nstertal-Wieden	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-St. Martin im Passeiertal	S├╝dtirol	0	Passeiertal
+St. Martin	Nieder├Âsterreich	5	Oberes Waldviertel
+Davos Rinerhorn	Graub├╝nden	6	Graub├╝nden
+Studenov / Rokytnice nad Jizerou	Region Reichenberg	4	Region Reichenberg
+Riedlberg	Bayern	1	Bayern
+Val Thorens	Auvergne-Rh├┤ne-Alpes	1	Les 3 Vall├®es
 Piazzatorre	Lombardei	3	Brembo Tal / San Simone - Foppolo...
 Velika planina	Zentralslowenien	2	Zentralslowenien
-Torbole sul Garda - Nago	Trentino	5	Garda Trentino
-Campitello di Fassa	Trentino	5	Fassatal
-Aillons-Marg├®riaz	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Manigod - Massif des Aravis	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Les Arcs - Bourg-Saint-Maurice / Paradiski	Auvergne-Rh├┤ne-Alpes	7	Auvergne-Rh├┤ne-Alpes
-Lispach - La Bresse	Grand Est	0	Grand Est
-Hasselt	Fl├ñmische Region	2	Limburg - Flandern
-Folgarida - Marilleva - Val di Sole / Dolomiti di Brenta	Trentino	18	Trentino
-Alpe du Grand Serre - La Morte	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Doubs	Burgund-Freigrafschaft	0	Burgund-Freigrafschaft
-Markt Piesting	Nieder├Âsterreich	3	Schneebergland - Wiener Alpen
-Bergwelt Hahnenkamm	Tirol	6	Tirol
-Hintertuxer Gletscher / Hintertux	Tirol	6	Tirol
-Toggenburg	Ostschweiz	18	<missing>
+Jasensk├í dolina	Silleiner Landschaftsverband	1	Silleiner Landschaftsverband
 Mont Serein - Mont Ventoux	Provence-Alpes-C├┤te dÔÇÖAzur	0	<missing>
 Ferlach	K├ñrnten	2	Carnica Region Rosental
-Eisenerz	Steiermark	2	Erzberg Land
-Kapfenstein	Steiermark	1	Bad Gleichenberg
-Stoderzinken - Ski amade	Steiermark	1	Steiermark
-Stuhleck - Semmering	Steiermark	9	Steiermark
-Vorchdorf im Almtal	Ober├Âsterreich	1	Traunsee-Almtal
-Les Contamines Montjoie - Evasion Mont-Blanc	Auvergne-Rh├┤ne-Alpes	19	Auvergne-Rh├┤ne-Alpes
-Morbier - Les Gentianes	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
-Cauterets - Le Lys	Okzitanien	3	Okzitanien
-Les Orres	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
-Gr├®oli├¿res-Les-Neiges	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
-Flandern	Fl├ñmische Region	45	Fl├ñmische Region
-Aldrov - Vitkovice	Region Reichenberg	1	Region Reichenberg
-Steinbach an der Steyr	Ober├Âsterreich	0	<missing>
-St. Aegyd am Neuwalde	Nieder├Âsterreich	2	Traisen-G├Âlsental
-Reichenau / Rax - Raxalpe	Nieder├Âsterreich	3	Semmering - Rax - Schneeberg
-Gemeindealpe / Mitterbach am Erlaufsee	Nieder├Âsterreich	5	Traisen-G├Âlsental
-Gargellen / Montafon	Vorarlberg	5	Vorarlberg
-Rangersdorf	K├ñrnten	3	Hohe Tauern - die Nationalpark-Region...
-Tenna	Graub├╝nden	1	Graub├╝nden
-Babin Do / Bjela┼ínica	F├Âderation Bosnien und Herzegowina	2	F├Âderation Bosnien und Herzegowina
-Schmiedefeld am Rennsteig	Th├╝ringen	2	Th├╝ringen
-Bocksberg-Hahnenklee	Niedersachsen	5	Niedersachsen
-Emmendingen	Baden-W├╝rttemberg	4	Elztal & Simonsw├ñldertal
-Furtwangen	Baden-W├╝rttemberg	1	Schwarzwald
-Kiens	S├╝dtirol	1	Kronplatz - Dolomiten
-Pfelders im Passeiertal	S├╝dtirol	7	S├╝dtirol
-Nova Gorica	Gori┼íka - Smaragdstra├ƒe	1	Gori┼íka
-SC Ga─ìe	S├╝dostslowenien	6	S├╝dostslowenien
-Izver - Sodra┼¥ica	S├╝dostslowenien	1	S├╝dostslowenien
+Gro├ƒeck - Speiereck - Mauterndorf	Salzburger Land	19	Salzburger Land
+Hinterpasseier	S├╝dtirol	1	Passeiertal
+Sankt Andreasberg	Niedersachsen	5	Oberharz
+Ski-Alpinum Schulenberg	Niedersachsen	1	Niedersachsen
+Salmendingen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Hoch - Ybrig	Luzern - Vierwaldst├ñttersee	5	Einsiedeln-Ybrig-Z├╝richsee
+Nordhausen	Th├╝ringen	3	Der Harz/ Th├╝ringen
+Mittag Skicenter	Bayern	12	Oberallg├ñu
+Alpspitz / Edelsberg	Bayern	1	Ostallg├ñu
+Iberg	Bayern	0	Bayern
+Waldkirch im Elztal	Baden-W├╝rttemberg	1	Elztal & Simonsw├ñldertal
+La Plagne / Paradiski	Auvergne-Rh├┤ne-Alpes	10	Auvergne-Rh├┤ne-Alpes
+La Gruy├¿re - Mol├®son	Freiburg Region	4	Gruy├¿res
+St. Veit an der G├Âlsen	Nieder├Âsterreich	2	Traisen-G├Âlsental
+Kahla	Th├╝ringen	1	Saaleland
+Ameland	Friesland	2	Westfriesische Inseln / Waddeneilanden
+Bosco Gurin	Tessin	5	Tessin
+Beatenberg	Berner Oberland	2	Interlaken
+Arezzo	Toskana	0	Toskana
+Hochschwarzeck - Ramsau bei Berchtesgaden	Bayern	13	Bayern
+Oberreute	Bayern	1	Westallg├ñu
+Rostock / Warnem├╝nde	Mecklenburg-Vorpommern	7	Ostseek├╝ste Mecklenburg
+Ostseebad Heringsdorf	Mecklenburg-Vorpommern	5	Usedom
+Unterberg - Pernitz	Nieder├Âsterreich	5	Nieder├Âsterreich
+Frankfurt am Main	Hessen	3	FrankfurtRheinMain
+Shuttleberg Flachauwinkl-Kleinarl - Ski amade	Salzburger Land	7	Salzburger Land
+Brissago und Brissago Inseln	Tessin	1	Ascona - Locarno / Lago Maggiore
+Disentis	Graub├╝nden	13	Graub├╝nden
+Weinfelden	Ostschweiz	1	Thurgau Bodensee
+Hauzenberg - Geiersberg	Bayern	0	Bayern
+Medebach	Nordrhein-Westfalen	6	Sauerland/ Nordrhein-Westfalen
+Koper	Adria K├╝ste / Karst Region	0	Adria K├╝ste / Karst Region
+Maurienne	Auvergne-Rh├┤ne-Alpes	2	Savoie Mont Blanc
+Mali Lo┼íinj	Kvarner	4	Insel Lo┼íinj
+SKI PARK Kub├¡nska ho─¥a	Silleiner Landschaftsverband	2	Silleiner Landschaftsverband
+Milna	Dalmatien - Split	1	Insel Bra─ì
+Winterpark Postalm	Salzburger Land	9	Salzburger Land
+Schwanden - Sigriswil / Thunersee	Berner Oberland	1	Berner Oberland
+Altendorf SZ	Luzern - Vierwaldst├ñttersee	3	Einsiedeln-Ybrig-Z├╝richsee
+Mythenregion	Luzern - Vierwaldst├ñttersee	12	Brunnen-Schwyz
+Grainau	Bayern	11	Zugspitzland
 Ochsengartenlift / Paternion	K├ñrnten	1	K├ñrnten
 Sommeralm - Holzmeisterlifte	Steiermark	1	Steiermark
 Seeberg / Seewiesen	Steiermark	3	Steiermark
+Pitztaler Gletscher - Bergbahnen Rifflsee	Tirol	9	Pitztal
+Freyung-Grafenau	Bayern	10	Naturpark Oberer Bayerischer Wald
+Vachendorf	Bayern	2	Chiemgau - Chiemsee
+Hochwurzen / Schladming - Ski amade	Steiermark	5	Steiermark
+Mlad├® Buky	Region K├Âniggr├ñtz	3	Region K├Âniggr├ñtz
+Alpbachtal	Tirol	10	Tirol
+Weyer	Ober├Âsterreich	1	Steyr und die Nationalpark Region
+V├ñttis	Ostschweiz	1	Bad Ragaz, Pizol und Umgebung
+Ba┼íka Voda	Dalmatien - Split	1	Mittel-Dalmatien
+Brandlift Scharnitz	Tirol	1	Tirol
+Norden-Norddeich	Niedersachsen	2	Nordseek├╝ste
+Pf├ñffikon ZH	Z├╝rich & Z├╝rich Region	1	Z├╝rcher Oberland
+Grafenhausen	Baden-W├╝rttemberg	0	Hochschwarzwald
+Altopiano di Brentonico - Polsa - S. Valentino	Trentino	1	Trentino
+Thaya	Nieder├Âsterreich	3	Nationalparkregion Thayatal
 Kasberg - Gr├╝nau im Almtal	Ober├Âsterreich	11	Ober├Âsterreich
-Ch├ótel / Portes du Soleil	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Le Reposoir - Le Village	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Is├¿re	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
+Gaweinstal	Nieder├Âsterreich	3	Weinviertel
+Serfaus	Tirol	7	Serfaus - Fiss - Ladis
+Sigmaringen	Baden-W├╝rttemberg	0	<missing>
+Roggenboden	Tirol	1	Tirol
 Planche des Belles Filles	Burgund-Freigrafschaft	0	Burgund-Freigrafschaft
 Ubaye Serre-Pon├ºon	Provence-Alpes-C├┤te dÔÇÖAzur	1	Ubaye
 Insel Lo┼íinj	Kvarner	9	Kvarner
 Niederdorf	S├╝dtirol	2	Dolomitenregion Drei Zinnen
 Malga San Giorgio	Venetien	0	Venetien
+Halbenrain	Steiermark	7	Region Bad Radkersburg
+Pescegallo / Valgerola	Lombardei	1	Lombardei
+Les Carroz - Grand Massif - Mont Blanc	Auvergne-Rh├┤ne-Alpes	6	Auvergne-Rh├┤ne-Alpes
+Dachstein Gletscher Schladming Ramsau - Ski amade	Steiermark	3	Steiermark
+La Cernay Blanche ÔÇô La Chaux de Gilley	Burgund-Freigrafschaft	0	Burgund-Freigrafschaft
+Hochneukirchen - Gschaidt	Nieder├Âsterreich	1	Bucklige Welt - Wiener Alpen
+Orci├¿res Merlette	Provence-Alpes-C├┤te dÔÇÖAzur	3	Provence-Alpes-C├┤te dÔÇÖAzur
+Markt Piesting	Nieder├Âsterreich	3	Schneebergland - Wiener Alpen
+Greising - Deggendorf	Bayern	2	Bayern
+Sieghartskirchen	Nieder├Âsterreich	1	Kamptal - Wagram - Tullner Donauraum
+Luggi-Leitner-Lifte Scheidegg	Bayern	1	Bayern
+Dam├╝ls	Vorarlberg	10	Bregenzerwald
+Bezau	Vorarlberg	2	Bregenzerwald
+Deggenhausertal	Baden-W├╝rttemberg	1	Gehrenberg - Bodensee
+Hafning bei Trofaiach	Steiermark	0	<missing>
+Wei├ƒbriach / Gitschtal	K├ñrnten	1	K├ñrnten
+Neu├Âtting a. Inn	Bayern	1	Inn - Salzach
+Le Grand Bornand - St. Jean de Sixt - Massif des Arravis	Auvergne-Rh├┤ne-Alpes	13	Auvergne-Rh├┤ne-Alpes
+Attergau Schilift Kronberg	Ober├Âsterreich	3	Ober├Âsterreich
+Cardada	Tessin	7	Ascona - Locarno / Lago Maggiore
 Borso del Grappa	Venetien	5	Monte Grappa
 Kirchschlag bei Linz	Ober├Âsterreich	9	M├╝hlviertler Sterngartl
 Kleinskigebiet Kolsassberg	Tirol	1	Tirol
 Seefeld / Rossh├╝tte	Tirol	5	Tirol
-Matrei am Brenner-M├╝hlbachl-Pfons	Tirol	5	Wipptal
-Fageralm / Forstau - Ski amade	Salzburger Land	2	Salzburger Land
-Andermatt - Oberalp - Sedrun	Graub├╝nden	17	Graub├╝nden
-St. Moritz - Corviglia	Graub├╝nden	29	Graub├╝nden
-Diavolezza	Graub├╝nden	10	Engadin St. Moritz
-Finale Ligure und Umgebung	Ligurien	1	Ligurien
-Log pod Mangartom	Gori┼íka - Smaragdstra├ƒe	1	So─ìa-Tal
-Jezersko	Gorenjska	4	Gorenjska
-Chamonix Mont-Blanc	Auvergne-Rh├┤ne-Alpes	12	Auvergne-Rh├┤ne-Alpes
-La Giettaz - Portes du Mont-Blanc	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Pa┼Öez / Rokytnice nad Jizerou	Region Reichenberg	1	Region Reichenberg
-Hlubok├í u Trhov├® Kamenice	Region Pardubice	1	Region Pardubice
-Insel Pa┼íman	Dalmatien - Zadar	2	Dalmatien - Zadar
-Grosser Arber	Bayern	10	Bayern
-Maria Neustift	Ober├Âsterreich	3	Steyr und die Nationalpark Region
-Donau Ober├Âsterreich	Ober├Âsterreich	23	M├╝hlviertel
-Feuerkogel - Ebensee	Ober├Âsterreich	5	Ober├Âsterreich
-Edt bei Lambach	Ober├Âsterreich	0	Traunsee-Almtal
-Rust	Burgenland	2	Neusiedler See
-Mieders	Tirol	5	Stubaital
-Alpbachtal	Tirol	10	Tirol
-Schmittenh├Âhe	Salzburger Land	5	Zell am See - Kaprun
-St. Martin bei Lofer	Salzburger Land	1	Salzburger Saalachtal
-Champ├®ry - Les Crosets / Portes du Soleil	Wallis	1	Wallis
-Raron-Niedergesteln	Wallis	3	Wallis
-Ftan	Graub├╝nden	2	Engadin Scuol Zernez
-Scuol Motta Naluns	Graub├╝nden	10	Graub├╝nden
-Zuckerfeld	Hessen	1	Hessen
-Oberschwaben - Allg├ñu	Baden-W├╝rttemberg	17	Baden-W├╝rttemberg
-┼áacberk / Zborn├í	Region Vyso─ìina	1	Region Vyso─ìina
-Baqueira-Beret	Katalonien	7	Katalonien
-Roh├í─ìe - Sp├ílen├í dolina	Silleiner Landschaftsverband	1	Silleiner Landschaftsverband
-Valloire - Galibier Thabor	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Terlan an der Weinstrasse	S├╝dtirol	1	Bozen und Umgebung - S├╝dtirols S├╝den
-Val Comelico - Sappada	Venetien	2	Belluno-Dolomiti
-La Thuile - La Rosiere / San Bernardo	Aostatal	13	Aostatal
-Schnepfenried	Grand Est	1	Grand Est
-Pra Loup / Espace Lumi├¿re	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
-SKI ARM├üDA Doln├¡ Lomn├í	M├ñhren-Schlesien	2	M├ñhren-Schlesien
-─îern├¢ D┼»l / ─îern├í hora - Pec	Region K├Âniggr├ñtz	2	Region K├Âniggr├ñtz
-Ternitz	Nieder├Âsterreich	2	Semmering - Rax - Schneeberg
-Les Diablerets - Glacier 3000	Waadtland / Genferseegebiet	6	Waadtland / Genferseegebiet
-Leysin	Waadtland / Genferseegebiet	7	Alpes Vaudoises
-Wallberg Tegernseer Tal	Bayern	12	Bayern
-Skizentrum Pfronten - Steinach	Bayern	8	Bayern
-Frauenau	Bayern	1	Arberland
-Drachselsried	Bayern	3	Arberland
-Lechbruck am See	Bayern	0	Ostallg├ñu
-Neuruppin	Brandenburg	1	Ruppiner Seenland
-Bielmonte	Piemont	6	Piemont
-Spitzingsee - Tegernsee	Bayern	26	Bayern
-Friesoythe	Niedersachsen	1	Th├╝lsfelder Talsperre
-Barmsee / Kr├╝n	Bayern	4	Bayern
-Arrach-Eck-Riedelstein	Bayern	3	Bayern
-Coswig (Anhalt)	Sachsen-Anhalt	1	Anhalt-Dessau-Wittenberg
-Hochb├ñrneck	Nieder├Âsterreich	1	Nieder├Âsterreich
-Perchtoldsdorf	Nieder├Âsterreich	1	Wienerwald
-Innerthal - Vorderthal	Luzern - Vierwaldst├ñttersee	0	W├ñgital
-Kindberg	Steiermark	1	M├╝rztaler Streuobstregion...
-Klug Lifte Hebalm - Freil├ñnderalm	Steiermark	1	Steiermark
-Unterwei├ƒenbach	Ober├Âsterreich	1	M├╝hlviertler Alm Freistadt
-Sandl - Viehberg	Ober├Âsterreich	2	Ober├Âsterreich
-Kirchdorf an der Krems	Ober├Âsterreich	1	Steyr und die Nationalpark Region
-Muttereralm	Tirol	0	<missing>
-Gr├╝nsteinlift - Sch├Ânau am K├Ânigssee / Berchtesgadener Land	Bayern	1	<missing>
+Nyon Region	Waadtland / Genferseegebiet	2	Waadtland / Genferseegebiet
+Delmenhorst	Niedersachsen	2	Niedersachsen
+Melchsee - Frutt	Luzern - Vierwaldst├ñttersee	5	Obwalden
+Wolfratshausen	Bayern	2	T├Âlzer Land
 Eidenberg	Ober├Âsterreich	2	M├╝hlviertel
-S├ñgenhof Urach / V├Âhrenbach	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-M├╝hlwald	S├╝dtirol	1	Ahrntal
-Bruneck - Reischach - Percha	S├╝dtirol	10	Kronplatz - Dolomiten
-St. Vigil in Enneberg	S├╝dtirol	9	Kronplatz - Dolomiten
-Rittner Horn	S├╝dtirol	3	S├╝dtirol
-Gressoney - Saint Jean / Monterosa	Aostatal	1	Aostatal
-Neusiedler See	Burgenland	27	Burgenland
-Flensburg	Schleswig-Holstein	1	Flensburger F├Ârde
-Rotenburg a. d. Fulda	Hessen	1	Mittleres Fuldatal
-Ruhrquelle	Nordrhein-Westfalen	2	Nordrhein-Westfalen
-Torfhauslifte Altenau	Niedersachsen	2	Niedersachsen
-Grafenhausen - Br├╝nlisbach	Baden-W├╝rttemberg	0	Baden-W├╝rttemberg
-Friaul Julisch Venetien	Friaul-Julisch Venetien	1	Friaul-Julisch Venetien
-Gressoney - La Trinit├® - Alagna Valsesia / Monterosa	Aostatal	6	Aostatal
-Saint Pierre de Chartreuse - Le Planolet	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Mottolino Fun Mountain/ Livigno	Lombardei	18	Alta Valtellina
-Valtgeva / Druni KidsArena Sedrun	Graub├╝nden	1	Graub├╝nden
-Rehetobel	Ostschweiz	1	Appenzell Ausserrhoden
-Z├╝rcher Oberland	Z├╝rich & Z├╝rich Region	14	Z├╝rich
-Gantrisch - Gurnigel	Bern & Region Bern	5	Bern & Region Bern
-Naturpark Gantrisch	Bern & Region Bern	5	Bern & Region Bern
-Neustadt am Rennsteig	Th├╝ringen	1	Th├╝ringer Wald
-Dallenwil - Wirzweli	Luzern - Vierwaldst├ñttersee	1	Luzern - Vierwaldst├ñttersee
-Ski are├íl Je┼ít─ød / Liberec	Region Reichenberg	5	Region Reichenberg
-Novako	Region Karlsbad	2	Region Karlsbad
-Gondo-Zwischbergen	Wallis	2	Brig Simplon
-Lugano und Umgebung	Tessin	8	Tessin
-Cardada	Tessin	7	Ascona - Locarno / Lago Maggiore
-Ascona - Locarno / Lago Maggiore	Tessin	20	Tessin
-Kreuth - Hirschberglifte	Bayern	2	Bayern
-Mayrhofen - Zillertal	Tirol	12	Tirol
-Stegen	Baden-W├╝rttemberg	1	Hochschwarzwald
-Chalmazel	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Fridingen - Antoni	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-Weitnau	Bayern	2	Oberallg├ñu
-Ringelai	Bayern	1	Freyung-Grafenau
-Gmund am Tegernsee	Bayern	1	Alpenregion Tegernsee - Schliersee
-Vir	Dalmatien - Zadar	2	Region Zadar
-Stolzalpe	Steiermark	2	Murau - Kreischberg
-St. Kathrein am Offenegg	Steiermark	1	Naturpark Almenland Teichalm - Sommeralm
-Wurzeralm - Spital am Pyhrn	Ober├Âsterreich	18	Ober├Âsterreich
-Glasenberg - Maria Neustift	Ober├Âsterreich	3	Ober├Âsterreich
-Gerlosstein / Hainzenberg - Zillertal Arena	Tirol	0	Tirol
-Weerberg	Tirol	6	Silberregion Karwendel
-Leogang - Saalbach Hinterglemm Fieberbrunn	Salzburger Land	7	Salzburger Land
-Eben im Pongau	Salzburger Land	2	Salzburger Sportwelt
-Torgon / Portes du Soleil	Wallis	1	Wallis
-Davos	Graub├╝nden	8	Davos Klosters
-Mutten - Obermutten	Graub├╝nden	0	Graub├╝nden
-Gommiswald	Ostschweiz	4	Ostschweiz
-La D├┤le - Jura sur L├®man	Waadtland / Genferseegebiet	5	Waadtland / Genferseegebiet
-Car├¼	Tessin	5	Tessin
-Jaun Gastlosen	Freiburg Region	1	Freiburg Region
-Engstligenalp - Adelboden	Berner Oberland	0	Berner Oberland
-Unteriberg	Luzern - Vierwaldst├ñttersee	2	Einsiedeln-Ybrig-Z├╝richsee
-Riedlberg	Bayern	1	Bayern
-Garmisch-Classic	Bayern	10	Bayern
-San Martino di Castrozza / Rolle Pass	Trentino	24	Trentino
-Strunjan	Adria K├╝ste / Karst Region	1	Adria K├╝ste / Karst Region
-Golte	Savinjska	2	Savinjska
-Grands Montets / Chamonix	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
-Fuchsm├╝hl	Bayern	1	Naturpark Steinwald
-Oberwiesenthal	Sachsen	12	Erzgebirge
-Brotterode-Trusetal	Th├╝ringen	2	Th├╝ringer Wald
-Arralifte Harmanschlag	Nieder├Âsterreich	4	Nieder├Âsterreich
-Sieghartskirchen	Nieder├Âsterreich	1	Kamptal - Wagram - Tullner Donauraum
-Rohr im Gebirge	Nieder├Âsterreich	1	Schneebergland - Wiener Alpen
-Feldkirch	Vorarlberg	3	Bodensee - Vorarlberg
-Ceillac en Queyras	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
-Obernberg am Brenner	Tirol	7	Wipptal
-Nad N├ídra┼¥├¡m - Belveder	Region Pilsen	5	Region Pilsen
-Kurzras	S├╝dtirol	5	Schnalstal
-Ratschings Jaufen	S├╝dtirol	10	S├╝dtirol
-Westerzgebirge	Sachsen	0	<missing>
-Misurina	Venetien	5	Misurina-Auronzo-Cadore
-Cittareale - Selvarotonda	Latium	0	Latium
-Prato Nevoso	Piemont	3	Cuneo und Umgebung
-Castellina in Chianti	Toskana	0	Chiantigebiet
-Courmayeur	Aostatal	12	Aostatal
-Reichshof	Nordrhein-Westfalen	0	Bergisches Land
-Carlsfeld	Sachsen	5	Sachsen
-Bingen am Rhein	Rheinland-Pfalz	2	Rheinhessen
-Kastellaun	Rheinland-Pfalz	0	Hunsr├╝ck
-Titisee-Neustadt	Baden-W├╝rttemberg	3	Hochschwarzwald
-Heiligenberg ├╝berm Bodensee	Baden-W├╝rttemberg	1	Bodensee - Linzgau
-Gitschberg - Jochtal	S├╝dtirol	11	Eisacktal
-Ski Center Latemar - Obereggen	S├╝dtirol	33	S├╝dtirol
-An der Kniebreche / Steinbach-Hallenberg	Th├╝ringen	1	Th├╝ringen
-Pr├╝m	Rheinland-Pfalz	2	Eifel/ Rheinland-Pfalz
-Bad Lauterberg - Heibek	Niedersachsen	1	Niedersachsen
-Sontheim an der Brenz	Baden-W├╝rttemberg	1	Heidenheimer Brenzregion
-Hundseck - B├╝hlertallifte	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-San Cassiano	S├╝dtirol	11	Alta Badia
-Ritten - Rittner Horn - Klobenstein	S├╝dtirol	3	Bozen und Umgebung - S├╝dtirols S├╝den
-Dolomites Val Gardena / Gr├Âden - St. Ulrich	S├╝dtirol	24	S├╝dtirol
-Saint Lary Soulan	Okzitanien	0	Okzitanien
-Spittal an der Drau	K├ñrnten	5	Millst├ñtter See
-Isny - Felderhalde / Max Wild Arena	Bayern	7	Bayern
-Chanavey / Rh├¬mes-Notre-Dame	Aostatal	1	Aostatal
-Lizzola - Valbondione	Lombardei	5	Lombardei
-Chiesa Valmalenco / Alpe Pal├╣	Lombardei	4	Lombardei
-Bagolino	Trentino	1	Idrosee / Val Sabbia
-Canazei - Belvedere / Val di Fassa	Trentino	69	Trentino
-Noord-Beveland	Zeeland	1	Zeeland
-Hoek van Holland	S├╝dholland	1	Rotterdam
-Monte Generoso	Tessin	9	Mendrisiotto und Basso Ceresio
-Freiburg und Umgebung	Freiburg Region	1	Freiburg Region
-Erlebnisregion N├╝rburgring	Rheinland-Pfalz	7	Eifel/ Rheinland-Pfalz
-Marbach - Marbachegg	Luzern - Vierwaldst├ñttersee	4	Luzern - Vierwaldst├ñttersee
-H├╝ndle - Thalkirchdorf	Bayern	1	Bayern
-Le Grand Bornand - St. Jean de Sixt - Massif des Arravis	Auvergne-Rh├┤ne-Alpes	13	Auvergne-Rh├┤ne-Alpes
-Monte Bondone	Trentino	5	Trentino
-Attergau Schilift Kronberg	Ober├Âsterreich	3	Ober├Âsterreich
-Schiwiese Markt Piesting	Nieder├Âsterreich	3	Nieder├Âsterreich
-Skisportzentrum Sternrodt Bruchhausen a. d. Steinen / Olsberg	Nordrhein-Westfalen	1	Nordrhein-Westfalen
-Th├╝ringer Wald	Th├╝ringen	52	Th├╝ringen
-Seggauberg	Steiermark	0	<missing>
-Langeoog	Niedersachsen	5	Ostfriesische Inseln
-Bad Lauterberg im Harz	Niedersachsen	1	Der Harz/ Niedersachsen
-Meersburg	Baden-W├╝rttemberg	4	Bodensee - Deutschland
-Stollenbach	Baden-W├╝rttemberg	3	Baden-W├╝rttemberg
-Albstadt - Onstmettingen / Ruchtal	Baden-W├╝rttemberg	4	Baden-W├╝rttemberg
-Weisweil am Rhein	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Belchen	Baden-W├╝rttemberg	5	Baden-W├╝rttemberg
-Schwarzwaldregion Belchen	Baden-W├╝rttemberg	10	Wiesental
-Ahornach	S├╝dtirol	1	Ahrntal
-Wanderdorf La Val	S├╝dtirol	7	Alta Badia
-Vicenza	Venetien	6	Venetien
-Gr├╝nten	Bayern	2	Bayern
-Rugiswalde	Sachsen	1	Sachsen
-Heiligenblut - Grossglockner	K├ñrnten	24	K├ñrnten
-Steig - B├ñretswil	Z├╝rich & Z├╝rich Region	0	Z├╝rich & Z├╝rich Region
-Bartholom├ñberg	Vorarlberg	3	Montafon
-Ehrwald Wettersteinbahnen	Tirol	4	Tirol
-M├Âlltaler Gletscher	K├ñrnten	8	Hohe Tauern - die Nationalpark-Region...
-Salzstiegl bei Hirschegg	Steiermark	2	Steiermark
-Straden	Steiermark	1	Thermen- & Vulkanland Steiermark
-Zell am Pettenfirst	Ober├Âsterreich	1	Hausruckviertel
-Stroheim	Ober├Âsterreich	9	Hausruckviertel
-Les Bugnenets - Savagni├¿res	Jura & Drei-Seen-Land	1	Jura & Drei-Seen-Land
-St. Oswald bei Freistadt	Ober├Âsterreich	3	M├╝hlviertler Alm Freistadt
-Gosau	Ober├Âsterreich	7	Dachstein Salzkammergut
-S├Âll	Tirol	3	Wilder Kaiser
-Serfaus - Fiss - Ladis	Tirol	13	Tirol
-Postalm	Salzburger Land	8	Wolfgangsee - Salzkammergut
-Heidenheim an der Brenz	Baden-W├╝rttemberg	1	Heidenheimer Brenzregion
-Enzkl├Âsterle - Hirschkopflifte	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Novska	Mittelkroatien	1	Sisak-Moslavina
-Vla┼íi─ç	F├Âderation Bosnien und Herzegowina	2	F├Âderation Bosnien und Herzegowina
-Schwedeneck	Schleswig-Holstein	1	Eckernf├Ârder Bucht
-Korbach	Hessen	1	Waldecker Land
-St. Andreasberg - Matthias-Schmidt-Berg	Niedersachsen	3	Niedersachsen
-Dornumerland	Niedersachsen	0	Nordseek├╝ste
-Beuren	Baden-W├╝rttemberg	8	Schw├ñbische Alb
-Beuron	Baden-W├╝rttemberg	1	Naturpark Obere Donau
-Pinkafeld	Burgenland	1	S├╝dburgenland
-Ramsau bei Berchtesgaden	Bayern	15	Berchtesgadener Land
-Oberstdorf / Nebelhorn	Bayern	13	Oberallg├ñu
-Wangerooge	Niedersachsen	1	Ostfriesische Inseln
-Bad Sachsa	Niedersachsen	1	Der Harz/ Niedersachsen
-Norden-Norddeich	Niedersachsen	2	Nordseek├╝ste
-Poprad	Neusohler Landschaftsverband	7	Eperieser Landschaftsverband
-Boi-Ta├╝ll Resort	Katalonien	3	Katalonien
-Rovinj	Istrien	2	Istrien
-Stadt Rab	Kvarner	1	Insel Rab
-Bellwald	Wallis	2	Wallis
-Veysonnaz / 4 Vall├®es	Wallis	4	Wallis
-Pian Cales / San Bernardino	Graub├╝nden	1	Graub├╝nden
-Romanshorn	Ostschweiz	1	Thurgau Bodensee
-Ostheim vor der Rh├Ân	Bayern	1	Die Rh├Ân/ Bayern
-Gerolzhofen	Bayern	2	Steigerwald
-Neumarkt in der Oberpfalz	Bayern	1	Bayerischer Jura
-Velk├í ├Üpa / ─îern├í hora - Pec	Region K├Âniggr├ñtz	3	Region K├Âniggr├ñtz
-Gols	Burgenland	5	Neusiedler See
-Ellmau	Tirol	8	Wilder Kaiser
-Schwannerlift Weerberg	Tirol	1	Tirol
-Radstadt	Salzburger Land	10	Salzburger Sportwelt
-Gro├ƒarl Tal - Ski amade	Salzburger Land	11	Salzburger Land
-Rothwald - Wasenalp am Simplon	Wallis	3	Wallis
-Stoos	Luzern - Vierwaldst├ñttersee	16	Stoos-Muotatal
-Rosswald	Wallis	4	Brig Simplon
-Klosters Madrisa	Graub├╝nden	17	Graub├╝nden
-Kemberg	Sachsen-Anhalt	1	Anhalt-Dessau-Wittenberg
-Pl├Ân	Schleswig-Holstein	1	Holsteinische Schweiz
-Herchenhainer H├Âhe	Hessen	1	Hessen
-Bad Laasphe - Hesselbach	Nordrhein-Westfalen	2	Nordrhein-Westfalen
-Schmallenberger H├Âhenlift	Nordrhein-Westfalen	1	Nordrhein-Westfalen
-Marienheide	Nordrhein-Westfalen	1	Bergisches Land
-Horn	Nieder├Âsterreich	1	Kamptal - Manhartsberg
-Muggendorf / Thal	Nieder├Âsterreich	1	Schneebergland - Wiener Alpen
-Leobendorf	Nieder├Âsterreich	1	Weinviertel
-Braz	Vorarlberg	1	Klostertal
-Schneeberglifte Waldau	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Tiers am Rosengarten	S├╝dtirol	1	Seiser Alm
-Gais - Uttenheim	S├╝dtirol	1	Kronplatz - Dolomiten
-Stilfserjoch	S├╝dtirol	12	Ortlergebiet
-Gressoney La Trinit├®	Aostatal	5	Monte Rosa
-Fai della Paganella	Trentino	1	Altopiano della Paganella
-Maribor	Podravska	15	Maribor-Pohorje
-Autrans	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
-Vr├ítna Free Time Zone	Silleiner Landschaftsverband	4	Silleiner Landschaftsverband
-Lauscha - Ernstthal	Th├╝ringen	3	Th├╝ringen
-Kaltenbronn	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-St. Jakob in Ahrn	S├╝dtirol	2	Ahrntal
-Rosskopf - Monte Cavallo	S├╝dtirol	1	Eisacktal
-Cesana - Sansicario / Via Lattea	Piemont	0	Piemont
-Darfo Boario Terme	Lombardei	1	Valcamonica
-B├╝hlertal	Baden-W├╝rttemberg	0	<missing>
-M├Ânichkirchen - Mariensee	Nieder├Âsterreich	3	Nieder├Âsterreich
-Bergeralm - Steinach am Brenner	Tirol	5	Tirol
-Au├ƒervillgraten / Villgratental	Tirol	1	Hochpustertal - Osttirol
-Matrei - GG Resorts Kals-Matrei	Tirol	6	Tirol
-Schwaz-Pill - Kellerjochbahn	Tirol	7	Tirol
-Abtenau	Salzburger Land	4	Tennengau - Dachstein West
-Aarau	Aargau	4	Berner Aargau
-Bruson - Verbier	Wallis	2	Wallis
-Blatten-Belalp	Wallis	6	Brig Simplon
-Thyon les Collons	Wallis	17	Val d`H├®rens
-Strobl am Wolfgangsee	Salzburger Land	2	Wolfgangsee - Salzkammergut
-Memmingen	Bayern	1	Unterallg├ñu
-Ski Makov	Silleiner Landschaftsverband	0	Silleiner Landschaftsverband
-St. Martin	Nieder├Âsterreich	5	Oberes Waldviertel
-Schmitten - Zell am See	Salzburger Land	15	Salzburger Land
-Frankfurt am Main	Hessen	3	FrankfurtRheinMain
-Insel Pag	Dalmatien - Zadar	10	Dalmatien - Zadar
+Going - SkiWelt	Tirol	2	Tirol
+Glottertal	Baden-W├╝rttemberg	3	Hochschwarzwald
+Giengen an der Brenz	Baden-W├╝rttemberg	1	Heidenheimer Brenzregion
+Utzenfeld	Baden-W├╝rttemberg	1	Schwarzwaldregion Belchen
+Schnalstal / Kurzras	S├╝dtirol	32	S├╝dtirol
+Freistadt	Ober├Âsterreich	1	M├╝hlviertler Alm Freistadt
+Ulrichsberg	Ober├Âsterreich	2	Ferienregion B├Âhmerwald
+Monte Pora / Castione della Presolana	Lombardei	3	Lombardei
 Vigo di Cadore	Venetien	3	Misurina-Auronzo-Cadore
-Habkern	Berner Oberland	1	Interlaken
 Livigno	Lombardei	15	Lombardei
 Brusio	Graub├╝nden	0	<missing>
-Pr├ñgraten am Gro├ƒvenediger	Tirol	7	NationalparkRegion Hohe Tauern Osttirol
-St. Leonhard in Passeier	S├╝dtirol	4	Passeiertal
-Feldberg Liftverbund	Baden-W├╝rttemberg	13	Baden-W├╝rttemberg
-Rosskopf - Sterzing	S├╝dtirol	6	S├╝dtirol
-Morter	S├╝dtirol	3	Insel Murter
-Ochsenkopf	Bayern	19	Bayern
-Gressoney Saint Jean	Aostatal	1	Monte Rosa
-Grosio	Lombardei	2	Media Valtellina Terziere Superiore
-Paganella - Andalo	Trentino	18	Trentino
-Zwiesel	Bayern	3	Arberland
-Pinzolo - Val Rendena / Dolomiti di Brenta	Trentino	3	Trentino
-Weissensee	K├ñrnten	9	Nassfeld - Pressegger See / Lesachtal...
-St. Nikolai im S├Âlktal	Steiermark	2	Naturpark S├Âlkt├ñler
-Bad Aussee	Steiermark	1	Ausseerland - Salzkammergut
-Oberhofen am Irrsee	Ober├Âsterreich	1	Mondseeland / Mondsee-Irrsee
-Feldthurns	S├╝dtirol	0	Eisacktal
-Riva del Garda	Trentino	8	Garda Trentino
-Ptuj	Podravska	1	Podravska
-Slovenska Bistrica	Podravska	1	Podravska
-La Rosi├¿re - Espace San Bernardo	Auvergne-Rh├┤ne-Alpes	7	Auvergne-Rh├┤ne-Alpes
-Kop┼Öivn├í	M├ñhren-Schlesien	0	M├ñhren-Schlesien
-Murter	Dalmatien - ┼áibenik	3	Insel Murter
-Olpe	Nordrhein-Westfalen	2	Sauerland/ Nordrhein-Westfalen
-Meiningen - Th├╝ringer Wald	Th├╝ringen	1	Th├╝ringer Wald
-Zell im Rosental	K├ñrnten	0	Carnica Region Rosental
-Landeck	Tirol	1	Tirol West
-Charmey	Freiburg Region	3	Gruy├¿res
-R├╝schegg - Eywald	Bern & Region Bern	1	Bern & Region Bern
-Ibergeregg	Luzern - Vierwaldst├ñttersee	2	Mythenregion
-Hoch-Ybrig	Luzern - Vierwaldst├ñttersee	7	Luzern - Vierwaldst├ñttersee
-Hochfelln	Bayern	6	Bayern
 Buronlifte Wertach	Bayern	4	Bayern
-Speyer	Rheinland-Pfalz	0	Rheinland-Pfalz
-Gernsbach	Baden-W├╝rttemberg	3	Murgtal
-Reutlingen	Baden-W├╝rttemberg	2	Schw├ñbische Alb
-Colfosco	S├╝dtirol	13	Alta Badia
-Pfalzen	S├╝dtirol	2	Kronplatz - Dolomiten
-Valmasino	Lombardei	1	Morbegno Bassa Valle
-Valchiavenna - Madesimo/ÔÇïCampodolcino	Lombardei	7	Lombardei
-Ponte di Legno - Tem├╣ - Adamello Ski	Trentino	1	Trentino
-Bohinjska Bistrica	Gorenjska	3	Gorenjska
-Sainte Foy Tarentaise	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Valfr├®jus	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Prien am Chiemsee	Bayern	5	Chiemsee - Alpenland
-Savognin Bivio Albula	Graub├╝nden	16	Graub├╝nden
-Zuoz	Graub├╝nden	3	Graub├╝nden
-Oberw├Âssen-Unterw├Âssen	Bayern	6	Achental
-Jakobsbad - Kronberg	Ostschweiz	4	Appenzell Innerrhoden
-Hemberg	Ostschweiz	3	Ostschweiz
-W├╝rzburg	Bayern	3	Fr├ñnkisches Weinland
-Yspertal	Nieder├Âsterreich	1	S├╝dliches Waldviertel
-Rabenstein an der Pielach	Nieder├Âsterreich	1	Pielachtal
-Dorflift Sulzberg	Vorarlberg	3	Vorarlberg
-Kappel am Krappfeld	K├ñrnten	1	Mittelk├ñrnten
-Going - SkiWelt	Tirol	2	Tirol
-Strallegg - Joglland	Steiermark	2	Steiermark
-Pr├ñbichl	Steiermark	3	Leoben - Niklasdorf
-Lebring-Sankt Margarethen	Steiermark	2	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
-Hochficht - B├Âhmerwald	Ober├Âsterreich	26	Ober├Âsterreich
-Kronstorf	Ober├Âsterreich	1	Traunviertel
-Ulrichsberg	Ober├Âsterreich	2	Ferienregion B├Âhmerwald
-Patscherkofel - Igls	Tirol	3	Innsbruck und seine Feriend├Ârfer
-Bach-Stockach im Lechtal	Tirol	4	Lechtal
-Gerlos	Tirol	5	Zillertal Arena
-Gr├╝nberg Obsteig	Tirol	3	Tirol
-Schwaz	Tirol	2	Silberregion Karwendel
-Wintersportarena Liebenau	Ober├Âsterreich	1	Ober├Âsterreich
-Freesports Arena Dachstein Krippenstein / Obertraun	Ober├Âsterreich	3	Ober├Âsterreich
-K├Ânigswiesen	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
-Amlach	Tirol	2	Lienzer Dolomiten - Osttirol
-Hochk├Âssen - Unterberg	Tirol	6	Tirol
-Hannover	Niedersachsen	2	Region Hannover und Umgebung
-Baltrum	Niedersachsen	7	Ostfriesische Inseln
-Radolfzell	Baden-W├╝rttemberg	2	Westlicher Bodensee
-Kehl	Baden-W├╝rttemberg	0	Ortenau
-Waldshut-Tiengen	Baden-W├╝rttemberg	2	Hochrhein
-Taufers im M├╝nstertal	S├╝dtirol	3	Obervinschgau
-Speikboden - Tauferer Ahrntal	S├╝dtirol	14	S├╝dtirol
-Haideralm - St. Valentin / Reschenpass	S├╝dtirol	8	Reschenpass
-Hauteville - Terre Ronde	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Baiersbronn	Baden-W├╝rttemberg	4	Baden-W├╝rttemberg
-Natz-Schabs	S├╝dtirol	2	Eisacktal
-Cogne - Gran Paradiso	Aostatal	5	Aostatal
-Schilpario	Lombardei	1	Lombardei
-Achenkirch am Achensee	Tirol	8	Achensee
-Telfes im Stubaital	Tirol	0	Stubaital
-Sillian - Hochpustertal	Tirol	10	Tirol
-Ellmau - SkiWelt	Tirol	8	Tirol
-Jochberg	Tirol	16	Kitzb├╝hel
-St. Veit im Pongau	Salzburger Land	1	Salzburger Sonnenterrasse
-M├╝hlbach am Hochk├Ânig	Salzburger Land	5	Hochk├Ânig
-Faistenau	Salzburger Land	2	Fuschlsee - Ferienregion
-Hallein D├╝rrnberg - Zinkenlifte	Salzburger Land	3	Salzburger Land
-Belalp	Wallis	6	Wallis
-Skilift Tettau / Wildberg	Bayern	1	Bayern
-G├Âtschen - Bischofswiesen / Berchtesgaden	Bayern	3	Bayern
-Hochstr├ñ├ƒlifte Oberreute	Bayern	1	Bayern
-Geiselbach	Bayern	1	Spessart-Mainland / Bayern
-Mitterdorf - Philippsreut	Bayern	3	Freyung-Grafenau
-Medebach	Nordrhein-Westfalen	6	Sauerland/ Nordrhein-Westfalen
-Koper	Adria K├╝ste / Karst Region	0	Adria K├╝ste / Karst Region
-Maurienne	Auvergne-Rh├┤ne-Alpes	2	Savoie Mont Blanc
-Zandvoort	Nordholland	1	Nordholland
-Le D├®voluy - Superd├®voluy / La Joue du Loup	Provence-Alpes-C├┤te dÔÇÖAzur	2	Provence-Alpes-C├┤te dÔÇÖAzur
-Donovaly	Neusohler Landschaftsverband	8	Neusohler Landschaftsverband
-Jasensk├í dolina	Silleiner Landschaftsverband	1	Silleiner Landschaftsverband
-Mali Lo┼íinj	Kvarner	4	Insel Lo┼íinj
-Adria Ski / Kupres	F├Âderation Bosnien und Herzegowina	2	F├Âderation Bosnien und Herzegowina
-Kleinarl / Wagrain - Kleinarl	Salzburger Land	7	Salzburger Sportwelt
-Annaberg - Lung├Âtz - Dachstein West	Salzburger Land	5	Salzburger Land
-Brig-Glis	Wallis	1	Brig Simplon
-Tschiertschen-Praden	Graub├╝nden	5	Schanfigg
-Schierke	Sachsen-Anhalt	18	Der Harz/ Sachsen-Anhalt
-Olsberg	Nordrhein-Westfalen	2	Sauerland/ Nordrhein-Westfalen
-Hahnenklee-Bockswiese / Goslar	Niedersachsen	5	Der Harz/ Niedersachsen
-Wiener Neustadt	Nieder├Âsterreich	1	Schneebergland - Wiener Alpen
-Pec pod Sn─ø┼¥kou / ─îern├í hora - Pec	Region K├Âniggr├ñtz	16	Region K├Âniggr├ñtz
-Ple┼íivec - Abertamy	Region Karlsbad	9	Region Karlsbad
-Battenhausen / Hohes Lohr	Hessen	1	Hessen
-Skicentrum Strednica - ┼¢diar	Eperieser Landschaftsverband	1	Eperieser Landschaftsverband
-Star├¢ Smokovec	Eperieser Landschaftsverband	1	Eperieser Landschaftsverband
-Tribunj	Dalmatien - ┼áibenik	1	Dalmatien - ┼áibenik
-Jahorina	Republika Srpska	4	Republika Srpska
-Wil SG	Ostschweiz	1	Ferienregion Toggenburg
-Buchs	Ostschweiz	1	Werdenberg Region
-Trient	Trentino	1	Trento - Monte Bondone - Valle dei Laghi
-Passo Tonale - Adamello Ski / Val di Sole	Trentino	2	Trentino
-Grimentz - Zinal	Wallis	5	Wallis
-Lenk	Berner Oberland	18	Berner Oberland
-Thunersee	Berner Oberland	5	Interlaken
-M├Ârlialp	Luzern - Vierwaldst├ñttersee	3	Luzern - Vierwaldst├ñttersee
-Altglash├╝tte / B├ñrnau	Bayern	5	Bayern
-Jachenau	Bayern	1	T├Âlzer Land
-Sonthofen	Bayern	2	Alpsee-Gr├╝nten
-Skianlage Schloppach / Waldsassen	Bayern	1	Bayern
-Obwalden	Luzern - Vierwaldst├ñttersee	14	Luzern - Vierwaldst├ñttersee
-Skilifte Sinswang	Bayern	2	Bayern
-Brauneck / Lenggries	Bayern	15	Bayern
-Irschenberg	Bayern	0	Alpenregion Tegernsee - Schliersee
-Deggendorf	Bayern	2	Deggendorfer Land
-Pfaffenwinkel	Bayern	2	Oberbayern
-Blomberg - Bad T├Âlz	Bayern	7	Bayern
-Sch├Ânberg in Holstein	Schleswig-Holstein	2	Probstei und Kieler F├Ârde
-Sils	Graub├╝nden	1	Engadin St. Moritz
-Oetz	Tirol	10	├ûtztal
-Malo Polje / Igman	F├Âderation Bosnien und Herzegowina	1	F├Âderation Bosnien und Herzegowina
-Bodenmais	Bayern	6	Arberland
-Lautertal bei Coburg	Bayern	1	Coburger Land
-Quedlinburg	Sachsen-Anhalt	1	Der Harz/ Sachsen-Anhalt
-Spiekeroog	Niedersachsen	4	Ostfriesische Inseln
-Leer	Niedersachsen	1	S├╝dliches Ostfriesland
-Oldenburg	Niedersachsen	1	Niedersachsen
-Fa┼¥ana	Istrien	1	Istrien
-Butjadingen	Niedersachsen	1	Nordseek├╝ste
-Gartow	Niedersachsen	1	Wendland.Elbe
-Braunschweig	Niedersachsen	4	Braunschweiger Land
-Bodman-Ludwigshafen	Baden-W├╝rttemberg	2	Westlicher Bodensee
-Bad Teinach-Zavelstein	Baden-W├╝rttemberg	4	Nagoldtal
-Schwemmalm - Ultental	S├╝dtirol	11	S├╝dtirol
-Dolomitental Villn├Âss	S├╝dtirol	4	Dolomiten
-Sappada	Friaul-Julisch Venetien	2	Friaul-Julisch Venetien
-Golf von La Spezia / Golf der Dichter	Ligurien	1	Ligurien
-Saint Rh├®my En Bosses	Aostatal	1	Grosser Sankt Bernhardt /...
-Dolomites Val Gardena / Gr├Âden	S├╝dtirol	70	Dolomiten
-Bre┼¥ice	Posavska	2	Spodnjeposavska
-Rieden am Forggensee	Bayern	3	Ostallg├ñu
-─îenkovice	Region Pardubice	2	Region Pardubice
-Grainet	Bayern	1	Freyung-Grafenau
-Thaur	Tirol	1	Ferienregion Hall - Wattens
-Ueckerm├╝nde	Mecklenburg-Vorpommern	0	Usedom
-Au - Schoppernau	Vorarlberg	11	Bregenzerwald
-Hohentauern	Steiermark	7	Steiermark
-Kiel	Schleswig-Holstein	2	Ostsee - Schleswig Holstein
-FrankfurtRheinMain	Hessen	6	Hessen
-Herscheid	Nordrhein-Westfalen	2	M├ñrkisches Sauerland
-Schloss-Stadt H├╝ckeswagen	Nordrhein-Westfalen	2	Bergisches Land
-Albstadt - Tailfingen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-St. Christina - San Cristina / Dolomites Val Gardena - Gr├Âden	S├╝dtirol	17	Dolomites Val Gardena / Gr├Âden
-Dolomites Val Gardena / Gr├Âden - Wolkenstein	S├╝dtirol	30	S├╝dtirol
-Cinque Terre	Ligurien	2	Ligurien
-Vojsko	Gori┼íka	1	Gori┼íka
-Logarska dolina	Savinjska	2	Savinjska
-Les Saisies - Espace Diamant	Auvergne-Rh├┤ne-Alpes	7	Auvergne-Rh├┤ne-Alpes
-Bellevaux Hirmentaz	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
-Les Houches - Chamonix Mont-Blanc	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Col de Rousset	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Schouwen-Duiveland	Zeeland	6	Zeeland
-Vlieland	Friesland	2	Westfriesische Inseln / Waddeneilanden
-Nov├® Hamry	Region Karlsbad	1	Region Karlsbad
-Erlangen	Bayern	2	St├ñdteregion N├╝rnberg
-Bad Wildbad	Baden-W├╝rttemberg	1	Enztal
-Wildsch├Ânau	Tirol	17	Tirol
-F├╝gen - Spieljoch	Tirol	15	Tirol
-Heum├Âserlift / Ebnit	Vorarlberg	2	Vorarlberg
-Obervellach	K├ñrnten	1	Hohe Tauern - die Nationalpark-Region...
-Innervillgraten / Villgratental	Tirol	4	Hochpustertal - Osttirol
-Brixen im Thale - SkiWelt	Tirol	4	Tirol
-Mayrhofen	Tirol	4	Mayrhofen - Hippach
-Stubaier Gletscher	Tirol	2	Stubaital
-Fieberbrunn	Tirol	8	Pillerseetal
-Pielachtal	Nieder├Âsterreich	3	Mostviertel
-St. Georgen am Walde - Schorschi-Lift	Ober├Âsterreich	2	Ober├Âsterreich
-Valgerola	Lombardei	1	Morbegno Bassa Valle
-Alba di Canazei - Ciampac / Val di Fassa	Trentino	5	Trentino
-Crest-Voland Cohennoz - Espace Diamant	Auvergne-Rh├┤ne-Alpes	0	Auvergne-Rh├┤ne-Alpes
-Montgen├¿vre - La Voie Lactee / Via Lattea	Provence-Alpes-C├┤te dÔÇÖAzur	6	Provence-Alpes-C├┤te dÔÇÖAzur
-Abri├¿s en Queyras	Provence-Alpes-C├┤te dÔÇÖAzur	2	Provence-Alpes-C├┤te dÔÇÖAzur
-Pot┼»─ìky	Region Karlsbad	0	Region Karlsbad
-┼áimuni	Dalmatien - Zadar	1	Insel Pag
-Amrum	Schleswig-Holstein	8	Nordsee - Schleswig-Holstein
-Helsa	Hessen	1	Geo-Naturpark Frau-Holle-Land
-R├®allon	Provence-Alpes-C├┤te dÔÇÖAzur	4	Provence-Alpes-C├┤te dÔÇÖAzur
-Seninka	Region Zlin	1	Region Zlin
-Braunau am Inn	Ober├Âsterreich	3	s`Entdeckerviertel
-Kaiserau	Steiermark	1	Ges├ñuse
-Admont	Steiermark	2	Ges├ñuse
-Gnas	Steiermark	1	Feldbach
-Riesneralm - Schneeb├ñren	Steiermark	11	Steiermark
-Naturpark Almenland Teichalm - Sommeralm	Steiermark	7	Oststeiermark
-Peilstein im M├╝hlviertel	Ober├Âsterreich	1	Ferienregion B├Âhmerwald
-St. Georgen am Walde	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
-Ternberg	Ober├Âsterreich	3	Steyr und die Nationalpark Region
-Eisenach	Th├╝ringen	0	Welterberegion Wartburg Hainich
-Peuerbach	Ober├Âsterreich	1	Hausruckviertel
-Aschach an der Donau	Ober├Âsterreich	1	Donau Ober├Âsterreich
-Tollet	Ober├Âsterreich	1	Hausruckviertel
-S├ñntis / Schw├ñgalp	Ostschweiz	2	Appenzell Ausserrhoden
-Hinwil	Z├╝rich & Z├╝rich Region	1	Z├╝rcher Oberland
-Sigriswil und Gunten	Berner Oberland	1	Thunersee
-Kierspe	Nordrhein-Westfalen	1	M├ñrkisches Sauerland
-Monschau	Nordrhein-Westfalen	1	Eifel & Aachen
-Hersbruck	Bayern	1	N├╝rnberger Land
-Spieserlifte - Sonnenhanglift / Unterjoch	Bayern	2	Bayern
-Skilift Gohrersberg / Kreuzthal	Bayern	0	Bayern
-Kirchenlamitz	Bayern	2	Fichtelgebirge
-Eutin	Schleswig-Holstein	2	Holsteinische Schweiz
-Beerfelden	Hessen	1	Hessen
-Sundern - Wildewiese	Nordrhein-Westfalen	1	Nordrhein-Westfalen
-Herrenschwand - Todtmoos	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-Moena	Trentino	15	Fassatal
-Primo┼íten	Dalmatien - ┼áibenik	0	Dalmatien - ┼áibenik
-Maseben - Langtaufers - Reschenpass	S├╝dtirol	1	S├╝dtirol
-Meransen	S├╝dtirol	4	Eisacktal
-Monte Verena 2000 / Roana - Asiago	Venetien	1	Venetien
-Bad Gro├ƒpertholz	Nieder├Âsterreich	2	Oberes Waldviertel
-Walchsee / Zahmer Kaiser - Durchholzen	Tirol	8	<missing>
-Malga Ciapela	Venetien	0	<missing>
-Bergbahn Pillersee ÔÇô Buchensteinwand	Tirol	4	Tirol
-Seilbahn Bezau	Vorarlberg	2	Vorarlberg
-G├Âtzis	Vorarlberg	1	Bodensee - Vorarlberg
-Bregenz	Vorarlberg	2	Bodensee - Vorarlberg
-Hildburghausen	Th├╝ringen	1	Th├╝ringer Wald
-Skiarena Silbersattel	Th├╝ringen	4	Th├╝ringen
-Snow Paradise Ve─¥k├í Ra─ìa	Silleiner Landschaftsverband	1	Silleiner Landschaftsverband
-Samobor	Zagreb	2	Region Zagreb
-Meran	S├╝dtirol	11	Meran und Umgebung
-Jochgrimm	S├╝dtirol	4	S├╝dtirol
-St. Lorenzen	S├╝dtirol	1	Kronplatz - Dolomiten
-Feltre	Venetien	1	Area Feltrino
-Brusson	Aostatal	3	Monte Rosa
-Cr├®vacol - Saint Rhemy en Bosses	Aostatal	2	Aostatal
-Neve 2000 / Monte Spada	Sardinien	1	Sardinien
-Pozza di Fassa - Buffaure / Val di Fassa	Trentino	11	Trentino
-Ibiza	Balearen	0	<missing>
-Odenwald / Baden-W├╝rttemberg	Baden-W├╝rttemberg	1	<missing>
-Kyffh├ñuser	Th├╝ringen	1	Th├╝ringen
-Kronberg im Taunus	Hessen	1	Taunus
-Burscheid	Nordrhein-Westfalen	1	Bergisches Land
-Mayen	Rheinland-Pfalz	1	Erlebnisregion N├╝rburgring
-Daun	Rheinland-Pfalz	2	Vulkaneifel
-Bramsche	Niedersachsen	1	VarusRegion
-Oberried	Baden-W├╝rttemberg	3	Hochschwarzwald
-Bernau im Schwarzwald	Baden-W├╝rttemberg	5	Hochschwarzwald
-G├Âppingen	Baden-W├╝rttemberg	2	Region Stuttgart
-Dolomites Val Gardena / Gr├Âden - St. Christina	S├╝dtirol	18	S├╝dtirol
-Sterzing	S├╝dtirol	5	Eisacktal
-Kastelruth	S├╝dtirol	4	Seiser Alm
-Ratschings	S├╝dtirol	8	Eisacktal
-Alpinwellt Weissenbach / Family Skilift	S├╝dtirol	2	S├╝dtirol
-Sch├Âneben - Haideralm / Reschenpass	S├╝dtirol	12	S├╝dtirol
-Barbian	S├╝dtirol	2	Eisacktal
-Ahrntal	S├╝dtirol	49	Kronplatz - Dolomiten
-Latsch - Tarscher Alm	S├╝dtirol	1	Latsch - Martelltal
-Seiser Alm	S├╝dtirol	37	Seiser Alm
-Westernberg / Ruhpolding	Bayern	2	Bayern
-Les Karellis	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Skilift Falkenstein	Bayern	1	Bayern
-Siegsdorf	Bayern	3	Chiemgau - Chiemsee
-Insel Poel	Mecklenburg-Vorpommern	1	Ostseek├╝ste Mecklenburg
-Gstadt - Gollenshausen	Bayern	1	Chiemsee - Alpenland
-Geldern	Nordrhein-Westfalen	1	Niederrhein
-De Haan - Wenduine	Fl├ñmische Region	7	Belgische K├╝ste
-Filipovice	Region Olm├╝tz	2	Region Olm├╝tz
-├ûhringen	Baden-W├╝rttemberg	2	Hohenlohe
-Corvara	S├╝dtirol	17	Alta Badia
-Bibione / San Michele al Tagliamento	Venetien	0	Venezia
-Monte Cimone / Sestola	Emilia-Romagna	6	Emilia-Romagna
-Saint Oyen	Aostatal	1	Grosser Sankt Bernhardt /...
-─Éakovo	Slawonien	1	Slawonien
-Bodensee - Vorarlberg	Vorarlberg	42	Vorarlberg
-M├Ârtschach	K├ñrnten	6	Hohe Tauern - die Nationalpark-Region...
-St. Barbara im M├╝rztal	Steiermark	3	Semmering-Waldheimat-Veitsch
-Altaussee	Steiermark	2	Ausseerland - Salzkammergut
-Bruck an der Mur	Steiermark	2	Bruck - Kapfenberg
-Krispl / Gai├ƒau	Salzburger Land	1	Salzburger Land
-V├Âcklamarkt	Ober├Âsterreich	1	Hausruckviertel
-Scharten	Ober├Âsterreich	1	Hausruckviertel
-Bezau	Vorarlberg	2	Bregenzerwald
-Gl├Âdnitz - Flattnitz	K├ñrnten	2	Mittelk├ñrnten
-St. Kanzian am Klopeinersee	K├ñrnten	6	Klopeiner See - S├╝dk├ñrnten
-Spital am Semmering	Steiermark	3	Semmering-Waldheimat-Veitsch
-Frohnleiten	Steiermark	1	Graz und Region Graz
-Niederalpl	Steiermark	1	Steiermark
-Kumberg	Steiermark	2	Graz und Region Graz
-Kematen an der Krems	Ober├Âsterreich	0	Traunviertel
-Karwendel-Bergbahn Pertisau ÔÇô Achensee	Tirol	12	Tirol
-Nauders - Reschenpass	Tirol	26	Tiroler Oberland
-Salzburg Stadt	Salzburger Land	9	Stadt Salzburg & Umgebung
-Castione della Presolana - Monte Pora	Lombardei	3	Clusone Presolana
-Mulhouse / M├╝lhausen	Grand Est	0	Haut-Rhin
-Misurina - Col de Varda	Venetien	5	Venetien
-Belluno	Venetien	0	Valbelluna
-Rocca Pietore	Venetien	1	Marmolada - Dolomiten
-Val Thorens / Les 3 Vall├®es	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
-La Magdeleine	Aostatal	1	Matterhorn / Mont Cervin
-Valtournenche	Aostatal	3	Matterhorn / Mont Cervin
-Allerheiligen im M├╝hlkreis	Ober├Âsterreich	2	Ober├Âsterreich
-Bottighofen	Ostschweiz	1	Kreuzlingen
-Flumserberg	Ostschweiz	18	Ostschweiz
-Thun	Berner Oberland	2	Thunersee
-Lenk-Simmental	Berner Oberland	21	Berner Oberland
-Schwanden - Sigriswil / Thunersee	Berner Oberland	1	Berner Oberland
-S├ñchsische Schweiz	Sachsen	4	Sachsen
-Altendorf SZ	Luzern - Vierwaldst├ñttersee	3	Einsiedeln-Ybrig-Z├╝richsee
-Mythenregion	Luzern - Vierwaldst├ñttersee	12	Brunnen-Schwyz
-Beckenried - Klewenalp	Luzern - Vierwaldst├ñttersee	4	Vierwaldst├ñttersee / Nidwalden
-Grainau	Bayern	11	Zugspitzland
-Val di Zoldo	Venetien	5	Area Civetta 
-St. Veit in Defereggen	Tirol	1	Defereggental
-Wengen	Berner Oberland	6	Jungfrau Region
-Lagazuoi - 5 Torri / Passo Falzarego	Venetien	4	Venetien
-Andermatt	Luzern - Vierwaldst├ñttersee	22	Uri
-Waren (M├╝ritz)	Mecklenburg-Vorpommern	3	M├╝ritz "plus"
-Paderborn	Nordrhein-Westfalen	3	Teutoburger Wald
-Kaltern am See / S├╝dtiroler Weinstra├ƒe	S├╝dtirol	5	Bozen und Umgebung - S├╝dtirols S├╝den
-Alta Badia	S├╝dtirol	92	S├╝dtirol
-Proveis	S├╝dtirol	1	Ultental - Deutschnonsberg
-Pieve di Cadore	Venetien	1	Misurina-Auronzo-Cadore
-Madesimo 	Lombardei	5	Valchiavenna
-Nussdorf am Attersee	Ober├Âsterreich	1	Attersee - Attergau
-Haag am Hausruck	Ober├Âsterreich	1	Vitalwelt Bad Schallerbach
-Hagen	Nordrhein-Westfalen	4	Ruhrgebiet
-Norderney	Niedersachsen	1	Ostfriesische Inseln
-G├Âttingen	Niedersachsen	2	Niedersachsen
-Schuttertal	Baden-W├╝rttemberg	1	Schwarzwald
-Wei├ƒenbach	S├╝dtirol	3	Ahrntal
-Eppan an der Weinstra├ƒe	S├╝dtirol	4	Bozen und Umgebung - S├╝dtirols S├╝den
-Stilfser Joch - Ortlergebiet	S├╝dtirol	13	S├╝dtirol
-Aldein Radein	S├╝dtirol	2	Bozen und Umgebung - S├╝dtirols S├╝den
-Rein in Taufers	S├╝dtirol	3	Ahrntal
-St. Martin im Kofel	S├╝dtirol	1	Latsch - Martelltal
-Vigiljoch - Lana	S├╝dtirol	2	S├╝dtirol
-Antagnod - Ayas / Monterosa	Aostatal	2	Aostatal
-Albaredo	Lombardei	1	Morbegno Bassa Valle
-Kope	Koro┼íka	5	Koro┼íka
-PARK SNOW Donovaly	Neusohler Landschaftsverband	8	Neusohler Landschaftsverband
-Sant Juli├á de L├▓ria	Andorra	2	Andorra
-Starigrad - Paklenica	Dalmatien - Zadar	1	Region Zadar
-Biograd na Moru	Dalmatien - Zadar	3	Region Zadar
-Lanersbach - Eggalm	Tirol	2	<missing>
-Brunni - Haggenegg	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
-M├╝hldorf a. Inn	Bayern	1	Inn - Salzach
-Haidm├╝hle - Bischofsreut - Frauenberg	Bayern	0	Bayern
-Vohenstrau├ƒ	Bayern	2	Oberpf├ñlzer Wald
-Naturns	S├╝dtirol	7	Meran und Umgebung
-Guggenberg / Taisten	S├╝dtirol	1	S├╝dtirol
-Kasern / Hl. Geist	S├╝dtirol	1	Ahrntal
-L├®lex - Crozet	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
-Lackenhof am ├ûtscher	Nieder├Âsterreich	9	Eisenstra├ƒe Nieder├Âsterreich
-Ovindoli - Monte Magnola	Abruzzen	1	Abruzzen
-SNOWLAND ÔÇô Val─ìianska dolina	Silleiner Landschaftsverband	1	Silleiner Landschaftsverband
-Senj	Lika - Karlovac	1	Lika-Senj
-┼ÿ├¡─ìky v Orlick├¢ch hor├ích	Region K├Âniggr├ñtz	3	Region K├Âniggr├ñtz
-Snowpark Lu─ìivn├í	Eperieser Landschaftsverband	1	Eperieser Landschaftsverband
 Steinbach-Hallenberg	Th├╝ringen	1	Th├╝ringer Wald
 Haarlem	Nordholland	1	Nordholland
 Unterb├ñch	Wallis	8	Rund um Visp
@@ -2749,6 +2945,34 @@ Donnersbach - Planneralm	Steiermark	4	Grimming - Donnersbachtal
 Brixen im Thale	Tirol	3	Kitzb├╝heler Alpen - Brixental
 Maria Alm	Salzburger Land	7	Hochk├Ânig
 Lenzburg Seetal	Aargau	1	Berner Aargau
+Insel Pag	Dalmatien - Zadar	10	Dalmatien - Zadar
+Wals-Siezenheim	Salzburger Land	2	Stadt Salzburg & Umgebung
+Obergoms / Goms	Wallis	13	Wallis
+La Tzoumaz - Mayens de Riddes	Wallis	2	Wallis
+Wiesbaden	Hessen	2	Rheingau
+Zempin	Mecklenburg-Vorpommern	2	Usedom
+Gmunden	Ober├Âsterreich	3	Traunsee-Almtal
+Konstanz	Baden-W├╝rttemberg	5	Westlicher Bodensee
+Eberstein - Saualpe	K├ñrnten	4	K├ñrnten
+Bredstedt	Schleswig-Holstein	0	<missing>
+Seefeld in Tirol	Tirol	10	Seefeld Olympiaregion
+Fehmarn	Schleswig-Holstein	5	Ostsee - Schleswig Holstein
+Fulpmes / Stubaital	Tirol	17	Stubaital
+Obertilliach / Golzentipp - Lesachtal	Tirol	7	Tirol
+Klosters Madrisa	Graub├╝nden	17	Graub├╝nden
+Watles	S├╝dtirol	7	S├╝dtirol
+Rohr im Gebirge	Nieder├Âsterreich	1	Schneebergland - Wiener Alpen
+Eiterfeld	Hessen	2	Hessisches Kegelspiel
+St. Martin am Tennengebirge	Salzburger Land	3	Salzburger Land
+Sch├Ânberg in Holstein	Schleswig-Holstein	2	Probstei und Kieler F├Ârde
+B├Âhmenkirch - Treffelhausen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Tatransk├í Lomnica	Eperieser Landschaftsverband	6	Eperieser Landschaftsverband
+Leer	Niedersachsen	1	S├╝dliches Ostfriesland
+Pila / Aostatal	Aostatal	29	Aostatal
+Fedaiapass	Trentino	0	Fassatal
+Hochgratbahn Oberstaufen - Steibis	Bayern	9	Bayern
+Tangerm├╝nde	Sachsen-Anhalt	1	Altmark
+Skilift Treisberg / Pferdskopf	Hessen	1	Hessen
 Altenmarkt an der Triesting	Nieder├Âsterreich	1	Wienerwald
 Gro├ƒg├Âttfritz	Nieder├Âsterreich	2	Waldviertel Mitte
 Kleinwalsertal - Kanzelwand - Fellhorn	Vorarlberg	10	Vorarlberg
@@ -2756,404 +2980,225 @@ Gerlitzen Alpe	K├ñrnten	31	K├ñrnten
 St. Johann in Tirol	Tirol	20	Kitzb├╝heler Alpen St. Johann in Tirol
 Vorhegg / K├Âtschach - Mauthen	K├ñrnten	6	K├ñrnten
 Trofaiach	Steiermark	4	Erzberg Land
-Bad Schwanberg	Steiermark	7	Schilcherland Steiermark
+Kl├Âsterle am Arlberg - Sonnenkopf	Vorarlberg	5	Kl├Âsterle - Stuben am Arlberg
+Tonnerh├╝ttenlift - Zirbitzkogel	Steiermark	1	Steiermark
+Passy Plaine-Joux	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
+Lovere	Lombardei	0	Iseosee
+Eisenerz	Steiermark	2	Erzberg Land
+Wertheim	Baden-W├╝rttemberg	1	Spessart-Mainland / Baden W├╝rttemberg
+Engelberg Titlis	Luzern - Vierwaldst├ñttersee	14	Luzern - Vierwaldst├ñttersee
+Todtnauberg	Baden-W├╝rttemberg	7	Baden-W├╝rttemberg
+Karlshagen	Mecklenburg-Vorpommern	1	Usedom
+Zahmer Kaiser - Walchsee	Tirol	9	Tirol
+Seefeld Olympiaregion	Tirol	20	Tirol
+Gamlitz	Steiermark	6	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
+Galsterbergalm / Schladming - Ski amade	Steiermark	6	Steiermark
+Sarnen - Langis	Luzern - Vierwaldst├ñttersee	2	Obwalden
+Nassfeld	K├ñrnten	15	K├ñrnten
+Heiligenblut / Gro├ƒglockner	K├ñrnten	22	Hohe Tauern - die Nationalpark-Region...
+Leogang	Salzburger Land	7	Saalfelden - Leogang
+Kasern / Hl. Geist	S├╝dtirol	1	Ahrntal
+L├®lex - Crozet	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
+Hochrindl - Sirnitz - Deutsch Griffen	K├ñrnten	4	K├ñrnten
+P├Âllau	Steiermark	1	Naturpark P├Âllauer Tal
+Haag am Hausruck	Ober├Âsterreich	1	Vitalwelt Bad Schallerbach
+Ostende	Fl├ñmische Region	2	Belgische K├╝ste
+Saint Oyen	Aostatal	1	Grosser Sankt Bernhardt /...
+Lilienfeld	Nieder├Âsterreich	1	Traisen-G├Âlsental
+Fridingen - Antoni	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Dietramszell	Bayern	0	T├Âlzer Land
+Altm├╝nster	Ober├Âsterreich	2	Traunsee-Almtal
+Scharnstein im Almtal	Ober├Âsterreich	3	Traunsee-Almtal
+St. Anton am Arlberg	Tirol	22	Tirol
+Tegernsee	Bayern	13	Alpenregion Tegernsee - Schliersee
+Sundern - Wildewiese	Nordrhein-Westfalen	1	Nordrhein-Westfalen
+Braunau am Inn	Ober├Âsterreich	3	s`Entdeckerviertel
+Leventina	Tessin	5	Tessin
+Neuruppin	Brandenburg	1	Ruppiner Seenland
+Fehraltorf	Z├╝rich & Z├╝rich Region	1	Z├╝rcher Oberland
+Rogoznica	Dalmatien - ┼áibenik	1	Dalmatien - ┼áibenik
+Ried im Oberinntal	Tirol	1	Tiroler Oberland
+Mariapfarr	Salzburger Land	6	Lungau - Ferienregion
+P├Âllauberg	Steiermark	1	Naturpark P├Âllauer Tal
+Wiriehorn / Diemtigtal	Berner Oberland	4	Berner Oberland
+Steinach am Brenner	Tirol	5	Wipptal
+Wunstorf - Steinhude	Niedersachsen	1	Region Hannover und Umgebung
+Erlebnisregion Edersee	Hessen	6	GrimmHeimat NordHessen
+M├╝hlwald	S├╝dtirol	1	Ahrntal
+Muttersberg - Bludenz	Vorarlberg	5	Alpenstadt Bludenz
+Gunzenhausen	Bayern	1	Fr├ñnkisches Seenland
+Zug	Luzern - Vierwaldst├ñttersee	3	├ägerital - Sattel
+Folgaria - Fiorentini / Alpe Cimbra	Trentino	1	Trentino
+Babin Do / Bjela┼ínica	F├Âderation Bosnien und Herzegowina	2	F├Âderation Bosnien und Herzegowina
+Nieb├╝ll	Schleswig-Holstein	1	Nordfriesland
+Fieberbrunn - Saalbach Hinterglemm Leogang	Tirol	8	Tirol
+Sonthofen	Bayern	2	Alpsee-Gr├╝nten
+Skianlage Schloppach / Waldsassen	Bayern	1	Bayern
+K├Ânigsleiten / Wald - Zillertal Arena	Salzburger Land	5	Salzburger Land
+Rastkogel Bahnen / Tux-Vorderlanersbach	Tirol	1	Tirol
+H├╝ndle Erlebnisbahn	Bayern	1	Oberallg├ñu
+La Thuile	Aostatal	6	Mont Blanc
+Faaker See	K├ñrnten	0	<missing>
+Rocca Pietore	Venetien	1	Marmolada - Dolomiten
+R├®allon	Provence-Alpes-C├┤te dÔÇÖAzur	4	Provence-Alpes-C├┤te dÔÇÖAzur
+Rust	Burgenland	2	Neusiedler See
+Montafoner Kristbergbahn - Silbertal	Vorarlberg	8	Vorarlberg
+Gr├Âdig	Salzburger Land	1	Stadt Salzburg & Umgebung
+Alpbach - Ski Juwel Alpbachtal Wildsch├Ânau	Tirol	10	Tirol
+Sterzing	S├╝dtirol	5	Eisacktal
+Ludwigsstadt	Bayern	2	Frankenwald
+Salem	Baden-W├╝rttemberg	2	Bodensee - Linzgau
+Traunstein	Bayern	3	Chiemgau - Chiemsee
+Mitterbach am Erlaufsee	Nieder├Âsterreich	16	Traisen-G├Âlsental
+Klippitzt├Ârl	K├ñrnten	8	K├ñrnten
+Gaaler Lifte	Steiermark	1	Steiermark
+Panticosa	Aragonien	0	<missing>
+W├Ârth am Rhein	Rheinland-Pfalz	0	<missing>
+Eisenberg	Th├╝ringen	1	Saaleland
+Trarego Cheglio Viggiona	Piemont	1	Lago Maggiore - Lago Mergozzo...
+Gro├ƒostheim	Bayern	1	Churfranken
+Vals	Graub├╝nden	3	Graub├╝nden
+Reith bei Seefeld	Tirol	1	Seefeld Olympiaregion
+Welschnofen Karersee	S├╝dtirol	26	Eggental
+Kaunertaler Gletscher / Kaunertal	Tirol	13	Tirol
+Tannheimer Tal	Tirol	38	Tirol
+Idrija	Gori┼íka - Smaragdstra├ƒe	1	Gori┼íka
+Vipava Tal	Gori┼íka - Smaragdstra├ƒe	2	Gori┼íka
+Schildorn	Ober├Âsterreich	1	Innviertel
+Quarten	Ostschweiz	1	Walensee
+Hirschegg	Vorarlberg	5	Kleinwalsertal
+Offenbach am Main	Hessen	2	FrankfurtRheinMain
+Usedom-Stadt	Mecklenburg-Vorpommern	0	Usedom
+Scheibbs	Nieder├Âsterreich	1	Eisenstra├ƒe Nieder├Âsterreich
+Wald - K├Ânigsleiten	Salzburger Land	5	Nationalpark Hohe Tauern
+Kaunertaler Gletscher	Tirol	6	Tiroler Oberland
+Hansestadt Bremen	Bremen	7	Bremen
+Kaltenbach	Tirol	16	Erste Ferienregion im Zillertal
+Leysin	Waadtland / Genferseegebiet	7	Alpes Vaudoises
+Maloja	Graub├╝nden	2	Val Bregaglia
+Kurtatsch - Margreid - Kurtinig	S├╝dtirol	1	Bozen und Umgebung - S├╝dtirols S├╝den
+Vrhnika	Zentralslowenien	1	Zentralslowenien
+Aletsch Arena / Riederalp - Bettmeralp - Fiesch-Eggishorn	Wallis	39	Wallis
+Tieschen	Steiermark	3	Region Bad Radkersburg
+Oberw├Âlz - Lachtal	Steiermark	18	Murau-Murtal
+Kopfing im Innkreis	Ober├Âsterreich	1	Innviertel
+Goldegg - Ski amade	Salzburger Land	2	Salzburger Land
+Graal-M├╝ritz	Mecklenburg-Vorpommern	2	Ostseek├╝ste Mecklenburg
+Mannheim	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
+Fellhorn / Kanzelwand - Oberstdorf	Bayern	17	Oberallg├ñu
+Grassau im Chiemgau	Bayern	5	Chiemgau - Chiemsee
+St. Ant├Ânien	Graub├╝nden	3	Pr├ñttigau
+Kempten	Bayern	1	Oberallg├ñu
+Wildalpen	Steiermark	1	Ges├ñuse
+Mieming - Wildermieming	Tirol	1	Mieminger Plateau & Inntal
+Candanch├║	Aragonien	0	Aragonien
+K├Âssen	Tirol	12	Kaiserwinkl
+Knokke-Heist	Fl├ñmische Region	3	Belgische K├╝ste
+Tramin an der Weinstrasse	S├╝dtirol	7	Bozen und Umgebung - S├╝dtirols S├╝den
+Delnice	Kvarner	1	Kvarner
+Karlovac	Lika - Karlovac	1	Lika - Karlovac
+Pichl-Reiteralm	Steiermark	16	Schladming - Dachstein
+St. Lorenzen im Lesachtal	K├ñrnten	0	<missing>
+Schuttertal	Baden-W├╝rttemberg	1	Schwarzwald
+Peilstein im M├╝hlviertel	Ober├Âsterreich	1	Ferienregion B├Âhmerwald
+Ternberg	Ober├Âsterreich	3	Steyr und die Nationalpark Region
+Marquartstein	Bayern	8	Achental
+Davos Klosters Parsenn	Graub├╝nden	31	Graub├╝nden
+Sautens	Tirol	1	├ûtztal
+Brigels Waltensburg Andiast	Graub├╝nden	13	Graub├╝nden
+Corvara	S├╝dtirol	17	Alta Badia
+Treffen - Annenheim - Sattendorf am Ossiacher See	K├ñrnten	9	Region Villach - Faaker See...
+Brixen im Thale - SkiWelt	Tirol	4	Tirol
+Stubaier Gletscher	Tirol	2	Stubaital
+Fieberbrunn	Tirol	8	Pillerseetal
+Brunni-Bahnen Engelberg	Luzern - Vierwaldst├ñttersee	1	Luzern - Vierwaldst├ñttersee
+St. Gotthard im M├╝hlkreis	Ober├Âsterreich	1	M├╝hlviertel
+Deutsch Sch├╝tzen-Eisenberg	Burgenland	0	S├╝dburgenland
+Arbon	Ostschweiz	1	Thurgau Bodensee
+Br├╝lisau-Leugangen	Ostschweiz	1	Ostschweiz
+Thierstein	Bayern	1	Fichtelgebirge
+Tettau	Bayern	1	Frankenwald
+Scopello	Piemont	0	Vercelli und Umgebung
+Sistrans bei Innsbruck	Tirol	2	<missing>
+Silbertal - Kristberg	Vorarlberg	7	Montafon
+Bad Neustadt an der Saale	Bayern	1	Die Rh├Ân/ Bayern
+Jimramov	Region Vyso─ìina	0	Region Vyso─ìina
+Furth im Wald	Bayern	2	Region Cham
+Au├ƒervillgraten / Villgratental	Tirol	1	Hochpustertal - Osttirol
+Rangersdorf	K├ñrnten	3	Hohe Tauern - die Nationalpark-Region...
+Uelzen	Niedersachsen	1	Heideregion Uelzen
+Mureck	Steiermark	1	Radkersburger Teich- und H├╝gelland
+Bad Kissingen	Bayern	2	Die Rh├Ân/ Bayern
+Regensburg	Bayern	2	Bayerischer Jura
+Holzhau	Sachsen	2	Sachsen
+Braz	Vorarlberg	1	Klostertal
+Vall├®es de Joux	Waadtland / Genferseegebiet	2	Waadtland / Genferseegebiet
+Mieders	Tirol	5	Stubaital
+Horben	Aargau	1	Aargau
+Grimentz / St-Jean	Wallis	4	Sierre Anniviers
+Champagny en Vanoise / Paradiski	Auvergne-Rh├┤ne-Alpes	9	Auvergne-Rh├┤ne-Alpes
+Bruneck - Reischach - Percha	S├╝dtirol	10	Kronplatz - Dolomiten
+Minschuns - Val M├╝stair	Graub├╝nden	6	Graub├╝nden
+Bredene	Fl├ñmische Region	0	<missing>
+Neukirchen/Haggn	Bayern	0	Sankt Englmar
+Chiesa in Valmalenco	Lombardei	4	Sondrio Valmalenco
+Cerkno	Gori┼íka	2	Gori┼íka
+Hohenschwangau	Bayern	8	Ostallg├ñu
+Reit im Winkl	Bayern	8	Bayern
+Donauw├Ârth	Bayern	9	Bayerisch-Schwaben
+Pfalzen	S├╝dtirol	2	Kronplatz - Dolomiten
+Valmasino	Lombardei	1	Morbegno Bassa Valle
+Eupen	Wallonische Region	1	Hohes Venn
+Gramais	Tirol	2	Lechtal
+Eggalm Bahnen / Tux-Lanersbach	Tirol	4	Tirol
+Valdidentro	Lombardei	0	Alta Valtellina
+Pinkafeld	Burgenland	1	S├╝dburgenland
+Familienskigebiet Sahnehang	Nordrhein-Westfalen	1	Nordrhein-Westfalen
+Wiehl	Nordrhein-Westfalen	1	Bergisches Land
+Cerler	Aragonien	1	<missing>
+Aosta und Umgebung	Aostatal	33	Aostatal
+Gro├ƒ Gerungs	Nieder├Âsterreich	1	Waldviertel Mitte
+Sch├Âmberg - Eulenloch	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Jaunpass	Berner Oberland	2	Berner Oberland
+Boden-Bschlabs	Tirol	1	Lechtal
+Fendels	Tirol	0	Naturpark & Gletscherregion Kaunertal
+Oberperfuss - Rangger K├Âpfl	Tirol	6	Tirol
+Praz sur Arly - Espace Diamant	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
+Laboe	Schleswig-Holstein	2	Probstei und Kieler F├Ârde
+Hohe Lied / Schmallenberg-Gellinghausen	Nordrhein-Westfalen	1	Nordrhein-Westfalen
+Masella / Alp 2500	Katalonien	1	Katalonien
+Prad am Stilfserjoch	S├╝dtirol	2	Ortlergebiet
+FrankfurtRheinMain	Hessen	6	Hessen
+Diemelsee	Hessen	2	Waldecker Land
+M├Âdling	Nieder├Âsterreich	2	Wienerwald
+K├Âniz	Bern & Region Bern	1	Bern - Stadt
+Vir	Dalmatien - Zadar	2	Region Zadar
+Stolzalpe	Steiermark	2	Murau - Kreischberg
+Pizol	Ostschweiz	14	Bad Ragaz, Pizol und Umgebung
+Goldegg am See	Salzburger Land	2	Salzburger Sonnenterrasse
+Clavering-Insel	Tunu (Ostgr├Ânland)	2	<missing>
+Chiesa Valmalenco / Alpe Pal├╣	Lombardei	4	Lombardei
+Corren├ºon - Villard de Lans	Auvergne-Rh├┤ne-Alpes	17	Auvergne-Rh├┤ne-Alpes
+Biberwier - Marienbergbahnen	Tirol	6	Tirol
+Urn├ñsch	Ostschweiz	1	Appenzell Ausserrhoden
+Sundern	Nordrhein-Westfalen	1	Sauerland/ Nordrhein-Westfalen
+Sarntal - Reinswald	S├╝dtirol	12	Bozen und Umgebung - S├╝dtirols S├╝den
+3 Zinnen Dolomiten	S├╝dtirol	68	S├╝dtirol
+Biel-Kinzig / B├╝rglen	Luzern - Vierwaldst├ñttersee	3	Uri
+Jachenau / Skilift M├╝hle	Bayern	1	Bayern
+Oberau	Bayern	2	Zugspitzland
+Hochk├Ânig / Maria Alm - Dienten - M├╝hlbach - Ski amade	Salzburger Land	19	Salzburger Land
+Car├¼	Tessin	5	Tessin
 Pierbach	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
 Rothenberg - Schnaittach	Bayern	1	Bayern
 Heigenbr├╝cken / Winterloch	Bayern	1	Bayern
 Scharbeutz	Schleswig-Holstein	1	Ostsee - Schleswig Holstein
 Bersenbr├╝ck	Niedersachsen	1	Osnabr├╝cker Land
-Aigen im Ennstal	Steiermark	2	Grimming - Donnersbachtal
-Bernau am Chiemsee	Bayern	5	Chiemsee - Alpenland
-Wassertr├╝dingen	Bayern	0	Romantisches Franken
-Darmstadt	Hessen	3	Bergstra├ƒe / Hessen
-R├╝gen	Mecklenburg-Vorpommern	10	Mecklenburg-Vorpommern
-Skiliftkarussell Winterberg	Nordrhein-Westfalen	35	Nordrhein-Westfalen
-Gummersbach	Nordrhein-Westfalen	1	Bergisches Land
-Postwiese - Neuastenberg	Nordrhein-Westfalen	10	Nordrhein-Westfalen
-Dermbach	Th├╝ringen	2	Die Rh├Ân/ Th├╝ringen
-Eisfeld	Th├╝ringen	2	Th├╝ringer Wald
-Kaprun - Kitzsteinhorn	Salzburger Land	11	Zell am See - Kaprun
-Shuttleberg Flachauwinkl-Kleinarl - Ski amade	Salzburger Land	7	Salzburger Land
-Brissago und Brissago Inseln	Tessin	1	Ascona - Locarno / Lago Maggiore
-Disentis	Graub├╝nden	13	Graub├╝nden
-Weinfelden	Ostschweiz	1	Thurgau Bodensee
-Hauzenberg - Geiersberg	Bayern	0	Bayern
-Tegernsee	Bayern	13	Alpenregion Tegernsee - Schliersee
-Passy Plaine-Joux	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Thollon les M├®mises	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Kobarid	Gori┼íka - Smaragdstra├ƒe	2	So─ìa-Tal
-Bovec	Gori┼íka - Smaragdstra├ƒe	11	So─ìa-Tal
-Gori┼íka	Gori┼íka - Smaragdstra├ƒe	19	Gori┼íka
-Idrija	Gori┼íka - Smaragdstra├ƒe	1	Gori┼íka
-Vipava Tal	Gori┼íka - Smaragdstra├ƒe	2	Gori┼íka
-Schildorn	Ober├Âsterreich	1	Innviertel
-Hochplett - Oberaschau	Ober├Âsterreich	1	Ober├Âsterreich
-Bad Kreuzen	Ober├Âsterreich	1	Donau Ober├Âsterreich
-Frauenkirchen	Burgenland	7	Neusiedler See
-Henndorf am Wallersee	Salzburger Land	1	Salzburger Seenland
-Filzmoos	Salzburger Land	8	Salzburger Sportwelt
-Neumarkt am Wallersee	Salzburger Land	1	Salzburger Seenland
-St. Margarethen im Lungau	Salzburger Land	1	Lungau - Ferienregion
-Flachau - Snow Space Salzburg - Ski amade	Salzburger Land	8	Salzburger Land
-St. Johann in Salzburg	Salzburger Land	3	Salzburger Sportwelt
-Lauchernalp - L├Âtschental	Wallis	16	Wallis
-Avers / Ferrera	Graub├╝nden	5	Viamala
-Haslital	Berner Oberland	15	Berner Oberland
-Gstaad	Berner Oberland	16	Berner Oberland
-M├╝nchen	Bayern	22	Oberbayern
-Buchenbergbahn - Buching	Bayern	4	Bayern
-Nebelhorn / Oberstdorf	Bayern	21	Bayern
-St. Andreasberg - Sonnenberg	Niedersachsen	1	Niedersachsen
-Hornlift - Fr├Âhnd	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Aalen	Baden-W├╝rttemberg	5	Ostalbkreis
-B├╝hl	Baden-W├╝rttemberg	2	B├╝hl-B├╝hlertal
-S├Âll - SkiWelt	Tirol	3	Tirol
-Bad Ragaz	Ostschweiz	3	Bad Ragaz, Pizol und Umgebung
-Niederstotzingen	Baden-W├╝rttemberg	0	<missing>
-Gutenstein	Nieder├Âsterreich	1	Schneebergland - Wiener Alpen
-Gaweinstal	Nieder├Âsterreich	3	Weinviertel
-Serfaus	Tirol	7	Serfaus - Fiss - Ladis
-Sigmaringen	Baden-W├╝rttemberg	0	<missing>
-Roggenboden	Tirol	1	Tirol
-Mariazeller B├╝rgeralpe	Steiermark	17	Steiermark
-Ebersdorf	Steiermark	0	Oststeiermark
-Gmunden	Ober├Âsterreich	3	Traunsee-Almtal
-Aschach an der Steyr	Ober├Âsterreich	1	Traunviertel
-Breitenbrunn am Neusiedler See	Burgenland	1	Neusiedler See
-B├╝ndner Herrschaft	Ostschweiz	1	Heidiland
-Mollis	Ostschweiz	0	Glarus Nord
-Bad Essen	Niedersachsen	0	VarusRegion
-Les Pl├®iades	Waadtland / Genferseegebiet	1	Waadtland / Genferseegebiet
-Nyon Region	Waadtland / Genferseegebiet	2	Waadtland / Genferseegebiet
-Delmenhorst	Niedersachsen	2	Niedersachsen
-Melchsee - Frutt	Luzern - Vierwaldst├ñttersee	5	Obwalden
-Wolfratshausen	Bayern	2	T├Âlzer Land
-Ofterschwang / H├Ârnerd├Ârfer	Bayern	4	Oberallg├ñu
-Pfronten	Bayern	13	Ostallg├ñu
-Seeon - Seebruck - Truchtlaching	Bayern	5	Chiemgau - Chiemsee
-Rheinbach	Nordrhein-Westfalen	1	Rhein-Voreifel
-Canazei	Trentino	73	Fassatal
-Kitzb├╝hel - Kirchberg	Tirol	46	Tirol
-Schollenwiesenlift / H├Âfen bei Reutte	Tirol	1	Tirol
-Hohe Wand	Nieder├Âsterreich	5	Schneebergland - Wiener Alpen
-Wagrain - Snow Space Salzburg - Ski amade	Salzburger Land	3	Salzburger Land
-Rund um Visp	Wallis	21	Oberwallis
-Bruson	Wallis	2	Verbier
-Thusis / Heinzenberg	Graub├╝nden	2	Viamala
-Wolzenalp / Krummenau	Ostschweiz	1	Ostschweiz
-Fischingen	Ostschweiz	0	Thurgau Bodensee
-Eschenberglifte / Niedersfeld	Nordrhein-Westfalen	0	Nordrhein-Westfalen
-Rosenburg-Mold	Nieder├Âsterreich	1	Kamptal - Manhartsberg
-Biberwier	Tirol	6	Zugspitz Arena
-Schruns - Tschagguns	Vorarlberg	7	Montafon
-Lautenbach	Baden-W├╝rttemberg	1	Renchtal
-Schnalstal	S├╝dtirol	26	Meraner Land
-Nieuwpoort	Fl├ñmische Region	1	Belgische K├╝ste
-Forni di Sopra	Friaul-Julisch Venetien	8	Carnia
-Zuclo	Trentino	0	Valli Giudicarie
-SKI ORAVICE Meander Skipark	Silleiner Landschaftsverband	3	Silleiner Landschaftsverband
-Nin	Dalmatien - Zadar	2	Region Zadar
-St. P├Âlten	Nieder├Âsterreich	2	Mostviertel
-Gr├╝nbach am Schneeberg	Nieder├Âsterreich	1	Schneebergland - Wiener Alpen
-Schilifte Kirchschlag	Ober├Âsterreich	12	Ober├Âsterreich
-Krippenstein / Obertraun	Ober├Âsterreich	2	Dachstein Salzkammergut
-Frankenburg am Hausruck	Ober├Âsterreich	3	Hausruckviertel
-Puchenstuben	Nieder├Âsterreich	2	Mostviertel
-Weitra	Nieder├Âsterreich	1	Oberes Waldviertel
-Tannheim	Tirol	8	Tannheimer Tal
-Kals am Gro├ƒglockner	Tirol	18	NationalparkRegion Hohe Tauern Osttirol
-Hopfgarten in Defereggen	Tirol	1	Defereggental
-Urn├ñsch / Osteregg	Ostschweiz	1	Ostschweiz
-Lungern - Sch├Ânb├╝el	Luzern - Vierwaldst├ñttersee	4	Obwalden
-Brand	Vorarlberg	11	Brandnertal
-Wei├ƒbriach / Gitschtal	K├ñrnten	1	K├ñrnten
-Gamlitz	Steiermark	6	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
-Galsterbergalm / Schladming - Ski amade	Steiermark	6	Steiermark
-Sarnen - Langis	Luzern - Vierwaldst├ñttersee	2	Obwalden
-Eischoll	Wallis	1	Turtmanntal
-Sehmatal -  Paulusberg/Neutal	Sachsen	1	Sachsen
-Eibenstock	Sachsen	2	Sachsen
-Naturpark Zittauer Gebirge	Sachsen	1	Zittauer Gebirge
-Kegelberg - Erlbach	Sachsen	2	Sachsen
-Altenberg	Sachsen	4	S├ñchsische Schweiz
-Sebnitz am Buchberg	Sachsen	0	Sachsen
-Augustusburg	Sachsen	1	Sachsen
-Hermsdorf / Erzgebirge	Sachsen	1	Sachsen
-Sch├Âneck - Hohe Reuth	Sachsen	5	Sachsen
-Seiffen - Reicheltberg	Sachsen	1	Sachsen
-Winterwelt Rehefeld	Sachsen	1	Sachsen
-Ferienregion Interlaken	Berner Oberland	4	Interlaken
-Br├╝lisau-Leugangen	Ostschweiz	1	Ostschweiz
-Riezlern	Vorarlberg	11	Kleinwalsertal
-Bad Kissingen	Bayern	2	Die Rh├Ân/ Bayern
-Regensburg	Bayern	2	Bayerischer Jura
-Fichtelberg	Bayern	1	Fichtelgebirge
-La Clusaz - Lake Annecy Ski Resort	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
-Corren├ºon - Villard de Lans	Auvergne-Rh├┤ne-Alpes	17	Auvergne-Rh├┤ne-Alpes
-Gro├ƒ Gerungs	Nieder├Âsterreich	1	Waldviertel Mitte
-Mitterbach am Erlaufsee	Nieder├Âsterreich	16	Traisen-G├Âlsental
-Zadov	S├╝db├Âhmische Region	11	S├╝db├Âhmische Region
-Aletsch Arena / Riederalp - Bettmeralp - Fiesch-Eggishorn	Wallis	39	Wallis
-Riffenmatt	Berner Oberland	1	Berner Oberland
-Nendaz	Wallis	6	Thyon les Collons
-Edersee	Hessen	6	Erlebnisregion Edersee
-Ferienregion Toggenburg	Ostschweiz	16	Toggenburg
-Silvretta Montafon Bergbahnen	Vorarlberg	10	Montafon
-Schilift Bazora	Vorarlberg	6	Vorarlberg
-Mallnitz - Ankogel	K├ñrnten	7	Hohe Tauern - die Nationalpark-Region...
-Greifenburg	K├ñrnten	1	Oberdrautal / Nationalpark-Region...
-Tauplitz / Bad Mitterndorf - Schneeb├ñren	Steiermark	6	Steiermark
-St. Gallen	Ostschweiz	5	St. Gallen und Umgebung
-Heiden / Bischofsberg	Ostschweiz	3	Ostschweiz
-Fl├╝hli	Luzern - Vierwaldst├ñttersee	2	UNESCO Biosph├ñre Entlebuch
-Rigi	Luzern - Vierwaldst├ñttersee	12	Luzern - Vierwaldst├ñttersee
-W├Ârthsee	Bayern	2	Starnberger F├╝nf-Seen-Land
-Hauzenberg	Bayern	0	Passauer Land
-Kreuth	Bayern	3	Alpenregion Tegernsee - Schliersee
-Haibach-Elisabethszell	Bayern	1	Sankt Englmar
-Freyung	Bayern	2	Freyung-Grafenau
-Oberstdorf im Allg├ñu	Bayern	24	Oberallg├ñu
-Balderschwang	Bayern	11	Bayern
-D├╝ren	Nordrhein-Westfalen	1	Eifel & Aachen
-Schwangau - Tegelberg	Bayern	32	Ostallg├ñu
-Starnberger F├╝nf-Seen-Land	Bayern	10	Oberbayern
-Magdeburg	Sachsen-Anhalt	1	Magdeburg-Elbe-B├Ârde-Heide
-Dageb├╝ll	Schleswig-Holstein	2	Nordfriesland
-Ehrenberg / Luftkurort W├╝stensachsen	Hessen	1	Rh├Ân / Hessen
-Axams / Axamer Lizum	Tirol	3	Innsbruck und seine Feriend├Ârfer
-Brandenberg	Tirol	1	Alpbachtal
-Solothurn	Jura & Drei-Seen-Land	3	Solothurn und Region
-Steinach am Brenner	Tirol	5	Wipptal
-Brandlift Scharnitz	Tirol	1	Tirol
-Sonnenberglift - Gries im Sellrain	Tirol	1	Tirol
-H├Âfen	Tirol	1	Naturparkregion Reutte
-Berwang	Tirol	13	Tirol
-Skilift Karsee / Wangen	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Deggenhausertal	Baden-W├╝rttemberg	1	Gehrenberg - Bodensee
-St. Ulrich - Ortisei / Dolomites Val Gardena - Gr├Âden	S├╝dtirol	22	Dolomites Val Gardena / Gr├Âden
-Crawinkel	Th├╝ringen	0	<missing>
-Malin├┤ Brdo - Ru┼¥omberok	Silleiner Landschaftsverband	1	Silleiner Landschaftsverband
-Hinterriss	Tirol	2	Silberregion Karwendel
-Seefeld Olympiaregion	Tirol	20	Tirol
-Sillian	Tirol	7	Hochpustertal - Osttirol
-Seefeld Rossh├╝tte - H├ñrmelekopf	Tirol	1	Seefeld Olympiaregion
-Hochfeldlift - Schwoich	Tirol	1	Tirol
-Kaltenbach	Tirol	16	Erste Ferienregion im Zillertal
-Mittersill - Hollersbach - Stuhlfelden	Salzburger Land	4	Nationalpark Hohe Tauern
-Skilifte Unken / Heutal	Salzburger Land	4	Salzburger Land
-Bad Gastein - Ski amade	Salzburger Land	21	Salzburger Land
-Liddes - Vich├¿res	Wallis	1	Wallis
-Johanngeorgenstadt	Sachsen	2	Erzgebirge
-Postira	Dalmatien - Split	1	Insel Bra─ì
-Carezza - Karersee - Rosengarten	S├╝dtirol	28	S├╝dtirol
-Retz	Nieder├Âsterreich	1	Nationalparkregion Thayatal
-Schwoich	Tirol	1	Kufsteinerland
-Scheffau - SkiWelt	Tirol	1	Tirol
-Berg im Drautal	K├ñrnten	7	Oberdrautal / Nationalpark-Region...
-Wald-Michelbach	Hessen	1	Vorderer Odenwald
-Traunstein	Bayern	3	Chiemgau - Chiemsee
-Immenstadt im Allg├ñu	Bayern	4	Alpsee-Gr├╝nten
-Freyung-Grafenau	Bayern	10	Naturpark Oberer Bayerischer Wald
-Fehmarn	Schleswig-Holstein	5	Ostsee - Schleswig Holstein
-St. Oswald	Nieder├Âsterreich	1	S├╝dliches Waldviertel
-Muttersberg - Bludenz	Vorarlberg	5	Alpenstadt Bludenz
-St. Veit an der Glan	K├ñrnten	2	Mittelk├ñrnten
-Birnbaum	K├ñrnten	0	<missing>
-Planai / Schladming - Ski amade	Steiermark	8	Steiermark
-Haus im Ennstal	Steiermark	11	Haus - Aich - G├Âssenberg
-Mariazell	Steiermark	19	Mariazeller Land
-Eisenstadt	Burgenland	5	Neusiedler See
-Bleckede	Niedersachsen	0	Niedersachsen
-Innertkirchen	Berner Oberland	1	Haslital
-Skilift am K├╝lliggut / Johanngeorgenstadt	Sachsen	2	Sachsen
-Bergen	Bayern	3	Chiemgau - Chiemsee
-Lenzkirch	Baden-W├╝rttemberg	1	Hochschwarzwald
-Mannheim	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Fellhorn / Kanzelwand - Oberstdorf	Bayern	17	Oberallg├ñu
-Grassau im Chiemgau	Bayern	5	Chiemgau - Chiemsee
-Dietfurt	Bayern	3	Naturpark Altm├╝hltal
-Wien - Stadt	Wien	19	Wien und Umgebung
-Pf├ñnderbahn - Bregenz am Bodensee	Vorarlberg	3	Vorarlberg
-St. Gallenkirch - Gortipohl	Vorarlberg	5	Montafon
-Scheidegg	Bayern	1	Westallg├ñu
-Breitenberg	Bayern	1	Bayerischer Wald
-Gutshof Obersalzberg / Berchtesgaden	Bayern	5	Bayern
-Hausham	Bayern	2	Alpenregion Tegernsee - Schliersee
-Hochschwarzeck - Ramsau bei Berchtesgaden	Bayern	13	Bayern
-Oberreute	Bayern	1	Westallg├ñu
-Rostock / Warnem├╝nde	Mecklenburg-Vorpommern	7	Ostseek├╝ste Mecklenburg
-Ostseebad Heringsdorf	Mecklenburg-Vorpommern	5	Usedom
-Wolgast	Mecklenburg-Vorpommern	1	Usedom
-Karlshagen	Mecklenburg-Vorpommern	1	Usedom
-Olang	S├╝dtirol	4	Kronplatz - Dolomiten
-Bad Gr├Ânenbach	Bayern	1	Unterallg├ñu
-Altena	Nordrhein-Westfalen	1	M├ñrkisches Sauerland
-Pizol	Ostschweiz	14	Bad Ragaz, Pizol und Umgebung
-Davos Klosters	Graub├╝nden	79	Graub├╝nden
-Gro├ƒ-Siegharts	Nieder├Âsterreich	2	Nationalparkregion Thayatal
-Urnerboden	Ostschweiz	1	Braunwald
-Ski- und Gletscherwelt Zillertal 3000	Tirol	1	Tirol
-Obertauern	Salzburger Land	39	Salzburger Land
-Zw├Âlferhorn Seilbahn St. Gilgen	Salzburger Land	5	Salzburger Land
-Davos Jakobshorn	Graub├╝nden	13	Graub├╝nden
-Vallemaggia	Tessin	6	Tessin
-Region Murtensee / Freiburg	Freiburg Region	1	Freiburg Region
-Fideriser Heuberge	Graub├╝nden	4	Graub├╝nden
-Bivio	Graub├╝nden	1	Savognin Bivio Albula
-Guttannen	Berner Oberland	6	Haslital
-Ankogel - Mallnitz	K├ñrnten	7	K├ñrnten
-Planneralm - Schneeb├ñren	Steiermark	4	Steiermark
-Saas Grund - Hohsaas	Wallis	6	Wallis
-Neuss	Nordrhein-Westfalen	3	Nordrhein-Westfalen
-Kahla	Th├╝ringen	1	Saaleland
-Rodeneck	S├╝dtirol	5	Eisacktal
-Glottertal	Baden-W├╝rttemberg	3	Hochschwarzwald
-Giengen an der Brenz	Baden-W├╝rttemberg	1	Heidenheimer Brenzregion
-Utzenfeld	Baden-W├╝rttemberg	1	Schwarzwaldregion Belchen
-Schnalstal / Kurzras	S├╝dtirol	32	S├╝dtirol
-Goms	Wallis	15	Oberwallis
-Buchberg	Ostschweiz	1	Buchberg-R├╝dlingen
-Pully	Waadtland / Genferseegebiet	1	Lausanne Region
-Heringsdorf	Mecklenburg-Vorpommern	6	<missing>
-Bern - Stadt	Bern & Region Bern	5	Bern & Region Bern
-Caorle	Venetien	4	Venezia
-Kadle─ì├ík	Region Vyso─ìina	0	Region Vyso─ìina
-Ribnica	S├╝dostslowenien	1	S├╝dostslowenien
-Tambach-Dietharz	Th├╝ringen	1	Th├╝ringer Wald
-Praz sur Arly - Espace Diamant	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
-Oetz - Hochoetz	Tirol	11	Tirol
-Saalfelden	Salzburger Land	10	Saalfelden - Leogang
-D├╝rrnberg Zinken	Salzburger Land	1	Salzburger Land
-├ûblarn-Nieder├Âblarn	Steiermark	2	├ûblarn-Nieder├Âblarn
-Hochwurzen / Schladming - Ski amade	Steiermark	5	Steiermark
-Saint Colomban des Villards - Les Sybelles	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Vogelsberg	Hessen	3	Hessen
-Olpe - Fahlenscheid	Nordrhein-Westfalen	2	Nordrhein-Westfalen
-Sellinghausen / Schmallenberg	Nordrhein-Westfalen	2	Nordrhein-Westfalen
-Ar├¬ches-Beaufort	Auvergne-Rh├┤ne-Alpes	5	Auvergne-Rh├┤ne-Alpes
-Eisenberg	Th├╝ringen	1	Saaleland
-Schotten	Hessen	2	Vogelsberg
-Willebadessen	Nordrhein-Westfalen	2	Teutoburger Wald
-Bergisch Gladbach	Nordrhein-Westfalen	2	Bergisches Land
-Skiclub Falkenau	Sachsen	1	Sachsen
-Helmstedt	Niedersachsen	3	Elm-Lappwald / Niedersachsen
-Darmst├ñdter H├╝tte	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Unterstmatt - Hochkopf	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
-Freiamt im Schwarzwald	Baden-W├╝rttemberg	1	Elztal & Simonsw├ñldertal
-Aosta und Umgebung	Aostatal	33	Aostatal
-Venetien	Marken	0	<missing>
-Kopfing im Innkreis	Ober├Âsterreich	1	Innviertel
-Freistadt	Ober├Âsterreich	1	M├╝hlviertler Alm Freistadt
-Tignes - Val dÔÇÖIs├¿re	Auvergne-Rh├┤ne-Alpes	6	Auvergne-Rh├┤ne-Alpes
-Monte Pora / Castione della Presolana	Lombardei	3	Lombardei
-Bayerisch Eisenstein	Bayern	3	Arberland
-Grasgehren Lifte / Obermaiselstein	Bayern	2	Bayern
-Jenner - Sch├Ânau am K├Ânigssee / Berchtesgadener Land	Bayern	24	Bayern
-Eisenberg / Neuenstein	Hessen	1	Hessen
-Bad Nauheim	Hessen	1	Taunus
-Sulden am Ortler	S├╝dtirol	7	Ortlergebiet
-Kirchberglift / Oberwei├ƒbach	Th├╝ringen	1	Th├╝ringen
-Erfurt	Th├╝ringen	2	Th├╝ringen
-Carolinensiel-Harlesiel	Niedersachsen	1	Nordseek├╝ste
-Altenburg	Th├╝ringen	0	Th├╝ringen
-Schliersee - Neuhaus - Spitzingsee	Bayern	25	Alpenregion Tegernsee - Schliersee
-Balderschwang / H├Ârnerd├Ârfer	Bayern	11	Oberallg├ñu
-Vars - La F├┤ret Blanche	Provence-Alpes-C├┤te dÔÇÖAzur	6	Provence-Alpes-C├┤te dÔÇÖAzur
-Buchenberg	Bayern	1	Oberallg├ñu
-Furth im Wald	Bayern	2	Region Cham
-La Combe Saint-Pierre	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
-Zau[:ber:]g Semmering	Nieder├Âsterreich	6	Semmering - Rax - Schneeberg
-Pernitz	Nieder├Âsterreich	4	Schneebergland - Wiener Alpen
-Langenlois	Nieder├Âsterreich	10	Kamptal - Manhartsberg
-Silvretta Bielerh├Âhe im Montafon	Vorarlberg	1	Vorarlberg
-Flattnitz	K├ñrnten	2	K├ñrnten
-St. Jakob im Walde	Steiermark	7	Joglland - Waldheimat
-Schwechat	Nieder├Âsterreich	2	R├Âmerland Carnuntum - Marchfeld
-Pfarrkirchen im M├╝hlkreis	Ober├Âsterreich	1	Donau Ober├Âsterreich
-Eberschwang	Ober├Âsterreich	2	Ober├Âsterreich
-St. Jakob im Defereggental / Brunnalm	Tirol	4	Tirol
-Rossfeld / Berchtesgadener Land	Bayern	5	Bayern
-Hansestadt Bremen	Bremen	7	Bremen
-Skilifte Klingenthal	Sachsen	2	Sachsen
-Oberweissbach	Th├╝ringen	3	Th├╝ringer Wald
-Nahe.Urlaubsregion	Rheinland-Pfalz	3	Rheinland-Pfalz
-Borkum	Niedersachsen	6	Ostfriesische Inseln
-St. Fran├ºois Longchamp - Le Grand Domaine	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
-Port├® Puymorens	Okzitanien	2	Okzitanien
-Sainte Anne la Condamine	Provence-Alpes-C├┤te dÔÇÖAzur	0	Provence-Alpes-C├┤te dÔÇÖAzur
-Oudenaarde	Fl├ñmische Region	0	Flandern
-Mechelen	Fl├ñmische Region	2	Flandern
-Dale─ì├¡n	Region Vyso─ìina	0	Region Vyso─ìina
-M├╝cheln (Geiseltal)	Sachsen-Anhalt	2	Halle-Saale-Unstrut
-Bensheim	Hessen	3	Bergstra├ƒe / Hessen
-Kitzeck im Sausal	Steiermark	1	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
-Familienschigebiet Rieseralm - Obdach	Steiermark	1	Steiermark
-Brunnalm - Hohe Veitsch	Steiermark	3	Steiermark
-Micheldorf in Ober├Âsterreich	Ober├Âsterreich	4	Steyr und die Nationalpark Region
-Weyregg am Attersee	Ober├Âsterreich	6	Attersee - Attergau
-Schmalkalden - Th├╝ringer Wald	Th├╝ringen	3	<missing>
-Ski centrum K├ílnica	Trentschiner Landschaftsverband	0	<missing>
-Sch├Ânau im M├╝hlkreis	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
-Spital am Pyhrn - Wurzeralm	Ober├Âsterreich	17	Urlaubsregion Pyhrn - Priel
-Podersdorf	Burgenland	4	Neusiedler See
-Absam	Tirol	1	Ferienregion Hall - Wattens
-Sauris	Friaul-Julisch Venetien	1	Carnia
-Les Gets / Portes du Soleil	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
-Bodenteich	Niedersachsen	1	Heideregion Uelzen
-Bonn	Nordrhein-Westfalen	4	Bonn & Rhein-Sieg-Kreis
-Winterberg	Nordrhein-Westfalen	54	Sauerland/ Nordrhein-Westfalen
-Jungfrau Ski Region M├╝rren - Schilthorn	Berner Oberland	4	Berner Oberland
-Wiriehorn / Diemtigtal	Berner Oberland	4	Berner Oberland
-Volkach	Bayern	1	Fr├ñnkisches Weinland
-Zwiesel - Skilift Glasberg	Bayern	2	Bayern
-Witzenhausen	Hessen	2	Geo-Naturpark Frau-Holle-Land
-K├╝hlungsborn	Mecklenburg-Vorpommern	2	Ostseek├╝ste Mecklenburg
-Grandvalira / Pas de la Casa - Grau Roig - Soldeu - El Tarter	Andorra	9	Andorra
-Kor─ìula	Dalmatien - Dubrovnik	2	Insel Kor─ìula
-Skilift Halblech	Bayern	1	Bayern
-Oedberglifte - Gmund am Tegernsee	Bayern	1	Bayern
-Nauders	Tirol	26	Tirol
-W├Ârgl	Tirol	2	Ferienregion Hohe Salve
-Innsbruck	Tirol	26	Innsbruck und seine Feriend├Ârfer
-Katzenkopf Leutasch	Tirol	4	Tirol
-Filzmoos - Ski amade	Salzburger Land	8	Salzburger Land
-Partschins - Rabland - T├Âll	S├╝dtirol	4	Meran und Umgebung
-Selva di Cadore	Venetien	5	Area Civetta 
-Aosta	Aostatal	9	Aosta und Umgebung
-Scopello - Alpe di Mera / Monterosa	Piemont	0	Piemont
-Carosello 3000/ Livigno	Lombardei	5	Lombardei
-Javornik	Gori┼íka	3	Gori┼íka
-La Tania / Les 3 Vall├®es	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Walchsee	Tirol	8	Kaiserwinkl
-Heiden	Ostschweiz	1	Appenzell Ausserrhoden
-Les Mar├®cottes	Wallis	1	Wallis
-Kleinwalsertal	Vorarlberg	28	Vorarlberg
-Hochlitten Riefensberg	Vorarlberg	1	Vorarlberg
-Lesachtal	K├ñrnten	12	Nassfeld - Pressegger See / Lesachtal...
-Passo San Pellegrino - Falcade / Trevalli	Trentino	20	Trentino
-Notre Dame de Bellecombe - Espace Diamant	Auvergne-Rh├┤ne-Alpes	4	Auvergne-Rh├┤ne-Alpes
-La Sambuy	Auvergne-Rh├┤ne-Alpes	1	Auvergne-Rh├┤ne-Alpes
-Risoul - La F├┤ret Blanche	Provence-Alpes-C├┤te dÔÇÖAzur	2	Provence-Alpes-C├┤te dÔÇÖAzur
-Tisno	Dalmatien - ┼áibenik	1	Insel Murter
-Delnice	Kvarner	1	Kvarner
-Iberg	Bayern	0	Bayern
-Eiterfeld	Hessen	2	Hessisches Kegelspiel
-Skilift Treisberg / Pferdskopf	Hessen	1	Hessen
-Wismar	Mecklenburg-Vorpommern	0	Ostseek├╝ste Mecklenburg
-K├Âln	Nordrhein-Westfalen	6	K├Âln & Rhein-Erft-Kreis
-G├╝tersloh	Nordrhein-Westfalen	0	Teutoburger Wald
-B├ñretswil	Z├╝rich & Z├╝rich Region	4	Z├╝rcher Oberland
 Goldingen - Atzm├ñnnig	Ostschweiz	2	Goldingertal
 Prettau	S├╝dtirol	1	Ahrntal
 Lignano Sabbiadoro	Friaul-Julisch Venetien	4	Lignano / Lignano Sabbiadoro
 Sondrio	Lombardei	1	Sondrio Valmalenco
-Campitello - Col Rodella / Val di Fassa	Trentino	5	Trentino
-Madonna di Campiglio / Dolomiti di Brenta	Trentino	23	Trentino
 Zre─ìe	Savinjska	5	Savinjska
-Valmorel - Le Grand Domaine	Auvergne-Rh├┤ne-Alpes	3	Auvergne-Rh├┤ne-Alpes
-Haute-Corse	Korsika	1	Korsika
-Cr├®voux	Provence-Alpes-C├┤te dÔÇÖAzur	1	Provence-Alpes-C├┤te dÔÇÖAzur
-Ameland	Friesland	2	Westfriesische Inseln / Waddeneilanden
 Antwerpen	Fl├ñmische Region	1	Flandern
 Mal├í ├Üpa	Region K├Âniggr├ñtz	4	Region K├Âniggr├ñtz
 Py┼ín├í	Region ├Üst├¡	2	Region ├Üst├¡
@@ -3192,7 +3237,6 @@ Wermelskirchen	Nordrhein-Westfalen	1	Bergisches Land
 Sover	Trentino	1	Altopiano di Pin├® e Valle di Cembra
 Tux	Tirol	7	Tux - Finkenberg
 Telfs	Tirol	2	Mieminger Plateau & Inntal
-Arriach	K├ñrnten	1	Region Villach - Faaker See...
 Lung├Âtz	Salzburger Land	0	<missing>
 Feldkirchen	K├ñrnten	1	Nockberge
 Passail	Steiermark	1	Naturpark Almenland Teichalm - Sommeralm
@@ -3204,40 +3248,35 @@ Pill	Tirol	4	Silberregion Karwendel
 Gerlos - Zillertal Arena	Tirol	4	Tirol
 Westendorf	Tirol	6	Kitzb├╝heler Alpen - Brixental
 Going	Tirol	2	Wilder Kaiser
-St. Cergue	Waadtland / Genferseegebiet	3	Waadtland / Genferseegebiet
 Vent	Tirol	7	├ûtztal
-Kirchberg in Tirol	Tirol	3	Kitzb├╝heler Alpen - Brixental
-Kolm Saigurn	Salzburger Land	3	Nationalpark Hohe Tauern
-Adnet	Salzburger Land	3	Tennengau - Dachstein West
-Ramingstein - Karneralm	Salzburger Land	2	Lungau - Ferienregion
-M├╝rren - Schilthorn	Berner Oberland	4	Jungfrau Region
-Mouthe	Burgund-Freigrafschaft	1	Burgund-Freigrafschaft
-Emmetten	Luzern - Vierwaldst├ñttersee	3	Luzern - Vierwaldst├ñttersee
-Celle	Niedersachsen	2	L├╝neburger Heide
-N├╝rnberg	Bayern	6	St├ñdteregion N├╝rnberg
-Haut Asco	Korsika	1	Korsika
-Ventron	Grand Est	0	Grand Est
-Hohenpei├ƒenberg	Bayern	1	Pfaffenwinkel
-G├╝nzburg	Bayern	1	Bayerisch-Schwaben
-Landshut	Bayern	1	<missing>
-Lipno	S├╝db├Âhmische Region	12	S├╝db├Âhmische Region
-Predigtstuhl / Bad Reichenhall	Bayern	31	Bayern
-Hofsgrund Schauinsland	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Krummennaab	Bayern	1	Naturpark Steinwald
-Vracl├ívek	M├ñhren-Schlesien	0	M├ñhren-Schlesien
-Simonswald	Baden-W├╝rttemberg	1	Elztal & Simonsw├ñldertal
-Benecko	Region Reichenberg	1	Region Reichenberg
-Karlstadt	Bayern	0	Fr├ñnkisches Weinland
-Sitten	Wallis	0	Unterwallis
-Vercorin	Wallis	2	Sierre Anniviers
-B├╝rchen	Wallis	2	Moosalpregion
-Friedberg	Bayern	0	Bayerisch-Schwaben
-Pany	Graub├╝nden	4	Graub├╝nden
-Amden	Ostschweiz	2	Ostschweiz
-Schwangau	Bayern	1	Ostallg├ñu
-Tutzing	Bayern	2	Starnberger F├╝nf-Seen-Land
-Skilifte Furx	Vorarlberg	0	Vorarlberg
+Jezersko	Gorenjska	4	Gorenjska
 Kematen	S├╝dtirol	1	Ahrntal
+Eibenstock	Sachsen	2	Sachsen
+Gu├ƒwerk	Steiermark	1	Mariazeller Land
+Erfurt	Th├╝ringen	2	Th├╝ringen
+Skilift B├Âttingen	Baden-W├╝rttemberg	2	Baden-W├╝rttemberg
+Schwannerlift Weerberg	Tirol	1	Tirol
+Radstadt	Salzburger Land	10	Salzburger Sportwelt
+Triest und Karst	Friaul-Julisch Venetien	2	Friaul-Julisch Venetien
+Kr├íliky	Neusohler Landschaftsverband	1	Neusohler Landschaftsverband
+┼áibenik	Dalmatien - ┼áibenik	2	Dalmatien - ┼áibenik
+Zauberberg Semmering - Hirschenkogel	Nieder├Âsterreich	6	Nieder├Âsterreich
+Gars am Kamp	Nieder├Âsterreich	2	Kamptal - Manhartsberg
+Latsch - Martelltal	S├╝dtirol	5	Vinschgau
+Formigal	Aragonien	5	<missing>
+Luchon-Superbagn├¿res	Okzitanien	2	Okzitanien
+Perchtoldsdorf	Nieder├Âsterreich	1	Wienerwald
+Assling	Tirol	1	Lienzer Dolomiten - Osttirol
+Innerthal - Vorderthal	Luzern - Vierwaldst├ñttersee	0	W├ñgital
+Ahornach	S├╝dtirol	1	Ahrntal
+Ofterschwang / H├Ârnerd├Ârfer	Bayern	4	Oberallg├ñu
+Kastelruth	S├╝dtirol	4	Seiser Alm
+Ratschings	S├╝dtirol	8	Eisacktal
+Kreuth	Bayern	3	Alpenregion Tegernsee - Schliersee
+Haibach-Elisabethszell	Bayern	1	Sankt Englmar
+Le Tanet	Grand Est	0	Grand Est
+Venetien	Marken	0	<missing>
+Belalp	Wallis	6	Wallis
 Les Diablerets	Waadtland / Genferseegebiet	9	Alpes Vaudoises
 Bumbach - Schangnau	Bern & Region Bern	1	Bern & Region Bern
 Biel-Kinzig	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
@@ -3260,6 +3299,35 @@ Piancavallo	Friaul-Julisch Venetien	6	Piancavallo / Friauler Dolomiten
 Ayas - Champoluc - Antagnod	Aostatal	7	Monte Rosa
 Dravograd	Koro┼íka - slowenisches K├ñrnten	1	Koro┼íka
 Morzine - Avoriaz / Portes du Soleil	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
+Weyregg am Attersee	Ober├Âsterreich	6	Attersee - Attergau
+Schmalkalden - Th├╝ringer Wald	Th├╝ringen	3	<missing>
+Ski centrum K├ílnica	Trentschiner Landschaftsverband	0	<missing>
+Sch├Ânau im M├╝hlkreis	Ober├Âsterreich	2	M├╝hlviertler Alm Freistadt
+Spital am Pyhrn - Wurzeralm	Ober├Âsterreich	17	Urlaubsregion Pyhrn - Priel
+Podersdorf	Burgenland	4	Neusiedler See
+Absam	Tirol	1	Ferienregion Hall - Wattens
+Sauris	Friaul-Julisch Venetien	1	Carnia
+Finkenberg	Tirol	1	Tux - Finkenberg
+Tarrenz	Tirol	1	Outdoorregion Imst
+Fu├ƒach	Vorarlberg	1	Bodensee - Vorarlberg
+L├╝ - Val M├╝stair	Graub├╝nden	0	Engadin Val M├╝stair
+Regio Frauenfeld	Ostschweiz	1	Thurgau Bodensee
+Rorschach	Ostschweiz	2	St. Gallen und Umgebung
+Esslingen am Neckar	Baden-W├╝rttemberg	1	Region Stuttgart
+Cerklje na Gorenjskem	Gorenjska	4	Cerklje na Gorenjskem / Gorenjska
+Tr┼¥i─ì	Gorenjska	6	Gorenjska
+Vogel	Gorenjska	4	Gorenjska
+Bled	Gorenjska	2	Gorenjska
+Stra┼¥a Bled	Gorenjska	1	Gorenjska
+Rudno	Gorenjska	1	Gorenjska
+Sori┼íka planina	Gorenjska	4	Gorenjska
+Pokljuka - Goreljek	Gorenjska	1	Gorenjska
+Kranjska Gora	Gorenjska	10	Gorenjska
+Krvavec	Gorenjska	5	Gorenjska
+Bukovnik	Koro┼íka	1	Koro┼íka
+Asti	Piemont	1	Asti und Umgebung
+Dachau	Bayern	1	<missing>
+L├Âtschental	Wallis	16	Oberwallis
 Arabba	Venetien	8	Arabba - Marmolada
 Chioggia	Venetien	2	Venezia
 Gardasee	Venetien	6	Verona
@@ -3283,29 +3351,18 @@ Rh├¬mes Notre Dame	Aostatal	1	Gran Paradiso / Grand Paradis
 Champorcher / Monterosa	Aostatal	1	Aostatal
 Breuil - Cervinia	Aostatal	3	Aostatal
 Eschwege	Hessen	1	Geo-Naturpark Frau-Holle-Land
-Finkenberg	Tirol	1	Tux - Finkenberg
-Tarrenz	Tirol	1	Outdoorregion Imst
-Fu├ƒach	Vorarlberg	1	Bodensee - Vorarlberg
-L├╝ - Val M├╝stair	Graub├╝nden	0	Engadin Val M├╝stair
-Regio Frauenfeld	Ostschweiz	1	Thurgau Bodensee
-Rorschach	Ostschweiz	2	St. Gallen und Umgebung
-Esslingen am Neckar	Baden-W├╝rttemberg	1	Region Stuttgart
-Cerklje na Gorenjskem	Gorenjska	4	Cerklje na Gorenjskem / Gorenjska
-Tr┼¥i─ì	Gorenjska	6	Gorenjska
-Vogel	Gorenjska	4	Gorenjska
-Bled	Gorenjska	2	Gorenjska
-Stra┼¥a Bled	Gorenjska	1	Gorenjska
-Rudno	Gorenjska	1	Gorenjska
-Sori┼íka planina	Gorenjska	4	Gorenjska
-Pokljuka - Goreljek	Gorenjska	1	Gorenjska
-Kranjska Gora	Gorenjska	10	Gorenjska
-Krvavec	Gorenjska	5	Gorenjska
-Bukovnik	Koro┼íka	1	Koro┼íka
-Ribni┼íko Pohorje	Koro┼íka	1	Koro┼íka
 Elsfleth	Niedersachsen	1	Niedersachsen
+Sandl - Viehberg	Ober├Âsterreich	2	Ober├Âsterreich
 Bad K├Ânigshofen im Grabfeld	Bayern	1	Ha├ƒberge
+Skisportzentrum Sternrodt Bruchhausen a. d. Steinen / Olsberg	Nordrhein-Westfalen	1	Nordrhein-Westfalen
 Skilift Pfulb	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
 St. Georgen am L├ñngsee	K├ñrnten	1	Mittelk├ñrnten
+Skiarena Silbersattel	Th├╝ringen	4	Th├╝ringen
+Snow Paradise Ve─¥k├í Ra─ìa	Silleiner Landschaftsverband	1	Silleiner Landschaftsverband
+Samobor	Zagreb	2	Region Zagreb
+Meran	S├╝dtirol	11	Meran und Umgebung
+Jochgrimm	S├╝dtirol	4	S├╝dtirol
+St. Lorenzen	S├╝dtirol	1	Kronplatz - Dolomiten
 Prutz	Tirol	1	Tiroler Oberland
 Oberw├Âlz	Steiermark	0	<missing>
 Badia	S├╝dtirol	16	Alta Badia
@@ -3328,36 +3385,7 @@ Breitenau am Hochlantsch	Steiermark	1	Naturpark Almenland Teichalm - Sommeralm
 Steirisches Zirbenland	Steiermark	3	Murau-Murtal
 Hauereck St. Kathrein am Hauenstein	Steiermark	1	Steiermark
 Rohrmoos	Steiermark	6	Schladming-Rohrmoos-Pichl
-Miesenbach - Wiesenhofer	Steiermark	1	Steiermark
-Familienschiberg St. Jakob im Walde	Steiermark	7	Steiermark
-Dachstein Gletscher Schladming Ramsau - Ski amade	Steiermark	3	Steiermark
-Wald am Schoberpass	Steiermark	0	Erzberg Land
-Rettenegg	Steiermark	1	Joglland - Waldheimat
 Morbach	Rheinland-Pfalz	1	Hunsr├╝ck
-Loipersdorf	Steiermark	1	Loipersdorf bei F├╝rstenfeld
-St. Peter am Ottersbach	Steiermark	1	Radkersburger Teich- und H├╝gelland
-Heiligenkreuz am Waasen	Steiermark	1	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
-Sommeralm - Pirstingerkogellift	Steiermark	2	Steiermark
-Gu├ƒwerk	Steiermark	1	Mariazeller Land
-Leibnitz	Steiermark	2	S├╝dsteiermark - S├╝dsteirische Weinstra├ƒe
-M├Ânichwald / Hochwechsellifte - Joglland	Steiermark	4	Steiermark
-Kapfenberg	Steiermark	1	Bruck - Kapfenberg
-St. Oswald-M├Âderbrugg	Steiermark	0	P├Âlstal
-Asti	Piemont	1	Asti und Umgebung
-Alagna Valsesia	Piemont	2	Vercelli und Umgebung
-Pragelato / Via Lattea	Piemont	1	Piemont
-Domobianca - Moncucco	Piemont	1	Piemont
-Mottarone	Piemont	2	Piemont
-Craveggia - Piana di Vigezzo	Piemont	3	Piemont
-Armeno	Piemont	1	Lago d┬┤Orta
-Sestriere / Via Lattea	Piemont	4	Piemont
-Macugnaga	Piemont	1	Piemont
-Alpe Devero	Piemont	1	Piemont
-San Domenico	Piemont	3	Lago Maggiore - Lago Mergozzo...
-Argentera	Piemont	1	Piemont
-Limone Piemonte / Riserva Bianca	Piemont	7	Piemont
-Bardonecchia	Piemont	5	Susatal und Val Chisone
-Pokljuka - Vi┼íevnik	Gorenjska	4	Gorenjska
 Corno alle Scale	Emilia-Romagna	4	Emilia-Romagna
 St. Ulrich bei Steyr	Ober├Âsterreich	1	Steyr und die Nationalpark Region
 Nienburg/Weser	Niedersachsen	2	Mittelweser
@@ -3432,23 +3460,7 @@ Bernex	Auvergne-Rh├┤ne-Alpes	2	Auvergne-Rh├┤ne-Alpes
 Gr├ñchen - St. Niklaus	Wallis	11	Mattertal
 Pontresina	Graub├╝nden	6	Engadin St. Moritz
 Junker - St. Ant├Ânien	Graub├╝nden	3	Graub├╝nden
-Brunni-Bahnen Engelberg	Luzern - Vierwaldst├ñttersee	1	Luzern - Vierwaldst├ñttersee
 Bisisthal	Luzern - Vierwaldst├ñttersee	0	Stoos-Muotatal
-Langis Glaubenberg	Luzern - Vierwaldst├ñttersee	2	Luzern - Vierwaldst├ñttersee
-Oberjoch Bad Hindelang	Bayern	16	Bayern
-Wildmoos-Lift - Oberau / Berchtesgadener Land	Bayern	1	Bayern
-Lohr am Main	Bayern	1	Spessart-Mainland / Bayern
-Mauth	Bayern	1	Freyung-Grafenau
-Traunreut	Bayern	2	Chiemgau - Chiemsee
-Lorch am Rhein	Hessen	1	Rheingau
-Tann / Rh├Ân	Hessen	1	Rh├Ân / Hessen
-Skizentrum Simmelsberg - Skiclub Hanau	Hessen	2	Hessen
-Dresden	Sachsen	4	Dresden Elbland
-Simmern-Rheinb├Âllen	Rheinland-Pfalz	0	Hunsr├╝ck
-Stuttgart	Baden-W├╝rttemberg	10	Region Stuttgart
-Feldberg im Schwarzwald	Baden-W├╝rttemberg	13	Hochschwarzwald
-Skilift Thurner	Baden-W├╝rttemberg	1	Baden-W├╝rttemberg
-Kurtatsch - Margreid - Kurtinig	S├╝dtirol	1	Bozen und Umgebung - S├╝dtirols S├╝den
 \.
 
 
@@ -3457,130 +3469,134 @@ Kurtatsch - Margreid - Kurtinig	S├╝dtirol	1	Bozen und Umgebung - S├╝dtir
 --
 
 COPY webcams.regions (name, country, locations) FROM stdin;
-Kalifornien	Vereinigte Staaten von Amerika	1
-Ancash	Peru	1
-Venetien	Italien	46
-Tirol	├ûsterreich	268
-Salzburger Land	├ûsterreich	116
-Steiermark	├ûsterreich	181
-K├ñrnten	├ûsterreich	113
-Ober├Âsterreich	├ûsterreich	148
-Nieder├Âsterreich	├ûsterreich	124
-Burgenland	├ûsterreich	14
-Wien	├ûsterreich	1
-Gori┼íka - Smaragdstra├ƒe	Slowenien	7
-Adria K├╝ste / Karst Region	Slowenien	5
-Posavska	Slowenien	1
-Provence-Alpes-C├┤te dÔÇÖAzur	Frankreich	25
-Auvergne-Rh├┤ne-Alpes	Frankreich	102
-Burgund-Freigrafschaft	Frankreich	15
-Grand Est	Frankreich	12
-Okzitanien	Frankreich	8
-Korsika	Frankreich	3
-Hessen	Deutschland	51
-Rheinland-Pfalz	Deutschland	31
-Vorarlberg	├ûsterreich	94
-Sachsen-Anhalt	Deutschland	18
-Brandenburg	Deutschland	7
-Schleswig-Holstein	Deutschland	28
-Saarland	Deutschland	1
-Mecklenburg-Vorpommern	Deutschland	21
-Bremen	Deutschland	2
-Berlin	Deutschland	1
-Hamburg	Deutschland	1
-Abruzzen	Italien	5
-Latium	Italien	2
-Ligurien	Italien	5
-Zentralslowenien	Slowenien	5
-Gorenjska	Slowenien	15
-Gori┼íka	Slowenien	4
-Pomurska	Slowenien	1
-Piemont	Italien	25
-Lombardei	Italien	44
-Emilia-Romagna	Italien	5
-S├╝dholland	Niederlande	4
-Limburg	Niederlande	1
-Nordholland	Niederlande	3
-Friesland	Niederlande	2
-Zeeland	Niederlande	4
-Bayern	Deutschland	353
-Baden-W├╝rttemberg	Deutschland	185
-Sardinien	Italien	1
-Podravska	Slowenien	6
-Koro┼íka	Slowenien	4
-Savinjska	Slowenien	7
-S├╝dostslowenien	Slowenien	4
-Koro┼íka - slowenisches K├ñrnten	Slowenien	5
-Tunu (Ostgr├Ânland)	Gr├Ânland	1
-K├╝stenland-Innerkrain	Slowenien	1
-Graub├╝nden	Schweiz	89
-Wallis	Schweiz	75
-Berner Oberland	Schweiz	52
-Luzern - Vierwaldst├ñttersee	Schweiz	60
-Ostschweiz	Schweiz	72
-Z├╝rich & Z├╝rich Region	Schweiz	13
-Aargau	Schweiz	5
-Jura & Drei-Seen-Land	Schweiz	11
-Tessin	Schweiz	22
-Freiburg Region	Schweiz	12
-Waadtland / Genferseegebiet	Schweiz	19
-Bern & Region Bern	Schweiz	11
-Aragonien	Spanien	7
-Asturien	Spanien	1
-Kastilien und Le├│n	Spanien	4
-Katalonien	Spanien	7
-La Rioja	Spanien	1
-Andorra	Spanien	5
-Balearen	Spanien	1
-Kvarner	Kroatien	13
-Niedersachsen	Deutschland	72
-Th├╝ringen	Deutschland	44
-Nordrhein-Westfalen	Deutschland	98
-Toskana	Italien	5
-Marken	Italien	2
-Wallonische Region	Belgien	2
-Fl├ñmische Region	Belgien	16
-Region Br├╝ssel - Hauptstadt	Belgien	1
-Mittelb├Âhmische Region	Tschechien	1
-Region Olm├╝tz	Tschechien	7
-M├ñhren-Schlesien	Tschechien	8
-Region Zlin	Tschechien	4
-S├╝dm├ñhrische Region	Tschechien	2
-Region Vyso─ìina	Tschechien	12
-Region Pardubice	Tschechien	2
-Region K├Âniggr├ñtz	Tschechien	11
-Region Reichenberg	Tschechien	14
-Region ├Üst├¡	Tschechien	5
-Region Karlsbad	Tschechien	6
-S├╝db├Âhmische Region	Tschechien	4
-Region Pilsen	Tschechien	2
-Region Prag	Tschechien	1
-Bratislavaer Landschaftsverband	Slowakei	1
-Trentschiner Landschaftsverband	Slowakei	1
-Silleiner Landschaftsverband	Slowakei	14
-Neusohler Landschaftsverband	Slowakei	6
-Eperieser Landschaftsverband	Slowakei	9
-Kaschauer Landschaftsverband	Slowakei	2
-Andalusien	Spanien	1
-Zagreb	Kroatien	3
-Istrien	Kroatien	8
-Lika - Karlovac	Kroatien	3
-Dalmatien - Zadar	Kroatien	11
-Dalmatien - ┼áibenik	Kroatien	7
-Dalmatien - Split	Kroatien	6
-Dalmatien - Dubrovnik	Kroatien	3
-Mittelkroatien	Kroatien	2
-Slawonien	Kroatien	1
-Republika Srpska	Bosnien Herzegowina	2
-F├Âderation Bosnien und Herzegowina	Bosnien Herzegowina	4
-Liechtenstein - Oberland	Liechtenstein	1
-Sachsen	Deutschland	31
-Liechtenstein - Unterland	Liechtenstein	1
-Basel Region	Schweiz	3
-S├╝dtirol	Italien	149
-Trentino	Italien	53
-Aostatal	Italien	37
-Friaul-Julisch Venetien	Italien	18
+Kleinpolen	polska	7
+Karpatenvorland	polska	1
+Kalifornien	usa	1
+Ancash	peru	1
+Venetien	italien	46
+Tirol	oesterreich	268
+Salzburger Land	oesterreich	116
+Steiermark	oesterreich	181
+K├ñrnten	oesterreich	113
+Ober├Âsterreich	oesterreich	148
+Nieder├Âsterreich	oesterreich	124
+Burgenland	oesterreich	14
+Wien	oesterreich	1
+Gori┼íka - Smaragdstra├ƒe	slovenia	7
+Adria K├╝ste / Karst Region	slovenia	5
+Posavska	slovenia	1
+Provence-Alpes-C├┤te dÔÇÖAzur	frankreich	25
+Auvergne-Rh├┤ne-Alpes	frankreich	104
+Burgund-Freigrafschaft	frankreich	15
+Grand Est	frankreich	12
+Okzitanien	frankreich	8
+Korsika	frankreich	3
+Hessen	deutschland	51
+Rheinland-Pfalz	deutschland	31
+Vorarlberg	oesterreich	94
+Sachsen-Anhalt	deutschland	18
+Brandenburg	deutschland	7
+Schleswig-Holstein	deutschland	28
+Saarland	deutschland	1
+Mecklenburg-Vorpommern	deutschland	21
+Bremen	deutschland	2
+Berlin	deutschland	1
+Hamburg	deutschland	1
+Abruzzen	italien	5
+Latium	italien	2
+Ligurien	italien	5
+Zentralslowenien	slovenia	5
+Gorenjska	slovenia	17
+Gori┼íka	slovenia	4
+Pomurska	slovenia	1
+Piemont	italien	25
+Lombardei	italien	44
+Emilia-Romagna	italien	5
+S├╝dholland	nederland	4
+Limburg	nederland	1
+Nordholland	nederland	3
+Friesland	nederland	2
+Zeeland	nederland	4
+Bayern	deutschland	353
+Baden-W├╝rttemberg	deutschland	185
+Sardinien	italien	1
+Podravska	slovenia	6
+Koro┼íka	slovenia	4
+Savinjska	slovenia	7
+S├╝dostslowenien	slovenia	4
+Schlesien	polska	1
+Koro┼íka - slowenisches K├ñrnten	slovenia	5
+Tunu (Ostgr├Ânland)	greenland	1
+K├╝stenland-Innerkrain	slovenia	1
+Graub├╝nden	schweiz	89
+Wallis	schweiz	75
+Berner Oberland	schweiz	52
+Luzern - Vierwaldst├ñttersee	schweiz	60
+Ostschweiz	schweiz	72
+Z├╝rich & Z├╝rich Region	schweiz	13
+Aargau	schweiz	5
+Jura & Drei-Seen-Land	schweiz	11
+Tessin	schweiz	22
+Freiburg Region	schweiz	12
+Waadtland / Genferseegebiet	schweiz	19
+Bern & Region Bern	schweiz	11
+Aragonien	spanien	7
+Asturien	spanien	1
+Kastilien und Le├│n	spanien	4
+Katalonien	spanien	7
+La Rioja	spanien	1
+Andorra	spanien	5
+Balearen	spanien	1
+Kvarner	kroatien	14
+Niedersachsen	deutschland	72
+Th├╝ringen	deutschland	44
+Nordrhein-Westfalen	deutschland	98
+Toskana	italien	5
+Marken	italien	2
+Wallonische Region	belgie	2
+Fl├ñmische Region	belgie	16
+Region Br├╝ssel - Hauptstadt	belgie	1
+Mittelb├Âhmische Region	czechia	1
+Region Olm├╝tz	czechia	7
+M├ñhren-Schlesien	czechia	8
+Region Zlin	czechia	4
+S├╝dm├ñhrische Region	czechia	2
+Region Vyso─ìina	czechia	12
+Region Pardubice	czechia	2
+Region K├Âniggr├ñtz	czechia	11
+Region Reichenberg	czechia	14
+Region ├Üst├¡	czechia	5
+Region Karlsbad	czechia	6
+S├╝db├Âhmische Region	czechia	4
+Region Pilsen	czechia	2
+Region Prag	czechia	1
+Bratislavaer Landschaftsverband	slovakia	1
+Trentschiner Landschaftsverband	slovakia	1
+Silleiner Landschaftsverband	slovakia	14
+Neusohler Landschaftsverband	slovakia	6
+Eperieser Landschaftsverband	slovakia	9
+Kaschauer Landschaftsverband	slovakia	2
+Andalusien	spanien	1
+Niederschlesien	polska	2
+Zagreb	kroatien	3
+Istrien	kroatien	8
+Lika - Karlovac	kroatien	3
+Dalmatien - Zadar	kroatien	11
+Dalmatien - ┼áibenik	kroatien	7
+Dalmatien - Split	kroatien	7
+Dalmatien - Dubrovnik	kroatien	3
+Mittelkroatien	kroatien	2
+Slawonien	kroatien	1
+Republika Srpska	bosnien-herzegowina	2
+F├Âderation Bosnien und Herzegowina	bosnien-herzegowina	4
+Liechtenstein - Oberland	liechtenstein	1
+Sachsen	deutschland	31
+Liechtenstein - Unterland	liechtenstein	1
+Basel Region	schweiz	3
+S├╝dtirol	italien	149
+Trentino	italien	53
+Aostatal	italien	37
+Friaul-Julisch Venetien	italien	19
 \.
 
 
@@ -4376,6 +4392,10 @@ F├Âderation Bosnien und Herzegowina	F├Âderation Bosnien und Herzegowina
 G├Ârz / Collio	Friaul-Julisch Venetien
 Pont d`Arc Ard├¿che	Auvergne-Rh├┤ne-Alpes
 Insel Hvar	Dalmatien - Split
+Karpatenvorland	Karpatenvorland
+Schlesien	Schlesien
+Kleinpolen	Kleinpolen
+Niederschlesien	Niederschlesien
 \.
 
 
@@ -4428,6 +4448,7 @@ COPY webcams.webcams (camid, name, location, url, sealevel, viewdirection) FROM 
 16402	Portalet 2	Formigal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/16402/#yyyy/#mm/#dd/16402_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 17990	Zona Veleta - Panorama	Sierra Nevada / Pradollano	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/17990/#yyyy/#mm/#dd/17990_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	3.030 m	Panorama
 18003	Zona Borreguiles - Rebeco	Sierra Nevada / Pradollano	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18003/#yyyy/#mm/#dd/18003_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.700 m	Rebeco
+18779	F├ñhrehafen Meersburg	Meersburg	https://www.stadtwerke-konstanz.de/fileadmin/webcam/cam_vorplatz_meersburg.jpg	398 m	-
 11742	Pic de la Pala Ginebrell - POI 2	Boi-Ta├╝ll Resort	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/11742/#yyyy/#mm/#dd/11742_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 9826	Espot Esqui - Estaci├│ 2000 - Espot Cota 2000	Espot	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/9826/#yyyy/#mm/#dd/9826_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.000 m	Espot Cota 2000
 9824	Port Ain├® - Estaci├│	Port Ain├®	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9824/#yyyy/#mm/#dd/9824_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.948 m	-
@@ -4438,10 +4459,8 @@ COPY webcams.webcams (camid, name, location, url, sealevel, viewdirection) FROM 
 17995	Zona Borreguiles - Borreguiles	Sierra Nevada / Pradollano	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/17995/#yyyy/#mm/#dd/17995_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.700 m	Borreguiles
 13982	Camp Base - Cota 1.600	Sant Juli├á de L├▓ria	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13982/#yyyy/#mm/#dd/13982_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.600 m	-
 18023	Zona Laguna - Ol├¡mpica	Sierra Nevada / Pradollano	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18023/#yyyy/#mm/#dd/18023_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.700 m	Ol├¡mpica
-18779	F├ñhrehafen Meersburg	Meersburg	<missing>	398 m	-
 19183	Veltins EisArena Winterberg	Sauerland/ Nordrhein-Westfalen	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19183/#yyyy/#mm/#dd/19183_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	665 m	-
 6881	Pi de Migdia - Sector El Tarter - Hot 2	Grandvalira / Pas de la Casa - Grau Roig - Soldeu - El Tarter	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/6881/#yyyy/#mm/#dd/6881_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.100 m	Hot 2
-10422	Bed┼Öichov - Malinovka 1	Bed┼Öichov / Jizerky	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/10422/#yyyy/#mm/#dd/10422_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 12092	Alpbachtal Funslope Wiedersbergerhorn	Alpbachtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/12092/#yyyy/#mm/#dd/12092_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.640 m	-
 19156	Braunau Kirchturm - Blick auf das Krankenhaus vom Braunauer Kirchturm	Braunau am Inn	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19156/#yyyy/#mm/#dd/19156_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	350 m	Blick auf das Krankenhaus vom Braunauer Kirchturm
 9646	La Molina - Tubbing - Tubbing y Cinta Johann Cruyff.	La Molina / Alp 2500	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/9646/#yyyy/#mm/#dd/9646_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Tubbing y Cinta Johann Cruyff.
@@ -4676,9 +4695,9 @@ maibrunn	Bad Kleinkirchheim - Maibrunn Berg - Blick auf Sonnenhang. [UHD]	Bad Kl
 15322	Aineck Mittelstation - karabfahrt	Katschberg - Rennweg	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15322/#yyyy/#mm/#dd/15322_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.520 m	karabfahrt
 4942	Sport Schiffer - Innerkrems	Innerkrems	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/4942/#yyyy/#mm/#dd/4942_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 7076	Katschbergh├Âhe Aineck 2	Katschberg - Rennweg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/7076/#yyyy/#mm/#dd/7076_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.850 m	-
-9398	St. Markuskirche - POI 1	Wolfsberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/9398/#yyyy/#mm/#dd/9398_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	490 m	POI 1
 13847	Bergbahnen Turracher H├Âhe - Turracher H├Âhe Eisenhut	Turracher H├Âhe	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/13847/#yyyy/#mm/#dd/13847_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.050 m	Turracher H├Âhe Eisenhut
 17752	Rossatz / Blick D├╝rnstein 3	Rossatz-Arnsdorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/17752/#yyyy/#mm/#dd/17752_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	245 m	Vogelbergsteig D├╝rnstein
+9398	St. Markuskirche - POI	Wolfsberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/9398/#yyyy/#mm/#dd/9398_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	490 m	POI 1
 9401	St. Markuskirche - POI 4	Wolfsberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/9401/#yyyy/#mm/#dd/9401_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	490 m	POI 4
 16625	Zentrum Katschbergh├Âhe - POI 4	Katschberg - Rennweg	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/16625/#yyyy/#mm/#dd/16625_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.670 m	POI 4
 2945	Pl├Âckenpass	Nassfeld / Pressegger See	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/2945/#yyyy/#mm/#dd/2945_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.357 m	-
@@ -4837,7 +4856,6 @@ ritten	Oberinn - Berggasthof Pl├Ârr - Blick zu den Dolomiten [UHD]	Ritten - R
 15201	Postalm Zauberteppich - Blondeh├╝tte/Welserh├╝tte	Postalm	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/15201/#yyyy/#mm/#dd/15201_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.160 m	Blondeh├╝tte/Welserh├╝tte
 15204	Postalm Zauberteppich - 2er Lift	Postalm	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/15204/#yyyy/#mm/#dd/15204_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.160 m	2er Lift
 6988	Fanningberg - Bergstation 2	Mariapfarr	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/6988/#yyyy/#mm/#dd/6988_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.020 m	-
-13012	Waldalmbahn - POI 1	Raurisertal - Hochalmbahnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13012/#yyyy/#mm/#dd/13012_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.843 m	POI 1
 6989	Fanningberg - Bergstation 3	Mariapfarr	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/6989/#yyyy/#mm/#dd/6989_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.020 m	-
 15202	Postalm Zauberteppich - Lienbachhof	Postalm	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15202/#yyyy/#mm/#dd/15202_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.160 m	Lienbachhof
 10690	Rauris Tal	Raurisertal - Hochalmbahnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/10690/#yyyy/#mm/#dd/10690_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	940 m	-
@@ -4863,6 +4881,7 @@ ritten	Oberinn - Berggasthof Pl├Ârr - Blick zu den Dolomiten [UHD]	Ritten - R
 6991	Fanningberg - Bergstation - Panorama	Mariapfarr	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/6991/#yyyy/#mm/#dd/6991_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.020 m	Panorama
 16646	Schlossalm Funslope	Bad Hofgastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16646/#yyyy/#mm/#dd/16646_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.962 m	-
 1552	Fanningberg - Bergstation	Mariapfarr	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/1552/#yyyy/#mm/#dd/1552_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.020 m	-
+13012	Waldalmbahn - POI	Raurisertal - Hochalmbahnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13012/#yyyy/#mm/#dd/13012_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.843 m	POI 1
 5723	Furtnerlifte Tal	Rohr im Gebirge	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/5723/#yyyy/#mm/#dd/5723_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 6824	Schlossalm - Weitmoser 2	Bad Hofgastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6824/#yyyy/#mm/#dd/6824_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 11329	Thumersbach	Schmitten - Zell am See	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/11329/#yyyy/#mm/#dd/11329_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	760 m	-
@@ -4914,9 +4933,9 @@ regensburg	OTH Regensburg [UHD]	Regensburg	http://othcam.oth-regensburg.de/webca
 7978	Golfplatz St. Michael - Hot 3	Gro├ƒeck - Speiereck - Mauterndorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/7978/#yyyy/#mm/#dd/7978_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.040 m	Hot 3
 1170	Jacklbauer/Fanningberg - Blick vom Jacklbauer/Fanningberg Richtung S├╝den (Zoom)	Mauterndorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/1170/#yyyy/#mm/#dd/1170_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.390 m	Blick vom Jacklbauer/Fanningberg Richtung S├╝den (Zoom)
 7905	Oberw├Âlz - Panorama	Oberw├Âlz - Lachtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7905/#yyyy/#mm/#dd/7905_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	940 m	Panorama
-7976	Golfplatz St. Michael - Hot 1	Gro├ƒeck - Speiereck - Mauterndorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/7976/#yyyy/#mm/#dd/7976_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.040 m	Hot 1
 schlosskammer	Maishofen - Schloss Kammer - Blick nach S├╝den [UHD]	Maishofen	https://www.foto-webcam.eu/webcam/schlosskammer/#yyyy/#mm/#dd/#hh#nn_hu.jpg	776 m	Blick nach S├╝den
 5464	Bergstation Almbahn II - Panorama	Lofer - Almenwelt Lofer	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/5464/#yyyy/#mm/#dd/5464_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.384 m	Panorama
+7976	Golfplatz St. Michael - Hot	Gro├ƒeck - Speiereck - Mauterndorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/7976/#yyyy/#mm/#dd/7976_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.040 m	Hot 1
 18048	Unken - Ortszentrum Unken	Unken - Heutal	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/18048/#yyyy/#mm/#dd/18048_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	654 m	Ortszentrum Unken
 13369	Gr├╝negg Alm & Edelbrennerei	Dienten am Hochk├Ânig	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/13369/#yyyy/#mm/#dd/13369_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.190 m	-
 luisenplatz	Luisenplatz [UHD]	Darmstadt	https://www.foto-webcam.eu/webcam/luisenplatz/#yyyy/#mm/#dd/#hh#nn_hu.jpg	146 m	-
@@ -4969,8 +4988,8 @@ luisenplatz	Luisenplatz [UHD]	Darmstadt	https://www.foto-webcam.eu/webcam/luisen
 13017	Waldalmbahn - POI 6	Rauris	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/13017/#yyyy/#mm/#dd/13017_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.843 m	POI 6
 5137	K├Ânigsleiten - M├ñrchenwald	Wald - K├Ânigsleiten	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/5137/#yyyy/#mm/#dd/5137_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.474 m	-
 15007	Velk├í ├Üpa - POI 2	Velk├í ├Üpa / ─îern├í hora - Pec	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/15007/#yyyy/#mm/#dd/15007_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	900 m	POI 2
-13012	Waldalmbahn - POI 1	Rauris	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13012/#yyyy/#mm/#dd/13012_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.843 m	POI 1
 13015	Waldalmbahn - POI 4	Rauris	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/13015/#yyyy/#mm/#dd/13015_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.843 m	POI 4
+13012	Waldalmbahn - POI	Rauris	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13012/#yyyy/#mm/#dd/13012_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.843 m	POI 1
 16311	Papageno Bergstation - Panorama	Filzmoos - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/16311/#yyyy/#mm/#dd/16311_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.595 m	Panorama
 47	Rossbrand	Filzmoos - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/47/#yyyy/#mm/#dd/47_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.590 m	-
 16310	Papageno Bergstation	Filzmoos - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/16310/#yyyy/#mm/#dd/16310_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.595 m	-
@@ -5009,12 +5028,12 @@ koerbersee	K├Ârbersee [UHD]	Warth - Schr├Âcken	https://www.foto-webcam.eu/
 6812	Snowpark Stubnerkogel 2	Bad Gastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/6812/#yyyy/#mm/#dd/6812_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.806 m	-
 18205	Schirla-Stubn	Krispl-Gai├ƒau	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/18205/#yyyy/#mm/#dd/18205_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	890 m	-
 538	Aberg - Bergstation	Maria Alm	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/538/#yyyy/#mm/#dd/538_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.900 m	-
-12826	Talstation Fulseck - POI 1	Dorfgastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/12826/#yyyy/#mm/#dd/12826_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	873 m	POI 1
 18	Fulseck	Dorfgastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/18/#yyyy/#mm/#dd/18_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.033 m	-
 46	Bergstation achterjet	Flachau	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/46/#yyyy/#mm/#dd/46_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.600 m	-
 12829	Talstation Fulseck - POI 4	Dorfgastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/12829/#yyyy/#mm/#dd/12829_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	873 m	POI 4
 15014	Natrun Bergstation	Maria Alm	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/15014/#yyyy/#mm/#dd/15014_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.168 m	-
 15002	Zinkenst├╝berl - Tiefblick auf Hallein und Richtung Salzburg.	Hallein D├╝rrnberg - Zinkenlifte	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15002/#yyyy/#mm/#dd/15002_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.315 m	Tiefblick auf Hallein und Richtung Salzburg.
+12826	Talstation Fulseck - POI	Dorfgastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/12826/#yyyy/#mm/#dd/12826_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	873 m	POI 1
 7140	Snowpark Stubnerkogel 5	Bad Gastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/7140/#yyyy/#mm/#dd/7140_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.806 m	-
 16613	Latschenalm 2	Krispl-Gai├ƒau	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/16613/#yyyy/#mm/#dd/16613_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.380 m	-
 33	Maria Alm - Hochmaisalm	Maria Alm	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/33/#yyyy/#mm/#dd/33_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.260 m	-
@@ -5112,8 +5131,8 @@ rudolfshuette	Rudolfsh├╝tte - Berghotel Rudolfsh├╝tte, Weissee Gletscher
 14472	Ebenau, am Sonnenhang	Ebenau	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/14472/#yyyy/#mm/#dd/14472_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 7085	Schloss Mirabell 3	Salzburg Stadt	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7085/#yyyy/#mm/#dd/7085_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	444 m	-
 3245	Fuschl am See / Hotel Mohrenwirt - Blick auf den Fuschlsee	Zw├Âlferhorn Seilbahn St. Gilgen	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/3245/#yyyy/#mm/#dd/3245_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	670 m	Blick auf den Fuschlsee
-7976	Golfplatz St. Michael - Hot 1	St. Michael im Lungau	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/7976/#yyyy/#mm/#dd/7976_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.040 m	Hot 1
 7850	Bischofshofen-Kreuzberg - Tennengebirge	Bischofshofen	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/7850/#yyyy/#mm/#dd/7850_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Tennengebirge
+7976	Golfplatz St. Michael - Hot	St. Michael im Lungau	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/7976/#yyyy/#mm/#dd/7976_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.040 m	Hot 1
 16622	Gut Aiderbichl Panorama: Standort Henndorf - provided by #panomax.com https://1125.panomax.com	Henndorf am Wallersee	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/16622/#yyyy/#mm/#dd/16622_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	655 m	provided by panomax.com
 523	Kaprun - Maiskogel	Kaprun - Kitzsteinhorn	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/523/#yyyy/#mm/#dd/523_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	870 m	-
 mooserboden	Mooserboden - Mooserboden-Stausee [UHD]	Kaprun - Kitzsteinhorn	https://www.foto-webcam.eu/webcam/mooserboden/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.036 m	Mooserboden-Stausee
@@ -5188,13 +5207,13 @@ sporthotel-kogler	Mittersill - Sporthotel Kogler [UHD]	Mittersill - Hollersbach 
 16334	St. Gotthard i. M.	St. Gotthard im M├╝hlkreis	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/16334/#yyyy/#mm/#dd/16334_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	455 m	-
 7893	UYC Mondsee - Schafberg (1.782m)	Innerschwand am Mondsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/7893/#yyyy/#mm/#dd/7893_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	481 m	Schafberg (1.782m)
 17117	Thomasroith 2	Ottnang am Hausruck	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/17117/#yyyy/#mm/#dd/17117_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	578 m	-
+6952	Hochficht Arena - POI	Schwarzenberg am B├Âhmerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/6952/#yyyy/#mm/#dd/6952_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	960 m	POI 1
 8527	St. Georgen am Walde - Schorschi Lift	St. Georgen am Walde	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/8527/#yyyy/#mm/#dd/8527_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	735 m	Schorschi Lift
 15906	Losenstein D├╝rnberg	Losenstein	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15906/#yyyy/#mm/#dd/15906_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	380 m	-
 15058	Waldzell	Waldzell	<missing>	650 m	-
 10552	St. Peter am Wimberg	St. Peter am Wimberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/10552/#yyyy/#mm/#dd/10552_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	668 m	-
 13317	St. Oswald bei Freistadt - Golf Club St. Oswald-Freistadt 2	St. Oswald bei Freistadt	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/13317/#yyyy/#mm/#dd/13317_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	660 m	Golf Club St. Oswald-Freistadt
 9426	Bergstation Wurzeralm 2 - Stubwies	Wurzeralm - Spital am Pyhrn	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/9426/#yyyy/#mm/#dd/9426_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.425 m	Stubwies
-6952	Hochficht Arena - POI 1	Schwarzenberg am B├Âhmerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/6952/#yyyy/#mm/#dd/6952_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	960 m	POI 1
 7506	Ottnang am Hausruck - Wolfsegg und Kalkalpen	Ottnang am Hausruck	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/7506/#yyyy/#mm/#dd/7506_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	554 m	Wolfsegg und Kalkalpen
 6953	Hochficht Arena - POI 2	Schwarzenberg am B├Âhmerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/6953/#yyyy/#mm/#dd/6953_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	960 m	POI 2
 4710	Kinderland - Ralf & Walter Sport	Schilifte Kirchschlag	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/4710/#yyyy/#mm/#dd/4710_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	860 m	Ralf & Walter Sport
@@ -5442,7 +5461,6 @@ sporthotel-kogler	Mittersill - Sporthotel Kogler [UHD]	Mittersill - Hollersbach 
 17909	Gaaler Lifte	Gaaler Lifte	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/17909/#yyyy/#mm/#dd/17909_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	935 m	-
 16588	Sulzberg Thal Riefenberg - Sulzberg	Sulzberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/16588/#yyyy/#mm/#dd/16588_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.000 m	Sulzberg
 11591	K├Âlblalm - Leobner	Ges├ñuse	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11591/#yyyy/#mm/#dd/11591_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	Leobner
-7615	Rohrmoos - Schladming / Goldenjet 1	Pichl-Reiteralm	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7615/#yyyy/#mm/#dd/7615_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	835 m	Schladming / Goldenjet 1
 16711	Trah├╝tten - Paraplui - Trah├╝tten	Deutschlandsberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/16711/#yyyy/#mm/#dd/16711_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.050 m	Trah├╝tten
 18231	Wiesenhofer Miesenbach - Miesenbach bei Birkfeld	Miesenbach bei Birkfeld	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/18231/#yyyy/#mm/#dd/18231_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	860 m	Miesenbach bei Birkfeld
 16588	Sulzberg Thal Riefenberg - Sulzberg	Bregenzerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/16588/#yyyy/#mm/#dd/16588_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.000 m	Sulzberg
@@ -5453,6 +5471,7 @@ sporthotel-kogler	Mittersill - Sporthotel Kogler [UHD]	Mittersill - Hollersbach 
 12460	Bergstation 6er-Sesselbahn	Pichl-Reiteralm	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/12460/#yyyy/#mm/#dd/12460_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.885 m	-
 13050	Reiteralm See	Pichl-Reiteralm	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13050/#yyyy/#mm/#dd/13050_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.760 m	-
 12909	Murau - Stadt - Panorama	Murau	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/12909/#yyyy/#mm/#dd/12909_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	800 m	Panorama
+7615	Rohrmoos - Schladming / Goldenjet	Pichl-Reiteralm	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7615/#yyyy/#mm/#dd/7615_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	835 m	Schladming / Goldenjet 1
 11404	Bergschl├Âssl	Hauser Kaibling / Schladming - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/11404/#yyyy/#mm/#dd/11404_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.820 m	-
 9936	Schladming H├╝ttendorf	Pichl-Reiteralm	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/9936/#yyyy/#mm/#dd/9936_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	800 m	-
 132	Berggasthof Schwengerer - M├Ânichwald Talbereich.	Waldbach-M├Ânichwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/132/#yyyy/#mm/#dd/132_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
@@ -5590,7 +5609,6 @@ virgen-west	Virgen Sonnberg [UHD]	Virgen	https://www.foto-webcam.eu/webcam/virge
 7727	Wagst├ñtt Bergstation - Panorama	Kitzb├╝hel - Kirchberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/7727/#yyyy/#mm/#dd/7727_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.750 m	Panorama
 2068	Zettersfeld /Obergaimberg - Lienz	Lienz	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/2068/#yyyy/#mm/#dd/2068_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.262 m	Lienz
 9675	Bichlalm	Kitzb├╝hel - Kirchberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/9675/#yyyy/#mm/#dd/9675_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.580 m	-
-11516	Widiversum Hochoetz - POI 1	Oetz	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11516/#yyyy/#mm/#dd/11516_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.020 m	POI 1
 5960	Lienz Hauptplatz	Lienz	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/5960/#yyyy/#mm/#dd/5960_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	673 m	-
 passthurn	PassThurn - Gasthof Hohe Br├╝cke - Blick in die Hohen Tauern / Oberpinzgau [UHD]	Kitzb├╝hel - Kirchberg	https://www.foto-webcam.eu/webcam/passthurn/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.130 m	Blick in die Hohen Tauern / Oberpinzgau
 6951	Funpark Hanglalm - Panorama	Kitzb├╝hel - Kirchberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/6951/#yyyy/#mm/#dd/6951_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.700 m	Panorama
@@ -5605,6 +5623,7 @@ passthurn	PassThurn - Gasthof Hohe Br├╝cke - Blick in die Hohen Tauern / Obe
 9889	Bichlalm - Panorama	Kitzb├╝hel - Kirchberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9889/#yyyy/#mm/#dd/9889_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.580 m	Panorama
 9886	Bichlalm - Kitzb├╝hel	Kitzb├╝hel - Kirchberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/9886/#yyyy/#mm/#dd/9886_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.580 m	Kitzb├╝hel
 801	Skicenter	St. Anton am Arlberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/801/#yyyy/#mm/#dd/801_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.320 m	-
+11516	Widiversum Hochoetz - POI	Oetz	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11516/#yyyy/#mm/#dd/11516_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.020 m	POI 1
 faschingalm	Lienz Faschingalm - Der Blick zeigt nach Norden ins Skigebiet Zettersfeld. [UHD]	Lienz	https://www.foto-webcam.eu/webcam/faschingalm/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.750 m	Der Blick zeigt nach Norden ins Skigebiet Zettersfeld.
 802	Rendl	St. Anton am Arlberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/802/#yyyy/#mm/#dd/802_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.025 m	-
 9582	Rendl 2	St. Anton am Arlberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/9582/#yyyy/#mm/#dd/9582_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.025 m	-
@@ -5659,9 +5678,9 @@ zugspitze-nord	Zugspitze Nord [UHD]	Ehrwald	https://www.foto-webcam.eu/webcam/zu
 6282	Sillianberg - Startplatz Stalpen (1.573m), rechts der Schuistlhof	Sillian	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/6282/#yyyy/#mm/#dd/6282_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.300 m	Startplatz Stalpen (1.573m), rechts der Schuistlhof
 17918	Quellalpin 4	Kaunertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/17918/#yyyy/#mm/#dd/17918_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.287 m	-
 8314	─îern├í hora 3	Velk├í ├Üpa / ─îern├í hora - Pec	<missing>	1.260 m	-
+19338	Monte Pora - Traliccio Cima - provided by #panomax.com https://montepora.panomax.com/cimapora	Castione della Presolana - Monte Pora	<missing>	1.880 m	provided by panomax.com
 12600	Tal Neustift im Stubaital	Elferbahnen Neustift / Stubaital	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/12600/#yyyy/#mm/#dd/12600_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	-
 11733	Obergurgl - Panorama	Obergurgl - Hochgurgl	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/11733/#yyyy/#mm/#dd/11733_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.300 m	Panorama
-19338	Monte Pora - Traliccio Cima - provided by #panomax.com https://montepora.panomax.com/cimapora 1	Castione della Presolana - Monte Pora	<missing>	1.880 m	provided by panomax.com
 1427	Kinderland Froneben	Skizentrum Schlick 2000 - Fulpmes	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/1427/#yyyy/#mm/#dd/1427_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.345 m	-
 11715	Krinnenkopf - Panorama	Skizentrum Schlick 2000 - Fulpmes	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/11715/#yyyy/#mm/#dd/11715_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.100 m	Panorama
 11712	Krinnenkopf - Sennjoch	Skizentrum Schlick 2000 - Fulpmes	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/11712/#yyyy/#mm/#dd/11712_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.100 m	Kalkk├Âgel
@@ -5764,7 +5783,6 @@ zugspitze-nord	Zugspitze Nord [UHD]	Ehrwald	https://www.foto-webcam.eu/webcam/zu
 15024	Bergstation Schneeexpress 2	Hochzillertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/15024/#yyyy/#mm/#dd/15024_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 15026	Bergstation Schneeexpress 4	Hochzillertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15026/#yyyy/#mm/#dd/15026_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 17710	Rifflsee	Pitztaler Gletscher - Rifflsee / Pitztal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/17710/#yyyy/#mm/#dd/17710_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.335 m	-
-8778	Bergstation 8er Sessellift Schnee Express - Sonnenjet 1	Kaltenbach	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8778/#yyyy/#mm/#dd/8778_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 6596	Mariastein	Mariastein	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6596/#yyyy/#mm/#dd/6596_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	540 m	-
 17711	Rifflsee 2	Pitztaler Gletscher - Rifflsee / Pitztal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/17711/#yyyy/#mm/#dd/17711_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.335 m	-
 15845	Obertilliach - Golzentipp - Blick von der Bergstation nach S.	Obertilliach / Lesachtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/15845/#yyyy/#mm/#dd/15845_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.070 m	Blick von der Bergstation nach S.
@@ -5774,6 +5792,7 @@ zugspitze-nord	Zugspitze Nord [UHD]	Ehrwald	https://www.foto-webcam.eu/webcam/zu
 8773	Das Mountain View - Bergstation Hochzillertal	Hochzillertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8773/#yyyy/#mm/#dd/8773_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 14598	Gries - L├ñngenfeld - Blick auf Gries Richtung Osten.	Gries - L├ñngenfeld	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/14598/#yyyy/#mm/#dd/14598_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.610 m	Blick auf Gries Richtung Osten.
 9559	Therme L├ñngenfeld	Gries - L├ñngenfeld	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9559/#yyyy/#mm/#dd/9559_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.165 m	-
+8778	Bergstation 8er Sessellift Schnee Express - Sonnenjet	Kaltenbach	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8778/#yyyy/#mm/#dd/8778_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 16983	Harschbichl Mittelstation - Blick auf die Pist	Kitzb├╝heler Alpen St. Johann in Tirol	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/16983/#yyyy/#mm/#dd/16983_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.200 m	Blick auf die Pist
 1627	Himbeergolllift Obertilliach - Blick zum Dorflift in Obertilliach.	Obertilliach / Lesachtal	<missing>	\N	\N
 8729	Tirolina - Skilift und Piste	Tirolina - Ski-, Sport- & Aktivberg Thiersee	<missing>	\N	\N
@@ -5975,7 +5994,6 @@ zugspitze-nord	Zugspitze Nord [UHD]	Ehrwald	https://www.foto-webcam.eu/webcam/zu
 9851	Issental Tal - Issentalk├Âpfle	Ehrwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/9851/#yyyy/#mm/#dd/9851_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.485 m	Issentalk├Âpfle
 8239	Tiroler Zugspitze - Golf-Anlage 3	Ehrwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/8239/#yyyy/#mm/#dd/8239_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.000 m	-
 9849	Tirolerhaus Ehrwald - Issentalkopflift	Ehrwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9849/#yyyy/#mm/#dd/9849_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.502 m	Issentalkopflift
-6844	Marienberg - Hot 1	Biberwier	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6844/#yyyy/#mm/#dd/6844_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	Hot 1
 12783	Stubai - Family Apart Hotel - Von Medraz Richtung Fulpmes.	Fulpmes / Stubaital	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12783/#yyyy/#mm/#dd/12783_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.535 m	Von Medraz Richtung Fulpmes.
 1464	Zugspitzgipfel	Zugspitze	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/1464/#yyyy/#mm/#dd/1464_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.962 m	-
 16197	Glungezerbahn Mittelstation	Tulfes - Glungezer	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/16197/#yyyy/#mm/#dd/16197_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.560 m	-
@@ -5991,6 +6009,7 @@ zugspitze-nord	Zugspitze Nord [UHD]	Ehrwald	https://www.foto-webcam.eu/webcam/zu
 8240	Tiroler Zugspitze - Golf-Anlage 4	Ehrwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/8240/#yyyy/#mm/#dd/8240_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.000 m	-
 6587	Ehrwald Gaistal	Ehrwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/6587/#yyyy/#mm/#dd/6587_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.640 m	-
 1617	Bergstation Gaistal - Mieminger Gebirge	Ehrwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/1617/#yyyy/#mm/#dd/1617_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.855 m	Mieminger Gebirge
+6844	Marienberg - Hot	Biberwier	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6844/#yyyy/#mm/#dd/6844_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	Hot 1
 13232	Mitterjoch - Kalkk├Âgelblick	Fulpmes / Stubaital	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13232/#yyyy/#mm/#dd/13232_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 12493	Zentraler Omnibus Bahnhof (ZOB)	Calw	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12493/#yyyy/#mm/#dd/12493_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	341 m	-
 2913	Telfs 2	Telfs	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/2913/#yyyy/#mm/#dd/2913_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
@@ -6033,7 +6052,6 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals - GG Resorts Kals-Matrei	https://www.fo
 13889	Franz-Senn-H├╝tte - Blick Richtung SSO.	Neustift im Stubaital	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/13889/#yyyy/#mm/#dd/13889_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.147 m	Blick Richtung SSO.
 15051	Jungholz Bergstation - Skigebiet	Tannheimer Tal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/15051/#yyyy/#mm/#dd/15051_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.425 m	Skigebiet
 17710	Rifflsee	Pitztaler Gletscher - Bergbahnen Rifflsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/17710/#yyyy/#mm/#dd/17710_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.335 m	-
-15006	Velk├í ├Üpa - POI 1	Velk├í ├Üpa / ─îern├í hora - Pec	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15006/#yyyy/#mm/#dd/15006_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	900 m	POI 1
 7035	Bergstation Panoramabahn Elfer - Panorama	Neustift im Stubaital	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7035/#yyyy/#mm/#dd/7035_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.790 m	Panorama
 6511	St. Martinkapelle - Taufers i.M. - Taufers und das M├╝nstertal Richtung Schweiz	Taufers im M├╝nstertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/6511/#yyyy/#mm/#dd/6511_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.295 m	Taufers und das M├╝nstertal Richtung Schweiz
 7032	Bergstation Panoramabahn Elfer - Bergstation Panoramabahn Panoramarestaurant Elfer	Neustift im Stubaital	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/7032/#yyyy/#mm/#dd/7032_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.790 m	Bergstation Panoramabahn Panoramarestaurant Elfer
@@ -6098,7 +6116,6 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals - GG Resorts Kals-Matrei	https://www.fo
 7816	Neunerk├Âpfle Mittelstation - Einstein	Tannheimer Tal	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/7816/#yyyy/#mm/#dd/7816_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 8417	Hungerburg - Panorama	Innsbruck - Nordkette	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/8417/#yyyy/#mm/#dd/8417_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	870 m	Panorama
 13691	Fiss - Hotel  R├Âck - M├Âseralmbahn	Fiss	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/13691/#yyyy/#mm/#dd/13691_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.460 m	M├Âseralmbahn
-18780	Konstanz F├ñhrehafen	Konstanz	<missing>	398 m	-
 12571	Scharnitz - Seefeld	Seefeld Olympiaregion	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12571/#yyyy/#mm/#dd/12571_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.095 m	-
 6749	Sprungschanze - Arena	Seefeld Olympiaregion	<missing>	1.280 m	Arena
 6502	Rossh├╝tte, Bergrestaurant	Seefeld Olympiaregion	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/6502/#yyyy/#mm/#dd/6502_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.737 m	-
@@ -6115,7 +6132,6 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals - GG Resorts Kals-Matrei	https://www.fo
 8415	Hungerburg - Nordkette	Innsbruck - Nordkette	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/8415/#yyyy/#mm/#dd/8415_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	870 m	Nordkette
 8191	Flaine - Arrivee Desert Blanc	Flaine - Le Grand Massif	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/8191/#yyyy/#mm/#dd/8191_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.600 m	Arrivee Desert Blanc
 5204	Choralpe	Westendorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/5204/#yyyy/#mm/#dd/5204_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.810 m	-
-12817	Moorgebiet Schwemm - Moorgebiet / Miesberg 1	Zahmer Kaiser - Walchsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/12817/#yyyy/#mm/#dd/12817_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	668 m	Moorgebiet / Miesberg 1
 1970	Olympiazentrum Seefeld - Blick vom Olympiazentrum auf das Seekirchl	Seefeld Olympiaregion	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/1970/#yyyy/#mm/#dd/1970_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Blick vom Olympiazentrum auf das Seekirchl
 110	Talkaser	Westendorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/110/#yyyy/#mm/#dd/110_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.800 m	-
 256	Gefrorene Wand	Tux - Finkenberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/256/#yyyy/#mm/#dd/256_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.250 m	-
@@ -6130,6 +6146,7 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals - GG Resorts Kals-Matrei	https://www.fo
 8706	Landeck	Landeck - Zams - Fliess / Venetregion	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/8706/#yyyy/#mm/#dd/8706_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	800 m	-
 8214	Seegrube	Innsbruck - Nordkette	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/8214/#yyyy/#mm/#dd/8214_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.905 m	-
 9387	Hafelekar - Panorama	Innsbruck - Nordkette	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/9387/#yyyy/#mm/#dd/9387_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.256 m	Panorama
+18780	Konstanz F├ñhrehafen	Konstanz	https://www.stadtwerke-konstanz.de/fileadmin/webcam/cam_vorplatz_staad.jpg	398 m	-
 9013	Fiss - Zirbenh├╝tte	Fiss	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/9013/#yyyy/#mm/#dd/9013_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 943	Fiss - Kinderland	Fiss	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/943/#yyyy/#mm/#dd/943_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 5135	Reintalersee, Kramsach	Alpbachtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/5135/#yyyy/#mm/#dd/5135_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
@@ -6149,7 +6166,6 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals - GG Resorts Kals-Matrei	https://www.fo
 18100	Glungezerbahn Bergstation 2	Glungezer	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18100/#yyyy/#mm/#dd/18100_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	937 m	-
 3458	Serfaus - Plansegg	Serfaus - Fiss - Ladis	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/3458/#yyyy/#mm/#dd/3458_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.376 m	-
 5204	Choralpe	Westendorf - SkiWelt	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/5204/#yyyy/#mm/#dd/5204_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.810 m	-
-5213	Markbachjoch 1	Wildsch├Ânau	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/5213/#yyyy/#mm/#dd/5213_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.465 m	-
 16631	Lechtaler Bergbahnen	Bach-Stockach im Lechtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/16631/#yyyy/#mm/#dd/16631_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.770 m	-
 1684	Wildsch├Ânau/Oberau - Blick zum Schie├ƒh├╝ttellift.	Wildsch├Ânau	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/1684/#yyyy/#mm/#dd/1684_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	930 m	Blick zum Schie├ƒh├╝ttellift.
 1138	Hochf├╝gen - Waidoffen	Hochf├╝gen Zillertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/1138/#yyyy/#mm/#dd/1138_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.130 m	-
@@ -6165,13 +6181,14 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals - GG Resorts Kals-Matrei	https://www.fo
 6502	Rossh├╝tte, Bergrestaurant	Seefeld in Tirol	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/6502/#yyyy/#mm/#dd/6502_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.737 m	-
 6749	Sprungschanze - Arena	Seefeld in Tirol	<missing>	1.280 m	Arena
 14566	Adlerlounge - Cimaross 5	Kals am Gro├ƒglockner	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/14566/#yyyy/#mm/#dd/14566_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.420 m	-
+5213	Markbachjoch	Wildsch├Ânau	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/5213/#yyyy/#mm/#dd/5213_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.465 m	-
 5422	Hochkrimml / Plattenkogel-X-Press II	Gerlos	<missing>	\N	\N
 943	Fiss - Kinderland	Serfaus - Fiss - Ladis	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/943/#yyyy/#mm/#dd/943_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 12134	Spieljochbahn	F├╝gen - Spieljoch	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/12134/#yyyy/#mm/#dd/12134_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.200 m	-
 9760	Karwendel - Panorama	Pertisau am Achensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/9760/#yyyy/#mm/#dd/9760_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	\N	\N
 13440	Onkeljoch - Panorama	F├╝gen - Spieljoch	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13440/#yyyy/#mm/#dd/13440_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.850 m	Panorama
 15863	St. Martins Therme & Lodge - Panorama	Frauenkirchen	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15863/#yyyy/#mm/#dd/15863_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	138 m	Panorama
-9754	Karwendel - POI 1	Pertisau am Achensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9754/#yyyy/#mm/#dd/9754_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
+9754	Karwendel - POI	Pertisau am Achensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9754/#yyyy/#mm/#dd/9754_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 1270	Hohe Salve	Hopfgarten	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/1270/#yyyy/#mm/#dd/1270_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.835 m	-
 13405	Nesselw├ñngle - Bergstation Tennenberg - Schlepplift Bergstation Nesselw├ñngle, Ort Nesselw├ñngle und die Tannheimer Berge.	Nesselw├ñngle im Tannheimertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/13405/#yyyy/#mm/#dd/13405_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 1006	Zw├Âlferkopf Pertisau - Pertisau Ort	Pertisau am Achensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/1006/#yyyy/#mm/#dd/1006_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Pertisau Ort
@@ -6287,7 +6304,6 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals - GG Resorts Kals-Matrei	https://www.fo
 13863	Morgins - Parc des Neiges	Morgins - Champoussin / Portes du Soleil	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/13863/#yyyy/#mm/#dd/13863_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 17693	Hirli - Blick von der Bergstation.	Zermatt	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/17693/#yyyy/#mm/#dd/17693_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.889 m	Blick von der Bergstation.
 15344	Mittelallalin 7	Saas-Fee	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/15344/#yyyy/#mm/#dd/15344_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.500 m	-
-19338	Monte Pora - Traliccio Cima - provided by #panomax.com https://montepora.panomax.com/cimapora 1	Val Seriana / Serio-Tal	<missing>	1.880 m	provided by panomax.com
 5119	Gornergrat	Zermatt	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/5119/#yyyy/#mm/#dd/5119_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.104 m	-
 17082	Pfyn-Finges - Blick auf Siders	Siders	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/17082/#yyyy/#mm/#dd/17082_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.700 m	Blick auf Siders
 6105	Zermatt / Air Zermatt Basis - Zermatt	Zermatt	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/6105/#yyyy/#mm/#dd/6105_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.640 m	Zermatt
@@ -6309,6 +6325,7 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals - GG Resorts Kals-Matrei	https://www.fo
 15350	L├ñngfluh Berg 2	Saas-Fee	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/15350/#yyyy/#mm/#dd/15350_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.870 m	-
 15354	L├ñngfluh Berg 6	Saas-Fee	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/15354/#yyyy/#mm/#dd/15354_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.870 m	-
 15340	Mittelallalin 3	Saas-Fee	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/15340/#yyyy/#mm/#dd/15340_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.500 m	-
+19338	Monte Pora - Traliccio Cima - provided by #panomax.com https://montepora.panomax.com/cimapora	Val Seriana / Serio-Tal	<missing>	1.880 m	provided by panomax.com
 2360	Blatten bei Naters	Belalp	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/2360/#yyyy/#mm/#dd/2360_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 11180	Unterb├ñch Dorf - Dorf.	Unterb├ñch - Brandalp	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/11180/#yyyy/#mm/#dd/11180_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.627 m	Dorf.
 136	Hohbiel - Bergstation Sesselbahn Hohbiel	Belalp	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/136/#yyyy/#mm/#dd/136_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.680 m	Bergstation Sesselbahn Hohbiel
@@ -6397,7 +6414,6 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals - GG Resorts Kals-Matrei	https://www.fo
 16173	Moosfluh Bergstation 3	Aletsch Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/16173/#yyyy/#mm/#dd/16173_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.324 m	-
 17602	La Punt - Wasserreservoir - La Punt	La Punt	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/17602/#yyyy/#mm/#dd/17602_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.814 m	La Punt
 5641	Strela Berg - Strelaberg, Davos.	Davos Schatzalp	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/5641/#yyyy/#mm/#dd/5641_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.110 m	Strelaberg, Davos.
-6976	Sportzentrum Klosters - POI 1	Davos Klosters	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6976/#yyyy/#mm/#dd/6976_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.182 m	POI 1
 16174	Moosfluh Bergstation 4	Aletsch Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/16174/#yyyy/#mm/#dd/16174_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.324 m	-
 11646	Fiesch	Aletsch Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11646/#yyyy/#mm/#dd/11646_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.220 m	-
 2117	Bahnhof Berg├╝n - Bahnhof	Berg├╝n Filisur	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/2117/#yyyy/#mm/#dd/2117_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.400 m	Bahnhof
@@ -6405,7 +6421,6 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals - GG Resorts Kals-Matrei	https://www.fo
 11737	Fiesch - POI 4	Aletsch Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11737/#yyyy/#mm/#dd/11737_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.220 m	POI 4
 16172	Moosfluh Bergstation 2	Aletsch Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/16172/#yyyy/#mm/#dd/16172_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.324 m	-
 5662	Col de Braitaz	Torgon	<missing>	\N	\N
-11734	Fiesch - POI 1	Aletsch Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/11734/#yyyy/#mm/#dd/11734_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.220 m	POI 1
 5664	Col de Braitaz - le Mont de Grange	Torgon	<missing>	\N	\N
 5663	Col de Braitaz - Le Domaine de Braitaz	Torgon	<missing>	\N	\N
 11736	Fiesch - POI 3	Aletsch Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11736/#yyyy/#mm/#dd/11736_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.220 m	POI 3
@@ -6456,7 +6471,6 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals - GG Resorts Kals-Matrei	https://www.fo
 10368	Silvaplana - Mittelstation Murt├¿l - Silsersee	Corvatsch	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/10368/#yyyy/#mm/#dd/10368_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.702 m	Silsersee
 14318	Motta Naluns 5	Engadin Scuol Zernez	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/14318/#yyyy/#mm/#dd/14318_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.150 m	-
 15124	Alp Trida - Panorama	Samnaun	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/15124/#yyyy/#mm/#dd/15124_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.260 m	Panorama
-13162	Madrisaland - POI 1	Klosters Madrisa	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13162/#yyyy/#mm/#dd/13162_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.892 m	POI 1
 12931	Corvatsch - Corvatsch - Bergtation 3303 m ├╝. M.	Corvatsch	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12931/#yyyy/#mm/#dd/12931_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.303 m	Corvatsch - Bergtation 3303 m ├╝. M.
 16592	Pradas Resort 3	Brigels	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/16592/#yyyy/#mm/#dd/16592_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.270 m	-
 6208	Furna Oberb├Ârtji - Blick Richtung Fideris.	Gr├╝sch Danusa	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/6208/#yyyy/#mm/#dd/6208_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.480 m	Blick Richtung Fideris.
@@ -6476,6 +6490,7 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals - GG Resorts Kals-Matrei	https://www.fo
 12930	Corvatsch - Corvatsch 3303, Oberengadiner Seenlandschaft	Corvatsch	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/12930/#yyyy/#mm/#dd/12930_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.303 m	Corvatsch 3303, Oberengadiner Seenlandschaft
 405	Nesselw├ñngle - Krinnenalpe - Ansicht von Norden auf das Schi- und Wandergebiet.	Nesselw├ñngle im Tannheimertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/405/#yyyy/#mm/#dd/405_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.147 m	Ansicht von Norden auf das Schi- und Wandergebiet.
 12929	Corvatsch - Bergstation Corvatsch 3303	Corvatsch	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/12929/#yyyy/#mm/#dd/12929_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.303 m	Bergstation Corvatsch 3303
+13162	Madrisaland - POI	Klosters Madrisa	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13162/#yyyy/#mm/#dd/13162_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.892 m	POI 1
 14316	Motta Naluns - Panorama	Engadin Scuol Zernez	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/14316/#yyyy/#mm/#dd/14316_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.150 m	Panorama
 960	Camping Plauns Morteratsch - Camping Morteratsch.	Pontresina	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/960/#yyyy/#mm/#dd/960_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 5637	Bergstation Schatzalp-Bahn - Standseilbahn Bergstation, 1.865 m.	Davos Schatzalp - Strela	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/5637/#yyyy/#mm/#dd/5637_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.865 m	Standseilbahn Bergstation, 1.865 m.
@@ -6571,7 +6586,6 @@ hotel-lindenhof	Ramsau / Lindenhof - Ramsbergerhof - Blick auf Hotel Lindenhof &
 17675	Schneeh├╝enerstock 4	Andermatt - Oberalp - Sedrun	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/17675/#yyyy/#mm/#dd/17675_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.608 m	-
 17672	Schneeh├╝enerstock	Andermatt - Oberalp - Sedrun	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/17672/#yyyy/#mm/#dd/17672_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.608 m	-
 10933	Kloster St. Gallen	St. Gallen	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/10933/#yyyy/#mm/#dd/10933_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	675 m	-
-13162	Madrisaland - POI 1	Klosters	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13162/#yyyy/#mm/#dd/13162_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.892 m	POI 1
 2082	Il Fuorn - Ofenpass	Engadin Val M├╝stair	<missing>	2.140 m	-
 309	Corviglia	Corviglia	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/309/#yyyy/#mm/#dd/309_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.486 m	-
 13286	Somtgant 2	Savognin Bivio Albula	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/13286/#yyyy/#mm/#dd/13286_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.112 m	-
@@ -7007,7 +7021,6 @@ schlosskammer	Maishofen - Schloss Kammer - Blick nach S├╝den [UHD]	Schmitten
 18053	Charmey - Station de montagne 2	Charmey	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18053/#yyyy/#mm/#dd/18053_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.626 m	-
 16970	Cimetta Skiclub Cardada	Cardada Cimetta / Locarno	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/16970/#yyyy/#mm/#dd/16970_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.869 m	-
 2638	B├ñrghuus Riggisalp, Kaiseregg	Schwarzsee / Kaiseregg Bahnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/2638/#yyyy/#mm/#dd/2638_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.490 m	-
-11441	Monte San Salvatore - POI 1	Monte San Salvatore	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11441/#yyyy/#mm/#dd/11441_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	912 m	-
 12074	Car├¼	Car├¼	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/12074/#yyyy/#mm/#dd/12074_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 13449	Piana di Vigezzo 2	Ascona - Locarno / Lago Maggiore	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/13449/#yyyy/#mm/#dd/13449_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 15120	Castelgrande - Panorama	Bellinzona	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/15120/#yyyy/#mm/#dd/15120_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	300 m	Panorama
@@ -7021,6 +7034,7 @@ schlosskammer	Maishofen - Schloss Kammer - Blick nach S├╝den [UHD]	Schmitten
 11444	Monte San Salvatore - POI 4	Monte San Salvatore	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/11444/#yyyy/#mm/#dd/11444_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	912 m	-
 9142	Lugano - Magliaso - Golf Club Lugano	Lugano und Umgebung	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/9142/#yyyy/#mm/#dd/9142_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	280 m	Golf Club Lugano
 18652	Landau-Ebenberg Clubheim - Blick nach Nordwesten in Richtung Landau/Pf├ñlzer Wald	Landau in der Pfalz	<missing>	142 m	Blick nach Nordwesten in Richtung Landau/Pf├ñlzer Wald
+11441	Monte San Salvatore - POI	Monte San Salvatore	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11441/#yyyy/#mm/#dd/11441_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	912 m	-
 6124	Airolo San Gottardo	Leventina	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6124/#yyyy/#mm/#dd/6124_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 17774	Stechlin, Bootsverleih	Neuglobsow	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/17774/#yyyy/#mm/#dd/17774_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 6489	Skilifte Stollenbach - Talstation - Berg	Stollenbach	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/6489/#yyyy/#mm/#dd/6489_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	Berg
@@ -7108,7 +7122,6 @@ schlosskammer	Maishofen - Schloss Kammer - Blick nach S├╝den [UHD]	Schmitten
 6010	Skilift Berger H├Âhe - Wangen im Allg├ñu	Oberschwaben - Allg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6010/#yyyy/#mm/#dd/6010_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	610 m	Wangen im Allg├ñu
 6700	Seibelseckle	Seibelseckle	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6700/#yyyy/#mm/#dd/6700_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	950 m	-
 14001	H├╝nersedelturm - Freiamt im Schwarzwald - Blick vom Berg H├╝nersedel Richtung WSW.	Freiamt im Schwarzwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/14001/#yyyy/#mm/#dd/14001_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	744 m	Blick vom Berg H├╝nersedel Richtung WSW.
-818	Todtnauberg - Pension Gl├Âcklehof - St├╝benwasenlift 1	Todtnau	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/818/#yyyy/#mm/#dd/818_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	St├╝benwasenlift 1
 9680	Blaserturm Isny im Allg├ñu - Sanierungsgebiet	Oberschwaben - Allg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/9680/#yyyy/#mm/#dd/9680_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Sanierungsgebiet
 819	Todtnauberg - Haus Keller	Todtnau	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/819/#yyyy/#mm/#dd/819_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.030 m	Haus Keller
 3291	Todtnauberg - Bucklift - Bucklift von Todtnauberg aus.	Todtnau	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/3291/#yyyy/#mm/#dd/3291_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.030 m	Bucklift von Todtnauberg aus.
@@ -7203,7 +7216,6 @@ schlosskammer	Maishofen - Schloss Kammer - Blick nach S├╝den [UHD]	Schmitten
 16788	Konstanz - MS Seegold - Blick von der MS Gold.	Konstanz	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/16788/#yyyy/#mm/#dd/16788_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	405 m	Blick von der MS Gold.
 5720	Herrenberg	Stuttgart	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/5720/#yyyy/#mm/#dd/5720_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 15957	Altstadt Bietigheim	Bietigheim-Bissingen	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/15957/#yyyy/#mm/#dd/15957_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	211 m	-
-818	Todtnauberg - Pension Gl├Âcklehof - St├╝benwasenlift 1	Todtnauberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/818/#yyyy/#mm/#dd/818_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	St├╝benwasenlift 1
 16542	Sylt, Kampen	Sylt	<missing>	\N	\N
 10694	Stuttgart Marktplatz - Vom Stuttgarter Rathaus Richtung Stiftskirche	Stuttgart	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/10694/#yyyy/#mm/#dd/10694_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	247 m	Vom Stuttgarter Rathaus Richtung Stiftskirche
 5998	Aussichtsturm Aalb├ñumle	Aalen	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/5998/#yyyy/#mm/#dd/5998_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
@@ -7558,13 +7570,13 @@ schlosskammer	Maishofen - Schloss Kammer - Blick nach S├╝den [UHD]	Schmitten
 10877	Altstadtpalais Lippischer Hof - Panorama	Bad Salzuflen	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/10877/#yyyy/#mm/#dd/10877_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	83 m	Panorama
 14421	Brocken - Wetterwarte und Brockenbahnhof	Zw├Âlfmorgental Wernigerode	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/14421/#yyyy/#mm/#dd/14421_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.148 m	Wetterwarte und Brockenbahnhof
 14426	Brocken - Ilsenburg	Zw├Âlfmorgental Wernigerode	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/14426/#yyyy/#mm/#dd/14426_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.148 m	Antenne und Brockenhotel
-10874	Altstadtpalais Lippischer Hof - POI 1	Bad Salzuflen	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/10874/#yyyy/#mm/#dd/10874_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	83 m	POI 1
 10849	Altstadtpalais Lippischer Hof	Bad Salzuflen	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/10849/#yyyy/#mm/#dd/10849_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	83 m	-
 18504	Berlin Gro├ƒer Wannsee	Berlin	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18504/#yyyy/#mm/#dd/18504_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	30 m	-
 18054	Erlebnisberg Hoherodskopf	Vogelsberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18054/#yyyy/#mm/#dd/18054_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 17223	Magdeburger Dom	Magdeburg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/17223/#yyyy/#mm/#dd/17223_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	55 m	-
 8500	Kop┼Öivn├í - POI 2	Kop┼Öivn├í	<missing>	710 m	POI 2
 16144	Weissenstein - Wei├ƒer Stein - Zoom Bild in Richtung S├╝dosten.	Hellenthal	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/16144/#yyyy/#mm/#dd/16144_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	690 m	Zoom Bild in Richtung S├╝dosten.
+10874	Altstadtpalais Lippischer Hof - POI	Bad Salzuflen	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/10874/#yyyy/#mm/#dd/10874_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	83 m	POI 1
 5678	Wettersteinbahnen - Gamsalm Ehrwald - Blick von der Talstation des Gamskarlifts.	Ehrwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/5678/#yyyy/#mm/#dd/5678_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.270 m	Blick von der Talstation des Gamskarlifts.
 10137	SkiArena Eibenstock Berg	Eibenstock	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/10137/#yyyy/#mm/#dd/10137_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	715 m	-
 18542	Hufeisensee 2	Halle (Saale)	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18542/#yyyy/#mm/#dd/18542_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	92 m	-
@@ -7606,7 +7618,6 @@ schlosskammer	Maishofen - Schloss Kammer - Blick nach S├╝den [UHD]	Schmitten
 16253	Wurmbergturm - ÔÇ×Bergstation Hexenexpress / Wurmberg-Alm.	Braunlage	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/16253/#yyyy/#mm/#dd/16253_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	970 m	ÔÇ×Bergstation Hexenexpress / Wurmberg-Alm.
 11581	├£bungslift Bocksberg - ├£bungslift Talbereich.	Bocksberg-Hahnenklee	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11581/#yyyy/#mm/#dd/11581_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	560 m	├£bungslift Talbereich.
 6445	Kurpark Hahnenklee - Kurpark von Hahnenklee	Bocksberg-Hahnenklee	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/6445/#yyyy/#mm/#dd/6445_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	570 m	Kurpark von Hahnenklee
-8499	Kop┼Öivn├í - POI 1	Kop┼Öivn├í	<missing>	710 m	POI 1
 12938	Badestelle Ording 5	St. Peter-Ording	<missing>	5 m	-
 12496	Dorfplatz Horumersiel	Wangerland	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/12496/#yyyy/#mm/#dd/12496_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
 14126	Hauptstrand Langeoog - Strand Hauptbad Langeoog	Langeoog	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/14126/#yyyy/#mm/#dd/14126_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	27 m	Strand Hauptbad Langeoog
@@ -7639,6 +7650,7 @@ schlosskammer	Maishofen - Schloss Kammer - Blick nach S├╝den [UHD]	Schmitten
 18712	Ginzling	Ginzling	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18712/#yyyy/#mm/#dd/18712_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	999 m	-
 17283	Rathausplatz	Hemmoor	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/17283/#yyyy/#mm/#dd/17283_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	-
 19100	Knokke-Heist / Anemos	Flandern	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19100/#yyyy/#mm/#dd/19100_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
+8499	Kop┼Öivn├í - POI	Kop┼Öivn├í	<missing>	710 m	POI 1
 8333	Javalambre Cota 1.650 m	Javalambre	<missing>	\N	\N
 16626	Langlaufleistungszentrum Sonnenberg	Sankt Andreasberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16626/#yyyy/#mm/#dd/16626_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 9009	Kampenwandbahn 4	Kampenwandseilbahn / Aschau im Chiemgau	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9009/#yyyy/#mm/#dd/9009_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.450 m	-
@@ -7747,6 +7759,7 @@ fuerstenfeld	F├╝rstenfeldbruck - Blick zur Klosterkirche [UHD]	Filzberg / La
 17454	Fellhorn/Oberstdorf Kleinwalsertal 3	Oberallg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/17454/#yyyy/#mm/#dd/17454_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.967 m	-
 7999	Camping Hopfensee	Hopfen am See	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/7999/#yyyy/#mm/#dd/7999_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	770 m	-
 14351	Ludwigs Festspielhaus F├╝ssen - PARKANLAGE LUDWIGS FESTSPIELHAUS	F├╝ssen	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/14351/#yyyy/#mm/#dd/14351_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	795 m	PARKANLAGE LUDWIGS FESTSPIELHAUS
+11741	Pic de la Pala Ginebrell - POI	Boi-Ta├╝ll Resort	<missing>	\N	\N
 18397	Sass Pordoi - Altopiano del Boe - Vista S├╝dwest - Lagorai, Latemar, Coronelle, Catinaccio E Val Di Fassa	Canazei	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/18397/#yyyy/#mm/#dd/18397_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.950 m	Vista S├╝dwest - Lagorai, Latemar, Coronelle, Catinaccio E Val Di Fassa
 12939	Badestelle Ording - Panorama	St. Peter-Ording	<missing>	5 m	Panorama
 10021	Spitzingsee 3	Schliersee - Neuhaus - Spitzingsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/10021/#yyyy/#mm/#dd/10021_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.565 m	-
@@ -7781,14 +7794,13 @@ fuerstenfeld	F├╝rstenfeldbruck - Blick zur Klosterkirche [UHD]	Filzberg / La
 4926	Passh├Âhe-Grasgehren - Grasgehrenlift	Obermaiselstein / H├Ârnerd├Ârfer	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/4926/#yyyy/#mm/#dd/4926_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.430 m	Grasgehrenlift
 8664	Javalambre Cota 1.650 m - Debutantes	Javalambre	<missing>	\N	\N
 8663	Javalambre Cota 1.650 m - Vestisquero	Javalambre	<missing>	\N	\N
-11741	Pic de la Pala Ginebrell - POI 1	Boi-Ta├╝ll Resort	<missing>	\N	\N
+6840	Bad Endorf Jod-Thermalbad - Hotspot	Bad Endorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6840/#yyyy/#mm/#dd/6840_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	520 m	-
 18378	Passo Sella - Hotel Maria Flora - Passo Lato Bolzanino	Canazei - Belvedere / Val di Fassa	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/18378/#yyyy/#mm/#dd/18378_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.240 m	Passo Lato Bolzanino
 9968	WuhrsteinAlm - Schleching - Chiemgauer und Berchtesgadener Alpen	Schleching	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/9968/#yyyy/#mm/#dd/9968_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 3545	Dorfplatz Schleching - Schlechinger Dorfplatz mit Pfarrkirche	Schleching	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/3545/#yyyy/#mm/#dd/3545_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Schlechinger Dorfplatz mit Pfarrkirche
 10722	Kempten Klinikum - Kempten	Kempten	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/10722/#yyyy/#mm/#dd/10722_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	674 m	Kempten
 6843	Bad Endorf Jod-Thermalbad - Panorama	Bad Endorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/6843/#yyyy/#mm/#dd/6843_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	\N	\N
 14235	Aschaffenburg - Rathaus - Stiftskirche, Stiftsmuseum und Rathaus.	Aschaffenburg	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/14235/#yyyy/#mm/#dd/14235_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	138 m	Stiftskirche, Stiftsmuseum und Rathaus.
-6840	Bad Endorf Jod-Thermalbad - Hotspot 1	Bad Endorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6840/#yyyy/#mm/#dd/6840_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	520 m	-
 6841	Bad Endorf Jod-Thermalbad - Hotspot 2	Bad Endorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/6841/#yyyy/#mm/#dd/6841_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	520 m	-
 5159	Oberstdorf Schanze	Nebelhorn / Oberstdorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/5159/#yyyy/#mm/#dd/5159_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	876 m	-
 13526	Chata Vr├ítna	Vr├ítna Free Time Zone	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/13526/#yyyy/#mm/#dd/13526_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
@@ -7834,7 +7846,7 @@ scheibenhaus	Oberstdorf - Scheibenhaus - Oberstdorfer Berge [UHD]	Nebelhorn / Ob
 kreuzeck	Kreuzeck - Blick von der Bergstation Richtung Alpspitze und Zugspitze. [UHD]	Bayerische Zugspitzbahn / Garmisch Partenkirchen	https://www.foto-webcam.eu/webcam/kreuzeck/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.630 m	Blick von der Bergstation Richtung Alpspitze und Zugspitze.
 10594	Wendelstein - Bayrischzell 2	Wendelstein	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/10594/#yyyy/#mm/#dd/10594_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.710 m	-
 17884	Kitzlahner 4er Sessellift Berg 5	Sudelfeld - Bayrischzell	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/17884/#yyyy/#mm/#dd/17884_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.490 m	-
-11198	Chiemsee - Schifffahrt - POI 1	Prien am Chiemsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/11198/#yyyy/#mm/#dd/11198_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	525 m	-
+11198	Chiemsee - Schifffahrt - POI	Prien am Chiemsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/11198/#yyyy/#mm/#dd/11198_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	525 m	-
 helmut-list-halle	Helmut List Halle [UHD]	Graz - Stadt	https://www.foto-webcam.eu/webcam/helmut-list-halle/#yyyy/#mm/#dd/#hh#nn_hu.jpg	370 m	-
 meilerhuette	Meilerh├╝tte West - Blick nach Nordwesten zur Zugspitze [UHD]	Garmisch-Partenkirchen	https://www.foto-webcam.eu/webcam/meilerhuette/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.366 m	Blick nach Nordwesten zur Zugspitze
 bzb-gipfel	Zugspitze Baustelle [UHD]	Bayerische Zugspitzbahn / Garmisch Partenkirchen	https://www.foto-webcam.eu/webcam/bzb-gipfel/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.970 m	-
@@ -8091,7 +8103,6 @@ kandahar-express	Kandahar-Express Kreuzjoch - Blick talw├ñrts Richtung GaPa i
 8798	Bergstation Brauneck - Hot 4	Brauneck / Lenggries	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8798/#yyyy/#mm/#dd/8798_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.480 m	Hot 4
 2463	Riedlberg	Riedlberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/2463/#yyyy/#mm/#dd/2463_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 6559	Rathausplatz Sonthofen - Rathausplatz	Schw├ñbeleholz / Sonthofen	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/6559/#yyyy/#mm/#dd/6559_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	743 m	Rathausplatz
-8223	Bergstation Brauneck - Hot 1	Brauneck / Lenggries	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8223/#yyyy/#mm/#dd/8223_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.480 m	Hot 1
 14145	Hersbruck Rathaus	Hersbruck	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/14145/#yyyy/#mm/#dd/14145_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	336 m	-
 7796	Lenggrieser H├╝tte - Seekar - Seekaralm	Brauneck / Lenggries	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/7796/#yyyy/#mm/#dd/7796_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.350 m	Seekaralm
 6372	Welschnofen - Nigglhof - Rosengarten	Carezza - Karersee - Rosengarten	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/6372/#yyyy/#mm/#dd/6372_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.190 m	Rosengarten
@@ -8574,7 +8585,6 @@ scheibenhaus	Oberstdorf - Scheibenhaus - Oberstdorfer Berge [UHD]	Oberstdorf / N
 14638	Emmendingen Eichbergturm - Richtung Freiburg	Emmendingen	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/14638/#yyyy/#mm/#dd/14638_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	369 m	Richtung Freiburg
 1883	Haldenk├Âpfle - Piste	Haldenk├Âpfle / Schauinsland	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/1883/#yyyy/#mm/#dd/1883_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.160 m	Piste
 16551	Dienten, B├╝rglalm Bergstation	Dienten am Hochk├Ânig	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/16551/#yyyy/#mm/#dd/16551_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.650 m	-
-9259	Carosello 3000 - Panorama 1	Carosello 3000/ Livigno	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9259/#yyyy/#mm/#dd/9259_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Panorama 1
 19010	Wermelskirchen B├╝rgerzentrum - Telegrafenstra├ƒe	Wermelskirchen	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19010/#yyyy/#mm/#dd/19010_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	345 m	Telegrafenstra├ƒe
 6863	Bormio 2000 - Panorama	Bormio	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/6863/#yyyy/#mm/#dd/6863_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.952 m	Panorama
 4763	Bormio 2000	Bormio	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/4763/#yyyy/#mm/#dd/4763_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.952 m	-
@@ -8602,6 +8612,7 @@ scheibenhaus	Oberstdorf - Scheibenhaus - Oberstdorfer Berge [UHD]	Oberstdorf / N
 6503	Rossh├╝tte / H├ñrmelekopf	Seefeld / Rossh├╝tte	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/6503/#yyyy/#mm/#dd/6503_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.018 m	-
 4930	Aprica 3	Aprica	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/4930/#yyyy/#mm/#dd/4930_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 3216	Aiguille du Midi Panorama - highest point accessible by cable-car in Chamonix	Chamonix-Mont-Blanc	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/3216/#yyyy/#mm/#dd/3216_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.845 m	highest point accessible by cable-car in Chamonix
+9259	Carosello 3000 - Panorama	Carosello 3000/ Livigno	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9259/#yyyy/#mm/#dd/9259_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Panorama 1
 2863	Livigno - Park Chalet Village - Livigno dal villaggio	Livigno	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/2863/#yyyy/#mm/#dd/2863_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Livigno dal villaggio
 5273	Obergmeind Tschappina - Beverin	Thusis / Heinzenberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/5273/#yyyy/#mm/#dd/5273_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.820 m	Beverin
 10779	Lizzola - Skilift - SO	Valbondione	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/10779/#yyyy/#mm/#dd/10779_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.490 m	SO
@@ -8609,6 +8620,7 @@ scheibenhaus	Oberstdorf - Scheibenhaus - Oberstdorfer Berge [UHD]	Oberstdorf / N
 18233	Be-Mine 2	Flandern	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18233/#yyyy/#mm/#dd/18233_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	35 m	-
 18233	Be-Mine 2	Limburg - Flandern	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18233/#yyyy/#mm/#dd/18233_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	35 m	-
 2506	Aprica - Palabione Valletta	Aprica	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/2506/#yyyy/#mm/#dd/2506_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
+5500	Livigno - Camanel - Mottolino Sponda	Mottolino Fun Mountain/ Livigno	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/5500/#yyyy/#mm/#dd/5500_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 8976	Livigno - Mottolino Fun Mountain	Mottolino Fun Mountain/ Livigno	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/8976/#yyyy/#mm/#dd/8976_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.910 m	Mottolino Fun Mountain
 17783	Klagenfurter H├╝tte - Blick Richtung Ost.	Feistritz im Rosental	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/17783/#yyyy/#mm/#dd/17783_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.664 m	Blick Richtung Ost.
 17106	Varese - Blick auf den Giubiano-H├╝gel und den Bahnhofsbereich.	Varese	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/17106/#yyyy/#mm/#dd/17106_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	382 m	Blick auf den Giubiano-H├╝gel und den Bahnhofsbereich.
@@ -8624,7 +8636,6 @@ scheibenhaus	Oberstdorf - Scheibenhaus - Oberstdorfer Berge [UHD]	Oberstdorf / N
 10779	Lizzola - Skilift - SO	Val Seriana / Serio-Tal	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/10779/#yyyy/#mm/#dd/10779_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.490 m	SO
 16869	Rifugio Mirtillo - N	Val Seriana / Serio-Tal	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/16869/#yyyy/#mm/#dd/16869_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.000 m	N
 2951	Isolaccia	Valdidentro	<missing>	-	-
-5500	Livigno - Camanel - Mottolino Sponda 1	Mottolino Fun Mountain/ Livigno	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/5500/#yyyy/#mm/#dd/5500_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 2863	Livigno - Park Chalet Village - Livigno dal villaggio	Mottolino Fun Mountain/ Livigno	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/2863/#yyyy/#mm/#dd/2863_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Livigno dal villaggio
 5502	Livigno - Camanel - Sciovia Palipert e Amerikan	Mottolino Fun Mountain/ Livigno	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/5502/#yyyy/#mm/#dd/5502_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 9764	Colere	Val Seriana / Serio-Tal	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9764/#yyyy/#mm/#dd/9764_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
@@ -8890,7 +8901,6 @@ langenferner	Langenferner [UHD]	Sulden am Ortler	https://www.foto-webcam.eu/webc
 17920	Umlaufbahn Lazaun II	Schnalstal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/17920/#yyyy/#mm/#dd/17920_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.011 m	-
 16678	Schnalstal - Bergstation Gletscherbahn - Finailspitz	Schnalstal	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/16678/#yyyy/#mm/#dd/16678_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.212 m	Wei├ƒkugel
 15996	Cima Rosetta 2	Passo Rolle	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15996/#yyyy/#mm/#dd/15996_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.700 m	-
-8593	Grawand Sessellift - Talstation - POI 1	Schnalstal	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8593/#yyyy/#mm/#dd/8593_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.000 m	POI 1
 15143	Col Raiser 2	Dolomites Val Gardena / Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15143/#yyyy/#mm/#dd/15143_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.106 m	-
 18210	Umlaufbahn Lazaun II - Tal	Schnalstal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18210/#yyyy/#mm/#dd/18210_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 15218	Piz Sella - Panorama	Dolomites Val Gardena / Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/15218/#yyyy/#mm/#dd/15218_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.284 m	Panorama
@@ -8900,6 +8910,7 @@ langenferner	Langenferner [UHD]	Sulden am Ortler	https://www.foto-webcam.eu/webc
 15198	Piz Sella	Dolomites Val Gardena / Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/15198/#yyyy/#mm/#dd/15198_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.284 m	-
 14525	Piz Seteur - Sassolungo	Dolomites Val Gardena / Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/14525/#yyyy/#mm/#dd/14525_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.600 m	-
 15193	Dantercepies 5	Dolomites Val Gardena / Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15193/#yyyy/#mm/#dd/15193_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.305 m	-
+8593	Grawand Sessellift - Talstation - POI	Schnalstal	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8593/#yyyy/#mm/#dd/8593_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.000 m	POI 1
 15184	Seceda 4	Dolomites Val Gardena / Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/15184/#yyyy/#mm/#dd/15184_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.450 m	-
 15252	Rasch├Âtz 2	Dolomites Val Gardena / Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15252/#yyyy/#mm/#dd/15252_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.200 m	-
 17928	Umlaufbahn Lazaun II - Transhumanz - Talabfahrt	Schnalstal	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/17928/#yyyy/#mm/#dd/17928_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.011 m	Tal
@@ -8913,7 +8924,6 @@ langenferner	Langenferner [UHD]	Sulden am Ortler	https://www.foto-webcam.eu/webc
 12423	Kurzras - Schnalstal - Vom Ortszentrum talausw├ñrts.	Kurzras	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12423/#yyyy/#mm/#dd/12423_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.015 m	Vom Ortszentrum talausw├ñrts.
 14530	Sarnthein - Sarntal - Panoramablick auf Sarnthein.	Reinswald Sarntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/14530/#yyyy/#mm/#dd/14530_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.250 m	Panoramablick auf Sarnthein.
 12401	Bergstation Kabinenbahn Klausberg - Bergstation K-Express	Steinhaus im Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12401/#yyyy/#mm/#dd/12401_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.610 m	BERGSTATION K-EXPRESS
-15316	Wimbach Express - POI 1	Hochzillertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15316/#yyyy/#mm/#dd/15316_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 7012	Montagna - Montan - Castefeder mit/con Roen	Tramin an der Weinstrasse	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/7012/#yyyy/#mm/#dd/7012_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	470 m	Castefeder mit/con Roen
 16036	Monte Pana 3	St. Christina - San Cristina / Dolomites Val Gardena - Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16036/#yyyy/#mm/#dd/16036_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.630 m	-
 16038	Monte Pana - Panorama	St. Christina - San Cristina / Dolomites Val Gardena - Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/16038/#yyyy/#mm/#dd/16038_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.630 m	Panorama
@@ -9018,10 +9028,8 @@ langenferner	Langenferner [UHD]	Sulden am Ortler	https://www.foto-webcam.eu/webc
 11918	Valmorel Village	Valmorel - Le Grand Domaine	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/11918/#yyyy/#mm/#dd/11918_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.080 m	-
 3350	Mut - Sicht auf Dorf Tirol und Schenna	Meran 2000	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/3350/#yyyy/#mm/#dd/3350_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.264 m	Sicht auf Dorf Tirol und Schenna
 16464	Meran - Hotel Bavaria & Palma - Historisches Zentrum Meran, Pulverturm und Zielspitze	Meran 2000	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/16464/#yyyy/#mm/#dd/16464_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
-13407	Bergstation Umlaufbahn Schwemmalm - POI 1	Schwemmalm - Ultental	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/13407/#yyyy/#mm/#dd/13407_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.160 m	POI 1
 6455	Meran 2000 - Seilbahn Bergstation - Piffing	Meran 2000	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/6455/#yyyy/#mm/#dd/6455_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 10247	Ulten - Ultental	Schwemmalm - Ultental	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/10247/#yyyy/#mm/#dd/10247_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.185 m	Ultental
-18663	Innerratschings - Hot 2 1	Ratschings	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18663/#yyyy/#mm/#dd/18663_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.363 m	Hot 2
 15182	Seceda 2	St. Ulrich - Ortisei / Dolomites Val Gardena - Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15182/#yyyy/#mm/#dd/15182_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.450 m	-
 15142	Seceda	St. Ulrich - Ortisei / Dolomites Val Gardena - Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15142/#yyyy/#mm/#dd/15142_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.450 m	-
 15185	Seceda 5	St. Ulrich - Ortisei / Dolomites Val Gardena - Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/15185/#yyyy/#mm/#dd/15185_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.450 m	-
@@ -9044,6 +9052,7 @@ langenferner	Langenferner [UHD]	Sulden am Ortler	https://www.foto-webcam.eu/webc
 15254	Rasch├Âtz 4	St. Ulrich - Ortisei / Dolomites Val Gardena - Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/15254/#yyyy/#mm/#dd/15254_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.200 m	-
 15140	Col Raiser	Dolomites Val Gardena / Gr├Âden - St. Christina	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/15140/#yyyy/#mm/#dd/15140_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.106 m	-
 15143	Col Raiser 2	Dolomites Val Gardena / Gr├Âden - St. Christina	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15143/#yyyy/#mm/#dd/15143_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.106 m	-
+13407	Bergstation Umlaufbahn Schwemmalm - POI	Schwemmalm - Ultental	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/13407/#yyyy/#mm/#dd/13407_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.160 m	POI 1
 13683	Bergstation Breiteben	Schwemmalm - Ultental	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/13683/#yyyy/#mm/#dd/13683_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 4760	Helm-Plateau	3 Zinnen Dolomiten	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/4760/#yyyy/#mm/#dd/4760_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.050 m	-
 10444	Vals - Familienhotel Huber - Vals und Loipe	Gitschberg - Jochtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/10444/#yyyy/#mm/#dd/10444_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.350 m	Vals und Loipe
@@ -9317,6 +9326,7 @@ eppan-berg	Eppan Berg [UHD]	Bozen und Umgebung - S├╝dtirols S├╝den	https
 12974	Waldheimlifte	Sexten	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/12974/#yyyy/#mm/#dd/12974_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 17565	Rhemes Notre Dame - provided by #panomax.com https://rhemesnd.panomax.com	Chanavey / Rh├¬mes-Notre-Dame	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/17565/#yyyy/#mm/#dd/17565_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.735 m	provided by panomax.com
 16710	Skilift Weissenbach	Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/16710/#yyyy/#mm/#dd/16710_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.410 m	-
+13407	Bergstation Umlaufbahn Schwemmalm - POI	Ultental - Deutschnonsberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/13407/#yyyy/#mm/#dd/13407_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.160 m	POI 1
 12401	Bergstation Kabinenbahn Klausberg - Bergstation K-Express	Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12401/#yyyy/#mm/#dd/12401_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.610 m	BERGSTATION K-EXPRESS
 2287	Passo Stelvio	Stilfser Joch - Ortlergebiet	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/2287/#yyyy/#mm/#dd/2287_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.757 m	-
 2289	Passo Stelvio 3	Stilfser Joch - Ortlergebiet	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/2289/#yyyy/#mm/#dd/2289_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.757 m	-
@@ -9324,7 +9334,6 @@ eppan-berg	Eppan Berg [UHD]	Bozen und Umgebung - S├╝dtirols S├╝den	https
 15946	Mutegg Piste	Ultental - Deutschnonsberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15946/#yyyy/#mm/#dd/15946_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.142 m	-
 14043	Combes - St. Pierre - Front de neige.	La Combe Saint-Pierre	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/14043/#yyyy/#mm/#dd/14043_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	870 m	Front de neige.
 2290	Passo Stelvio 4	Stilfser Joch - Ortlergebiet	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/2290/#yyyy/#mm/#dd/2290_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.757 m	-
-13407	Bergstation Umlaufbahn Schwemmalm - POI 1	Ultental - Deutschnonsberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/13407/#yyyy/#mm/#dd/13407_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.160 m	POI 1
 13773	Bergstation Umlaufbahn Schwemmalm - POI 5	Ultental - Deutschnonsberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/13773/#yyyy/#mm/#dd/13773_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.160 m	POI 5
 12400	Klaussee - Klausberg	Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/12400/#yyyy/#mm/#dd/12400_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.235 m	-
 13406	Bergstation Umlaufbahn Schwemmalm	Ultental - Deutschnonsberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/13406/#yyyy/#mm/#dd/13406_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.160 m	-
@@ -9388,12 +9397,12 @@ genova	Genua - Viadotto Polcevera [UHD]	Genua	https://www.foto-webcam.eu/webcam/
 9269	Cerkno - Lom - spodaj - Lom - spodaj	Cerkno	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9269/#yyyy/#mm/#dd/9269_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.010 m	Lom - spodaj
 4895	Cerkno - Pocivalo	Cerkno	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/4895/#yyyy/#mm/#dd/4895_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 10403	Sella Nevea - Campo Scuola - Camposcuola - Zauberteppich	Sella Nevea - Canin	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/10403/#yyyy/#mm/#dd/10403_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.140 m	Camposcuola - Zauberteppich
+18653	Golf-Club Hochstatt - Blick auf den Abschlag von Bahn	Neresheim	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18653/#yyyy/#mm/#dd/18653_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	503 m	Blick auf den Abschlag von Bahn 1
 3307	Bovec	Kanin - Bovec - Sella Nevea	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/3307/#yyyy/#mm/#dd/3307_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	441 m	-
 15327	Regione Friuli Venezia Giulia - Piancavallo (1625m) - provided by #panomax.com https://2662.panomax.com	Piancavallo	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/15327/#yyyy/#mm/#dd/15327_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.700 m	provided by panomax.com
 18614	Siena Piazza del Campo	Siena	<missing>	322 m	-
 16326	Ga─ìe VRH zgornja postaja	SC Ga─ìe	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16326/#yyyy/#mm/#dd/16326_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 11124	Novo Meste	SC Ga─ìe	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/11124/#yyyy/#mm/#dd/11124_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
-18653	Golf-Club Hochstatt - Blick auf den Abschlag von Bahn 1	Neresheim	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18653/#yyyy/#mm/#dd/18653_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	503 m	Blick auf den Abschlag von Bahn 1
 13534	Zoncolan - Arvenis - Skilift und Piste Arvenis.	Zoncolan - Ravascletto - Sutrio	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/13534/#yyyy/#mm/#dd/13534_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.672 m	Skilift und Piste Arvenis.
 15575	Stol - Blick Richtung Kanin - Bovec.	Kanin - Bovec - Sella Nevea	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/15575/#yyyy/#mm/#dd/15575_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.673 m	Blick Richtung Kanin - Bovec.
 19343	Oberer Stadtplatz 5	Hall in Tirol	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19343/#yyyy/#mm/#dd/19343_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	574 m	-
@@ -9485,9 +9494,9 @@ genova	Genua - Viadotto Polcevera [UHD]	Genua	https://www.foto-webcam.eu/webcam/
 16005	Cima Rosetta 5	San Martino di Castrozza	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/16005/#yyyy/#mm/#dd/16005_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.700 m	-
 7903	Oberw├Âlz - Oberw├Âlz 2	Lachtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/7903/#yyyy/#mm/#dd/7903_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	940 m	Oberw├Âlz
 11895	Pokljuka - Rudno polje 2	Pokljuka - Vi┼íevnik	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/11895/#yyyy/#mm/#dd/11895_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.344 m	-
-2448	Vitranc 1	Kranjska Gora	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/2448/#yyyy/#mm/#dd/2448_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	998 m	-
 17838	Planica - Das Nordische Zentrum in Planica.	Kranjska Gora	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/17838/#yyyy/#mm/#dd/17838_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	950 m	Das Nordische Zentrum in Planica.
 12142	Grand-Ballon - Ski de fond - Piste de fond depuis h├┤tel du club vosgien.	Grand-Ballon	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/12142/#yyyy/#mm/#dd/12142_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.340 m	Piste de fond depuis h├┤tel du club vosgien.
+2448	Vitranc	Kranjska Gora	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/2448/#yyyy/#mm/#dd/2448_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	998 m	-
 8851	Chamonix - Balme - Bergstation Plan des Reimes	Chamonix-Mont-Blanc	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/8851/#yyyy/#mm/#dd/8851_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.240 m	Bergstation Plan des Reimes
 1951	Muldenlift Talstation	St. Barbara im M├╝rztal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/1951/#yyyy/#mm/#dd/1951_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.070 m	-
 14031	Chalmazel - Front de neige.	Chalmazel	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/14031/#yyyy/#mm/#dd/14031_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.120 m	Front de neige.
@@ -9503,6 +9512,7 @@ genova	Genua - Viadotto Polcevera [UHD]	Genua	https://www.foto-webcam.eu/webcam/
 3803	Mont Bochor - T├®l├®si├¿ge Ancolie.	Pralognan la Vanoise	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/3803/#yyyy/#mm/#dd/3803_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.023 m	T├®l├®si├¿ge Ancolie.
 13033	Seebruck am Chiemsee - Blick auf den Chiemsee, Hochstaufen und Zwiesel, die Chiemgauer Alpen, ganz rechts den Hochfelln.	Chiemgau - Chiemsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/13033/#yyyy/#mm/#dd/13033_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	524 m	Blick auf den Chiemsee, Hochstaufen und Zwiesel, die Chiemgauer Alpen, ganz rechts den Hochfelln.
 16638	Station de Manigod - Col de la Croix Fry	Manigod - Massif des Aravis	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/16638/#yyyy/#mm/#dd/16638_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.450 m	-
+12940	Badestelle Bad - POI	St. Peter-Ording	<missing>	\N	\N
 13877	Lelex Catheline - Bergstation Catheline.	L├®lex - Crozet	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/13877/#yyyy/#mm/#dd/13877_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.450 m	Bergstation Catheline.
 4020	Village - Le Grand Bornand - La Tournette	Le Grand Bornand - St. Jean de Sixt - Massif des Arravis	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/4020/#yyyy/#mm/#dd/4020_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.000 m	La Tournette
 3953	Le Village de Ch├ótel	Ch├ótel	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/3953/#yyyy/#mm/#dd/3953_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.200 m	-
@@ -9518,7 +9528,6 @@ genova	Genua - Viadotto Polcevera [UHD]	Genua	https://www.foto-webcam.eu/webcam/
 4016	Village - Le Grand Bornand - La Maison du Patrimoine	Le Grand Bornand - St. Jean de Sixt - Massif des Arravis	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/4016/#yyyy/#mm/#dd/4016_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.000 m	La Maison du Patrimoine
 18622	K├Âln Lindweiler, Igel Futterhaus	K├Âln	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18622/#yyyy/#mm/#dd/18622_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 9663	Les Houches	Chamonix-Mont-Blanc	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/9663/#yyyy/#mm/#dd/9663_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	\N	\N
-12940	Badestelle Bad - POI 1	St. Peter-Ording	<missing>	\N	\N
 15473	Les Menuires - La Croisette	Les Menuires / Les 3 Vall├®es	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15473/#yyyy/#mm/#dd/15473_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.855 m	-
 3443	Les Aiguilles de Chamonix - View of Mont Blanc and Flegere	Chamonix Mont-Blanc	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/3443/#yyyy/#mm/#dd/3443_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.396 m	View of Mont Blanc and Flegere
 8852	Chamonix - Montenvers	Chamonix Mont-Blanc	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/8852/#yyyy/#mm/#dd/8852_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	-	-
@@ -9747,13 +9756,13 @@ genova	Genua - Viadotto Polcevera [UHD]	Genua	https://www.foto-webcam.eu/webcam/
 14958	Javo┼Ö├¡ d┼»l 4	Pec pod Sn─ø┼¥kou / ─îern├í hora - Pec	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/14958/#yyyy/#mm/#dd/14958_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.015 m	-
 5146	Mal├í ├Üpa	Mal├í ├Üpa	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/5146/#yyyy/#mm/#dd/5146_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.041 m	-
 2648	Beatenberg - Chalet Birkli	Beatenberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/2648/#yyyy/#mm/#dd/2648_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
+15138	Bub├íkov	Herl├¡kovice & Bubakov	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/15138/#yyyy/#mm/#dd/15138_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	540 m	Bub├íkov 1
 2648	Beatenberg - Chalet Birkli	Beatenberg - Niederhorn - Hohwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/2648/#yyyy/#mm/#dd/2648_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 8006	Aqualand Moravia 2	Pasohl├ívky	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/8006/#yyyy/#mm/#dd/8006_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	170 m	-
 5152	Mlad├® Buky	Mlad├® Buky	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/5152/#yyyy/#mm/#dd/5152_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	600 m	-
 13036	Mal├í ├Üpa 3	Mal├í ├Üpa	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/13036/#yyyy/#mm/#dd/13036_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.041 m	-
 10519	Horn├¡ Domky - Krkono┼íe - pohled z Kamence	Horn├¡ Domky / Rokytnice nad Jizerou	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/10519/#yyyy/#mm/#dd/10519_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Krkono┼íe - pohled z Kamence
 10520	Horn├¡ Domky - Studenov - Studenov	Horn├¡ Domky / Rokytnice nad Jizerou	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/10520/#yyyy/#mm/#dd/10520_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Studenov
-15138	Bub├íkov 1 - Bub├íkov 1	Herl├¡kovice & Bubakov	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/15138/#yyyy/#mm/#dd/15138_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	540 m	Bub├íkov 1
 11328	Herl├¡kovice II	Herl├¡kovice & Bubakov	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/11328/#yyyy/#mm/#dd/11328_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	540 m	-
 10394	Harrachov - Jizerka Bukovec - Jizerka Bukovec	Harrachov	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/10394/#yyyy/#mm/#dd/10394_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Jizerka Bukovec
 12353	Harrachov 2	Harrachov	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12353/#yyyy/#mm/#dd/12353_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	715 m	-
@@ -9808,10 +9817,8 @@ genova	Genua - Viadotto Polcevera [UHD]	Genua	https://www.foto-webcam.eu/webcam/
 13548	Martinky 2	Winter Park Martinky	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/13548/#yyyy/#mm/#dd/13548_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 13547	Martinky	Winter Park Martinky	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/13547/#yyyy/#mm/#dd/13547_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 10485	Dolni Morava - Sky Walk - Sky Walk	Doln├¡ Morava	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/10485/#yyyy/#mm/#dd/10485_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.200 m	Sky Walk
-10903	Pal - La Caubella - POI 1	Vallnord / Pal-Arinsal - La Massana	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/10903/#yyyy/#mm/#dd/10903_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.890 m	POI 1
 10082	Flugplatz Timmersdorf Leoben	Traboch	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/10082/#yyyy/#mm/#dd/10082_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	640 m	-
 17453	Fellhorn/Oberstdorf Kleinwalsertal 2	Oberallg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/17453/#yyyy/#mm/#dd/17453_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.967 m	-
-8485	Doln├¡ Morava - POI 1	Doln├¡ Morava	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/8485/#yyyy/#mm/#dd/8485_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.105 m	POI 1
 8488	Doln├¡ Morava - POI 4	Doln├¡ Morava	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8488/#yyyy/#mm/#dd/8488_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.105 m	POI 4
 17949	Hlavn├¢ svah	SKI ORAVICE Meander Skipark	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/17949/#yyyy/#mm/#dd/17949_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 9188	Berghaus Zallinger - Zallinger Kapelle	Seiser Alm	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/9188/#yyyy/#mm/#dd/9188_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.030 m	Zallinger Kapelle
@@ -9820,7 +9827,6 @@ genova	Genua - Viadotto Polcevera [UHD]	Genua	https://www.foto-webcam.eu/webcam/
 15429	Szczyrk - Gondola - Szczyrk Mountain Resort Talbereich.	M├ñhren und Schlesien	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/15429/#yyyy/#mm/#dd/15429_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	591 m	Szczyrk Mountain Resort Talbereich.
 14084	Eggerszell - Blick nach S├╝den ins Kinsachtal und in die Donauebene zwischen Plattling und Straubing.	Rattiszell	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/14084/#yyyy/#mm/#dd/14084_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 14084	Eggerszell - Blick nach S├╝den ins Kinsachtal und in die Donauebene zwischen Plattling und Straubing.	Sankt Englmar	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/14084/#yyyy/#mm/#dd/14084_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
-10064	Olomouc - Olm├╝tz / Kr├íli─ì├ík - POI 1	Krali─ì├ík	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/10064/#yyyy/#mm/#dd/10064_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	770 m	POI 1
 8430	B├¡l├í - Panorama	SKI B├¡l├í	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/8430/#yyyy/#mm/#dd/8430_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	670 m	Panorama
 12595	Frankfurt am Main - Skyline Mainhatten.	FrankfurtRheinMain	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/12595/#yyyy/#mm/#dd/12595_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	115 m	Skyline Mainhatten.
 18761	Wormser Dom - Blick auf die Dreifaltigkeitskirche	Worms	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/18761/#yyyy/#mm/#dd/18761_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	100 m	Blick auf die Dreifaltigkeitskirche
@@ -9829,6 +9835,7 @@ genova	Genua - Viadotto Polcevera [UHD]	Genua	https://www.foto-webcam.eu/webcam/
 8868	Alpe Tognala - Cima Tognola	San Martino di Castrozza / Rolle Pass	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8868/#yyyy/#mm/#dd/8868_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.322 m	Cima Tognola
 8448	Pustevny - Panorama	Pustevny	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8448/#yyyy/#mm/#dd/8448_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.024 m	Panorama
 8007	Aqualand Moravia 3	Pasohl├ívky	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/8007/#yyyy/#mm/#dd/8007_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	170 m	-
+10903	Pal - La Caubella - POI	Vallnord / Pal-Arinsal - La Massana	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/10903/#yyyy/#mm/#dd/10903_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.890 m	POI 1
 5098	Jasn├í - Lukov├í	Jasn├í N├¡zke Tatry / Chopok	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/5098/#yyyy/#mm/#dd/5098_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.670 m	-
 16274	Nov├® M─østo na Morav─ø	Harus├ík / Nov├® M─østo na Morav─ø	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/16274/#yyyy/#mm/#dd/16274_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	648 m	-
 18666	Inzell / Camping Lindlbauer - Blick vom Campingplatz Lindlbauer ├╝ber das Dorf Inzell hinweg in Richtung Wei├ƒbach im Berchtesgadener Land und weiter bis nach Ruhpolding im Landkreis Traunstein.	Inzell	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/18666/#yyyy/#mm/#dd/18666_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	693 m	Blick vom Campingplatz Lindlbauer ├╝ber das Dorf Inzell hinweg in Richtung Wei├ƒbach im Berchtesgadener Land und weiter bis nach Ruhpolding im Landkreis Traunstein.
@@ -9913,13 +9920,13 @@ schruns	Schruns - Blick ├╝ber Schruns nach S├╝dwesten. [UHD]	Schruns - T
 6298	Mellau - Hotel Sonne	Mellau - Dam├╝ls - Faschina Skischaukel	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/6298/#yyyy/#mm/#dd/6298_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	688 m	-
 13023	Schoppernau - Schrannen-Hof - Hotel Elisabeth.	Bregenzerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/13023/#yyyy/#mm/#dd/13023_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	845 m	Hotel Elisabeth.
 2833	Bezau Bergbahnen	Seilbahn Bezau	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/2833/#yyyy/#mm/#dd/2833_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
+19313	Monte Pora	Monte Pora / Castione della Presolana	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19313/#yyyy/#mm/#dd/19313_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.630 m	-
 18073	Gulmabahn Bergstation	Brand	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18073/#yyyy/#mm/#dd/18073_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	\N	\N
 6297	\tFlugzentrum Andelsbuch	Andelsbuch Bergbahnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/6297/#yyyy/#mm/#dd/6297_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	640 m	-
 hasenbuehel	Hasenb├╝hel [UHD]	Dam├╝ls	https://www.foto-webcam.eu/webcam/hasenbuehel/#yyyy/#mm/#dd/#hh#nn_hu.jpg	\N	\N
 11453	Heum├Âserlifte	Heum├Âserlift / Ebnit	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/11453/#yyyy/#mm/#dd/11453_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.040 m	-
 7530	Melkboden - Alpengasthof Melkboden.	Brand	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/7530/#yyyy/#mm/#dd/7530_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.590 m	Alpengasthof Melkboden.
 18188	Dam├╝ls - Dam├╝lser Hof - Dam├╝ls	Dam├╝ls	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/18188/#yyyy/#mm/#dd/18188_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.500 m	Dam├╝ls
-19313	Monte Pora 1	Monte Pora / Castione della Presolana	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19313/#yyyy/#mm/#dd/19313_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.630 m	-
 12237	Alpe Gamp - Berghaus Mattajoch - Kirchle	Gurtis	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/12237/#yyyy/#mm/#dd/12237_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.560 m	Kirchle
 8644	Burtschasattel	Brand	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/8644/#yyyy/#mm/#dd/8644_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.655 m	-
 93	Dam├╝ls Bergstation Uga - Dam├╝lser Mittagsspitze (2.095m)	Dam├╝ls	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/93/#yyyy/#mm/#dd/93_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.803 m	Dam├╝lser Mittagsspitze (2.095m)
@@ -9943,7 +9950,6 @@ hasenbuehel	Hasenb├╝hel [UHD]	Dam├╝ls	https://www.foto-webcam.eu/webcam/
 6299	Au - Hollandheim - Kanisfluh	Bregenzerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/6299/#yyyy/#mm/#dd/6299_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 5356	St. Gallenkirch	St. Gallenkirch - Gortipohl	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/5356/#yyyy/#mm/#dd/5356_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	896 m	-
 8971	Mellau Gipfelbahn	Bregenzerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/8971/#yyyy/#mm/#dd/8971_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.942 m	-
-19338	Monte Pora - Traliccio Cima - provided by #panomax.com https://montepora.panomax.com/cimapora 1	Monte Pora / Castione della Presolana	<missing>	1.880 m	provided by panomax.com
 1069	B├Âdele - Lanklift - Lanklift	Bregenzerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/1069/#yyyy/#mm/#dd/1069_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.180 m	Lanklift
 6300	Au - Hotel Post	Bregenzerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6300/#yyyy/#mm/#dd/6300_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	810 m	-
 12328	Bizau - Blick Richtung Westen auf Bizau.	Bregenzerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/12328/#yyyy/#mm/#dd/12328_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	740 m	Blick Richtung Westen auf Bizau.
@@ -9966,6 +9972,7 @@ damuels	Dam├╝ls - Blick nach S├╝den / Faschina [UHD]	Bregenzerwald	https
 319	Mellau Rossstelle 2	Bregenzerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/319/#yyyy/#mm/#dd/319_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.400 m	-
 1041	Panoramagasthof Kristberg - R├ñtikongebirge	Montafoner Kristbergbahn - Silbertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/1041/#yyyy/#mm/#dd/1041_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.425 m	R├ñtikongebirge
 graun	Graun im Vinschgau [UHD]	Langtaufers	https://www.foto-webcam.eu/webcam/graun/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.900 m	-
+19338	Monte Pora - Traliccio Cima - provided by #panomax.com https://montepora.panomax.com/cimapora	Monte Pora / Castione della Presolana	<missing>	1.880 m	provided by panomax.com
 4844	Bartholom├ñberg - Haus Silberberg - Westblick vom Haus Silberberg talausw├ñrts zur Tschaggunser Mittagsspitze und den 3 T├╝rmen	Montafoner Kristbergbahn - Silbertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/4844/#yyyy/#mm/#dd/4844_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 15942	Frastanz - Feldkirch / Frastanz / Walgau / Rheintal / Schweizer Berge	Bodensee - Vorarlberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15942/#yyyy/#mm/#dd/15942_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	635 m	Feldkirch / Frastanz / Walgau / Rheintal / Schweizer Berge
 6025	Skilift Raggal - Talstation Skilifte Raggal	Raggal - Marul	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/6025/#yyyy/#mm/#dd/6025_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	970 m	Talstation Skilifte Raggal
@@ -9993,13 +10000,13 @@ roethis-west	R├Âthis West - Blick nach Westen [UHD]	Bodensee - Vorarlberg	htt
 18264	Heilbronner H├╝tte - Die Neue Heilbronner H├╝tte.	Silvretta Montafon	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18264/#yyyy/#mm/#dd/18264_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.320 m	Die Neue Heilbronner H├╝tte.
 roethis-ost	R├Âthis Ost - Blick nach Osten [UHD]	Bodensee - Vorarlberg	https://www.foto-webcam.eu/webcam/roethis-ost/#yyyy/#mm/#dd/#hh#nn_hu.jpg	436 m	Blick nach Osten
 1139	Nova Stoba - Sicht auf Valisera Berg	Silvretta Montafon	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/1139/#yyyy/#mm/#dd/1139_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.720 m	Sicht auf Valisera Berg
-11867	Laterns - POI 1	Bodensee - Vorarlberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11867/#yyyy/#mm/#dd/11867_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.500 m	POI 1
 9602	Hochplattenbahn Marquartstein	Marquartstein	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/9602/#yyyy/#mm/#dd/9602_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.030 m	-
 15734	Schr├Âcken - Oberboden - Blick auf die Juppenspitze und Mohnenfluh.	Warth - Schr├Âcken am Arlberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/15734/#yyyy/#mm/#dd/15734_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.300 m	Blick auf die Juppenspitze und Mohnenfluh.
 203	Hochlitten Riefensberg / Bregenzerwald - H├╝ttenlift und Grenzlift.	Hochlitten Riefensberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/203/#yyyy/#mm/#dd/203_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	970 m	H├╝ttenlift und Grenzlift.
 6308	Mittelberg - Naturhotel L├ñrchenhof	Mittelberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/6308/#yyyy/#mm/#dd/6308_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.320 m	-
 6323	Mittelberg B├Âdmen - Hotel Alte Krone	Mittelberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/6323/#yyyy/#mm/#dd/6323_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.130 m	-
 1043	Kristberglift mit St. Agatha Kirche	Silbertal - Kristberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/1043/#yyyy/#mm/#dd/1043_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.490 m	-
+11867	Laterns - POI	Bodensee - Vorarlberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11867/#yyyy/#mm/#dd/11867_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.500 m	POI 1
 6016	Rathaus Bludenz	Bludenz	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6016/#yyyy/#mm/#dd/6016_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	588 m	-
 6308	Mittelberg - Naturhotel L├ñrchenhof	Walmendingerhorn - Ifen - Heuberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/6308/#yyyy/#mm/#dd/6308_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.320 m	-
 15942	Frastanz - Feldkirch / Frastanz / Walgau / Rheintal / Schweizer Berge	Frastanz	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15942/#yyyy/#mm/#dd/15942_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	635 m	Feldkirch / Frastanz / Walgau / Rheintal / Schweizer Berge
@@ -10092,7 +10099,6 @@ roethis-ost	R├Âthis Ost - Blick nach Osten [UHD]	Bodensee - Vorarlberg	https:
 16985	Rifugio Chierego - Blick auf den Gardasee	Brenzone	<missing>	\N	\N
 16078	Just Walzenhausen	Gai├ƒau	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/16078/#yyyy/#mm/#dd/16078_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	500 m	-
 14413	Laterns - Sommerrodelbahn 3	Laterns-Gapfohl	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/14413/#yyyy/#mm/#dd/14413_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.210 m	-
-11867	Laterns - POI 1	Laterns - Gapfohl	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11867/#yyyy/#mm/#dd/11867_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.500 m	POI 1
 11019	Ra Valles - Rifugio Ra Valles m.slm 2475	Tofana - Ra Valles	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/11019/#yyyy/#mm/#dd/11019_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.475 m	Rifugio Ra Valles m.slm 2475
 8292	Bergstation Riedkopf	Klostertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/8292/#yyyy/#mm/#dd/8292_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.960 m	-
 13106	Silvretta-Bielerh├Âhe	Silvretta Montafon Bergbahnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/13106/#yyyy/#mm/#dd/13106_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.040 m	-
@@ -10586,13 +10592,13 @@ cully	Cully Gen├¿ve [UHD]	Cully	https://foto-webcam.ch/webcam/cully/#yyyy/#mm
 3137	Stockenboi Ostufer - Weissensee	Stockenboi	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/3137/#yyyy/#mm/#dd/3137_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	929 m	Weissensee
 8243	W├Ârthsee - W├Ârthsee	Starnberger F├╝nf-Seen-Land	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8243/#yyyy/#mm/#dd/8243_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	555 m	W├Ârthsee
 15207	F├╝ssener J├Âchle Bergstation 2	F├╝ssener J├Âchle - Gr├ñn	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/15207/#yyyy/#mm/#dd/15207_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.825 m	-
-7052	Schneekope II - Hot 1	Pec pod Sn─ø┼¥kou / ─îern├í hora - Pec	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/7052/#yyyy/#mm/#dd/7052_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.037 m	Hot 1
 15385	Untermatt Bergstation 3	Obersaxen Mundaun	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/15385/#yyyy/#mm/#dd/15385_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.617 m	-
 13299	Serleslifte Mieders Bergstation Koppeneck II - Panorama	Serlesbahnen Mieders	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/13299/#yyyy/#mm/#dd/13299_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.650 m	Panorama
 12153	Herrenwies - G├ñstehaus Braun 2	Mehliskopf	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12153/#yyyy/#mm/#dd/12153_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	750 m	-
 16143	Weissenstein - Wei├ƒer Stein - Blick in Richtung S├╝dosten.	Hellenthal	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/16143/#yyyy/#mm/#dd/16143_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	690 m	Blick in Richtung S├╝dosten.
 9386	Hafelekar 5	Innsbruck - Nordkette	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/9386/#yyyy/#mm/#dd/9386_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.256 m	-
 4728	Monte Rosa da Sitten	Gressoney La Trinit├®	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/4728/#yyyy/#mm/#dd/4728_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.300 m	-
+7052	Schneekope II - Hot	Pec pod Sn─ø┼¥kou / ─îern├í hora - Pec	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/7052/#yyyy/#mm/#dd/7052_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.037 m	Hot 1
 13414	Klug Lifte	Klug Lifte Hebalm - Freil├ñnderalm	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/13414/#yyyy/#mm/#dd/13414_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 18146	Kotva horn├¡ s pohledem na chatu na Bou┼Ö┼ê├íku - Bergstation Schlepplift mit Bergrestaurant Bou┼Ö┼ê├ík	Bou┼Ö┼ê├ík	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/18146/#yyyy/#mm/#dd/18146_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 10701	Fieberbrunn - Buchensteinwand in Tirol	Bergbahn Pillersee ÔÇô Buchensteinwand	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/10701/#yyyy/#mm/#dd/10701_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
@@ -10728,7 +10734,6 @@ cully	Cully Gen├¿ve [UHD]	Cully	https://foto-webcam.ch/webcam/cully/#yyyy/#mm
 17570	Hochwurzen Bergstation	Hochwurzen / Schladming - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/17570/#yyyy/#mm/#dd/17570_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 17570	Hochwurzen Bergstation	Pichl-Reiteralm	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/17570/#yyyy/#mm/#dd/17570_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 17570	Hochwurzen Bergstation	Schladming-Rohrmoos-Pichl	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/17570/#yyyy/#mm/#dd/17570_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
-9945	Campo Felice - Vallone Innamorati - Vista su partenza Seggiovia Colle Destro, Colle Sinistro, Piste Ariete e Leone. 1	Campo Felice	<missing>	1.715 m	Vista su partenza Seggiovia Colle Destro, Colle Sinistro, Piste Ariete e Leone.
 15507	├£bungslift Stelzen	Lohnsburg am Kobernau├ƒerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/15507/#yyyy/#mm/#dd/15507_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	637 m	-
 4749	Champorcher	Champorcher / Monterosa	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/4749/#yyyy/#mm/#dd/4749_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.930 m	-
 4749	Champorcher	Champorcher	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/4749/#yyyy/#mm/#dd/4749_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.930 m	-
@@ -10738,6 +10743,7 @@ cully	Cully Gen├¿ve [UHD]	Cully	https://foto-webcam.ch/webcam/cully/#yyyy/#mm
 6836	Lockstein - Berchtesgaden	Jenner - Sch├Ânau am K├Ânigssee / Berchtesgadener Land	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6836/#yyyy/#mm/#dd/6836_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	687 m	Berchtesgaden
 6836	Lockstein - Berchtesgaden	Berchtesgaden	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6836/#yyyy/#mm/#dd/6836_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	687 m	Berchtesgaden
 6836	Lockstein - Berchtesgaden	Oberbayern	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6836/#yyyy/#mm/#dd/6836_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	687 m	Berchtesgaden
+9945	Campo Felice - Vallone Innamorati - Vista su partenza Seggiovia Colle Destro, Colle Sinistro, Piste Ariete e Leone.	Campo Felice	<missing>	1.715 m	Vista su partenza Seggiovia Colle Destro, Colle Sinistro, Piste Ariete e Leone.
 16558	Stuttgart, Schlossplatz	Stuttgart	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/16558/#yyyy/#mm/#dd/16558_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 4902	┼áentjo┼ít - ┼áentjo┼ít nad Horjulom	┼áentjo┼ít nad Horjulom	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/4902/#yyyy/#mm/#dd/4902_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	630 m	┼áentjo┼ít nad Horjulom
 4902	┼áentjo┼ít - ┼áentjo┼ít nad Horjulom	Vrhnika	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/4902/#yyyy/#mm/#dd/4902_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	630 m	┼áentjo┼ít nad Horjulom
@@ -10927,8 +10933,6 @@ cully	Cully Gen├¿ve [UHD]	Cully	https://foto-webcam.ch/webcam/cully/#yyyy/#mm
 4752	Fenis - Castello di Fenis	Aosta und Umgebung	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/4752/#yyyy/#mm/#dd/4752_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 4752	Fenis - Castello di Fenis	Pila / Aostatal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/4752/#yyyy/#mm/#dd/4752_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 14315	Motta Naluns 4	Scuol Motta Naluns	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/14315/#yyyy/#mm/#dd/14315_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.150 m	-
-13962	Stubnerkogel Bergstation S├╝dseite - Hot 1	Bad Gastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13962/#yyyy/#mm/#dd/13962_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.233 m	Hot 1
-13962	Stubnerkogel Bergstation S├╝dseite - Hot 1	Bad Gastein	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13962/#yyyy/#mm/#dd/13962_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.233 m	Hot 1
 3072	Berggasthof "Spie├ƒberghaus" - Blick auf die Schneeh├Âhe	Inselsberg / Bad Tabarz	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/3072/#yyyy/#mm/#dd/3072_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	690 m	Blick auf die Schneeh├Âhe
 15121	St. Radegund bei Graz - St. Radegund Ort und Sch├Âckl	St. Radegund bei Graz	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/15121/#yyyy/#mm/#dd/15121_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	680 m	St. Radegund Ort und Sch├Âckl
 3018	Kohlmais Tal	Saalbach Hinterglemm Leogang Fieberbrunn	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/3018/#yyyy/#mm/#dd/3018_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.040 m	-
@@ -10940,6 +10944,7 @@ schwaigerhaus	Heinrich-Schwaiger-Haus - Hochgebirgsstauseen Kaprun [UHD]	Kitzste
 8472	Metschstand - Speichersee	Lenk-Simmental	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/8472/#yyyy/#mm/#dd/8472_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.103 m	Speichersee
 6885	Ellmau Hartkaiser - Hartkaiserbahn Berg	Ellmau	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/6885/#yyyy/#mm/#dd/6885_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.555 m	Hartkaiserbahn Berg
 1308	Talstation Kaibling 6er - Kaibling 6er	Haus im Ennstal	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/1308/#yyyy/#mm/#dd/1308_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.268 m	Kaibling 6er
+13962	Stubnerkogel Bergstation S├╝dseite - Hot	Bad Gastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13962/#yyyy/#mm/#dd/13962_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.233 m	Hot 1
 11083	Bosco Gurin - Rossboda	Vallemaggia	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/11083/#yyyy/#mm/#dd/11083_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.000 m	Rossboda
 13188	Gro├ƒeckbahn Bergstation	Gro├ƒeck - Speiereck - Mauterndorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/13188/#yyyy/#mm/#dd/13188_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 9947	Campo Felice - Partenza Snow Park - Vista su Seggiovia Campo Felice, area snow park, pista Scorpione e pista Gemelli.	Campo Felice	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/9947/#yyyy/#mm/#dd/9947_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.658 m	Vista su Seggiovia Campo Felice, area snow park, pista Scorpione e pista Gemelli.
@@ -11114,7 +11119,6 @@ schwaigerhaus	Heinrich-Schwaiger-Haus - Hochgebirgsstauseen Kaprun [UHD]	Kitzste
 7521	Sillerenb├╝hl 7	Adelboden	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/7521/#yyyy/#mm/#dd/7521_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.974 m	-
 16952	Canalone - Blick auf die Bergstation	Leventina	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/16952/#yyyy/#mm/#dd/16952_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.730 m	Blick auf die Bergstation
 13853	Avoriaz - L┬┤Amara	Avoriaz 1800 / Portes du Soleil	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/13853/#yyyy/#mm/#dd/13853_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.810 m	-
-6844	Marienberg - Hot 1	Biberwier - Marienbergbahnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6844/#yyyy/#mm/#dd/6844_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	Hot 1
 8519	Bergstation Kings Cab	Hochk├Ânig / Maria Alm - Dienten - M├╝hlbach - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/8519/#yyyy/#mm/#dd/8519_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.822 m	-
 1059	Klaffer am Hochficht	Klaffer am Hochficht	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/1059/#yyyy/#mm/#dd/1059_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.010 m	-
 5919	Segelclub F├╝ssen - Forggensee e.V. Clubgel├ñnde und Blick ├╝ber den Forggensee	F├╝ssen	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/5919/#yyyy/#mm/#dd/5919_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	803 m	Forggensee e.V. Clubgel├ñnde und Blick ├╝ber den Forggensee
@@ -11125,6 +11129,7 @@ schwaigerhaus	Heinrich-Schwaiger-Haus - Hochgebirgsstauseen Kaprun [UHD]	Kitzste
 575	Express Groste 1 / Nube d┬┤Argento - Lago Montagnoli	Madonna di Campiglio / Dolomiti di Brenta	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/575/#yyyy/#mm/#dd/575_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.776 m	Lago Montagnoli
 9371	Pertisau - Hochsteg - Seebergspitze	Karwendel-Bergbahn Pertisau ÔÇô Achensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/9371/#yyyy/#mm/#dd/9371_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	930 m	Seebergspitze
 8519	Bergstation Kings Cab	M├╝hlbach am Hochk├Ânig	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/8519/#yyyy/#mm/#dd/8519_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.822 m	-
+6844	Marienberg - Hot	Biberwier - Marienbergbahnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6844/#yyyy/#mm/#dd/6844_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	Hot 1
 16745	Nordhang	Sauerland/ Nordrhein-Westfalen	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/16745/#yyyy/#mm/#dd/16745_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 11400	Lyralift	Schliersee - Neuhaus - Spitzingsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/11400/#yyyy/#mm/#dd/11400_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 9984	H├╝hnerk├Âpfe (2. Sektion Bergstation)	Tschiertschen	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9984/#yyyy/#mm/#dd/9984_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
@@ -11169,7 +11174,6 @@ schwaigerhaus	Heinrich-Schwaiger-Haus - Hochgebirgsstauseen Kaprun [UHD]	Kitzste
 16855	Seiffen - Kamera am Weihnachtshaus - Kamera mit Blick entlang der Seiffener Hauptstra├ƒe.	Seiffen	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/16855/#yyyy/#mm/#dd/16855_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	650 m	Kamera mit Blick entlang der Seiffener Hauptstra├ƒe.
 12236	Alpe Gamp - Berghaus Mattajoch	Nenzing	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/12236/#yyyy/#mm/#dd/12236_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.560 m	-
 7175	Jerzens - Zirbenbahn 5	Hochzeiger - Pitztal	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7175/#yyyy/#mm/#dd/7175_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.400 m	-
-11727	Obergurgl - POI 1	Obergurgl - Hochgurgl	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11727/#yyyy/#mm/#dd/11727_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.300 m	POI 1
 unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Kofel [UHD]	Steckenberglifte - Schartenlifte / Unterammergau	https://www.foto-webcam.eu/webcam/unterammergau/#yyyy/#mm/#dd/#hh#nn_hu.jpg	836 m	Blick nach S├╝dosten zum Laber, Fricken und Kofel
 16457	Obereggen - Oberholz Talstation	Deutschnofen - Obereggen - Eggen - Petersberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/16457/#yyyy/#mm/#dd/16457_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.096 m	-
 13876	Hetzendorf - Betzenstein und Waiganz	Frankenjura	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/13876/#yyyy/#mm/#dd/13876_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	500 m	Betzenstein und Waiganz
@@ -11184,6 +11188,7 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 17934	Bergstation Luftseilbahn Wiler-Lauchernalp - L├Âtschenl├╝cke	Lauchernalp - L├Âtschental	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/17934/#yyyy/#mm/#dd/17934_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.970 m	L├Âtschenl├╝cke
 16305	Kasberg 2	Kasberg - Gr├╝nau im Almtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/16305/#yyyy/#mm/#dd/16305_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.570 m	-
 6113	Gerlitzen Mittelstation Kanzelh├Âhe 3	Villach	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/6113/#yyyy/#mm/#dd/6113_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.440 m	-
+11727	Obergurgl - POI	Obergurgl - Hochgurgl	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11727/#yyyy/#mm/#dd/11727_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.300 m	POI 1
 11967	Schneesportschule Disentis - Kinderland - Skiwiese Sax	Disentis	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11967/#yyyy/#mm/#dd/11967_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.220 m	Kinderland - Skiwiese Sax
 11967	Schneesportschule Disentis - Kinderland - Skiwiese Sax	Disentis Sedrun	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11967/#yyyy/#mm/#dd/11967_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.220 m	Kinderland - Skiwiese Sax
 6162	Foppolo - Toro (2.500m) -  Montebello (2.000m) - Val Gussera (2.100m)	San Simone - Foppolo - Carona	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/6162/#yyyy/#mm/#dd/6162_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Toro (2.500m) -  Montebello (2.000m) - Val Gussera (2.100m)
@@ -11232,9 +11237,9 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 3412	Wasserturm - Blick in den Osten Wiens zum W├ñrmekraftwerk Simmering (Fernw├ñrme Wien)	Wien - Stadt	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/3412/#yyyy/#mm/#dd/3412_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	250 m	Blick in den Osten Wiens zum W├ñrmekraftwerk Simmering (Fernw├ñrme Wien)
 16566	Mezdi Bergstation - Panorama	Seiser Alm	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16566/#yyyy/#mm/#dd/16566_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.070 m	Panorama
 16109	Wolfratshausen - Panoramablick von NO bis S.	Wolfratshausen	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/16109/#yyyy/#mm/#dd/16109_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	587 m	Panoramablick von NO bis S.
+11734	Fiesch - POI	Aletsch Arena / Riederalp - Bettmeralp - Fiesch-Eggishorn	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/11734/#yyyy/#mm/#dd/11734_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.220 m	POI 1
 15677	Rifugio Gnifetti	Gressoney - La Trinit├® - Alagna Valsesia / Monterosa	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/15677/#yyyy/#mm/#dd/15677_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.647 m	-
 15037	Loser Alm	Altaussee - Loser	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/15037/#yyyy/#mm/#dd/15037_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.600 m	-
-11734	Fiesch - POI 1	Aletsch Arena / Riederalp - Bettmeralp - Fiesch-Eggishorn	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/11734/#yyyy/#mm/#dd/11734_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.220 m	POI 1
 13086	Bad Teinach-Zavelstein - Panorama	Schwarzwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/13086/#yyyy/#mm/#dd/13086_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	550 m	Panorama
 6176	Arrivo Telecabina Bottero - Alpetta	Limone Piemonte / Riserva Bianca	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6176/#yyyy/#mm/#dd/6176_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Alpetta
 16109	Wolfratshausen - Panoramablick von NO bis S.	Skilift Beuerberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/16109/#yyyy/#mm/#dd/16109_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	587 m	Panoramablick von NO bis S.
@@ -11752,7 +11757,6 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 15482	LZ Gantrisch - Schutzh├╝tte West	Schwarzenb├╝hl / Selital	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15482/#yyyy/#mm/#dd/15482_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.450 m	-
 15569	Berghotel Oeschinensee - Berghotel Oeschinensee, unique seit 1892.	Oeschinen - Kandersteg	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/15569/#yyyy/#mm/#dd/15569_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 9144	Bozen - Piazza Walther	Bozen	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9144/#yyyy/#mm/#dd/9144_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
-12826	Talstation Fulseck - POI 1	Dorfgastein	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/12826/#yyyy/#mm/#dd/12826_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	873 m	POI 1
 9841	St. Vigil - Talstation Pedag├á und Ort San Vigilio	St. Vigil in Enneberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/9841/#yyyy/#mm/#dd/9841_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.201 m	Talstation Pedag├á und Ort San Vigilio
 18381	Passo Sella - Hotel Maria Flora - Zoom S├╝d - monzoni, Cima Vallaccia 2641 m	Canazei - Belvedere / Val di Fassa	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/18381/#yyyy/#mm/#dd/18381_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.240 m	Zoom S├╝d - monzoni, Cima Vallaccia 2641 m
 13364	Postwiese Neuastenberg 3	Winterberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/13364/#yyyy/#mm/#dd/13364_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	720 m	-
@@ -11936,10 +11940,8 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 14637	Emmendingen Eichbergturm - Richtung Kandel	Emmendingen	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/14637/#yyyy/#mm/#dd/14637_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	369 m	Richtung Kandel
 15255	Rasch├Âtz 5	St. Ulrich - Ortisei / Dolomites Val Gardena - Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/15255/#yyyy/#mm/#dd/15255_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.200 m	-
 10368	Silvaplana - Mittelstation Murt├¿l - Silsersee	Corvatsch - Furtschellas	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/10368/#yyyy/#mm/#dd/10368_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.702 m	Silsersee
-8223	Bergstation Brauneck - Hot 1	Lenggries - Brauneck	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8223/#yyyy/#mm/#dd/8223_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.480 m	Hot 1
 18149	Hrobsk├í sjezdovka horn├¡	Bou┼Ö┼ê├ík	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/18149/#yyyy/#mm/#dd/18149_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 4823	Untere Feselalp 9	Gampel-Bratsch	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/4823/#yyyy/#mm/#dd/4823_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
-8223	Bergstation Brauneck - Hot 1	Oberbayern	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8223/#yyyy/#mm/#dd/8223_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.480 m	Hot 1
 9338	Traunreut - Rathausplatz	Traunreut	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/9338/#yyyy/#mm/#dd/9338_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	550 m	Rathausplatz
 4823	Untere Feselalp 9	Jeizinen - Feselalpe	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/4823/#yyyy/#mm/#dd/4823_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 698	Plan du Fou	Nendaz / 4 Vall├®es	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/698/#yyyy/#mm/#dd/698_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
@@ -11968,6 +11970,8 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 10817	Hochkarbahn Bergstation 4	Hochkar	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/10817/#yyyy/#mm/#dd/10817_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.770 m	-
 3230	Hainfelder H├╝tte am Kirchenberg - Blickrichtung ├╝ber den Gerichtsberg, die Araburg bis hin zum Peilstein.	Hainfeld	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/3230/#yyyy/#mm/#dd/3230_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	924 m	-
 7975	Golfplatz St. Michael	St. Michael im Lungau	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7975/#yyyy/#mm/#dd/7975_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.040 m	-
+8223	Bergstation Brauneck - Hot	Lenggries - Brauneck	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8223/#yyyy/#mm/#dd/8223_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.480 m	Hot 1
+8223	Bergstation Brauneck - Hot	Oberbayern	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8223/#yyyy/#mm/#dd/8223_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.480 m	Hot 1
 11870	Laterns - POI 4	Laterns - Gapfohl	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/11870/#yyyy/#mm/#dd/11870_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.500 m	POI 4
 6653	Schlossalm - Weitmoser	Bad Hofgastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/6653/#yyyy/#mm/#dd/6653_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 6653	Schlossalm - Weitmoser	Bad Hofgastein	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/6653/#yyyy/#mm/#dd/6653_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
@@ -12187,7 +12191,6 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 11563	Schwendi Kaltbad	Obwalden	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/11563/#yyyy/#mm/#dd/11563_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.445 m	-
 564	Ferienhaus Adlerhof Richtung Leutaschtal mit Ahrnspitze	Katzenkopf Leutasch	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/564/#yyyy/#mm/#dd/564_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.150 m	-
 15849	Atoll Achensee	Achensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/15849/#yyyy/#mm/#dd/15849_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
-6860	Bormio 2000 - POI 1	Bormio	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6860/#yyyy/#mm/#dd/6860_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.952 m	POI 1
 5280	Berghotel Wiriehorn - N├╝egg - Niedersimmental / Stockhorn	Naturpark Diemtigtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/5280/#yyyy/#mm/#dd/5280_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 14529	Westendorf - Panoramablick ins Dorf.	Westendorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/14529/#yyyy/#mm/#dd/14529_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	980 m	Panoramablick ins Dorf.
 13164	Madrisaland - POI 3	Klosters Madrisa	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/13164/#yyyy/#mm/#dd/13164_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.892 m	POI 3
@@ -12215,6 +12218,7 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 17704	Pitztaler Gletscher - Das Caf├® 3.440 - Das Caf├®	Pitztaler Gletscher - Rifflsee / Pitztal	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/17704/#yyyy/#mm/#dd/17704_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.440 m	Das Caf├®
 17704	Pitztaler Gletscher - Das Caf├® 3.440 - Das Caf├®	Pitztaler Gletscher - Bergbahnen Rifflsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/17704/#yyyy/#mm/#dd/17704_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.440 m	Das Caf├®
 17474	Kommunalhafen Laboe 2	Laboe	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/17474/#yyyy/#mm/#dd/17474_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1 m	-
+6860	Bormio 2000 - POI	Bormio	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6860/#yyyy/#mm/#dd/6860_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.952 m	POI 1
 10546	Weissfluhjoch - Blick Gotschna	Davos Klosters	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/10546/#yyyy/#mm/#dd/10546_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.660 m	Blick Gotschna
 10546	Weissfluhjoch - Blick Gotschna	Davos Klosters Parsenn	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/10546/#yyyy/#mm/#dd/10546_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.660 m	Blick Gotschna
 9262	Carosello 3000 - Polvere - Piste Polvere	Carosello 3000/ Livigno	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/9262/#yyyy/#mm/#dd/9262_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.380 m	Piste Polvere
@@ -12226,7 +12230,6 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 10860	Zentrum Katschbergh├Âhe - gamskogelexpress	Katschberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/10860/#yyyy/#mm/#dd/10860_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.670 m	gamskogelexpress
 5851	Pontresina - Langlauf und Bikezentrum	Pontresina	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/5851/#yyyy/#mm/#dd/5851_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	\N	\N
 8886	Lenzerheide - Talstation Rothorn - Talseite Rothorn / Motta.	Arosa Lenzerheide	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/8886/#yyyy/#mm/#dd/8886_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.500 m	Talseite Rothorn / Motta.
-17169	Nad n├ídra┼¥├¡m - POI 1	┼ápi─ì├ík	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/17169/#yyyy/#mm/#dd/17169_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	800 m	POI 1
 8251	Dachstein - Dachstein, und Dachstein Gletscher	Dachstein Gletscher Schladming Ramsau - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/8251/#yyyy/#mm/#dd/8251_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.700 m	Dachstein, und Dachstein Gletscher
 8558	Kreuzwiese	Zell am Ziller	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8558/#yyyy/#mm/#dd/8558_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	\N	\N
 8558	Kreuzwiese	Zell am Ziller - Zillertal Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8558/#yyyy/#mm/#dd/8558_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	\N	\N
@@ -12248,6 +12251,7 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 1393	Matschwitz Mittelstation - Golmerbahn 2 Bergstation	Golm im Montafon	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/1393/#yyyy/#mm/#dd/1393_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.521 m	Golmerbahn 2 Bergstation
 15146	Col Raiser 5	Dolomites Val Gardena / Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15146/#yyyy/#mm/#dd/15146_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.106 m	-
 18206	Hotel zur Post	D├Âbriach / Radenthein	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/18206/#yyyy/#mm/#dd/18206_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	592 m	-
+17169	Nad n├ídra┼¥├¡m - POI	┼ápi─ì├ík	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/17169/#yyyy/#mm/#dd/17169_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	800 m	POI 1
 9408	Lustenau - Sch├╝tzengarten - Rheinbr├╝cke Wiesenrain	Bodensee - Vorarlberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/9408/#yyyy/#mm/#dd/9408_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	400 m	Rheinbr├╝cke Wiesenrain
 3346	Hohe Scheibe - Sarntal 2	Reinswald Sarntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/3346/#yyyy/#mm/#dd/3346_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.556 m	-
 7307	Champagny Le Haut - Prise de vue - La Grande Motte - 3653m	Champagny en Vanoise / Paradiski	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/7307/#yyyy/#mm/#dd/7307_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.470 m	La Grande Motte - 3653m
@@ -12283,7 +12287,6 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 6594	Mitterarnsdorf - Wachau: St.Michael, W├Âsendorf, Wei├ƒenkirchen	Rossatz-Arnsdorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6594/#yyyy/#mm/#dd/6594_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 10952	Markbachjoch 1 - Blick Richtung  O       Kapelle und Brixental	Wildsch├Ânau - Ski Juwel Alpbachtal Wildsch├Ânau	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/10952/#yyyy/#mm/#dd/10952_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.465 m	Blick Richtung      Kapelle, Hohe Salve, Kitzb├╝hler Horn
 17053	Heilbronn Marktplatz - Blick vom historischen Rathaus auf den Heilbronner Marktplatz mit Robert-Mayer-Denkmal	Heilbronn	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/17053/#yyyy/#mm/#dd/17053_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	157 m	Blick vom historischen Rathaus auf den Heilbronner Marktplatz mit Robert-Mayer-Denkmal
-11516	Widiversum Hochoetz - POI 1	Oetz - Hochoetz	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11516/#yyyy/#mm/#dd/11516_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.020 m	POI 1
 11421	Telnice - Bereich Parkplatz	Telnice	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11421/#yyyy/#mm/#dd/11421_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	755 m	Bereich Parkplatz
 17386	S├╝dstrand am DLRG Hauptgeb├ñude	Fehmarn	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/17386/#yyyy/#mm/#dd/17386_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1 m	-
 1679	Karkogel - Abtenau - 360┬░ Panorama	Abtenau im Lammertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/1679/#yyyy/#mm/#dd/1679_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.139 m	360┬░ Panorama
@@ -12302,6 +12305,7 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 8151	Tarsch - Martelltal - Latsch	Vinschgau	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/8151/#yyyy/#mm/#dd/8151_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	855 m	Martelltal - Latsch
 5803	Leutasch - Hotel Hochland - Hohe Munde und Ferienwohnungen Schiefer	Leutasch	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/5803/#yyyy/#mm/#dd/5803_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.122 m	Hohe Munde und Ferienwohnungen Schiefer
 17867	Wieserh├Ârndl 3	Krispl-Gai├ƒau	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/17867/#yyyy/#mm/#dd/17867_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.541 m	-
+11516	Widiversum Hochoetz - POI	Oetz - Hochoetz	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11516/#yyyy/#mm/#dd/11516_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.020 m	POI 1
 4723	Salati Pass	Gressoney La Trinit├®	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/4723/#yyyy/#mm/#dd/4723_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.971 m	-
 4723	Salati Pass	Gressoney - La Trinit├® - Alagna Valsesia / Monterosa	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/4723/#yyyy/#mm/#dd/4723_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.971 m	-
 7765	St. Ulrich - Zone Solaria - Aussicht auf die Sella- und Langkofelgruppe	Dolomites Val Gardena / Gr├Âden - St. Ulrich	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7765/#yyyy/#mm/#dd/7765_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.236 m	Aussicht auf die Sella- und Langkofelgruppe
@@ -12407,6 +12411,7 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 520	Gipfel Kitzsteinhorn	Zell am See - Kaprun	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/520/#yyyy/#mm/#dd/520_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.029 m	-
 11661	Schilthorn - Allmendhubel	Jungfrau Ski Region M├╝rren - Schilthorn	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11661/#yyyy/#mm/#dd/11661_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.925 m	-
 16348	Arberseehaus / Gro├ƒer Arbersee - Gro├ƒer Arbersee.	Grosser Arber	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/16348/#yyyy/#mm/#dd/16348_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	945 m	Gro├ƒer Arbersee.
+8593	Grawand Sessellift - Talstation - POI	Schnalstal / Kurzras	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8593/#yyyy/#mm/#dd/8593_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.000 m	POI 1
 10072	Bigontina - Mt. Cristallo - Bergstation Sessellift Bigontina, Blick auf den Monte Cristallo, 2060 m.	Faloria - Monte Cristallo - Mietres	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/10072/#yyyy/#mm/#dd/10072_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.060 m	Bergstation Sessellift Bigontina, Blick auf den Monte Cristallo, 2060 m.
 799	Galzig Bergstation	St. Anton am Arlberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/799/#yyyy/#mm/#dd/799_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.080 m	-
 15145	Col Raiser 4	Dolomites Val Gardena / Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/15145/#yyyy/#mm/#dd/15145_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.106 m	-
@@ -12424,7 +12429,6 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 12461	Altdorf - Restaurant Nussb├ñumli	Eggberge / Fl├╝elen	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12461/#yyyy/#mm/#dd/12461_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	580 m	-
 5706	Crap Sogn Gion Plaun - Panorama	Flims Laax Falera	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/5706/#yyyy/#mm/#dd/5706_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.240 m	Panorama
 16296	Piran - Punta und Mandra─ì	Piran	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16296/#yyyy/#mm/#dd/16296_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	-
-8593	Grawand Sessellift - Talstation - POI 1	Schnalstal / Kurzras	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8593/#yyyy/#mm/#dd/8593_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.000 m	POI 1
 1666	Ratschings	Ratschings Jaufen	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/1666/#yyyy/#mm/#dd/1666_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.950 m	-
 5732	Quadrat / Niederhof - Blick von Quadrat auf Partschins, Rabland und in die Texelgruppe.	Partschins - Rabland - T├Âll	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/5732/#yyyy/#mm/#dd/5732_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	806 m	Blick von Quadrat auf Partschins, Rabland und in die Texelgruppe.
 9730	Therme L├ñngenfeld 2	L├ñngenfeld - Huben - Gries	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/9730/#yyyy/#mm/#dd/9730_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.165 m	-
@@ -12503,7 +12507,6 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 7529	Skilift Geising	Altenberg - Geising	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/7529/#yyyy/#mm/#dd/7529_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 7529	Skilift Geising	S├ñchsische Schweiz	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/7529/#yyyy/#mm/#dd/7529_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 6700	Seibelseckle	Seebach	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6700/#yyyy/#mm/#dd/6700_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	950 m	-
-5213	Markbachjoch 1	Wildsch├Ânau - Ski Juwel Alpbachtal Wildsch├Ânau	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/5213/#yyyy/#mm/#dd/5213_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.465 m	-
 11511	Predigtstuhl II - Bad Reichenhall 4	Predigtstuhl / Bad Reichenhall	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11511/#yyyy/#mm/#dd/11511_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.600 m	-
 7807	St. Moritz / Samedan - Muottas Muragl - Oberengadiner Seenlandschaft	Corviglia	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/7807/#yyyy/#mm/#dd/7807_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.450 m	Oberengadiner Seenlandschaft
 4096	Hauteluce - TC Ruelle - T├®l├®cabine de la Ruelle	Les Contamines Montjoie - Evasion Mont-Blanc	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/4096/#yyyy/#mm/#dd/4096_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.200 m	T├®l├®cabine de la Ruelle
@@ -12528,6 +12531,7 @@ unterammergau	Unterammergau - Blick nach S├╝dosten zum Laber, Fricken und Ko
 15567	Panoramakamera Marling	Marling	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/15567/#yyyy/#mm/#dd/15567_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	433 m	-
 10161	Todtmoos - Strick - Blick ins Todtmooser Tal	Todtmoos	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/10161/#yyyy/#mm/#dd/10161_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	880 m	Blick ins Todtmooser Tal
 4682	Mittelstation Gemeindealpe - Gipfel Gemeindealpe	Mitterbach am Erlaufsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/4682/#yyyy/#mm/#dd/4682_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.300 m	Gipfel Gemeindealpe
+5213	Markbachjoch	Wildsch├Ânau - Ski Juwel Alpbachtal Wildsch├Ânau	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/5213/#yyyy/#mm/#dd/5213_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.465 m	-
 9765	Presolana Montepora - Donico	Castione della Presolana - Monte Pora	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/9765/#yyyy/#mm/#dd/9765_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 9765	Presolana Montepora - Donico	Monte Pora / Castione della Presolana	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/9765/#yyyy/#mm/#dd/9765_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 7230	Wurbauerkogel Windischgarsten - Blickrichung Priel Berge	Windischgarsten	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/7230/#yyyy/#mm/#dd/7230_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	850 m	Blickrichung Priel Berge
@@ -12976,13 +12980,13 @@ sausteige	Maishofen Sausteige - Blick nach S├╝dosten [UHD]	Maishofen	https:/
 13078	Panorama Therme Beuren - Panorama	Schw├ñbische Alb	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/13078/#yyyy/#mm/#dd/13078_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	435 m	Panorama
 11381	Furtwangen - Brendturm	Schwarzwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11381/#yyyy/#mm/#dd/11381_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.150 m	-
 16660	Untermatt Bergstation 5	Obersaxen Mundaun	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/16660/#yyyy/#mm/#dd/16660_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.617 m	-
-13162	Madrisaland - POI 1	Davos Klosters	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13162/#yyyy/#mm/#dd/13162_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.892 m	POI 1
 11487	Skiarena Silbersattel - Steilhang - Blick Richtung Steilhang und Fellberg	Skiarena Silbersattel	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11487/#yyyy/#mm/#dd/11487_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	716 m	Blick Richtung Steilhang und Fellberg
 11487	Skiarena Silbersattel - Steilhang - Blick Richtung Steilhang und Fellberg	Th├╝ringer Wald	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11487/#yyyy/#mm/#dd/11487_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	716 m	Blick Richtung Steilhang und Fellberg
 17608	Obere Firstalm - Blick zur Brecherspitz.	Schliersee - Neuhaus - Spitzingsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/17608/#yyyy/#mm/#dd/17608_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.370 m	Blick zur Brecherspitz.
 17608	Obere Firstalm - Blick zur Brecherspitz.	Spitzingsee - Tegernsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/17608/#yyyy/#mm/#dd/17608_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.370 m	Blick zur Brecherspitz.
 10209	Sch├Âneck - Rosenhof	Sch├Âneck - Hohe Reuth	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/10209/#yyyy/#mm/#dd/10209_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	770 m	-
 10209	Sch├Âneck - Rosenhof	Sch├Âneck	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/10209/#yyyy/#mm/#dd/10209_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	770 m	-
+13162	Madrisaland - POI	Davos Klosters	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13162/#yyyy/#mm/#dd/13162_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.892 m	POI 1
 9369	Maurach - Rofan - Maurach - Achensee - B├ñrenkopf	Maurach am Achensee - Rofanseilbahn	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9369/#yyyy/#mm/#dd/9369_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.800 m	Maurach - Achensee - B├ñrenkopf
 9369	Maurach - Rofan - Maurach - Achensee - B├ñrenkopf	Maurach - Eben am Achensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9369/#yyyy/#mm/#dd/9369_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.800 m	Maurach - Achensee - B├ñrenkopf
 2123	Kniebis	Kniebis Freudenstadt	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/2123/#yyyy/#mm/#dd/2123_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
@@ -13082,7 +13086,6 @@ sausteige	Maishofen Sausteige - Blick nach S├╝dosten [UHD]	Maishofen	https:/
 5913	La Berra - Bergstation - Blick zum Gipfel La Berra mit 1.719 m Seeh├Âhe.	La Berra - La Roche	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/5913/#yyyy/#mm/#dd/5913_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.630 m	Blick zum Gipfel La Berra mit 1.719 m Seeh├Âhe.
 11406	Folgarida Marilleva	Folgarida	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11406/#yyyy/#mm/#dd/11406_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.855 m	-
 11406	Folgarida Marilleva	Folgarida - Marilleva - Val di Sole / Dolomiti di Brenta	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11406/#yyyy/#mm/#dd/11406_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.855 m	-
-11867	Laterns - POI 1	Laterns-Gapfohl	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11867/#yyyy/#mm/#dd/11867_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.500 m	POI 1
 782	Serfaus - Masner	Serfaus - Fiss - Ladis	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/782/#yyyy/#mm/#dd/782_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 874	Passo del Tonale - Talbereich.	Passo Tonale - Adamello Ski / Val di Sole	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/874/#yyyy/#mm/#dd/874_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.883 m	Talbereich.
 4972	Nebelhorn-Bergstation - Ausblick von der Station H├Âfatsblick in Richtung Oberstdorf	Oberallg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/4972/#yyyy/#mm/#dd/4972_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.932 m	Ausblick von der Station H├Âfatsblick in Richtung Oberstdorf
@@ -13092,6 +13095,7 @@ sausteige	Maishofen Sausteige - Blick nach S├╝dosten [UHD]	Maishofen	https:/
 17732	Giw Kinderlift	Rund um Visp	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/17732/#yyyy/#mm/#dd/17732_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.947 m	-
 15052	Jungholz Bergstation - Ort	Jungholz	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15052/#yyyy/#mm/#dd/15052_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.425 m	Ort
 12167	Obernberger See - POI 2	Obernberg am Brenner	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/12167/#yyyy/#mm/#dd/12167_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.598 m	POI 2
+11867	Laterns - POI	Laterns-Gapfohl	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11867/#yyyy/#mm/#dd/11867_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.500 m	POI 1
 566	Glasenberg - Vom Glasenberg nach Maria Neustift.	Glasenberg - Maria Neustift	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/566/#yyyy/#mm/#dd/566_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	970 m	Vom Glasenberg nach Maria Neustift.
 12239	Nenzinger Himmel - Naafkopf	Schilift Bazora	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/12239/#yyyy/#mm/#dd/12239_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.330 m	Naafkopf
 17483	Mitterkaserlift 5	Jenner - Sch├Ânau am K├Ânigssee / Berchtesgadener Land	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/17483/#yyyy/#mm/#dd/17483_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.802 m	-
@@ -13720,10 +13724,10 @@ wendelstein-west	Wendelsteinbahn Bergstation\r\nGacher - Leitzachtal liegen die 
 13313	Trenkerlift - Trenkerpiste	3 Zinnen Dolomiten	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/13313/#yyyy/#mm/#dd/13313_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.245 m	Trenkerpiste
 11092	Bergeralm - Steinboden - Panorama	Bergeralm - Steinach am Brenner	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/11092/#yyyy/#mm/#dd/11092_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.650 m	Panorama
 6527	Frutten-Giesselsdorf - Woboth bzw. M├╝nzen auf die s├╝dlichste Seite des Stradnerkogels	St. Anna am Aigen	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/6527/#yyyy/#mm/#dd/6527_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	320 m	Woboth bzw. M├╝nzen auf die s├╝dlichste Seite des Stradnerkogels
+12166	Obernberger See - POI	Obernberg am Brenner	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/12166/#yyyy/#mm/#dd/12166_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.598 m	POI 1
 7573	Hansberg Starthaus	St. Johann am Wimberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/7573/#yyyy/#mm/#dd/7573_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	846 m	-
 2272	Bregenz - Bregenzer Festspiele	Bregenz	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/2272/#yyyy/#mm/#dd/2272_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	406 m	Bregenzer Festspiele
 2272	Bregenz - Bregenzer Festspiele	Pf├ñnderbahn - Bregenz am Bodensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/2272/#yyyy/#mm/#dd/2272_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	406 m	Bregenzer Festspiele
-12166	Obernberger See - POI 1	Obernberg am Brenner	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/12166/#yyyy/#mm/#dd/12166_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.598 m	POI 1
 9393	Prodalp - Panorama	Flumserberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/9393/#yyyy/#mm/#dd/9393_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.576 m	Panorama
 13313	Trenkerlift - Trenkerpiste	Dolomitenregion Drei Zinnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/13313/#yyyy/#mm/#dd/13313_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.245 m	Trenkerpiste
 17292	Hotel Baur am Toblachersee	Toblach	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/17292/#yyyy/#mm/#dd/17292_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.266 m	-
@@ -13939,7 +13943,6 @@ wendelstein-west	Wendelsteinbahn Bergstation\r\nGacher - Leitzachtal liegen die 
 14361	Krk - Marina - Hafen in Krk.	Stadt Krk	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/14361/#yyyy/#mm/#dd/14361_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3 m	Hafen in Krk.
 11174	Cardada - Albergo Colmanicchio	Cardada	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/11174/#yyyy/#mm/#dd/11174_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.290 m	-
 13032	Horumersiel Hafen - Panorama	Ostfriesland	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13032/#yyyy/#mm/#dd/13032_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	\N	\N
-6952	Hochficht Arena - POI 1	Hochficht - B├Âhmerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/6952/#yyyy/#mm/#dd/6952_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	960 m	POI 1
 4842	Hermagor - Presseggersee	Nassfeld	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/4842/#yyyy/#mm/#dd/4842_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	559 m	-
 5244	Bergstation Preunegg Jet	Pichl-Reiteralm	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/5244/#yyyy/#mm/#dd/5244_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.740 m	-
 5244	Bergstation Preunegg Jet	Schladming-Rohrmoos-Pichl	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/5244/#yyyy/#mm/#dd/5244_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.740 m	-
@@ -13960,6 +13963,7 @@ wendelstein-west	Wendelsteinbahn Bergstation\r\nGacher - Leitzachtal liegen die 
 17643	Oberstdorf Schanze 4	Nebelhorn / Oberstdorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/17643/#yyyy/#mm/#dd/17643_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	876 m	-
 18977	Lugano San Salvatore	Lugano und Umgebung	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/18977/#yyyy/#mm/#dd/18977_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	912 m	-
 11563	Schwendi Kaltbad	Langis Glaubenberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/11563/#yyyy/#mm/#dd/11563_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.445 m	-
+6952	Hochficht Arena - POI	Hochficht - B├Âhmerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/6952/#yyyy/#mm/#dd/6952_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	960 m	POI 1
 10582	Grindelwald - Hotel Belvedere	Jungfrau Ski Region Grindelwald - Wengen	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/10582/#yyyy/#mm/#dd/10582_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.020 m	-
 17424	Obere Strandpromenade	Borkum	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/17424/#yyyy/#mm/#dd/17424_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	18 m	-
 9863	Tignes - Boisses	Tignes - Val dÔÇÖIs├¿re	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/9863/#yyyy/#mm/#dd/9863_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	-	-
@@ -14827,7 +14831,6 @@ spitzingsee	Spitzingsee [UHD]	Schliersee - Neuhaus - Spitzingsee	http://www.foto
 10300	Vysok├í 2	Vysok├í u Havl├¡─ìkova Brodu	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/10300/#yyyy/#mm/#dd/10300_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 14191	Promenade Sylt / Westerland - Sturmhaube	Sylt	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/14191/#yyyy/#mm/#dd/14191_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	20 m	Sturmhaube
 15728	Stegen - Hintereschbach - Blick vom Klausenhof ins Dreisamtal.	Stegen	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/15728/#yyyy/#mm/#dd/15728_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	645 m	Blick vom Klausenhof ins Dreisamtal.
-7983	Medv─ød├¡n - POI 1	┼ápindler┼»v Ml├¢n / Horn├¡ M├¡se─ìky - Medv─ød├¡n	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/7983/#yyyy/#mm/#dd/7983_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.235 m	POI 1
 16416	Pala di Santa - Panorama	Ski Center Latemar - Obereggen	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16416/#yyyy/#mm/#dd/16416_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.481 m	Panorama
 9818	Sierra de B├®jar - La Covatilla / Las Cimeras - Cota 2200 - Las Cimeras	Sierra de B├®jar - La Covatilla	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/9818/#yyyy/#mm/#dd/9818_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.200 m	Cota 2200 - Las Cimeras
 11345	Riezlern - G├Âssl - Riezlern.	Riezlern	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/11345/#yyyy/#mm/#dd/11345_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.086 m	Riezlern.
@@ -14836,6 +14839,7 @@ spitzingsee	Spitzingsee [UHD]	Schliersee - Neuhaus - Spitzingsee	http://www.foto
 14447	─Éakovo Cathedral Sv. Petra	─Éakovo	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/14447/#yyyy/#mm/#dd/14447_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	111 m	-
 18241	K├Âln-Dellbr├╝ck - Richtung K├Âlner Dom	K├Âln	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/18241/#yyyy/#mm/#dd/18241_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	53 m	Richtung K├Âlner Dom
 10182	Menzenschwander H├╝tte - Feldberg - Talstation Zeigerbahn mit Blick auf die Zeller Skih├ñnge.	Schwarzwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/10182/#yyyy/#mm/#dd/10182_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.210 m	Talstation Zeigerbahn mit Blick auf die Zeller Skih├ñnge.
+7983	Medv─ød├¡n - POI	┼ápindler┼»v Ml├¢n / Horn├¡ M├¡se─ìky - Medv─ød├¡n	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/7983/#yyyy/#mm/#dd/7983_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.235 m	POI 1
 8848	Krimmler Wasserf├ñlle	Krimml / Hochkrimml ÔÇô Zillertal Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8848/#yyyy/#mm/#dd/8848_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 11869	Laterns - POI 3	Laterns - Gapfohl	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/11869/#yyyy/#mm/#dd/11869_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.500 m	POI 3
 16289	─îervenohorsk├® sedlo 2	─îervenohorsk├® sedlo	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/16289/#yyyy/#mm/#dd/16289_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.013 m	-
@@ -14936,7 +14940,6 @@ gernkogel	St.Johann-Alpendorf Gernkogel - Blick von der Buchau-H├╝tte auf di
 15636	Mittelberg - Wildental	Mittelberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15636/#yyyy/#mm/#dd/15636_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 15636	Mittelberg - Wildental	Walmendingerhorn - Ifen - Heuberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15636/#yyyy/#mm/#dd/15636_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 17403	Rathausplatz Nieb├╝ll	Nieb├╝ll	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/17403/#yyyy/#mm/#dd/17403_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
-818	Todtnauberg - Pension Gl├Âcklehof - St├╝benwasenlift 1	Schwarzwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/818/#yyyy/#mm/#dd/818_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	St├╝benwasenlift 1
 82	Jerzens - Sechszeiger	Hochzeiger - Pitztal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/82/#yyyy/#mm/#dd/82_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.396 m	-
 8439	Talstation 8 EUB 2	Werfenweng	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/8439/#yyyy/#mm/#dd/8439_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	975 m	-
 1962	Bergstation Gondelbahn Hochs├Âll	S├Âll - SkiWelt	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/1962/#yyyy/#mm/#dd/1962_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.150 m	-
@@ -14949,6 +14952,7 @@ gernkogel	St.Johann-Alpendorf Gernkogel - Blick von der Buchau-H├╝tte auf di
 5192	Skalnat├® pleso	Tatransk├í Lomnica	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/5192/#yyyy/#mm/#dd/5192_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.803 m	-
 10165	Todtmoos - Strick - Blick auf den Kirchberg	Herrenschwand - Todtmoos	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/10165/#yyyy/#mm/#dd/10165_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	880 m	Blick auf den Kirchberg
 13202	Obergoms/Oberwald	Goms	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13202/#yyyy/#mm/#dd/13202_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.370 m	-
+818	Todtnauberg - Pension Gl├Âcklehof - St├╝benwasenlift	Schwarzwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/818/#yyyy/#mm/#dd/818_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	St├╝benwasenlift 1
 9428	Donovaly - Donovaly - Zentrum	PARK SNOW Donovaly	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/9428/#yyyy/#mm/#dd/9428_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	968 m	Donovaly - Zentrum
 9428	Donovaly - Donovaly - Zentrum	Donovaly	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/9428/#yyyy/#mm/#dd/9428_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	968 m	Donovaly - Zentrum
 15695	Fluhexpress Berg - Panorama	Imbergbahn & Ski-Arena Steibis	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/15695/#yyyy/#mm/#dd/15695_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.370 m	Panorama
@@ -15117,8 +15121,8 @@ herzogstand	Herzogstand / Fahrenbergkopf - Blick ├╝ber den Walchensee ins Ka
 7076	Katschbergh├Âhe Aineck 2	Katschberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/7076/#yyyy/#mm/#dd/7076_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.850 m	-
 11237	Halbenrain Marktplatz - Ortszentrum	Halbenrain	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11237/#yyyy/#mm/#dd/11237_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	223 m	Ortszentrum
 9511	Aschtalm / St. Magdalena - Gsieser Tal 3	St. Magdalena / Gsieser Tal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/9511/#yyyy/#mm/#dd/9511_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.960 m	-
+6976	Sportzentrum Klosters - POI	Davos Klosters Parsenn	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6976/#yyyy/#mm/#dd/6976_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.182 m	POI 1
 11681	Diavolezza Bergstation 6	Diavolezza - Lagalb	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11681/#yyyy/#mm/#dd/11681_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.985 m	Piz Trovat 3.145m
-6976	Sportzentrum Klosters - POI 1	Davos Klosters Parsenn	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6976/#yyyy/#mm/#dd/6976_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.182 m	POI 1
 5580	Hochalph├╝tte - Aggenstein - Hochalpbahn mit Blick zum Aggenstein in Pfronten	Breitenberg - Hochalpe / Pfronten	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/5580/#yyyy/#mm/#dd/5580_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 2054	Kranzberg - Abfahrt Luttenseelift	Mittenwald - Kranzberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/2054/#yyyy/#mm/#dd/2054_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 11621	Meran 2000 - Piffing / Steilhang - Bergstation Meran 2000	Meran	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11621/#yyyy/#mm/#dd/11621_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
@@ -15149,7 +15153,6 @@ herzogstand	Herzogstand / Fahrenbergkopf - Blick ├╝ber den Walchensee ins Ka
 4244	Hotel Binggl, Mauterndorf	Mauterndorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/4244/#yyyy/#mm/#dd/4244_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.121 m	-
 6620	Almenwelt Lofer - Family Express, 1.530 m	Lofer - Almenwelt Lofer	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6620/#yyyy/#mm/#dd/6620_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.400 m	Family Express, 1.530 m
 19107	Four Points by Sheraton 2	Bozen und Umgebung - S├╝dtirols S├╝den	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/19107/#yyyy/#mm/#dd/19107_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	266 m	-
-12817	Moorgebiet Schwemm - Moorgebiet / Miesberg 1	Walchsee / Zahmer Kaiser - Durchholzen	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/12817/#yyyy/#mm/#dd/12817_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	668 m	Moorgebiet / Miesberg 1
 15835	Frabosa - Mongrosso - Mongrosso.	Prato Nevoso	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/15835/#yyyy/#mm/#dd/15835_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	965 m	Mongrosso.
 19304	Nordhelle Robert-Kolb-Turm	Herscheid	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/19304/#yyyy/#mm/#dd/19304_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	663 m	-
 10019	Nova Stoba - Blick auf Rinderh├╝tte	Silvretta Montafon	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/10019/#yyyy/#mm/#dd/10019_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.720 m	-
@@ -15177,7 +15180,7 @@ herzogstand	Herzogstand / Fahrenbergkopf - Blick ├╝ber den Walchensee ins Ka
 19220	Skilift Pfulb	Skilift Pfulb	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19220/#yyyy/#mm/#dd/19220_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	750 m	-
 14994	Rosenkranzh├Âhe - Panorama 2	Murau - Kreischberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/14994/#yyyy/#mm/#dd/14994_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.118 m	Panorama
 18923	Todtnauer H├╝tte	Feldberg im Schwarzwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18923/#yyyy/#mm/#dd/18923_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.321 m	-
-15316	Wimbach Express - POI 1	Aschau im Zillertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15316/#yyyy/#mm/#dd/15316_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
+12817	Moorgebiet Schwemm - Moorgebiet / Miesberg	Walchsee / Zahmer Kaiser - Durchholzen	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/12817/#yyyy/#mm/#dd/12817_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	668 m	Moorgebiet / Miesberg 1
 3473	Treffelhausen	B├Âhmenkirch - Treffelhausen	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/3473/#yyyy/#mm/#dd/3473_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	650 m	-
 4967	Braunlage - Volksbank - Blick zum Wurmberg	Braunlage	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/4967/#yyyy/#mm/#dd/4967_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Blick zum Wurmberg
 5136	Panoramarestaurant Filzsteinalm (Gerlosplatte)	Krimml / Hochkrimml ÔÇô Zillertal Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/5136/#yyyy/#mm/#dd/5136_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
@@ -15202,6 +15205,7 @@ herzogstand	Herzogstand / Fahrenbergkopf - Blick ├╝ber den Walchensee ins Ka
 8588	Ple┼íivec - Panorama	Ple┼íivec - Abertamy	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8588/#yyyy/#mm/#dd/8588_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	785 m	Panorama
 3544	Schleching - Wagrain - Blick auf auf Breitenstein 1.661 m und Geigelstein 1.808 m	Schleching - Ettenhausen	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/3544/#yyyy/#mm/#dd/3544_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	570 m	Blick auf auf Breitenstein 1.661 m und Geigelstein 1.808 m
 18521	M├╝nster Aasee Segelclub Hansa	M├╝nster	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/18521/#yyyy/#mm/#dd/18521_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	39 m	-
+15316	Wimbach Express - POI	Aschau im Zillertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15316/#yyyy/#mm/#dd/15316_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 14484	Mittelberg - Bergpension Starzelhaus - Bergdorf Baad	Kleinwalsertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/14484/#yyyy/#mm/#dd/14484_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.300 m	Bergdorf Baad
 14210	Enzianh├╝tte Kieneck - Unterbergblick vom Kieneck.	Muggendorf / Thal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/14210/#yyyy/#mm/#dd/14210_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.107 m	Unterbergblick vom Kieneck.
 14210	Enzianh├╝tte Kieneck - Unterbergblick vom Kieneck.	Unterberg - Pernitz	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/14210/#yyyy/#mm/#dd/14210_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.107 m	Unterbergblick vom Kieneck.
@@ -15369,7 +15373,6 @@ herzogstand	Herzogstand / Fahrenbergkopf - Blick ├╝ber den Walchensee ins Ka
 6329	Lindau - Hotel Bad Schachen - Bodensee. Lindau Insel, Pf├ñnderr├╝cken und Rheintal	Bodensee - Vorarlberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/6329/#yyyy/#mm/#dd/6329_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	405 m	Bodensee. Lindau Insel, Pf├ñnderr├╝cken und Rheintal
 2430	Kessel-Lifte Inzell	Inzell Kessel-Lifte	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/2430/#yyyy/#mm/#dd/2430_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	730 m	Talbereich der Lifte.
 2287	Passo Stelvio	Vinschgau	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/2287/#yyyy/#mm/#dd/2287_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.757 m	-
-9754	Karwendel - POI 1	Karwendel-Bergbahn Pertisau ÔÇô Achensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9754/#yyyy/#mm/#dd/9754_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 2287	Passo Stelvio	Stilfserjoch	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/2287/#yyyy/#mm/#dd/2287_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.757 m	-
 15250	Kohlplatz	Kappl / Paznaun-Ischgl	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/15250/#yyyy/#mm/#dd/15250_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	-
 15198	Piz Sella	Wolkenstein - Selva di Val Gardena / Dolomites Val Gardena - Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/15198/#yyyy/#mm/#dd/15198_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.284 m	-
@@ -15392,6 +15395,7 @@ chavalatsch	Piz Chavalatsch [UHD]	Taufers im M├╝nstertal	https://www.foto-we
 4705	Service-Center	Haus im Ennstal	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/4705/#yyyy/#mm/#dd/4705_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.424 m	-
 4705	Service-Center	Hauser Kaibling / Schladming - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/4705/#yyyy/#mm/#dd/4705_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.424 m	-
 6510	Hotel Kranzbach - bei Garmisch Partenkirchen	Garmisch-Partenkirchen	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6510/#yyyy/#mm/#dd/6510_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.034 m	-
+9754	Karwendel - POI	Karwendel-Bergbahn Pertisau ÔÇô Achensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9754/#yyyy/#mm/#dd/9754_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 12933	Corvatsch - Corvatsch 3303, Oberengadiner Seenlandschaft 2	Corvatsch - Furtschellas	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12933/#yyyy/#mm/#dd/12933_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.303 m	Corvatsch 3303, Oberengadiner Seenlandschaft
 411	Gstaad Dorf - Das verkehrsfreie Gstaader Dorfzentrum mit Blick in richtung Ausflugsberg Wispile	Destination Gstaad	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/411/#yyyy/#mm/#dd/411_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 411	Gstaad Dorf - Das verkehrsfreie Gstaader Dorfzentrum mit Blick in richtung Ausflugsberg Wispile	Gstaad	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/411/#yyyy/#mm/#dd/411_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
@@ -15402,9 +15406,9 @@ chavalatsch	Piz Chavalatsch [UHD]	Taufers im M├╝nstertal	https://www.foto-we
 5775	Torfhaus im Harz - Torfhaus - Blick zum Brocken	Torfhauslifte Altenau	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/5775/#yyyy/#mm/#dd/5775_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 5775	Torfhaus im Harz - Torfhaus - Blick zum Brocken	Altenau im Harz	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/5775/#yyyy/#mm/#dd/5775_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 16203	Glungezerbahn Mittelstation - Panorama	Tulfes - Glungezer	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/16203/#yyyy/#mm/#dd/16203_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.560 m	Panorama
+6984	Lipensko - Hot	Lipno	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6984/#yyyy/#mm/#dd/6984_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	900 m	Hot 1
 5462	Galt├╝r - Kopssee	Galt├╝r /  Paznaun-Ischgl	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/5462/#yyyy/#mm/#dd/5462_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.850 m	-
 1448	Talstation	Schwangau - Tegelberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/1448/#yyyy/#mm/#dd/1448_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	800 m	-
-6984	Lipensko - Hot 1	Lipno	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6984/#yyyy/#mm/#dd/6984_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	900 m	Hot 1
 9889	Bichlalm - Panorama	Kitzb├╝hel	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9889/#yyyy/#mm/#dd/9889_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.580 m	Panorama
 17191	Golfkletterpark Oberhof - Blick auf Adventure Golf, Riesenschaukel und Kristallturm.	Oberhof	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/17191/#yyyy/#mm/#dd/17191_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	720 m	Blick auf Adventure Golf, Riesenschaukel und Kristallturm.
 17191	Golfkletterpark Oberhof - Blick auf Adventure Golf, Riesenschaukel und Kristallturm.	Th├╝ringer Wald	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/17191/#yyyy/#mm/#dd/17191_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	720 m	Blick auf Adventure Golf, Riesenschaukel und Kristallturm.
@@ -15430,7 +15434,6 @@ chavalatsch	Piz Chavalatsch [UHD]	Taufers im M├╝nstertal	https://www.foto-we
 18580	Immensee Zugersee - Blick Immensee Richtung Walchwil	K├╝ssnacht	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18580/#yyyy/#mm/#dd/18580_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 7014	Montagna - Montan - Richtung Penegal - Verso Penegal	Tramin an der Weinstrasse	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/7014/#yyyy/#mm/#dd/7014_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	470 m	Richtung Penegal - Verso Penegal
 14107	Zeedijk 3	Br├╝gge	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/14107/#yyyy/#mm/#dd/14107_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3 m	-
-9259	Carosello 3000 - Panorama 1	Livigno	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9259/#yyyy/#mm/#dd/9259_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Panorama 1
 18142	Pohled od Karl┼ítejnu sm─ørem k parkovi┼íti - Blick von Karl┼ítejn auf den Parkplatz	Bou┼Ö┼ê├ík	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18142/#yyyy/#mm/#dd/18142_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 12828	Talstation Fulseck - POI 3	Dorfgastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/12828/#yyyy/#mm/#dd/12828_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	873 m	POI 3
 18052	Charmey	Charmey	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18052/#yyyy/#mm/#dd/18052_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
@@ -15457,6 +15460,7 @@ chavalatsch	Piz Chavalatsch - Blick nach S├╝dosten zum Ortler [UHD]	Vinschga
 4457	Petit Artimont - Haut d┬┤Artimont Bergstation TSD 4.	La Bresse Hautes-Vosges	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/4457/#yyyy/#mm/#dd/4457_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.180 m	Haut d┬┤Artimont Bergstation TSD 4.
 15888	Kniebis-Skistadion / Nachtloipe 2	Kniebis Freudenstadt	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/15888/#yyyy/#mm/#dd/15888_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 14921	Burg Derneck 4	Schw├ñbische Alb	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/14921/#yyyy/#mm/#dd/14921_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	655 m	-
+9259	Carosello 3000 - Panorama	Livigno	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9259/#yyyy/#mm/#dd/9259_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Panorama 1
 11678	Diavolezza Bergstation 3	Diavolezza - Lagalb	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/11678/#yyyy/#mm/#dd/11678_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.985 m	Diavolezza Bergstation 2.985m
 11678	Diavolezza Bergstation 3	Diavolezza	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/11678/#yyyy/#mm/#dd/11678_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.985 m	Diavolezza Bergstation 2.985m
 6938	Therme F├╝gen 4	F├╝gen	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/6938/#yyyy/#mm/#dd/6938_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
@@ -15673,8 +15677,7 @@ zellamsee	Mitterberg bei Thumersbach - Links das Kitzsteinhorn, darunter Kaprun 
 13287	Somtgant 3	Savognin Bivio Albula	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/13287/#yyyy/#mm/#dd/13287_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.112 m	-
 17278	Kurzentrum	Ostfriesland	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/17278/#yyyy/#mm/#dd/17278_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	-
 6939	Therme F├╝gen - Panorama	F├╝gen	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/6939/#yyyy/#mm/#dd/6939_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	\N	\N
-12851	Zentraler Omnibus Bahnhof (ZOB) - POI 1	Nagoldtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12851/#yyyy/#mm/#dd/12851_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	341 m	POI 1
-12851	Zentraler Omnibus Bahnhof (ZOB) - POI 1	Calw	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12851/#yyyy/#mm/#dd/12851_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	341 m	POI 1
+12851	Zentraler Omnibus Bahnhof (ZOB) - POI	Nagoldtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12851/#yyyy/#mm/#dd/12851_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	341 m	POI 1
 2291	Passo Stelvio 5	Vinschgau	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/2291/#yyyy/#mm/#dd/2291_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.757 m	-
 11477	Stoos Dorf - Panorama	Stoos	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11477/#yyyy/#mm/#dd/11477_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.310 m	Panorama
 2452	Thyon Snowpark - Snowpark Centralpark	Thyon les Collons	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/2452/#yyyy/#mm/#dd/2452_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.930 m	Snowpark Centralpark
@@ -15692,7 +15695,6 @@ zellamsee	Mitterberg bei Thumersbach - Links das Kitzsteinhorn, darunter Kaprun 
 8278	Schelpenalp S├╝dseite - Skikindergarten	Balderschwang	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8278/#yyyy/#mm/#dd/8278_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.010 m	Skikindergarten
 3637	Front de neige Praz - panorama	Praz sur Arly - Espace Diamant	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/3637/#yyyy/#mm/#dd/3637_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.030 m	panorama
 6223	Innsbruck - Altstadt - Goldenes Dachl./ Golden Roof.	Innsbruck	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/6223/#yyyy/#mm/#dd/6223_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	574 m	Goldenes Dachl./ Golden Roof.
-2518	Skihang Holzhau - Holzhau 1	Holzhau	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/2518/#yyyy/#mm/#dd/2518_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	735 m	Holzhau 1
 9060	Gemeindezentrum Lichtenberg - Linz, P├Âstlingberg	Lichtenberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/9060/#yyyy/#mm/#dd/9060_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	622 m	Linz, P├Âstlingberg
 17221	Mariazell - Ferienwohnungen "Mariazeller Rooms"	Mariazeller B├╝rgeralpe	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/17221/#yyyy/#mm/#dd/17221_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	865 m	-
 12758	St. Martin im Kofel - San Martino di Laces. Blick auf den Talboden.	Latsch - Martelltal	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/12758/#yyyy/#mm/#dd/12758_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.690 m	San Martino di Laces. Blick auf den Talboden.
@@ -15702,6 +15704,7 @@ zellamsee	Mitterberg bei Thumersbach - Links das Kitzsteinhorn, darunter Kaprun 
 9452	Gitschberg - H├╝tte Weit - Breiteben, Gitschh├╝tte	Gitschberg - Jochtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/9452/#yyyy/#mm/#dd/9452_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.055 m	Breiteben, Gitschh├╝tte
 17231	N├╝rburgring - Nordschleife - Nordschleife / Start.	Erlebnisregion N├╝rburgring	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/17231/#yyyy/#mm/#dd/17231_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	620 m	Nordschleife / Start.
 16897	Flugplatz Daun	Daun	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/16897/#yyyy/#mm/#dd/16897_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	525 m	-
+12851	Zentraler Omnibus Bahnhof (ZOB) - POI	Calw	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12851/#yyyy/#mm/#dd/12851_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	341 m	POI 1
 17238	Friedensplatz - Blick auf das Rathaus.	Dortmund	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/17238/#yyyy/#mm/#dd/17238_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	86 m	Blick auf das Rathaus.
 16000	Golf Club Petersberg	Deutschnofen - Obereggen - Eggen - Petersberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/16000/#yyyy/#mm/#dd/16000_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.387 m	-
 15944	Feldkirch / Nofels - Staatsgrenze (A/CH) Ruggel und zum ÔÇ×Hohen KastenÔÇ£ Schweiz	Bodensee - Vorarlberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/15944/#yyyy/#mm/#dd/15944_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	431 m	Staatsgrenze (A/CH) Ruggel und zum ÔÇ×Hohen KastenÔÇ£ Schweiz
@@ -15885,10 +15888,9 @@ st-christina	St. Christina - Gr├Âden - Dorfhotel Beludei - St. Christina in G
 9297	Deggenhausertal / Golfclub Rochushof	Deggenhausertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/9297/#yyyy/#mm/#dd/9297_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	735 m	-
 15304	H├╝ttegglift	Weerberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/15304/#yyyy/#mm/#dd/15304_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.250 m	-
 11712	Krinnenkopf - Sennjoch	Fulpmes / Stubaital	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/11712/#yyyy/#mm/#dd/11712_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.100 m	Kalkk├Âgel
-6904	Bergstation starjet 3 - Hot 1	Flachau	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6904/#yyyy/#mm/#dd/6904_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.860 m	Hot 1
 14154	Waldibahn - Emmetten - Blick nach Emmetten und den Vierwaldst├ñttersee.	Emmetten	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/14154/#yyyy/#mm/#dd/14154_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.220 m	Blick nach Emmetten und den Vierwaldst├ñttersee.
+6904	Bergstation starjet 3 - Hot	Flachau	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6904/#yyyy/#mm/#dd/6904_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.860 m	Hot 1
 6905	Bergstation starjet 3 - Hot 2	Flachau - Snow Space Salzburg - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/6905/#yyyy/#mm/#dd/6905_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.860 m	Hot 2
-6904	Bergstation starjet 3 - Hot 1	Flachau - Snow Space Salzburg - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6904/#yyyy/#mm/#dd/6904_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.860 m	Hot 1
 1388	Draxlhang - Skischule Lenggries am Draxlhang	Lenggries - Brauneck	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/1388/#yyyy/#mm/#dd/1388_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Skischule Lenggries am Draxlhang
 11351	Schoppernau Gemeindezentrum - Loipen - Blick auf das Loipenzentrum.	Bregenzerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11351/#yyyy/#mm/#dd/11351_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	835 m	Blick auf das Loipenzentrum.
 11351	Schoppernau Gemeindezentrum - Loipen - Blick auf das Loipenzentrum.	Diedamskopf - Schoppernau	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11351/#yyyy/#mm/#dd/11351_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	835 m	Blick auf das Loipenzentrum.
@@ -16034,7 +16036,6 @@ st-christina	St. Christina - Gr├Âden - Dorfhotel Beludei - St. Christina in G
 941	Fiss - Bergstation Sch├Ânjochbahn	Fiss	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/941/#yyyy/#mm/#dd/941_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.436 m	-
 8958	Zillertal Arena, Alpengasthof Filzstein	Krimml - Hochkrimml	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8958/#yyyy/#mm/#dd/8958_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.650 m	-
 8233	Furt - Wangs Bergstation 2	Pizol - Bad Ragaz - Wangs	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8233/#yyyy/#mm/#dd/8233_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.521 m	-
-16633	Stupava 1	Stupava	<missing>	360 m	-
 12773	Hirschegg/Kleinwalsertal - Hirschegg	Hirschegg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12773/#yyyy/#mm/#dd/12773_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.150 m	Hirschegg
 3402	Davos / Schweizerische Alpine Mittelschule	Davos Jakobshorn	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/3402/#yyyy/#mm/#dd/3402_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.506 m	-
 1368	Schweizerhof St. Moritz - Meierei/Pontresina.	St. Moritz - Corviglia	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/1368/#yyyy/#mm/#dd/1368_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	828 m	Meierei/Pontresina.
@@ -16046,6 +16047,7 @@ st-christina	St. Christina - Gr├Âden - Dorfhotel Beludei - St. Christina in G
 8233	Furt - Wangs Bergstation 2	Vilters-Wangs	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8233/#yyyy/#mm/#dd/8233_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.521 m	-
 11786	Fraciscio - Ortszentrum.	Madesimo 	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11786/#yyyy/#mm/#dd/11786_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.312 m	Ortszentrum.
 941	Fiss - Bergstation Sch├Ânjochbahn	Serfaus - Fiss - Ladis	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/941/#yyyy/#mm/#dd/941_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.436 m	-
+16633	Stupava	Stupava	<missing>	360 m	-
 14045	Pr├® Poncet	Chaux Neuve	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/14045/#yyyy/#mm/#dd/14045_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 7012	Montagna - Montan - Castefeder mit/con Roen	Bozen und Umgebung - S├╝dtirols S├╝den	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/7012/#yyyy/#mm/#dd/7012_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	470 m	Castefeder mit/con Roen
 5255	Buron-Stadl - Terrasse des Buron Stadls und Kinderpark.	Oberallg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/5255/#yyyy/#mm/#dd/5255_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	900 m	Terrasse des Buron Stadls und Kinderpark.
@@ -16074,10 +16076,10 @@ st-christina	St. Christina - Gr├Âden - Dorfhotel Beludei - St. Christina in G
 2908	Bergstation Sesselbahn Giw - Visperterminen - Richtung Nordwesten, im Hintergrund die Moosalp-Region und die Berner Alpen	Visperterminen	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/2908/#yyyy/#mm/#dd/2908_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.959 m	Richtung Nordwesten, im Hintergrund die Moosalp-Region und die Berner Alpen
 17839	Ski Arena Kranjska Gora	Kranjska Gora	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/17839/#yyyy/#mm/#dd/17839_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	820 m	-
 6990	Fanningberg - Bergstation 4	Mariapfarr	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6990/#yyyy/#mm/#dd/6990_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.020 m	-
+11228	Grindelwald First - POI	Grindelwald - First	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/11228/#yyyy/#mm/#dd/11228_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.167 m	POI 1
 11060	Halbenrain Marktplatz	Halbenrain	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/11060/#yyyy/#mm/#dd/11060_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	223 m	-
-11228	Grindelwald First - POI 1	Grindelwald - First	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/11228/#yyyy/#mm/#dd/11228_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.167 m	POI 1
-11228	Grindelwald First - POI 1	Jungfrau Ski Region Grindelwald - Wengen	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/11228/#yyyy/#mm/#dd/11228_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.167 m	POI 1
 7255	Grainet / Hotel H├╝ttenhof	Freyung-Grafenau	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7255/#yyyy/#mm/#dd/7255_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	760 m	-
+11228	Grindelwald First - POI	Jungfrau Ski Region Grindelwald - Wengen	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/11228/#yyyy/#mm/#dd/11228_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.167 m	POI 1
 16199	Oberer Stadtplatz - Panorama	Hall in Tirol	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/16199/#yyyy/#mm/#dd/16199_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	\N	\N
 3362	Kaltern - Kalterersee - Aussicht auf den Kalterersee und die Leuchtenburg vom "Haus Seerose" aus.	Kaltern am See / S├╝dtiroler Weinstra├ƒe	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/3362/#yyyy/#mm/#dd/3362_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	215 m	Aussicht auf den Kalterersee und die Leuchtenburg vom "Haus Seerose" aus.
 14517	Welschnofen Bergstation - Rosengarten - Catinaccio	Welschnofen Karersee	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/14517/#yyyy/#mm/#dd/14517_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.740 m	Rosengarten - Catinaccio
@@ -16109,7 +16111,6 @@ st-christina	St. Christina - Gr├Âden - Dorfhotel Beludei - St. Christina in G
 17887	Eutin Wasserturm - Blick vom Wasserturm ├╝ber die Stadtbucht	Eutin	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/17887/#yyyy/#mm/#dd/17887_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	33 m	Blick vom Wasserturm ├╝ber die Stadtbucht
 15023	Bergstation Schneeexpress	Kaltenbach	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15023/#yyyy/#mm/#dd/15023_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 2662	Rothwald Wasenalp - Kastelegge-Bortelhorn	Rothwald - Wasenalp am Simplon	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/2662/#yyyy/#mm/#dd/2662_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.215 m	Kastelegge-Bortelhorn
-8778	Bergstation 8er Sessellift Schnee Express - Sonnenjet 1	Hochzillertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8778/#yyyy/#mm/#dd/8778_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 16272	Kope - Ka┼ítivnik - Bergstation	Koro┼íka	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/16272/#yyyy/#mm/#dd/16272_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 16272	Kope - Ka┼ítivnik - Bergstation	Kope	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/16272/#yyyy/#mm/#dd/16272_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 2216	Traun - Wels/Marchtrenk/H├Ârsching	Traun	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/2216/#yyyy/#mm/#dd/2216_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Wels/Marchtrenk/H├Ârsching
@@ -16131,8 +16132,6 @@ st-christina	St. Christina - Gr├Âden - Dorfhotel Beludei - St. Christina in G
 7423	Rifugio Lagazuoi - Pelmo und Civetta	Lagazuoi - Cinque Torri	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/7423/#yyyy/#mm/#dd/7423_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.690 m	Pelmo und Civetta
 17920	Umlaufbahn Lazaun II	Schnalstal / Kurzras	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/17920/#yyyy/#mm/#dd/17920_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.011 m	-
 17061	Reutlingen - Marktplatz	Reutlingen	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/17061/#yyyy/#mm/#dd/17061_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	382 m	-
-7615	Rohrmoos - Schladming / Goldenjet 1	Schladming-Rohrmoos-Pichl	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7615/#yyyy/#mm/#dd/7615_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	835 m	Schladming / Goldenjet 1
-7615	Rohrmoos - Schladming / Goldenjet 1	Planai / Schladming - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7615/#yyyy/#mm/#dd/7615_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	835 m	Schladming / Goldenjet 1
 11842	Reith bei Seefeld	Reith bei Seefeld	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/11842/#yyyy/#mm/#dd/11842_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.130 m	-
 5729	Talstation Wasenlift - Bergstation und Skihang	Muggenbrunn	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/5729/#yyyy/#mm/#dd/5729_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.080 m	Bergstation und Skihang
 14132	Hauptstrand Langeoog - Panorama	Langeoog	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/14132/#yyyy/#mm/#dd/14132_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	27 m	Panorama
@@ -16140,6 +16139,7 @@ st-christina	St. Christina - Gr├Âden - Dorfhotel Beludei - St. Christina in G
 141	Kirchschlag Bergstation	Kirchschlag bei Linz	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/141/#yyyy/#mm/#dd/141_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	900 m	-
 5086	Jasensk├í dolina	Jasensk├í dolina	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/5086/#yyyy/#mm/#dd/5086_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	540 m	-
 16197	Glungezerbahn Mittelstation	Glungezer	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/16197/#yyyy/#mm/#dd/16197_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.560 m	-
+8778	Bergstation 8er Sessellift Schnee Express - Sonnenjet	Hochzillertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8778/#yyyy/#mm/#dd/8778_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 11996	Roselette - B├╗che Crois├®e 2	Les Contamines Montjoie - Evasion Mont-Blanc	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11996/#yyyy/#mm/#dd/11996_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 12571	Scharnitz - Seefeld	Scharnitz	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12571/#yyyy/#mm/#dd/12571_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.095 m	-
 15456	Karsee - Blick von der Bergstation.	Wangen im Allg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15456/#yyyy/#mm/#dd/15456_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
@@ -16424,7 +16424,6 @@ st-christina	St. Christina - Gr├Âden - Dorfhotel Beludei - St. Christina in G
 2931	Ciampedie - Rosengarten - Bergstation des Sesselliftes "Pian Pecei-Pra Martin" mit dem Cigolade im Hintergrund	Vigo di Fassa - Catinaccio / Val di Fassa	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/2931/#yyyy/#mm/#dd/2931_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.997 m	Bergstation des Sesselliftes "Pian Pecei-Pra Martin" mit dem Cigolade im Hintergrund
 6628	Svaty Petr II	┼ápindler┼»v Ml├¢n / Svat├¢ Petr - Hromovka	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/6628/#yyyy/#mm/#dd/6628_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	755 m	-
 14886	Sappada - Ristorante Mondschein - provided by #panomax.com https://www.panomax.com	Val Comelico - Sappada	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/14886/#yyyy/#mm/#dd/14886_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.217 m	provided by panomax.com
-13002	Je┼ít─ød - POI 1	Ski are├íl Je┼ít─ød / Liberec	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13002/#yyyy/#mm/#dd/13002_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	670 m	-
 2878	Innerwengen - Zielraum des legend├ñren Lauberhornrennens in Innerwengen	Wengen	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/2878/#yyyy/#mm/#dd/2878_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.294 m	Zielraum des legend├ñren Lauberhornrennens in Innerwengen
 2878	Innerwengen - Zielraum des legend├ñren Lauberhornrennens in Innerwengen	Jungfrau Ski Region Grindelwald - Wengen	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/2878/#yyyy/#mm/#dd/2878_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.294 m	Zielraum des legend├ñren Lauberhornrennens in Innerwengen
 16579	Aigen - Schl├ñgl - Baureith	Aigen - Schl├ñgl	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/16579/#yyyy/#mm/#dd/16579_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	590 m	Baureith
@@ -16444,6 +16443,7 @@ st-christina	St. Christina - Gr├Âden - Dorfhotel Beludei - St. Christina in G
 7581	Blitzingen - Chastebiel	Obergoms / Goms	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/7581/#yyyy/#mm/#dd/7581_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Chastebiel
 15297	Les Suches - Panorama	La Thuile	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/15297/#yyyy/#mm/#dd/15297_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.310 m	Panorama
 15297	Les Suches - Panorama	La Thuile - La Rosiere / San Bernardo	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/15297/#yyyy/#mm/#dd/15297_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.310 m	Panorama
+13002	Je┼ít─ød - POI	Ski are├íl Je┼ít─ød / Liberec	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13002/#yyyy/#mm/#dd/13002_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	670 m	-
 14378	┼¢ivogo┼í─ìe - Mala Duba - Strand Mala Duba.	┼¢ivogo┼í─ìe	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/14378/#yyyy/#mm/#dd/14378_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	0 m	Strand Mala Duba.
 6927	Galt├╝r - Kopssee - Panorama	Galt├╝r /  Paznaun-Ischgl	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/6927/#yyyy/#mm/#dd/6927_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.850 m	Panorama
 3050	Bergfried Saalfeld - Blick von der Bergfried-Klinik auf Saalfeld	Th├╝ringer Wald	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/3050/#yyyy/#mm/#dd/3050_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	310 m	Blick von der Bergfried-Klinik auf Saalfeld
@@ -17295,9 +17295,9 @@ starnbergersee	Ammerland - Starnberger See - Starnberger See	Starnberg	https://e
 9762	Rifugio Vodala	Val Seriana / Serio-Tal	<missing>	\N	\N
 15736	Raas - Natz / Schabs - Blick nach S├╝den Richtung Brixen.	Plose Brixen	<missing>	805 m	Blick nach S├╝den Richtung Brixen.
 9766	Presolana Montepora - Pian de l┬┤Asen	Val Seriana / Serio-Tal	<missing>	\N	\N
+13260	Couis	Aosta und Umgebung	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13260/#yyyy/#mm/#dd/13260_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.705 m	-
 6855	Cima Bianca - Panorama	Bormio	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/6855/#yyyy/#mm/#dd/6855_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	3.012 m	Panorama
 13370	Couis 1 2	Aosta und Umgebung	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13370/#yyyy/#mm/#dd/13370_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.705 m	-
-13260	Couis 1	Aosta und Umgebung	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13260/#yyyy/#mm/#dd/13260_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.705 m	-
 9857	Niederdorf - H├ñuslerhof - Niederdorf / Villabassa	Niederdorf	<missing>	1.308 m	Niederdorf / Villabassa
 6854	Cima Bianca 4	Bormio	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6854/#yyyy/#mm/#dd/6854_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.012 m	-
 13372	Couis 1 4	Pila / Aostatal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13372/#yyyy/#mm/#dd/13372_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.705 m	-
@@ -17406,7 +17406,6 @@ starnbergersee	Ammerland - Starnberger See - Starnberger See	Starnberg	https://e
 4212	Le Mont Joux - Bergstation Mont Joux et Montjoux III.	St Gervais Mont-Blanc - Evasion Mont-Blanc	<missing>	\N	\N
 16953	La Cernay Blanche - La Chaux - La Chaux de Gilley	Doubs	<missing>	\N	\N
 16953	La Cernay Blanche - La Chaux - La Chaux de Gilley	La Cernay Blanche ÔÇô La Chaux de Gilley	<missing>	\N	\N
-14046	Meix-Musy - Talstation Meix-Musy - Pierre ├í Feu	Meix-Musy - Pierre ├í Feu	<missing>	\N	\N
 4581	T├¬te Cabane - Vue sur la station	Isola 2000	<missing>	\N	\N
 12048	Sistron - Isola 2000 - Bergstation Sistron.	Isola 2000	<missing>	\N	\N
 4580	T├¬te Cabane - Arrivee Mercantour	Isola 2000	<missing>	\N	\N
@@ -17445,14 +17444,13 @@ starnbergersee	Ammerland - Starnberger See - Starnberger See	Starnberg	https://e
 13432	Mlad├® Buky - Panorama	Mlad├® Buky	<missing>	600 m	Panorama
 12364	─îern├¢ D┼»l 4	─îern├¢ D┼»l / ─îern├í hora - Pec	<missing>	650 m	-
 17765	Schoenmarkt Mechelen - IJzerenleen vom Schepenhuis aus.	Flandern	<missing>	\N	\N
-7124	Zadov II - Hot 1	Zadov	<missing>	960 m	Hot 1
 13040	Paseky 3	Paseky nad Jizerou / Rokytnice nad Jizerou	<missing>	633 m	-
 7109	Tanvaldsk├¢ ┼ápi─ì├ík II - Hot 2	Tanvaldsk├¢ ┼ápi─ì├ík / Jizerky	<missing>	850 m	Hot 2
 15466	Zadov - ly┼¥a┼Ösk├í ┼íkola	Zadov	<missing>	-	-
-17768	Vleeshuis Oudenaarde	Oudenaarde	<missing>	11 m	-
+7124	Zadov II - Hot	Zadov	<missing>	960 m	Hot 1
 17964	Pysna - Velka Sjezdovka	Py┼ín├í	<missing>	\N	\N
 7054	Schneekope II - Hot 3	Pec pod Sn─ø┼¥kou / ─îern├í hora - Pec	<missing>	\N	\N
-17768	Vleeshuis Oudenaarde	Flandern	<missing>	11 m	-
+14982	Be-Mine	Flandern	<missing>	35 m	-
 15465	Chur├í┼êov - horn├¡ stanice	Zadov	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/15465/#yyyy/#mm/#dd/15465_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 13080	Mal├í ├Üpa - Sn─ø┼¥a	Mal├í ├Üpa	<missing>	1.041 m	Sn─ø┼¥a
 16769	Janova hora - Blick von der Chata Hubertka.	Janova Hora	<missing>	\N	\N
@@ -17476,7 +17474,6 @@ starnbergersee	Ammerland - Starnberger See - Starnberger See	Starnberg	https://e
 18186	Umhausen - der Veitenhof	Niederthai 	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/18186/#yyyy/#mm/#dd/18186_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.530 m	-
 13429	Mlad├® Buky 2	Mlad├® Buky	<missing>	600 m	-
 17192	Craywinckelhof 2	Flandern	<missing>	45 m	-
-14982	Be-Mine 1	Flandern	<missing>	35 m	-
 18237	Be-Mine 2 5	Flandern	<missing>	35 m	-
 18236	Be-Mine 2 4	Flandern	<missing>	35 m	-
 18236	Be-Mine 2 4	Limburg - Flandern	<missing>	35 m	-
@@ -17500,6 +17497,7 @@ starnbergersee	Ammerland - Starnberger See - Starnberger See	Starnberg	https://e
 16284	Museum Bokrijk 3	Hasselt	<missing>	42 m	-
 16285	Museum Bokrijk 4	Flandern	<missing>	42 m	-
 13431	Mlad├® Buky 4	Mlad├® Buky	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/13431/#yyyy/#mm/#dd/13431_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	600 m	-
+14982	Be-Mine	Limburg - Flandern	<missing>	35 m	-
 8383	Koh├║tka 4	Koh├║tka	<missing>	913 m	-
 8408	Koh├║tka 5	Koh├║tka	<missing>	913 m	-
 10517	Horn├¡ Domky - Pohled na are├íl	Horn├¡ Domky / Rokytnice nad Jizerou	<missing>	-	Pohled na are├íl
@@ -17510,7 +17508,6 @@ starnbergersee	Ammerland - Starnberger See - Starnberger See	Starnberg	https://e
 14987	Be-Mine 1 - Panorama	Limburg - Flandern	<missing>	35 m	Panorama
 18237	Be-Mine 2 5	Limburg - Flandern	<missing>	35 m	-
 16285	Museum Bokrijk 4	Limburg - Flandern	<missing>	42 m	-
-14982	Be-Mine 1	Limburg - Flandern	<missing>	35 m	-
 6328	Oberhaggen in Lochau - Bodensee	Lochau	<missing>	650 m	Bodensee
 10312	┼áacberk	┼áacberk / Zborn├í	<missing>	\N	\N
 7551	Rifugio Primaneve - Monte Tomba	Malga San Giorgio	<missing>	1.766 m	Monte Tomba
@@ -17731,7 +17728,6 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals am Gro├ƒglockner	https://www.foto-we
 4799	G├Âschenen - G├Âschneralp	Andermatt - Gemsstock	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/4799/#yyyy/#mm/#dd/4799_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 13798	Loserh├╝tte - Panorama mit Koppenkarstein, Dachstein, Sarstein	Altaussee - Loser	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/13798/#yyyy/#mm/#dd/13798_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.498 m	Panorama mit Koppenkarstein, Dachstein, Sarstein
 7234	Zauchensee Weltcuparena - POI 4	Altenmarkt-Zauchensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/7234/#yyyy/#mm/#dd/7234_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.375 m	POI 4
-13260	Couis 1	Pila / Aostatal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13260/#yyyy/#mm/#dd/13260_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.705 m	-
 19073	Drachental	Wildsch├Ânau - Ski Juwel Alpbachtal Wildsch├Ânau	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19073/#yyyy/#mm/#dd/19073_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	936 m	-
 18835	Flugplatz Weinheim	Weinheim	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/18835/#yyyy/#mm/#dd/18835_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	135 m	-
 19075	Drachental 2	Wildsch├Ânau	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/19075/#yyyy/#mm/#dd/19075_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	936 m	-
@@ -17746,6 +17742,7 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals am Gro├ƒglockner	https://www.foto-we
 18968	Waidring Schweizerhof - Blick auf das Dorfzentrum und die Steinplatte	Waidring - Steinplatte	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/18968/#yyyy/#mm/#dd/18968_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	780 m	Blick auf das Dorfzentrum und die Steinplatte
 11824	Catinaccio - da Pra Martin - Gipfel des Vajolet.	Vigo di Fassa - Catinaccio / Val di Fassa	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/11824/#yyyy/#mm/#dd/11824_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.042 m	Gipfel des Vajolet.
 18447	Monte Cesen - Zoom Nw - monte Verena -vi- 2000m	Treviso	<missing>	1.530 m	Zoom Nw - monte Verena -vi- 2000m
+13260	Couis	Pila / Aostatal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13260/#yyyy/#mm/#dd/13260_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.705 m	-
 16295	Strunjan - Krajinski park Strunjan.	Strunjan	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/16295/#yyyy/#mm/#dd/16295_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	Krajinski park Strunjan.
 17452	Fellhorn/Oberstdorf Kleinwalsertal - Panorama	Fellhorn - Kanzelwand	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/17452/#yyyy/#mm/#dd/17452_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.967 m	Panorama
 6266	Wiesenfelden - Dorfweiher	Wiesenfelden	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6266/#yyyy/#mm/#dd/6266_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	610 m	Dorfweiher
@@ -17760,7 +17757,6 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals am Gro├ƒglockner	https://www.foto-we
 18120	Klausberg / Hotel Sonja - Blick zur Talstation vom Klausberg.	Klausberg - Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18120/#yyyy/#mm/#dd/18120_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.030 m	Blick zur Talstation vom Klausberg.
 18774	Tarrenz Kappakreuz	Tarrenz	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18774/#yyyy/#mm/#dd/18774_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.236 m	-
 18118	Colfosco - Corvara in Badia / Hotel Luianta	Corvara	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/18118/#yyyy/#mm/#dd/18118_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.680 m	-
-7128	Zauchensee Weltcuparena - POI 1	Altenmarkt-Zauchensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/7128/#yyyy/#mm/#dd/7128_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.375 m	POI 1
 10082	Flugplatz Timmersdorf Leoben	Kammern	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/10082/#yyyy/#mm/#dd/10082_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	640 m	-
 19150	Camogli - Punta Chiappa - provided by #panomax.com https://stellamaris.panomax.com	Genua und Umgebung	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19150/#yyyy/#mm/#dd/19150_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	60 m	provided by panomax.com
 12777	Moorgebiet Schwemm	Walchsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/12777/#yyyy/#mm/#dd/12777_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	668 m	-
@@ -17785,6 +17781,7 @@ glocknerwinkel	Glocknerwinkel [UHD]	Kals am Gro├ƒglockner	https://www.foto-we
 9199	Lipno Marina 2	Lipno	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/9199/#yyyy/#mm/#dd/9199_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	730 m	-
 16136	Kurparkhaupteingang - Konzerthallenvorplatz	Bad Salzuflen	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16136/#yyyy/#mm/#dd/16136_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 16275	Nov├® M─østo na Morav─ø 2	Harus├ík / Nov├® M─østo na Morav─ø	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/16275/#yyyy/#mm/#dd/16275_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	648 m	-
+7128	Zauchensee Weltcuparena - POI	Altenmarkt-Zauchensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/7128/#yyyy/#mm/#dd/7128_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.375 m	POI 1
 973	Kronplatz Gipfel - St. Vigil in Enneberg mit den Dolomiten im Hintergrund	Bruneck - Reischach - Percha	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/973/#yyyy/#mm/#dd/973_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.275 m	St. Vigil in Enneberg mit den Dolomiten im Hintergrund
 6616	Almenwelt Lofer - Kinderland - Zauberteppich	Lofer - Almenwelt Lofer	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6616/#yyyy/#mm/#dd/6616_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.400 m	Kinderland - Zauberteppich
 5276	Buchenbergalm Bergstation - Startplatz der Gleitschirmflieger an der Bergstation	Buchenbergbahn - Buching	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/5276/#yyyy/#mm/#dd/5276_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.140 m	Startplatz der Gleitschirmflieger an der Bergstation
@@ -17895,7 +17892,6 @@ wendelstein-ost	Wendelsteinbahn Bergstation\r\nGacher - Links ist im Vordergrund
 18793	Percha Erdpyramiden	Bruneck - Reischach - Percha	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18793/#yyyy/#mm/#dd/18793_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.547 m	-
 4451	Les Claux - Chabri├¿res - D├®part de la t├®l├®cabine de Chabri├¿res	Vars - La F├┤ret Blanche	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/4451/#yyyy/#mm/#dd/4451_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.850 m	D├®part de la t├®l├®cabine de Chabri├¿res
 6160	Hundseck - B├╝hlertallifte - Terrasse	Hundseck - B├╝hlertallifte	<missing>	\N	\N
-12817	Moorgebiet Schwemm - Moorgebiet / Miesberg 1	Walchsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/12817/#yyyy/#mm/#dd/12817_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	668 m	Moorgebiet / Miesberg 1
 19076	Drachental 3	Wildsch├Ânau - Ski Juwel Alpbachtal Wildsch├Ânau	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19076/#yyyy/#mm/#dd/19076_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	936 m	-
 8455	Cortals - Sector Encamp - Panorama	Grandvalira / Pas de la Casa - Grau Roig - Soldeu - El Tarter	<missing>	\N	\N
 18453	Monte Cesen - Zoom Nord - Pale Di San martino -tn- 3100 m	Treviso	<missing>	1.530 m	Zoom Nord - Pale Di San martino -tn- 3100 m
@@ -17921,6 +17917,7 @@ wendelstein-ost	Wendelsteinbahn Bergstation\r\nGacher - Links ist im Vordergrund
 15642	Talstation K-Express (1.050m) - Blick auf Steinhaus	Klausberg - Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15642/#yyyy/#mm/#dd/15642_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 19070	Corno alle Scale 5	Corno alle Scale	<missing>	1.714 m	-
 19134	Altaussee - Hagan Lodge - provided by #panomax.com https://haganlodge.panomax.com/altaussee	Altaussee - Loser	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/19134/#yyyy/#mm/#dd/19134_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	865 m	provided by panomax.com
+12817	Moorgebiet Schwemm - Moorgebiet / Miesberg	Walchsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/12817/#yyyy/#mm/#dd/12817_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	668 m	Moorgebiet / Miesberg 1
 16746	Hesselbacher Gletscher - Blick auf den Skihang.	Siegen-Wittgenstein	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16746/#yyyy/#mm/#dd/16746_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	560 m	Blick auf den Skihang.
 16746	Hesselbacher Gletscher - Blick auf den Skihang.	Bad Laasphe - Hesselbach	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16746/#yyyy/#mm/#dd/16746_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	560 m	Blick auf den Skihang.
 16746	Hesselbacher Gletscher - Blick auf den Skihang.	Siegerland - Wittgenstein	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16746/#yyyy/#mm/#dd/16746_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	560 m	Blick auf den Skihang.
@@ -18070,6 +18067,7 @@ wendelstein-ost	Wendelsteinbahn Bergstation\r\nGacher - Links ist im Vordergrund
 11368	Skilift Fischenthal	Z├╝rcher Oberland	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/11368/#yyyy/#mm/#dd/11368_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 10753	Interlaken	Ferienregion Interlaken	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/10753/#yyyy/#mm/#dd/10753_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	568 m	-
 18979	Waldburg Blaser - Alpen, von der Nagelfluhkette bis zum S├ñntis	Waldburg im Allg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/18979/#yyyy/#mm/#dd/18979_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
+7615	Rohrmoos - Schladming / Goldenjet	Schladming	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7615/#yyyy/#mm/#dd/7615_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	835 m	Schladming / Goldenjet 1
 16869	Rifugio Mirtillo - N	Lizzola - Valbondione	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/16869/#yyyy/#mm/#dd/16869_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.000 m	N
 16705	Wasserkuppe - Paradisolift Wasserkuppe	Wasserkuppe	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/16705/#yyyy/#mm/#dd/16705_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	900 m	Paradisolift Wasserkuppe
 3213	Chamonix, Place Balmat	Chamonix Mont-Blanc	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/3213/#yyyy/#mm/#dd/3213_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
@@ -18080,7 +18078,6 @@ wendelstein-ost	Wendelsteinbahn Bergstation\r\nGacher - Links ist im Vordergrund
 19054	Reitherkogelbahn 2	Alpbach - Ski Juwel Alpbachtal Wildsch├Ânau	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/19054/#yyyy/#mm/#dd/19054_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	650 m	-
 17028	Bonn - Hofgarten	Bonn	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/17028/#yyyy/#mm/#dd/17028_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	60 m	-
 schulterkogel	Prebl/Schulterkogel [UHD]	Bad St. Leonhard im Lavanttal	https://www.foto-webcam.eu/webcam/schulterkogel/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.400 m	-
-7615	Rohrmoos - Schladming / Goldenjet 1	Schladming	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7615/#yyyy/#mm/#dd/7615_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	835 m	Schladming / Goldenjet 1
 11574	Innenstadt St. Blasien - Rathausgeb├ñude und dahinter die Domkuppel	St. Blasien - Menzenschwand	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/11574/#yyyy/#mm/#dd/11574_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	770 m	Rathausgeb├ñude und dahinter die Domkuppel
 19205	Boutique Apartments Herbert	Rennweg am Katschberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/19205/#yyyy/#mm/#dd/19205_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.650 m	-
 14179	Rigi - Scheidegg - Blick von Rigi Scheidegg, Arche..	Rigi	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/14179/#yyyy/#mm/#dd/14179_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.650 m	Blick von Rigi Scheidegg, Arche..
@@ -18657,13 +18654,13 @@ andelsbuch	Andelsbuch - Vordere Niederealpe - Andelsbuch [UHD]	Bregenzerwald	htt
 12650	Meersburg - Therme	Meersburg	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/12650/#yyyy/#mm/#dd/12650_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	400 m	-
 11807	Torgnon - Seggiovia Collet - Talstation Richtung Becca.d┬┤Aver, 2469 m.	Torgnon	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11807/#yyyy/#mm/#dd/11807_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.860 m	Talstation Richtung Becca.d┬┤Aver, 2469 m.
 17895	Schnalstal - Bergstation Gletscherbahn - Kunstinstallation	Schnalstal	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/17895/#yyyy/#mm/#dd/17895_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.212 m	Kunstinstallation
+7072	Rokytnice nad Jizerou II - POI	Studenov / Rokytnice nad Jizerou	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/7072/#yyyy/#mm/#dd/7072_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	718 m	POI 1
 6883	Pi de Migdia - Sector El Tarter - Panorama	Grandvalira / Pas de la Casa - Grau Roig - Soldeu - El Tarter	<missing>	2.100 m	Panorama
 12821	Bad Hofgastein - Planitzengut	Bad Hofgastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12821/#yyyy/#mm/#dd/12821_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.290 m	-
 kals-nord	Kals am Gro├ƒglockner - Gro├ƒglockner [UHD]	Kals - GG Resorts Kals-Matrei	https://www.foto-webcam.eu/webcam/kals-nord/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.500 m	Gro├ƒglockner
 1865	Wasserkuppe - Abfahrt M├ñrchenwiese	Wasserkuppe	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/1865/#yyyy/#mm/#dd/1865_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	925 m	Abfahrt M├ñrchenwiese
 9924	Skilift Battenhausen / Hohes Lohr - Ankerlift, 680 m	Battenhausen / Hohes Lohr	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9924/#yyyy/#mm/#dd/9924_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	488 m	Ankerlift, 680 m
 18820	Litorale	Ravenna	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18820/#yyyy/#mm/#dd/18820_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	0 m	-
-7072	Rokytnice nad Jizerou II - POI 1	Studenov / Rokytnice nad Jizerou	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/7072/#yyyy/#mm/#dd/7072_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	718 m	POI 1
 16939	Talstation Zinkenlifte - Liftanlage	Hallein / Bad D├╝rrnberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/16939/#yyyy/#mm/#dd/16939_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	772 m	Liftanlage
 18762	Wormser Dom - Blick auf den Marktplatz und das Rathaus sowie ├╝ber die ├Âstliche Innenstadt in Richtung Rheinbr├╝cken	Rheinhessen	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18762/#yyyy/#mm/#dd/18762_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	100 m	Blick auf den Marktplatz und das Rathaus sowie ├╝ber die ├Âstliche Innenstadt in Richtung Rheinbr├╝cken
 14386	Jesolo - Enzo Stella Maris	Jesolo / Lido di Jesolo	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/14386/#yyyy/#mm/#dd/14386_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	4 m	-
@@ -18712,7 +18709,6 @@ wildalpen	Wildalpen -  L├Âwekogel - Wildalpen [UHD]	Ges├ñuse	https://www.f
 18500	Tangerm├╝nde Stadtbrunnen - Blick auf Exempel Gast- & Schlafstuben, Artificium & Zipfel	Tangerm├╝nde	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18500/#yyyy/#mm/#dd/18500_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	43 m	Blick auf Exempel Gast- & Schlafstuben, Artificium & Zipfel
 10163	Speikboden / Sonnklarh├╝tte	Kronplatz - Dolomiten	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/10163/#yyyy/#mm/#dd/10163_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.370 m	-
 18120	Klausberg / Hotel Sonja - Blick zur Talstation vom Klausberg.	Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18120/#yyyy/#mm/#dd/18120_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.030 m	Blick zur Talstation vom Klausberg.
-7128	Zauchensee Weltcuparena - POI 1	Zauchensee - Flachauwinkl - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/7128/#yyyy/#mm/#dd/7128_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.375 m	POI 1
 18892	Flugplatz Anspach	Wehrheim	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18892/#yyyy/#mm/#dd/18892_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	330 m	-
 17276	Hafen Neuharlingersiel	Nordseek├╝ste	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/17276/#yyyy/#mm/#dd/17276_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1 m	-
 16879	Anger - H├Âgl 2	Anger	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/16879/#yyyy/#mm/#dd/16879_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	778 m	-
@@ -18735,6 +18731,7 @@ eibsee-hotel	Eibsee-Hotel - Zugspitze [UHD]	Zugspitze	https://www.foto-webcam.eu
 11368	Skilift Fischenthal	Fischenthal	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/11368/#yyyy/#mm/#dd/11368_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 17525	Aichegg - Freibad Bad Schwanberg	Bad Schwanberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/17525/#yyyy/#mm/#dd/17525_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	432 m	Freibad Bad Schwanberg
 9634	Sierra Nevada - Borreguiles - Pico Veleta	Sierra Nevada / Pradollano	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9634/#yyyy/#mm/#dd/9634_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.625 m	Pico Veleta
+7128	Zauchensee Weltcuparena - POI	Zauchensee - Flachauwinkl - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/7128/#yyyy/#mm/#dd/7128_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.375 m	POI 1
 8609	El Forn - Sector Canillo 5	Grandvalira / Pas de la Casa - Grau Roig - Soldeu - El Tarter	<missing>	2.000 m	-
 19301	Iserlohn Schillerplatz 2	Iserlohn	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/19301/#yyyy/#mm/#dd/19301_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	242 m	-
 14428	Pag Strand	Stadt Pag	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/14428/#yyyy/#mm/#dd/14428_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	0 m	-
@@ -18953,14 +18950,13 @@ freya1	Freya Gletscher [UHD]	Clavering-Insel	https://www.foto-webcam.eu/webcam/f
 12199	Langewiese	Sauerland/ Nordrhein-Westfalen	<missing>	716 m	-
 8574	Reitherkogelbahn	Alpbach - Ski Juwel Alpbachtal Wildsch├Ânau	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/8574/#yyyy/#mm/#dd/8574_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	650 m	-
 9190	Monte Lussari - Cima del Cacciatore	Tarvis und Umgebung	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/9190/#yyyy/#mm/#dd/9190_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.790 m	Cima del Cacciatore
+10621	Sportzentrum Pokljuka - Rudno Polje	Pokljuka - Vi┼íevnik	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/10621/#yyyy/#mm/#dd/10621_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.350 m	-
 12656	Seewalchen am Attersee - Blick auf den Attersee.	Seewalchen am Attersee	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/12656/#yyyy/#mm/#dd/12656_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	492 m	Blick auf den Attersee.
 7195	Bergstation Panoramabahn Elfer - Windanzeiger f├╝r Gleitschirmflieger	Neustift im Stubaital	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7195/#yyyy/#mm/#dd/7195_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.790 m	Windanzeiger f├╝r Gleitschirmflieger
-10621	Sportzentrum Pokljuka - Rudno Polje 1	Pokljuka - Vi┼íevnik	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/10621/#yyyy/#mm/#dd/10621_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.350 m	-
 8858	Alpe Tognala	San Martino di Castrozza	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8858/#yyyy/#mm/#dd/8858_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.322 m	-
 9816	Ochsalm - Panorama	Kitzb├╝hel - Kirchberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/9816/#yyyy/#mm/#dd/9816_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.480 m	Panorama
 9816	Ochsalm - Panorama	Kitzb├╝hel	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/9816/#yyyy/#mm/#dd/9816_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.480 m	Panorama
 18672	Obersalzberg - Watzmann - Direkter Blick auf den Watzmann vom Obersalzberg.	Berchtesgaden	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18672/#yyyy/#mm/#dd/18672_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	755 m	Direkter Blick auf den Watzmann vom Obersalzberg.
-10621	Sportzentrum Pokljuka - Rudno Polje 1	Bohinj	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/10621/#yyyy/#mm/#dd/10621_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.350 m	-
 13541	Bergstation Haunold - Skilift Untertal	Dolomitenregion Drei Zinnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/13541/#yyyy/#mm/#dd/13541_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.500 m	Skilift Untertal
 18720	Bad Zwischenahn Marktplatz	Bad Zwischenahn	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18720/#yyyy/#mm/#dd/18720_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	7 m	-
 18720	Bad Zwischenahn Marktplatz	Ostfriesland	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18720/#yyyy/#mm/#dd/18720_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	7 m	-
@@ -19031,7 +19027,6 @@ golfplatzbkk	BKK - Golfplatz Ost [UHD]	Bad Kleinkirchheim	https://www.foto-webca
 136	Hohbiel - Bergstation Sesselbahn Hohbiel	Brig Simplon	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/136/#yyyy/#mm/#dd/136_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.680 m	Bergstation Sesselbahn Hohbiel
 136	Hohbiel - Bergstation Sesselbahn Hohbiel	Blatten-Belalp	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/136/#yyyy/#mm/#dd/136_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.680 m	Bergstation Sesselbahn Hohbiel
 17044	Skikarussell Altastenberg - Hunau	Skikarussell Altastenberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/17044/#yyyy/#mm/#dd/17044_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	771 m	Hunau
-6880	Pi de Migdia - Sector El Tarter - Hot 1	Grandvalira / Pas de la Casa - Grau Roig - Soldeu - El Tarter	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6880/#yyyy/#mm/#dd/6880_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.100 m	Hot 1
 17050	Neuss - Quirinus-M├╝nster	Skihalle Neuss	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/17050/#yyyy/#mm/#dd/17050_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	40 m	-
 8867	Alpe Tognala - San Martino Snowpark	San Martino di Castrozza / Rolle Pass	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/8867/#yyyy/#mm/#dd/8867_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.322 m	San Martino Snowpark
 balderschwang-kreuzle	Balderschwang [UHD]	Balderschwang / H├Ârnerd├Ârfer	https://www.foto-webcam.eu/webcam/balderschwang-kreuzle/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.390 m	-
@@ -19059,11 +19054,10 @@ kals-nord	Kals Nord [UHD]	Kals am Gro├ƒglockner	https://www.foto-webcam.eu/we
 3207	Niederthai	Niederthai 	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/3207/#yyyy/#mm/#dd/3207_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.560 m	-
 schlegeis	Schlegeis - Blick nach S├╝den [UHD]	Ginzling	https://www.foto-webcam.eu/webcam/schlegeis/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.840 m	Blick nach S├╝den
 18714	H├╝ndlebahn Bergstation	H├╝ndle - Thalkirchdorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18714/#yyyy/#mm/#dd/18714_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.170 m	-
+6880	Pi de Migdia - Sector El Tarter - Hot	Grandvalira / Pas de la Casa - Grau Roig - Soldeu - El Tarter	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/6880/#yyyy/#mm/#dd/6880_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.100 m	Hot 1
 13408	Bergstation Umlaufbahn Schwemmalm - POI 2	Schwemmalm - Ultental	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/13408/#yyyy/#mm/#dd/13408_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.160 m	POI 2
 18559	Schuttertal Geisberg	Schuttertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/18559/#yyyy/#mm/#dd/18559_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	680 m	-
 641	Untere Firstalm - Blick vor die H├╝tte in s├╝dlicher Richtung.	Schliersee - Neuhaus - Spitzingsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/641/#yyyy/#mm/#dd/641_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.320 m	Blick vor die H├╝tte in s├╝dlicher Richtung.
-19278	Rodenecker-L├╝sner Alm 1	Gitschberg Jochtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/19278/#yyyy/#mm/#dd/19278_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.936 m	-
-18664	Innerratschings - Hot 3 1	Ratschings	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18664/#yyyy/#mm/#dd/18664_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.363 m	Hot 3
 2267	Ortsplatz Kirchschlag - nach Linz und im Hintergrund die Alpennordseite.	Schilifte Kirchschlag	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/2267/#yyyy/#mm/#dd/2267_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	898 m	nach Linz und im Hintergrund die Alpennordseite.
 16339	Cigolera	San Martino di Castrozza / Rolle Pass	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/16339/#yyyy/#mm/#dd/16339_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.100 m	-
 11594	Smaragdbahn Berg 2101m	Wildkogel-Arena / Neukirchen - Bramberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/11594/#yyyy/#mm/#dd/11594_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.101 m	-
@@ -19088,6 +19082,7 @@ brunnach-sued	BKK - Brunnach S├╝d [UHD]	Bad Kleinkirchheim	https://www.foto-
 4400	Front de neige - Montgen├¿vre	Montgen├¿vre - La Voie Lactee / Via Lattea	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/4400/#yyyy/#mm/#dd/4400_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.850 m	-
 marquartstein	Marquartstein /Schnappenberg - Achental [UHD]	Marquartstein	https://www.foto-webcam.eu/webcam/marquartstein/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.075 m	Achental
 16930	Langlaufzentrum Davos - Richtung Ortsmitte	Davos Klosters Parsenn	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/16930/#yyyy/#mm/#dd/16930_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.560 m	Richtung Ortsmitte
+19278	Rodenecker-L├╝sner Alm	Gitschberg Jochtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/19278/#yyyy/#mm/#dd/19278_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.936 m	-
 11071	Moosalp - Bergrestaurant Dorbia	Moosalpregion	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11071/#yyyy/#mm/#dd/11071_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.050 m	-
 11071	Moosalp - Bergrestaurant Dorbia	B├╝rchen	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11071/#yyyy/#mm/#dd/11071_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.050 m	-
 15573	Rodelbahn Oeschinensee - Bergstation Gondelbahn Kandersteg Oeschinensee, Sicht auf die Bl├╝emlisalp.	Ferienregion Kandertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15573/#yyyy/#mm/#dd/15573_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.715 m	Bergstation Gondelbahn Kandersteg Oeschinensee, Sicht auf die Bl├╝emlisalp.
@@ -19097,7 +19092,6 @@ marquartstein	Marquartstein /Schnappenberg - Achental [UHD]	Marquartstein	https:
 meran	Meran - Blick nach Nordosten [UHD]	Meran 2000	https://www.foto-webcam.eu/webcam/meran/#yyyy/#mm/#dd/#hh#nn_hu.jpg	780 m	Blick nach Nordosten
 11347	Erlebnis-Promenade	St. Peter-Ording	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11347/#yyyy/#mm/#dd/11347_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	15 m	-
 11594	Smaragdbahn Berg 2101m	Neukirchen - Bramberg / Wildkogel-Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/11594/#yyyy/#mm/#dd/11594_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.101 m	-
-19286	A├®rodrome de Ruoms 1	Labeaume	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19286/#yyyy/#mm/#dd/19286_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	100 m	-
 16222	Ronalplift Berg - Moosalpregion	Moosalpregion	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/16222/#yyyy/#mm/#dd/16222_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.120 m	-
 13001	Gols - Panorama	Neusiedler See	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/13001/#yyyy/#mm/#dd/13001_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	135 m	Panorama
 13001	Gols - Panorama	Gols	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/13001/#yyyy/#mm/#dd/13001_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	135 m	Panorama
@@ -19124,6 +19118,7 @@ jenner-sued	Jenner S├╝d - Blick ins Hagengebirge und zum Steinernen Meer [UH
 1340	Talstation Sch├Âneben - Piz - Reschen - Talstation der Bergbahn mit Blick auf den Reschensee und das Dorf Reschen	Sch├Âneben - Haideralm / Reschenpass	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/1340/#yyyy/#mm/#dd/1340_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.512 m	Talstation der Bergbahn mit Blick auf den Reschensee und das Dorf Reschen
 6741	Bovec - Hauptplatz	Sella Nevea	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/6741/#yyyy/#mm/#dd/6741_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	440 m	Hauptplatz
 13800	Loserh├╝tte - Sandling (1.717 m)	Loser - Altaussee - Schneeb├ñren	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13800/#yyyy/#mm/#dd/13800_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.498 m	Sandling (1.717 m)
+19286	A├®rodrome de Ruoms	Labeaume	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19286/#yyyy/#mm/#dd/19286_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	100 m	-
 18443	Monte Cesen - Vista Ost/s├╝dost - Pianura Trevigiana, Treviso E Costa Veneta Ost	Treviso	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18443/#yyyy/#mm/#dd/18443_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.530 m	Vista Ost/s├╝dost - Pianura Trevigiana, Treviso E Costa Veneta Ost
 17891	Burgruine Waldeck 4	Kemnath	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/17891/#yyyy/#mm/#dd/17891_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	635 m	-
 salzburg	Salzburg - Blick ├╝ber Salzburg nach Osten [UHD]	Salzburg Stadt	https://www.foto-webcam.eu/webcam/salzburg/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.750 m	Blick ├╝ber Salzburg nach Osten
@@ -19156,9 +19151,9 @@ sonnenbichl	Sonnenbichl Bergstation - Bad Wiesse [UHD]	Skizentrum Sonnenbichl	ht
 15968	Schloss Esterhazy - Panorama	Eisenstadt	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/15968/#yyyy/#mm/#dd/15968_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	182 m	Panorama
 19270	Graukogel Bergstation 4	Bad Gastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19270/#yyyy/#mm/#dd/19270_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.005 m	-
 19270	Graukogel Bergstation 4	Bad Gastein	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19270/#yyyy/#mm/#dd/19270_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.005 m	-
+15596	Viking Cruises - Jupiter - provided by #panomax.com https://2744.panomax.com	Split	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15596/#yyyy/#mm/#dd/15596_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	33 m	provided by panomax.com
 traunstein	Gmundner H├╝tte am Traunstein - Traunsee und H├Âllengebirge [UHD]	Gr├╝nberg-Gmunden	https://www.foto-webcam.eu/webcam/traunstein/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.666 m	Traunsee und H├Âllengebirge
 19269	Schwechat - Flughafen Wien - provided by #panomax.com https://viennaairport.panomax.com	Schwechat	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/19269/#yyyy/#mm/#dd/19269_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	205 m	provided by panomax.com
-15596	Viking Cruises - Jupiter - provided by #panomax.com https://2744.panomax.com 1	Split	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15596/#yyyy/#mm/#dd/15596_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	33 m	provided by panomax.com
 18752	Sylt, Marine Golf Club Sylt eG	Sylt	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18752/#yyyy/#mm/#dd/18752_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 19316	Trier Hotel Deutscher Hof - Blick ├╝ber die Innenstadt	Trier	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19316/#yyyy/#mm/#dd/19316_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	136 m	Blick ├╝ber die Innenstadt
 19220	Skilift Pfulb	Lenningen	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19220/#yyyy/#mm/#dd/19220_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	750 m	-
@@ -19186,10 +19181,10 @@ hausberg	Hausberg - Blick von der Talstation Kreuzwankl Richtung SW. [UHD]	Garmi
 5355	Mol├®son Ort	Gruy├¿res	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/5355/#yyyy/#mm/#dd/5355_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	-
 5355	Mol├®son Ort	La Gruy├¿re - Mol├®son	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/5355/#yyyy/#mm/#dd/5355_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	-
 5355	Mol├®son Ort	Mol├®son - La Gruy├¿re	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/5355/#yyyy/#mm/#dd/5355_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	-
+19238	Split Riva	Split	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/19238/#yyyy/#mm/#dd/19238_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
 4265	Les 2 Alpes - Centre Station - Avenue de la Muzelle	Les 2 Alpes	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/4265/#yyyy/#mm/#dd/4265_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.650 m	Avenue de la Muzelle
 18316	Haut de Vologne	La Bresse Hautes-Vosges	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/18316/#yyyy/#mm/#dd/18316_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.228 m	-
 9926	Sch├Âneben - Nordisches Zentrum B├Âhmerwald 2	Schwarzenberg am B├Âhmerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/9926/#yyyy/#mm/#dd/9926_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	940 m	-
-19238	Split Riva 1	Split	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/19238/#yyyy/#mm/#dd/19238_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
 15543	Scheiblberg	Reit im Winkl	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15543/#yyyy/#mm/#dd/15543_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.235 m	-
 7436	Sterzing - Zw├Âlferturm	Rosskopf - Sterzing	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/7436/#yyyy/#mm/#dd/7436_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	948 m	Zw├Âlferturm
 6427	Schluchsee - Rathaus	Schwarzwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/6427/#yyyy/#mm/#dd/6427_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	952 m	-
@@ -19223,8 +19218,6 @@ niederdorf	Niederdorf [UHD]	Niederdorf	https://www.foto-webcam.eu/webcam/niederd
 9943	Campo Felice - Piazzale Brecciara - Vista su partenza Seggiovia Brecciara e Pista Vergine.	Campo Felice	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/9943/#yyyy/#mm/#dd/9943_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.414 m	Vista su partenza Seggiovia Brecciara e Pista Vergine.
 11313	Langlaufzentrum Fl├╝elatal - Davos - Snowfarming Loipe	Davos Klosters	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/11313/#yyyy/#mm/#dd/11313_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.560 m	Snowfarming Loipe
 19311	Tux Pension Sonnleiten - Blick von Lanersbach in Richtung S├╝den zum Hintertuxer Gletscher	Eggalm Bahnen / Tux-Lanersbach	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/19311/#yyyy/#mm/#dd/19311_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.300 m	Blick von Lanersbach in Richtung S├╝den zum Hintertuxer Gletscher
-19240	Split ÔÇô Riva Hrvatskog preporoda 1	Split	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19240/#yyyy/#mm/#dd/19240_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
-10766	Rifugio Auronzo - Misurina und Monte Cristallo 1	Misurina - Col de Varda	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/10766/#yyyy/#mm/#dd/10766_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.320 m	Misurina und Monte Cristallo
 8876	Alpe Tognala - Rifugio Pedrotti alla Rosetta	San Martino di Castrozza / Rolle Pass	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/8876/#yyyy/#mm/#dd/8876_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.322 m	Rifugio Pedrotti alla Rosetta
 4700	Skiclub Tiengen - Hof - Skilifte Hofeck	Bernau im Schwarzwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/4700/#yyyy/#mm/#dd/4700_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	975 m	Skilifte Hofeck
 15172	Stadtplatz Sterzing | Piazza Citt├á Vipiteno	Sterzing	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15172/#yyyy/#mm/#dd/15172_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	948 m	-
@@ -19249,15 +19242,13 @@ zugspitze-nord	Zugspitze Nord [UHD]	Tiroler Zugspitzbahn	https://www.foto-webcam
 16211	Gosau am Dachstein - COOEE alpin - provided by #panomax.com https://2931.panomax.com	Gosau	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/16211/#yyyy/#mm/#dd/16211_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	740 m	provided by panomax.com
 15892	Ko─ìa na planini Kuhinja - Krn (2.244m)	Kobarid	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15892/#yyyy/#mm/#dd/15892_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.002 m	Krn (2.244m)
 15892	Ko─ìa na planini Kuhinja - Krn (2.244m)	Gori┼íka	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15892/#yyyy/#mm/#dd/15892_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.002 m	Krn (2.244m)
+19240	Split ÔÇô Riva Hrvatskog preporoda	Split	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19240/#yyyy/#mm/#dd/19240_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
 13214	Bad Hindelang/Oberjoch 4	Bad Hindelang	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/13214/#yyyy/#mm/#dd/13214_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.380 m	-
 13214	Bad Hindelang/Oberjoch 4	Oberjoch Bad Hindelang	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/13214/#yyyy/#mm/#dd/13214_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.380 m	-
 koerbersee	K├Ârbersee [UHD]	Bregenzerwald	https://www.foto-webcam.eu/webcam/koerbersee/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.772 m	-
 4434	Front de Neige	Orci├¿res Merlette	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/4434/#yyyy/#mm/#dd/4434_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.850 m	-
 18870	Burg Parsberg	Neumarkt in der Oberpfalz	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18870/#yyyy/#mm/#dd/18870_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	555 m	-
 19331	Grainau - L├ñngenfelder Hof - Blick auf die Berge rund um die Zugspitze.	Zugspitze	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/19331/#yyyy/#mm/#dd/19331_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	760 m	Blick auf die Berge rund um die Zugspitze.
-19236	Nerezine 1	Insel Lo┼íinj	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19236/#yyyy/#mm/#dd/19236_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	-
-19236	Nerezine 1	Nerezine	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19236/#yyyy/#mm/#dd/19236_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	-
-19237	Split Ba─ìvice Beach 1	Split	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/19237/#yyyy/#mm/#dd/19237_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
 tschagguns	Tschagguns - Montafon Nordic Schanzenzentrum. [UHD]	Schruns - Tschagguns	https://www.foto-webcam.eu/webcam/tschagguns/#yyyy/#mm/#dd/#hh#nn_hu.jpg	775 m	Montafon Nordic Schanzenzentrum.
 543	Sommerberg	Tux - Finkenberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/543/#yyyy/#mm/#dd/543_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.100 m	-
 190	Alpenarena  Hochh├ñderich	Bregenzerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/190/#yyyy/#mm/#dd/190_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.225 m	-
@@ -19271,6 +19262,7 @@ tschagguns	Tschagguns - Montafon Nordic Schanzenzentrum. [UHD]	Schruns - Tschagg
 190	Alpenarena  Hochh├ñderich	Hittisau	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/190/#yyyy/#mm/#dd/190_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.225 m	-
 17989	Zona Veleta - Tubo del Veleta	Sierra Nevada / Pradollano	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/17989/#yyyy/#mm/#dd/17989_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.030 m	Tubo del Veleta
 5331	Toblach - Blick ins Pustertal - Blick vom Hotel Rosengarten ins H├Âhlensteintal	Dolomitenregion Drei Zinnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/5331/#yyyy/#mm/#dd/5331_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.240 m	Blick vom Hotel Rosengarten ins H├Âhlensteintal
+19236	Nerezine	Insel Lo┼íinj	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19236/#yyyy/#mm/#dd/19236_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	-
 1748	Bad Hindelang/Oberjoch	Oberallg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/1748/#yyyy/#mm/#dd/1748_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.380 m	-
 1748	Bad Hindelang/Oberjoch	Oberjoch Bad Hindelang	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/1748/#yyyy/#mm/#dd/1748_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.380 m	-
 16343	Cigolera 4	San Martino di Castrozza / Rolle Pass	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/16343/#yyyy/#mm/#dd/16343_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.100 m	-
@@ -19289,10 +19281,10 @@ tschagguns	Tschagguns - Montafon Nordic Schanzenzentrum. [UHD]	Schruns - Tschagg
 naturns	Naturns Plaus [UHD]	Naturns	https://www.foto-webcam.eu/webcam/naturns/#yyyy/#mm/#dd/#hh#nn_hu.jpg	525 m	-
 19324	Travem├╝nde Strandblick Priwall - Blick auf den Priwallstrand und die Nordermole in Travem├╝nde	L├╝beck	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/19324/#yyyy/#mm/#dd/19324_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3 m	Blick auf den Priwallstrand und die Nordermole in Travem├╝nde
 dolomitenhuette	Dolomitenh├╝tte [UHD]	Lienz	https://www.foto-webcam.eu/webcam/dolomitenhuette/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.620 m	-
-19242	Split Institute of Oceanography and Fisheries 1	Split	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/19242/#yyyy/#mm/#dd/19242_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
 19224	Stadt Hotel Citt├á 4	Bozen und Umgebung - S├╝dtirols S├╝den	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/19224/#yyyy/#mm/#dd/19224_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
 13213	Bad Hindelang/Oberjoch 3	Bad Hindelang	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/13213/#yyyy/#mm/#dd/13213_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.380 m	-
 13609	Zoldo - Pian del Crep - Panorama sul versante est del Civetta.	Civetta - Alleghe - Selva di Cadore - Val di Zoldo	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/13609/#yyyy/#mm/#dd/13609_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.860 m	Panorama sul versante est del Civetta.
+17130	Kasina Ski - Bergstation Kasina Ski.	Kasina Ski&Bike Park	<missing>	950 m	Bergstation Kasina Ski.
 18004	Zona Borreguiles - Jardin Alpino	Sierra Nevada / Pradollano	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18004/#yyyy/#mm/#dd/18004_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.700 m	Jardin Alpino
 17981	Zona Laguna - Ts. Laguna	Sierra Nevada / Pradollano	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/17981/#yyyy/#mm/#dd/17981_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.700 m	Ts. Laguna
 14661	Peternhof 3	K├Âssen	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/14661/#yyyy/#mm/#dd/14661_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	820 m	-
@@ -19351,8 +19343,8 @@ langenferner	Langenferner [UHD]	Vinschgau	https://www.foto-webcam.eu/webcam/lang
 1662	Vorderlanersbach - Richtung Lanersbach	Eggalm Bahnen / Tux-Lanersbach	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/1662/#yyyy/#mm/#dd/1662_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.300 m	Richtung Lanersbach
 4722	Colle Sarezza - Blick von der Bergstation Richtung SW.	Champoluc	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/4722/#yyyy/#mm/#dd/4722_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.700 m	Blick von der Bergstation Richtung SW.
 10298	Vysok├í	Vysok├í u Havl├¡─ìkova Brodu	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/10298/#yyyy/#mm/#dd/10298_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
-19260	Planica - Nordic Center 1	Podkoren	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19260/#yyyy/#mm/#dd/19260_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	950 m	-
-19260	Planica - Nordic Center 1	Macesnovc	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19260/#yyyy/#mm/#dd/19260_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	950 m	-
+19260	Planica - Nordic Center	Podkoren	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19260/#yyyy/#mm/#dd/19260_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	950 m	-
+19260	Planica - Nordic Center	Macesnovc	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19260/#yyyy/#mm/#dd/19260_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	950 m	-
 3475	Bad Hindelang Kirchturm - Blick vom Kirchturm Bad Hindelang in Richtung Hintersteiner Tal	Oberallg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/3475/#yyyy/#mm/#dd/3475_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	850 m	Blick vom Kirchturm Bad Hindelang in Richtung Hintersteiner Tal
 3475	Bad Hindelang Kirchturm - Blick vom Kirchturm Bad Hindelang in Richtung Hintersteiner Tal	Bad Hindelang	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/3475/#yyyy/#mm/#dd/3475_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	850 m	Blick vom Kirchturm Bad Hindelang in Richtung Hintersteiner Tal
 3475	Bad Hindelang Kirchturm - Blick vom Kirchturm Bad Hindelang in Richtung Hintersteiner Tal	Oberjoch Bad Hindelang	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/3475/#yyyy/#mm/#dd/3475_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	850 m	Blick vom Kirchturm Bad Hindelang in Richtung Hintersteiner Tal
@@ -19370,7 +19362,6 @@ wallackhaus	Mesenatenh├╝tte, Wallackhaus - Berggasthof Wallackhaus, dahinter
 18130	Krali─ì├ík	Krali─ì├ík	<missing>	870 m	-
 4652	Bruson - 4 Vall├®es	Bruson - Verbier	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/4652/#yyyy/#mm/#dd/4652_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.300 m	-
 4652	Bruson - 4 Vall├®es	Bruson	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/4652/#yyyy/#mm/#dd/4652_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.300 m	-
-7108	Tanvaldsk├¢ ┼ápi─ì├ík II - Hot 1	Tanvaldsk├¢ ┼ápi─ì├ík / Jizerky	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/7108/#yyyy/#mm/#dd/7108_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	850 m	Hot 1
 15314	Dachstein West - Hornspitz Mitte	Gosau - Dachstein West	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/15314/#yyyy/#mm/#dd/15314_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.140 m	-
 9612	G├╝tsch	Andermatt	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/9612/#yyyy/#mm/#dd/9612_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.290 m	-
 9612	G├╝tsch	Andermatt - Gemsstock	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/9612/#yyyy/#mm/#dd/9612_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.290 m	-
@@ -19413,7 +19404,7 @@ schwarzenbach	Schwarzenbach Museumsturm - Vordergrund: der Ort Schwarzenbach mit
 5205	Velk├í ├Üpa	Velk├í ├Üpa / ─îern├í hora - Pec	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/5205/#yyyy/#mm/#dd/5205_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	900 m	-
 hintereisferner1	Hintereisferner 1 [UHD]	Schnalstal / Kurzras	https://www.foto-webcam.eu/webcam/hintereisferner1/#yyyy/#mm/#dd/#hh#nn_hu.jpg	3.245 m	-
 19168	Bremen Vegesack Utkiek - Ein Blick vom Utkiek ├╝ber die Weser.	Hansestadt Bremen	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/19168/#yyyy/#mm/#dd/19168_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	11 m	Ein Blick vom Utkiek ├╝ber die Weser.
-18662	Innerratschings - Hot 1 1	Ratschings	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18662/#yyyy/#mm/#dd/18662_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.363 m	Hot 1
+18662	Innerratschings - Hot	Ratschings	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18662/#yyyy/#mm/#dd/18662_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.363 m	Hot 1
 19279	Rodenecker-L├╝sner Alm 2	Gitschberg Jochtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/19279/#yyyy/#mm/#dd/19279_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.936 m	-
 12923	Strand Schillig - Strandeingang	Wangerland	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12923/#yyyy/#mm/#dd/12923_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	4 m	Strandeingang
 8059	Hornbahn Bad Hindelang - Hinterstein	Oberallg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/8059/#yyyy/#mm/#dd/8059_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.320 m	Hinterstein
@@ -19428,7 +19419,6 @@ hintereisferner1	Hintereisferner 1 [UHD]	Schnalstal / Kurzras	https://www.foto-w
 8059	Hornbahn Bad Hindelang - Hinterstein	Oberjoch Bad Hindelang	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/8059/#yyyy/#mm/#dd/8059_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.320 m	Hinterstein
 12923	Strand Schillig - Strandeingang	Ostfriesland	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12923/#yyyy/#mm/#dd/12923_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	4 m	Strandeingang
 6534	Bachledka Ski & Sun	Bachledka Ski & Sun	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6534/#yyyy/#mm/#dd/6534_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	930 m	-
-8401	Glash├╝tte - Hot 1	Bodenmais - Silberberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/8401/#yyyy/#mm/#dd/8401_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	745 m	-
 12923	Strand Schillig - Strandeingang	Nordseek├╝ste	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12923/#yyyy/#mm/#dd/12923_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	4 m	Strandeingang
 12572	Mont Blanc - Punta Helbronner	Courmayeur und Mont Blanc Tal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/12572/#yyyy/#mm/#dd/12572_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	3.462 m	-
 10719	Eggiwil / Emmental	Emmental	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/10719/#yyyy/#mm/#dd/10719_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	740 m	-
@@ -19446,8 +19436,8 @@ hintereisferner1	Hintereisferner 1 [UHD]	Schnalstal / Kurzras	https://www.foto-w
 lofer	Lofer - Saalach - Teufelsteg [UHD]	Lofer - Almenwelt Lofer	https://www.foto-webcam.eu/webcam/lofer/#yyyy/#mm/#dd/#hh#nn_hu.jpg	623 m	Saalach - Teufelsteg
 5557	Smaragdbahn Tal 826m	Wildkogel-Arena / Neukirchen - Bramberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/5557/#yyyy/#mm/#dd/5557_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	826 m	-
 18737	Elsfleth	Elsfleth	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/18737/#yyyy/#mm/#dd/18737_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3 m	-
-19241	Hvar Jelsa 1	Jelsa	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/19241/#yyyy/#mm/#dd/19241_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
-6608	Pian del Sole 1	Bardonecchia	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/6608/#yyyy/#mm/#dd/6608_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
+19241	Hvar Jelsa	Jelsa	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/19241/#yyyy/#mm/#dd/19241_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
+6608	Pian del Sole	Bardonecchia	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/6608/#yyyy/#mm/#dd/6608_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 7730	Kinderhotel Oberjoch - Bad Hindelang - Allg├ñuer Hochalpen	Bad Hindelang	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/7730/#yyyy/#mm/#dd/7730_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.155 m	Allg├ñuer Hochalpen
 8399	Glash├╝tte	Bodenmais	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/8399/#yyyy/#mm/#dd/8399_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	745 m	-
 12651	Meersburg - Neues Schloss.	Meersburg	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12651/#yyyy/#mm/#dd/12651_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	440 m	Neues Schloss.
@@ -19540,7 +19530,6 @@ buchkopfturm	Buchkopfturm - Blick nach Westen [UHD]	Oppenau	https://www.foto-web
 12052	Pr├® du Bois - Risoul	Risoul - La F├┤ret Blanche	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/12052/#yyyy/#mm/#dd/12052_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.245 m	-
 17808	Bansin - Blick vom Strandhotel Bansin Richtung Strand.	Heringsdorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/17808/#yyyy/#mm/#dd/17808_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	10 m	Blick vom Strandhotel Bansin Richtung Strand.
 15167	N├Âtsch Flugplatz (cam 2)	Schilift Hrast / Feistritz a.d. Gail	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/15167/#yyyy/#mm/#dd/15167_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
-6605	Chesal 1	Bardonecchia	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/6605/#yyyy/#mm/#dd/6605_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	-	-
 17576	Blick aufs Wiriehorn	Naturpark Diemtigtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/17576/#yyyy/#mm/#dd/17576_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.421 m	-
 15573	Rodelbahn Oeschinensee - Bergstation Gondelbahn Kandersteg Oeschinensee, Sicht auf die Bl├╝emlisalp.	Oeschinen - Kandersteg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15573/#yyyy/#mm/#dd/15573_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.715 m	Bergstation Gondelbahn Kandersteg Oeschinensee, Sicht auf die Bl├╝emlisalp.
 9888	Bichlalm - Bichlalm	Kitzb├╝hel - Kirchberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/9888/#yyyy/#mm/#dd/9888_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.580 m	Bichlalm
@@ -19564,12 +19553,12 @@ ankogel-nord	Ankogel Nord [UHD]	Ankogel - Mallnitz	https://www.foto-webcam.eu/we
 8573	Passo del Lupo Piazzetta	Monte Cimone / Sestola	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8573/#yyyy/#mm/#dd/8573_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.550 m	-
 5207	Bergstation Luftseilbahn Wiler-Lauchernalp	Lauchernalp - L├Âtschental	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/5207/#yyyy/#mm/#dd/5207_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.970 m	-
 14995	Rosenkranzh├Âhe - Panorama	Murau - Kreischberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/14995/#yyyy/#mm/#dd/14995_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.118 m	Panorama
+6605	Chesal	Bardonecchia	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/6605/#yyyy/#mm/#dd/6605_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	-	-
 16208	Grebenhain - Vogelschmiede auf der Herchenhainer H├Âhe	FrankfurtRheinMain	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/16208/#yyyy/#mm/#dd/16208_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	700 m	-
 16208	Grebenhain - Vogelschmiede auf der Herchenhainer H├Âhe	Hessen Mitte	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/16208/#yyyy/#mm/#dd/16208_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	700 m	-
 19127	Br├╝hl Innenstadt - Blick auf den Markt in Richtung K├Âlnstra├ƒe	Br├╝hl (Rheinland)	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/19127/#yyyy/#mm/#dd/19127_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	65 m	Blick auf den Markt in Richtung K├Âlnstra├ƒe
 ettelsberg	Ettelsberg [UHD]	Willingen	https://www.foto-webcam.eu/webcam/ettelsberg/#yyyy/#mm/#dd/#hh#nn_hu.jpg	875 m	-
 schwaerzenlifte	Schw├ñrzenlifte - Blick zum Gletschergumpen und Blender [UHD]	Schw├ñrzenlifte Eschach	https://www.foto-webcam.eu/webcam/schwaerzenlifte/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.068 m	Blick zum Gletschergumpen und Blender
-3743	Vinouve - Panorama 1	Les Karellis	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/3743/#yyyy/#mm/#dd/3743_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.130 m	Panorama
 19343	Oberer Stadtplatz 5	Glungezer	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19343/#yyyy/#mm/#dd/19343_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	574 m	-
 18350	Yacht Club Unterach - Attersee	Unterach am Attersee	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18350/#yyyy/#mm/#dd/18350_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	477 m	Attersee
 18646	Breiten	Aletsch Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/18646/#yyyy/#mm/#dd/18646_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	900 m	-
@@ -19598,6 +19587,8 @@ schwaerzenlifte	Schw├ñrzenlifte - Blick zum Gletschergumpen und Blender [UHD]
 15979	Talstation Kreischberg	St. Georgen am Kreischberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/15979/#yyyy/#mm/#dd/15979_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	864 m	-
 9564	Tux - Juns - Hintertuxer Gletscher	Tux - Finkenberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9564/#yyyy/#mm/#dd/9564_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.370 m	Hintertuxer Gletscher
 16285	Museum Bokrijk 4	Hasselt	<missing>	42 m	-
+15416	Jaworzyna Krynicka - Widok na tras─Ö dla dzieci na szczycie.	Jaworzyna Krynicka	<missing>	1.100 m	Widok na tras─Ö dla dzieci na szczycie.
+3743	Vinouve - Panorama	Les Karellis	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/3743/#yyyy/#mm/#dd/3743_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.130 m	Panorama
 5123	Rastkogel	Vorderlanersbach - Rastkogel	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/5123/#yyyy/#mm/#dd/5123_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.160 m	-
 17794	Heringsdorf - Maritim Hotel Kaiserhof - Blick auf die Strandpromenade.	Ostseebad Heringsdorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/17794/#yyyy/#mm/#dd/17794_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	10 m	Blick auf die Strandpromenade.
 17794	Heringsdorf - Maritim Hotel Kaiserhof - Blick auf die Strandpromenade.	Heringsdorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/17794/#yyyy/#mm/#dd/17794_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	10 m	Blick auf die Strandpromenade.
@@ -19606,6 +19597,7 @@ schwaerzenlifte	Schw├ñrzenlifte - Blick zum Gletschergumpen und Blender [UHD]
 12878	Au├ƒenhafen Hooksiel - Panorama	Ostfriesland	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/12878/#yyyy/#mm/#dd/12878_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	0 m	Panorama
 weissbrunnferner	Wei├ƒbrunnferner [UHD]	St. Gertraud	https://www.foto-webcam.eu/webcam/weissbrunnferner/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.955 m	-
 koettmannsdorf	K├Âttmannsdorf [UHD]	Carnica Region Rosental	https://www.foto-webcam.eu/webcam/koettmannsdorf/#yyyy/#mm/#dd/#hh#nn_hu.jpg	740 m	-
+12855	De Haan - POI	De Haan - Wenduine	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/12855/#yyyy/#mm/#dd/12855_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	POI 1
 11526	Brembergkopf - Kappe	Winterberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11526/#yyyy/#mm/#dd/11526_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	810 m	Kappe
 11526	Brembergkopf - Kappe	Skiliftkarussell Winterberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11526/#yyyy/#mm/#dd/11526_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	810 m	Kappe
 11526	Brembergkopf - Kappe	Sauerland/ Nordrhein-Westfalen	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/11526/#yyyy/#mm/#dd/11526_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	810 m	Kappe
@@ -19623,7 +19615,6 @@ adlersruhe-sued	Adlersruhe S├╝d [UHD]	Heiligenblut / Gro├ƒglockner	https:
 16283	Museum Bokrijk 2	Limburg - Flandern	<missing>	42 m	-
 2554	Hahnenkamm Berg	Kitzb├╝hel	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/2554/#yyyy/#mm/#dd/2554_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.665 m	-
 6506	Reit im Winkl	Reit im Winkl	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6506/#yyyy/#mm/#dd/6506_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	932 m	-
-12855	De Haan - POI 1	De Haan - Wenduine	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/12855/#yyyy/#mm/#dd/12855_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	POI 1
 13014	Waldalmbahn - POI 3	Raurisertal - Hochalmbahnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/13014/#yyyy/#mm/#dd/13014_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.843 m	POI 3
 13014	Waldalmbahn - POI 3	Rauris	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/13014/#yyyy/#mm/#dd/13014_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.843 m	POI 3
 585	Eisgrat	Stubaier Gletscher	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/585/#yyyy/#mm/#dd/585_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.900 m	-
@@ -19631,10 +19622,10 @@ adlersruhe-sued	Adlersruhe S├╝d [UHD]	Heiligenblut / Gro├ƒglockner	https:
 6286	Fichtelberg Skihang	Oberwiesenthal	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6286/#yyyy/#mm/#dd/6286_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	920 m	-
 13523	Kolbensattel - Oberammergau - Bergstation der Kolbensattelbahn.	AktivArena am Kolben / Oberammergau	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/13523/#yyyy/#mm/#dd/13523_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.285 m	Bergstation der Kolbensattelbahn.
 5123	Rastkogel	Tux	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/5123/#yyyy/#mm/#dd/5123_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.160 m	-
+19221	Stadt Hotel Citt├á	Bozen und Umgebung - S├╝dtirols S├╝den	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/19221/#yyyy/#mm/#dd/19221_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
 17162	Vlieland - Hotel Zeezicht - Blick auf den Deich	Vlieland	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/17162/#yyyy/#mm/#dd/17162_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	0 m	Blick auf den Deich
 3494	Panorama Stuhleck - Blick auf die Schieferwiese und die Stuhleckbahn.	Spital am Semmering	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/3494/#yyyy/#mm/#dd/3494_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	910 m	Blick auf die Schieferwiese und die Stuhleckbahn.
 19335	Top Mountain Crosspoint Hochgurgl 5	Obergurgl - Hochgurgl	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/19335/#yyyy/#mm/#dd/19335_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.165 m	-
-19221	Stadt Hotel Citt├á 1	Bozen und Umgebung - S├╝dtirols S├╝den	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/19221/#yyyy/#mm/#dd/19221_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
 12859	De Haan - Panorama	De Haan - Wenduine	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/12859/#yyyy/#mm/#dd/12859_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	5 m	Panorama
 10683	Reith bei Kitzb├╝hel - Hotel Zimmermann - Wilder Kaiser	Reith bei Kitzb├╝hel	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/10683/#yyyy/#mm/#dd/10683_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	770 m	Wilder Kaiser
 18764	Hofkirche - Historischer Karlsplatz	Neuburg an der Donau	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18764/#yyyy/#mm/#dd/18764_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	398 m	Historischer Karlsplatz
@@ -19697,6 +19688,7 @@ jenner-ost	Jenner Ost [UHD]	Jenner - Sch├Ânau am K├Ânigssee / Berchtesgade
 17310	Dangast Jadebusen / Rennweide	Nordseek├╝ste	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/17310/#yyyy/#mm/#dd/17310_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1 m	-
 19201	Hotel Moselebauer 4	Bad St. Leonhard im Lavanttal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/19201/#yyyy/#mm/#dd/19201_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	920 m	-
 10743	Monte Avena - Skipiste Le Buse	Feltre	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/10743/#yyyy/#mm/#dd/10743_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Skipiste Le Buse
+15417	Jaworzyna Krynicka - Blick von der Talstation der Gondelbahn.	Jaworzyna Krynicka	<missing>	648 m	Blick von der Talstation der Gondelbahn.
 dornbirn	Karren - unteres Rheintal, ├╝ber den Bodensee nach Deutschland und die Schweiz. [UHD]	Bodensee - Vorarlberg	https://www.foto-webcam.eu/webcam/dornbirn/#yyyy/#mm/#dd/#hh#nn_hu.jpg	976 m	unteres Rheintal, ├╝ber den Bodensee nach Deutschland und die Schweiz.
 19081	Spital am Pyhrn / Genussstubn - Direkter Blick auf die Nordseite des Bosrucks.	Wurzeralm - Spital am Pyhrn	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/19081/#yyyy/#mm/#dd/19081_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	845 m	Direkter Blick auf die Nordseite des Bosrucks.
 3949	T├®l├®si├¿ge du Cornu - Le Br├®vent	Chamonix-Mont-Blanc	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/3949/#yyyy/#mm/#dd/3949_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.830 m	-
@@ -19762,10 +19754,10 @@ gsteig	Gsteig - Blick zur Zugspitze [UHD]	Zugspitze	https://www.foto-webcam.eu/w
 17593	Bojern - Panorama	Chiemgau - Chiemsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/17593/#yyyy/#mm/#dd/17593_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	690 m	Panorama
 17486	St. Barbarakirche 5	Flandern	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/17486/#yyyy/#mm/#dd/17486_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	60 m	-
 18444	Monte Cesen - Vista S├╝dost - Pianura Trevigiana E Costa Friulana	Treviso	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18444/#yyyy/#mm/#dd/18444_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.530 m	Vista S├╝dost - Pianura Trevigiana E Costa Friulana
+10768	Rifugio Auronzo - Croda dei Toni und Auronzo	Misurina	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/10768/#yyyy/#mm/#dd/10768_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.320 m	Croda dei Toni und Auronzo
 tannheimertal	Tannheimertal [UHD]	Tannheim	https://www.foto-webcam.eu/webcam/tannheimertal/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.100 m	-
 12951	Erlebnis-Promenade 6	St. Peter-Ording	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12951/#yyyy/#mm/#dd/12951_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	15 m	-
 8702	Ski Kru┼íetnica	Kru┼íetnica	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/8702/#yyyy/#mm/#dd/8702_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	670 m	-
-10768	Rifugio Auronzo - Croda dei Toni und Auronzo 1	Misurina	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/10768/#yyyy/#mm/#dd/10768_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.320 m	Croda dei Toni und Auronzo
 922	H├╝ttendorf Galsterberg - H├╝ttendorf Pruggern - Blickrichtung Nord	Galsterbergalm / Schladming - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/922/#yyyy/#mm/#dd/922_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.220 m	H├╝ttendorf Pruggern - Blickrichtung Nord
 10471	Eggalm Nord	Lanersbach - Eggalm	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/10471/#yyyy/#mm/#dd/10471_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.100 m	-
 rein	Rein in Taufers 2 [UHD]	Ahrntal	https://www.foto-webcam.eu/webcam/rein/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.600 m	-
@@ -19797,7 +19789,6 @@ eppan-berg	Eppan Berg [UHD]	Eppan an der Weinstra├ƒe	https://www.foto-webcam.
 8938	Station de Doucy	Valmorel - Le Grand Domaine	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8938/#yyyy/#mm/#dd/8938_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.260 m	-
 19323	Schwerin NDR Studio - Blcik vom Dach des NDR Studios ├╝ber den Schweriner See	Schwerin	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19323/#yyyy/#mm/#dd/19323_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	44 m	Blcik vom Dach des NDR Studios ├╝ber den Schweriner See
 wannenkogel	Wannenkogel - Schrankogel [UHD]	L├ñngenfeld - Huben - Gries	https://www.foto-webcam.eu/webcam/wannenkogel/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.640 m	Schrankogel
-10766	Rifugio Auronzo - Misurina und Monte Cristallo 1	Misurina	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/10766/#yyyy/#mm/#dd/10766_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.320 m	Misurina und Monte Cristallo
 18901	Bad Nauheim Bahnhof	Bad Nauheim	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/18901/#yyyy/#mm/#dd/18901_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	150 m	-
 hochkoenig	Hochk├Ânig [UHD]	Hochk├Ânig / Maria Alm - Dienten - M├╝hlbach - Ski amade	https://www.foto-webcam.eu/webcam/hochkoenig/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.941 m	K├Ânigsjodler
 18717	Texas-Airport Varrelbusch	Garrel	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/18717/#yyyy/#mm/#dd/18717_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	37 m	-
@@ -19815,7 +19806,6 @@ sulzkogel	Sulzkogel [UHD]	L├ñngenfeld - Huben - Gries	https://www.foto-webcam
 13420	Reith bei Kitzb├╝hel - Blick ins Dorf vom Skilift.	Reith bei Kitzb├╝hel	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13420/#yyyy/#mm/#dd/13420_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	775 m	Blick ins Dorf vom Skilift.
 1608	Galsterbergalmh├╝tte - Jausenstation Galsterbergalm und die Almh├╝tte - Appartementhaus	Michaelerberg-Pruggern	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/1608/#yyyy/#mm/#dd/1608_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.790 m	Jausenstation Galsterbergalm und die Almh├╝tte - Appartementhaus
 12220	Simplon Dorf - Dorfplatz 2	Brig Simplon	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/12220/#yyyy/#mm/#dd/12220_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.476 m	Dorfplatz
-8401	Glash├╝tte - Hot 1	Bodenmais	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/8401/#yyyy/#mm/#dd/8401_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	745 m	-
 19210	Pfronten - Alpenbad - provided by #panomax.com https://pfronten.panomax.com/alpenbad	Skizentrum Pfronten - Steinach	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19210/#yyyy/#mm/#dd/19210_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	-	provided by panomax.com
 19205	Boutique Apartments Herbert	Katschberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/19205/#yyyy/#mm/#dd/19205_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.650 m	-
 8080	Golm - Matschwitz	Golm im Montafon	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/8080/#yyyy/#mm/#dd/8080_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.500 m	-
@@ -19859,6 +19849,7 @@ sonnblickbasis	Kolm-Saigurn / Materialseilbahn - Naturfreundehaus [UHD]	Kolm Sai
 18011	Karlstift - Blick auf Karlstift.	Bad Gro├ƒpertholz	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/18011/#yyyy/#mm/#dd/18011_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	908 m	Blick auf Karlstift.
 18011	Karlstift - Blick auf Karlstift.	Aichelberglifte Karlstift	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/18011/#yyyy/#mm/#dd/18011_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	908 m	Blick auf Karlstift.
 19322	Schweriner Schloss	Schwerin	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/19322/#yyyy/#mm/#dd/19322_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	44 m	-
+16816	Bergstation / Stacja g├│rna Kolej nr IV	Kotelnica Bia┼écza┼äska	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16816/#yyyy/#mm/#dd/16816_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	917 m	-
 damuels	Dam├╝ls - Blick nach S├╝den / Faschina [UHD]	Dam├╝ls	https://www.foto-webcam.eu/webcam/damuels/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.400 m	Blick nach S├╝den / Faschina
 19128	Br├╝hl Innenstadt - Blick auf die Baustelle am Rathaus Steinweg	Br├╝hl (Rheinland)	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/19128/#yyyy/#mm/#dd/19128_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	65 m	Blick auf die Baustelle am Rathaus Steinweg
 trafoi	Trafoi [UHD]	Vinschgau	https://www.foto-webcam.eu/webcam/trafoi/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.090 m	-
@@ -19895,8 +19886,6 @@ chavalatsch	Piz Chavalatsch - Blick nach S├╝dosten zum Ortler [UHD]	Sulden a
 11313	Langlaufzentrum Fl├╝elatal - Davos - Snowfarming Loipe	Davos Klosters Parsenn	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/11313/#yyyy/#mm/#dd/11313_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.560 m	Snowfarming Loipe
 tum-olympiapark	TUM Olympiapark [UHD]	M├╝nchen	https://www.foto-webcam.eu/webcam/tum-olympiapark/#yyyy/#mm/#dd/#hh#nn_hu.jpg	700 m	-
 19325	Waren Neuer Markt	Waren (M├╝ritz)	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/19325/#yyyy/#mm/#dd/19325_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	73 m	-
-18664	Innerratschings - Hot 3 1	Ratschings Jaufen	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18664/#yyyy/#mm/#dd/18664_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.363 m	Hot 3
-18918	Se─ìovlje Salina 1	Se─ìovlje	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/18918/#yyyy/#mm/#dd/18918_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
 hanuselhof	Hanusel Hof - Blick nach Osten [UHD]	Weitnau	https://www.foto-webcam.eu/webcam/hanuselhof/#yyyy/#mm/#dd/#hh#nn_hu.jpg	965 m	Blick nach Osten
 sulzkogel	Sulzkogel [UHD]	Gries - L├ñngenfeld	https://www.foto-webcam.eu/webcam/sulzkogel/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.680 m	-
 wannenkogel	Wannenkogel - Schrankogel [UHD]	Gries - L├ñngenfeld	https://www.foto-webcam.eu/webcam/wannenkogel/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.640 m	Schrankogel
@@ -19928,7 +19917,6 @@ koerbersee	K├Ârbersee [UHD]	Warth - Schr├Âcken am Arlberg	https://www.foto
 oed	Marquartstein Oed - Blick nach Osten auf Hochlerch und Rechenberg [UHD]	Marquartstein	https://www.foto-webcam.eu/webcam/oed/#yyyy/#mm/#dd/#hh#nn_hu.jpg	550 m	Blick nach Osten auf Hochlerch und Rechenberg
 16735	S├Ârenberg - Intersport Felder - Dorf	S├Ârenberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/16735/#yyyy/#mm/#dd/16735_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.160 m	Dorf
 19207	Boutique Apartments Herbert - Kauz herbert	Katschberg - Rennweg	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/19207/#yyyy/#mm/#dd/19207_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.650 m	Kauz herbert
-19284	Rocher de Sampzon - Sampzon-Ebene zwischen Ruoms und Vallon Pont d┬┤Arc mit dem ber├╝hmten Sampzon-Felsen, der sich 381 m ├╝ber dem Fluss Ard├¿che erhebt. 1	Sampzon	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/19284/#yyyy/#mm/#dd/19284_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	100 m	Sampzon-Ebene zwischen Ruoms und Vallon Pont d┬┤Arc mit dem ber├╝hmten Sampzon-Felsen, der sich 381 m ├╝ber dem Fluss Ard├¿che erhebt.
 19291	Wittd├╝n Ferienhaus Jungnamen Sand - Leuchtturm / Yachthafen	Amrum	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/19291/#yyyy/#mm/#dd/19291_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1 m	Leuchtturm / Yachthafen
 19327	Waren (M├╝ritz) Hafen 2	Waren (M├╝ritz)	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/19327/#yyyy/#mm/#dd/19327_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	73 m	-
 15453	Skizentrum Thoma - Talstation - Talbereich Familienlift und Georg-Thoma Lift.	Hinterzarten Thoma	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15453/#yyyy/#mm/#dd/15453_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	960 m	Talbereich Familienlift und Georg-Thoma Lift.
@@ -19951,6 +19939,7 @@ oed	Marquartstein Oed - Blick nach Osten auf Hochlerch und Rechenberg [UHD]	Marq
 8218	Seegrube 4	Innsbruck - Nordkette	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8218/#yyyy/#mm/#dd/8218_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.905 m	-
 7614	Mittelstation Halsmarter - Inntal	Glungezer	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/7614/#yyyy/#mm/#dd/7614_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.560 m	Inntal
 meransen	Meransen - Oberlechner [UHD]	Gitschberg Jochtal	https://www.foto-webcam.eu/webcam/meransen/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.410 m	-
+16819	Talstation / Stacja g├│rna Kolej nr VIII	Kotelnica Bia┼écza┼äska	<missing>	934 m	-
 12858	De Haan - POI 4	De Haan - Wenduine	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/12858/#yyyy/#mm/#dd/12858_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	POI 4
 10172	Gondel Bergstation Speikboden - Kuppelbarer Sessellift Sonnklar, 2400. m	Speikboden - Tauferer Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/10172/#yyyy/#mm/#dd/10172_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.960 m	Kuppelbarer Sessellift Sonnklar, 2400. m
 10172	Gondel Bergstation Speikboden - Kuppelbarer Sessellift Sonnklar, 2400. m	Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/10172/#yyyy/#mm/#dd/10172_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.960 m	Kuppelbarer Sessellift Sonnklar, 2400. m
@@ -19961,8 +19950,6 @@ huebenburg	St. Pauls - Eppan [UHD]	Bozen und Umgebung - S├╝dtirols S├╝de
 huebenburg	St. Pauls - Eppan [UHD]	Eppan an der Weinstra├ƒe	https://www.foto-webcam.eu/webcam/huebenburg/#yyyy/#mm/#dd/#hh#nn_hu.jpg	440 m	-
 12891	Bergstation Sonnenkopf 3	Sonnenkopf - Klostertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12891/#yyyy/#mm/#dd/12891_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.840 m	-
 18412	Sass Pordoi - Altopiano del Boe - Vista Nw - Zoom Piz Ciavaces 2851 m	Canazei	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18412/#yyyy/#mm/#dd/18412_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.950 m	Vista Nw - Zoom Piz Ciavaces 2851 m
-18662	Innerratschings - Hot 1 1	Ratschings Jaufen	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18662/#yyyy/#mm/#dd/18662_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.363 m	Hot 1
-10768	Rifugio Auronzo - Croda dei Toni und Auronzo 1	Misurina - Col de Varda	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/10768/#yyyy/#mm/#dd/10768_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.320 m	Croda dei Toni und Auronzo
 1444	Hochwurzen Talstation	Pichl-Reiteralm	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/1444/#yyyy/#mm/#dd/1444_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.143 m	-
 11142	Heuberge - Lift Gams 1 und 2	Fideriser Heuberge	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/11142/#yyyy/#mm/#dd/11142_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.048 m	-
 19326	Waren (M├╝ritz) Hafen	Waren (M├╝ritz)	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19326/#yyyy/#mm/#dd/19326_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	73 m	-
@@ -19987,12 +19974,13 @@ huebenburg	St. Pauls - Eppan [UHD]	Eppan an der Weinstra├ƒe	https://www.foto-
 14253	Schloss Hohenschwangau - Panorama	Schwangau - Tegelberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/14253/#yyyy/#mm/#dd/14253_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	880 m	Panorama
 14253	Schloss Hohenschwangau - Panorama	Hohenschwangau	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/14253/#yyyy/#mm/#dd/14253_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	880 m	Panorama
 innsbruck-uni	UNI Innsbruck - Unterinntal [UHD]	Innsbruck	https://www.foto-webcam.eu/webcam/innsbruck-uni/#yyyy/#mm/#dd/#hh#nn_hu.jpg	580 m	Unterinntal
+18662	Innerratschings - Hot	Ratschings Jaufen	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18662/#yyyy/#mm/#dd/18662_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.363 m	Hot 1
+10768	Rifugio Auronzo - Croda dei Toni und Auronzo	Misurina - Col de Varda	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/10768/#yyyy/#mm/#dd/10768_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.320 m	Croda dei Toni und Auronzo
 14508	Canazei - Ciampac - Panorama im Skigebiet Ciampac, mit Sella Brunch, Crepa Neigra, die T├╝rme der Sella mit dem Pass Pordoi und dem Colac.	Alba di Canazei - Ciampac / Val di Fassa	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/14508/#yyyy/#mm/#dd/14508_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.290 m	Panorama im Skigebiet Ciampac, mit Sella Brunch, Crepa Neigra, die T├╝rme der Sella mit dem Pass Pordoi und dem Colac.
 virgen-nord	Virgen W├╝rfeleh├╝tte [UHD]	Virgen	https://www.foto-webcam.eu/webcam/virgen-nord/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.360 m	-
 19218	Rees Rheinpromenade - Wesel	Rees	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/19218/#yyyy/#mm/#dd/19218_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	17 m	Wesel
 19222	Stadt Hotel Citt├á 2	Bozen und Umgebung - S├╝dtirols S├╝den	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/19222/#yyyy/#mm/#dd/19222_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
 12615	Anras / Goll - S├╝den auf den Spitzenstein 2.234 m - der Hausberg von Anras - und auf die Lienzer Dolomiten.	Anras	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/12615/#yyyy/#mm/#dd/12615_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.262 m	S├╝den auf den Spitzenstein 2.234 m - der Hausberg von Anras - und auf die Lienzer Dolomiten.
-12855	De Haan - POI 1	Flandern	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/12855/#yyyy/#mm/#dd/12855_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	POI 1
 18126	Mosbach - Blick auf den Marktplatz.	Mosbach	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/18126/#yyyy/#mm/#dd/18126_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	156 m	Blick auf den Marktplatz.
 16017	Wei├ƒenbach - Ahrntal - Blick taleinw├ñrts Richtung Tristenspitz, links Ringelstein.	Alpinwellt Weissenbach / Family Skilift	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/16017/#yyyy/#mm/#dd/16017_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.334 m	Blick taleinw├ñrts Richtung Tristenspitz, links Ringelstein.
 14435	Pag - Katine bridge	Insel Pag	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/14435/#yyyy/#mm/#dd/14435_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	0 m	-
@@ -20021,6 +20009,7 @@ murnau	Murnau [UHD]	Murnau am Staffelsee	https://www.foto-webcam.eu/webcam/murna
 19340	Kanustation Mirow	Mecklenburgische Seenplatte	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19340/#yyyy/#mm/#dd/19340_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	64 m	-
 18103	Glungezerbahn Bergstation - Panorama	Glungezer	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18103/#yyyy/#mm/#dd/18103_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	937 m	Panorama
 wank	Wankhaus - Blick nach S├╝dwesten zur Zugspitze [UHD]	Zugspitze	https://www.foto-webcam.eu/webcam/wank/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.780 m	Blick nach S├╝dwesten zur Zugspitze
+12855	De Haan - POI	Flandern	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/12855/#yyyy/#mm/#dd/12855_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	POI 1
 174	Bergstation Sonnenkopf	Sonnenkopf - Klostertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/174/#yyyy/#mm/#dd/174_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.840 m	-
 waldwipfelweg	WaldWipfelWeg [UHD]	Sankt Englmar	https://www.foto-webcam.eu/webcam/waldwipfelweg/#yyyy/#mm/#dd/#hh#nn_hu.jpg	850 m	-
 1587	Glungezer-Gipfel - Blick ├╝ber die Glungezerh├╝tte hinweg ins Inntal, in die Region Hall, zum Karwendel und zur Nordkette mit Bettelwurf	Glungezer	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/1587/#yyyy/#mm/#dd/1587_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.678 m	Blick ├╝ber die Glungezerh├╝tte hinweg ins Inntal, in die Region Hall, zum Karwendel und zur Nordkette mit Bettelwurf
@@ -20046,6 +20035,7 @@ karwendel	Karwendelbahn Bergstation - Mittenwald [UHD]	Karwendel - Mittenwald	ht
 3304	Letali┼í─ìe Maribor 6	Maribor-Pohorje	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/3304/#yyyy/#mm/#dd/3304_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	264 m	-
 18552	St. Jakob im Ahrntal / Stoana - Blick auf St. Jakob / San Giacomo.	Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/18552/#yyyy/#mm/#dd/18552_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.210 m	Blick auf St. Jakob / San Giacomo.
 simonyhuette	Simonyh├╝tte - Hallst├ñttergletscher [UHD]	Dachstein Gletscher Schladming Ramsau - Ski amade	https://www.foto-webcam.eu/webcam/simonyhuette/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.250 m	Hallst├ñttergletscher
+10175	Kasprowy Wierch 3	Kasprowy Wierch / Zakopane	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/10175/#yyyy/#mm/#dd/10175_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 17575	N├╝egg mit Blick Richtung Tal	Naturpark Diemtigtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/17575/#yyyy/#mm/#dd/17575_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.361 m	-
 5891	Talstation Glasenberg - Glasner-H├╝tte	Maria Neustift	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/5891/#yyyy/#mm/#dd/5891_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	780 m	Glasner-H├╝tte
 5891	Talstation Glasenberg - Glasner-H├╝tte	Glasenberg - Maria Neustift	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/5891/#yyyy/#mm/#dd/5891_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	780 m	Glasner-H├╝tte
@@ -20122,6 +20112,7 @@ weissbrunnferner	Wei├ƒbrunnferner [UHD]	Ultental - Deutschnonsberg	https://ww
 15189	Dantercepies - Gruppo del Sella - Sellastock	Wolkenstein - Selva di Val Gardena / Dolomites Val Gardena - Gr├Âden	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/15189/#yyyy/#mm/#dd/15189_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.305 m	Gruppo del Sella - Sellastock
 1607	Dorfgastein - G├ñstehaus Hagenhofer	Dorfgastein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/1607/#yyyy/#mm/#dd/1607_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	G├ñstehaus Hagenhofer
 15840	Ljubelj┼í─ìica Ridge - Begunj┼í─ìica North Face und Zelenica H├╝tte	Tr┼¥i─ì	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/15840/#yyyy/#mm/#dd/15840_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.700 m	Begunj┼í─ìica North Face und Zelenica H├╝tte
+16741	Kasprowy Wierch 4	Kasprowy Wierch / Zakopane	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/16741/#yyyy/#mm/#dd/16741_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 19232	Fernsehturm Stuttgart	Stuttgart	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/19232/#yyyy/#mm/#dd/19232_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	683 m	-
 19309	Red Bull Ring - Spielberg - provided by #panomax.com https://redbullring.panomax.com/spielberg	Spielberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/19309/#yyyy/#mm/#dd/19309_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	680 m	provided by panomax.com
 13611	Zoldo - pista Grava - Pista Grava sud - Panorama sulla pista nei presi della partenza della seggiovia.	Civetta - Alleghe - Selva di Cadore - Val di Zoldo	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/13611/#yyyy/#mm/#dd/13611_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.760 m	Pista Grava sud - Panorama sulla pista nei presi della partenza della seggiovia.
@@ -20153,13 +20144,10 @@ zugspitze-ost	Zugspitze Ost [UHD]	Ehrwald	https://www.foto-webcam.eu/webcam/zugs
 zugspitze-ost	Zugspitze Ost [UHD]	Tiroler Zugspitzbahn	https://www.foto-webcam.eu/webcam/zugspitze-ost/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.962 m	-
 dornbirn	Karren - unteres Rheintal, ├╝ber den Bodensee nach Deutschland und die Schweiz. [UHD]	Dornbirn	https://www.foto-webcam.eu/webcam/dornbirn/#yyyy/#mm/#dd/#hh#nn_hu.jpg	976 m	unteres Rheintal, ├╝ber den Bodensee nach Deutschland und die Schweiz.
 eppan	Girlan - Eppan [UHD]	Bozen und Umgebung - S├╝dtirols S├╝den	https://www.foto-webcam.eu/webcam/eppan/#yyyy/#mm/#dd/#hh#nn_hu.jpg	510 m	-
-13807	Cerni├®baud - Einstieg der Langlaufloipen. 1	Mouthe	<missing>	1.035 m	Einstieg der Langlaufloipen.
 garland	Bergstation Garland Sessellift Brauneck - Brauneck Garland [UHD]	Brauneck / Lenggries	https://www.foto-webcam.eu/webcam/garland/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.510 m	Brauneck Garland
 12493	Zentraler Omnibus Bahnhof (ZOB)	Schwarzwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12493/#yyyy/#mm/#dd/12493_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	341 m	-
 12493	Zentraler Omnibus Bahnhof (ZOB)	Nagoldtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12493/#yyyy/#mm/#dd/12493_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	341 m	-
-18665	Innerratschings - Panorama 1	Ratschings Jaufen	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/18665/#yyyy/#mm/#dd/18665_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.363 m	Panorama
 19253	Schleuse Hofen Oberwasser	Stuttgart	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19253/#yyyy/#mm/#dd/19253_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	205 m	-
-8427	B├¡l├í - POI 1	SKI B├¡l├í	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/8427/#yyyy/#mm/#dd/8427_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	670 m	POI 1
 14310	Novigrad - Veliki Trg - Hauptplatz Novigrad.	Novigrad	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/14310/#yyyy/#mm/#dd/14310_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	0 m	Hauptplatz Novigrad.
 14454	Osor ÔÇô Mali Lo┼íinj	Insel Lo┼íinj	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/14454/#yyyy/#mm/#dd/14454_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	0 m	-
 13980	Camp de neu - Cota 2.000	Sant Juli├á de L├▓ria	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13980/#yyyy/#mm/#dd/13980_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.040 m	-
@@ -20183,6 +20171,7 @@ garland	Bergstation Garland Sessellift Brauneck - Brauneck Garland [UHD]	Braunec
 jaegersberg	Oberstdorf/J├ñgersberg [UHD]	Oberstdorf im Allg├ñu	https://www.foto-webcam.eu/webcam/jaegersberg/#yyyy/#mm/#dd/#hh#nn_hu.jpg	910 m	-
 9086	Maria Neustift - Maria Neustift Ort.	Glasenberg - Maria Neustift	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/9086/#yyyy/#mm/#dd/9086_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	600 m	Maria Neustift Ort.
 4984	Flugplatz Trieben - Blick zur Hochheide Richtung SW	Hohentauern	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/4984/#yyyy/#mm/#dd/4984_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	712 m	Blick zur Hochheide Richtung SW
+13807	Cerni├®baud - Einstieg der Langlaufloipen.	Mouthe	<missing>	1.035 m	Einstieg der Langlaufloipen.
 18747	Bezau Bergbahnen	Bregenzerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/18747/#yyyy/#mm/#dd/18747_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.650 m	-
 15872	Canazei - Ciampac - Blick vom Sessellift "Sella Brunech" in Richtung Roseal. Im Vordergrund das imposante Massiv des Colac.	Alba di Canazei - Ciampac / Val di Fassa	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15872/#yyyy/#mm/#dd/15872_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.290 m	Blick vom Sessellift "Sella Brunech" in Richtung Roseal. Im Vordergrund das imposante Massiv des Colac.
 18467	Monte Cesen - Zoom S├╝dost - Istria - Croazia - Solo Con Cielo Terso-	Treviso	<missing>	1.530 m	Zoom S├╝dost - Istria - Croazia - Solo Con Cielo Terso-
@@ -20212,8 +20201,6 @@ jaegersberg	Oberstdorf/J├ñgersberg [UHD]	Oberstdorf im Allg├ñu	https://www
 6305	Riezlern - Kinderland - Riezlern Ort und Kinderland	Kleinwalsertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/6305/#yyyy/#mm/#dd/6305_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.110 m	Riezlern Ort und Kinderland
 15873	Canazei - Ciampac - Mittelstation des Sesselliftes "Sella Brunech".	Alba di Canazei - Ciampac / Val di Fassa	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15873/#yyyy/#mm/#dd/15873_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.290 m	Mittelstation des Sesselliftes "Sella Brunech".
 18446	Monte Cesen - Zoom West - massiccio monte Grappa 1775 m Slm	Treviso	<missing>	1.530 m	Zoom West - massiccio monte Grappa 1775 m Slm
-13316	Trenkerlift - Panorama 1	Dolomitenregion Drei Zinnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/13316/#yyyy/#mm/#dd/13316_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.245 m	Panorama
-5830	Forni di Sopra - Loc. Davost 1	Forni di Sopra	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/5830/#yyyy/#mm/#dd/5830_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	880 m	-
 2874	Puchenstuben - Vom Gemeindeamt Richtung Pfarrkirche	Puchenstuben	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/2874/#yyyy/#mm/#dd/2874_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	860 m	Vom Gemeindeamt Richtung Pfarrkirche
 10733	Sonnenb├╝hl	Schw├ñbische Alb	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/10733/#yyyy/#mm/#dd/10733_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	730 m	-
 18350	Yacht Club Unterach - Attersee	Attersee - Attergau	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18350/#yyyy/#mm/#dd/18350_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	477 m	Attersee
@@ -20234,11 +20221,12 @@ jaegersberg	Oberstdorf/J├ñgersberg [UHD]	Oberstdorf im Allg├ñu	https://www
 4264	Les 2 Alpes - Centre Station - Place des 2 Alpes	Les 2 Alpes	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/4264/#yyyy/#mm/#dd/4264_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.650 m	Place des 2 Alpes
 15773	Hotel Br├Âtz	Kronplatz - Dolomiten	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15773/#yyyy/#mm/#dd/15773_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.026 m	-
 5916	F├╝ssen - Forggensee - D├ñcher der Altstadt von F├╝ssen mit Blick auf den Tegelberg.	Schwangau - Tegelberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/5916/#yyyy/#mm/#dd/5916_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	780 m	D├ñcher der Altstadt von F├╝ssen mit Blick auf den Tegelberg.
+13316	Trenkerlift - Panorama	Dolomitenregion Drei Zinnen	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/13316/#yyyy/#mm/#dd/13316_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.245 m	Panorama
 18230	Kleinwalsertal / Haus Keti - Blick ├╝ber Riezlern zur Parsennbahn und Richtung Hoher Ifen.	Riezlern	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18230/#yyyy/#mm/#dd/18230_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.090 m	Blick ├╝ber Riezlern zur Parsennbahn und Richtung Hoher Ifen.
 18230	Kleinwalsertal / Haus Keti - Blick ├╝ber Riezlern zur Parsennbahn und Richtung Hoher Ifen.	Kleinwalsertal - Kanzelwand - Fellhorn	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18230/#yyyy/#mm/#dd/18230_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.090 m	Blick ├╝ber Riezlern zur Parsennbahn und Richtung Hoher Ifen.
+5830	Forni di Sopra - Loc. Davost	Forni di Sopra	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/5830/#yyyy/#mm/#dd/5830_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	880 m	-
 7394	Schmiederalm	Bozen und Umgebung - S├╝dtirols S├╝den	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/7394/#yyyy/#mm/#dd/7394_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.660 m	-
 18476	Monte Cesen - Zoom S├╝d - Veneziano meridionale	Treviso	<missing>	1.530 m	Zoom S├╝d - Veneziano meridionale
-13316	Trenkerlift - Panorama 1	3 Zinnen Dolomiten	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/13316/#yyyy/#mm/#dd/13316_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.245 m	Panorama
 11369	Badestelle Ording	St. Peter-Ording	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/11369/#yyyy/#mm/#dd/11369_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	-
 8686	Pfelders - Gr├╝nboden - Gr├╝nboden H├╝tte	Pfelders	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/8686/#yyyy/#mm/#dd/8686_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.000 m	Gr├╝nboden H├╝tte
 922	H├╝ttendorf Galsterberg - H├╝ttendorf Pruggern - Blickrichtung Nord	Michaelerberg-Pruggern	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/922/#yyyy/#mm/#dd/922_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.220 m	H├╝ttendorf Pruggern - Blickrichtung Nord
@@ -20263,8 +20251,8 @@ jaegersberg	Oberstdorf/J├ñgersberg [UHD]	Oberstdorf im Allg├ñu	https://www
 7598	Gries im Sellrain	Gries im Sellrain	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/7598/#yyyy/#mm/#dd/7598_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.187 m	-
 14357	Ludwigs Festspielhaus F├╝ssen - Panorama	Schwangau - Tegelberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/14357/#yyyy/#mm/#dd/14357_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	795 m	Panorama
 9072	Donovaly - Z├íhradi┼íte - Talstation	Donovaly	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/9072/#yyyy/#mm/#dd/9072_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
+13316	Trenkerlift - Panorama	3 Zinnen Dolomiten	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/13316/#yyyy/#mm/#dd/13316_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.245 m	Panorama
 18465	Monte Cesen - Zoom Ost - Col Visentin 1763 m E Alpe Del Nevegal -bl- 1238 m Slm	Treviso	<missing>	1.530 m	Zoom Ost - Col Visentin 1763 m E Alpe Del Nevegal -bl- 1238 m Slm
-19346	Gorizia fr. Piedimonte 1	G├Ârz	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19346/#yyyy/#mm/#dd/19346_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	84 m	-
 11135	Savognin - Piz Martegnas 6	Savognin Bivio Albula	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/11135/#yyyy/#mm/#dd/11135_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.670 m	-
 1154	H├╝ttendorf Galsterberg - H├╝ttendorf Pruggern -  Blickrichtung West	Michaelerberg-Pruggern	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/1154/#yyyy/#mm/#dd/1154_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.220 m	H├╝ttendorf Pruggern -  Blickrichtung West
 10245	M├╝hlwald - M├╝hlwalder Tal	M├╝hlwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/10245/#yyyy/#mm/#dd/10245_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.510 m	M├╝hlwalder Tal
@@ -20292,8 +20280,9 @@ jaegersberg	Oberstdorf/J├ñgersberg [UHD]	Oberstdorf im Allg├ñu	https://www
 9678	Blaserturm Isny im Allg├ñu - Wassertor, Nikolaikirche, Kirche St. Georg und Jakobus und den voralpinen H├Âhenzug der Adelegg.	Isny im Allg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/9678/#yyyy/#mm/#dd/9678_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Wassertor, Nikolaikirche, Kirche St. Georg und Jakobus und den voralpinen H├Âhenzug der Adelegg.
 14251	Schloss Hohenschwangau - Blick zur Wallfahrtskirche St. Coloman	Schwangau - Tegelberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/14251/#yyyy/#mm/#dd/14251_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	880 m	Blick zur Wallfahrtskirche St. Coloman
 13710	Gutenstein - Ferienwohnungen Mamauwiese	Puchberg am Schneeberg - Wunderwiese	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13710/#yyyy/#mm/#dd/13710_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	957 m	-
+19346	Gorizia fr. Piedimonte	G├Ârz	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19346/#yyyy/#mm/#dd/19346_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	84 m	-
+15430	Hala Skrzycze┼äska	Szczyrk Mountain Resort	<missing>	1.000 m	-
 18437	Monte Cesen - Vista Nordost - Valbelluna Orientale	Treviso	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/18437/#yyyy/#mm/#dd/18437_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.530 m	Vista Nordost - Valbelluna Orientale
-6094	Piani Erna - Arrivo Funivia -  Vista panoramica su Lecco 1	Barzio - Piani di Bobbio	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6094/#yyyy/#mm/#dd/6094_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.330 m	 Vista panoramica su Lecco
 4684	Elisabethkirche	Puchberg am Schneeberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/4684/#yyyy/#mm/#dd/4684_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 16422	Galsterberg - Gallisches Skidorf - provided by #panomax.com https://1008.panomax.com	Galsterbergalm / Schladming - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/16422/#yyyy/#mm/#dd/16422_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.650 m	provided by panomax.com
 16422	Galsterberg - Gallisches Skidorf - provided by #panomax.com https://1008.panomax.com	Michaelerberg-Pruggern	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/16422/#yyyy/#mm/#dd/16422_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.650 m	provided by panomax.com
@@ -20321,10 +20310,10 @@ st-jakob	St. Jakob / Ahrntal - Antratt - St. Jakob/Ahrntal [UHD]	Kronplatz - Dol
 2343	Hintersee / Ramsau - Hochkalter und Watzmann	Hochschwarzeck - Ramsau bei Berchtesgaden	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/2343/#yyyy/#mm/#dd/2343_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	789 m	Hochkalter und Watzmann
 15775	Paganella - Rifugio Meriz - Rifugio Meriz La Rocca.	Fai della Paganella	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/15775/#yyyy/#mm/#dd/15775_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.418 m	Rifugio Meriz La Rocca.
 17248	Donnersbachwald - Ort - provided by #panomax.com https://donnersbachwald.panomax.com	Donnersbachwald - Riesneralm	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/17248/#yyyy/#mm/#dd/17248_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	990 m	provided by panomax.com
+6094	Piani Erna - Arrivo Funivia -  Vista panoramica su Lecco	Barzio - Piani di Bobbio	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6094/#yyyy/#mm/#dd/6094_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.330 m	 Vista panoramica su Lecco
 9284	Belalp - Feriensiedlung Tschuggen - M├╝├Âlera	Belalp	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9284/#yyyy/#mm/#dd/9284_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.650 m	M├╝├Âlera
 18445	Monte Cesen - Zoom West - monte Grappa, Solaroli E Tomatico 1500-1700 m	Treviso	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/18445/#yyyy/#mm/#dd/18445_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.530 m	Zoom West - monte Grappa, Solaroli E Tomatico 1500-1700 m
 tegelberg	Tegelberghaus - Tegelberg im Ostallg├ñu. Der Blick zeigt nach Nordwesten. Etwas links von der Mitte liegt F├╝ssen. Rechts ist der s├╝dliche Teil des Forggensees und der Ort Schwangau. [UHD]	Schwangau - Tegelberg	https://www.foto-webcam.eu/webcam/tegelberg/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.707 m	Tegelberg im Ostallg├ñu. Der Blick zeigt nach Nordwesten. Etwas links von der Mitte liegt F├╝ssen. Rechts ist der s├╝dliche Teil des Forggensees und der Ort Schwangau.
-19333	Bohinj See - Seilbahnstation Richtung See 1	Bohinj	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19333/#yyyy/#mm/#dd/19333_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.500 m	Seilbahnstation Richtung See
 17665	Reifinger See - Reifinger See	Grassau im Chiemgau	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/17665/#yyyy/#mm/#dd/17665_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	540 m	Reifinger See
 5413	Klausberg Panorama - Panorama	Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/5413/#yyyy/#mm/#dd/5413_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	-	Panorama
 18859	Chalets Lachtal - Blick auf die Chalets.	Oberw├Âlz - Lachtal	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/18859/#yyyy/#mm/#dd/18859_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.580 m	Blick auf die Chalets.
@@ -20348,6 +20337,7 @@ tegelberg	Tegelberghaus - Tegelberg im Ostallg├ñu. Der Blick zeigt nach Nordw
 5980	Oberstaufen - H├Ârmoos - Blick Richtung H├Ârmoossee.	Oberstaufen	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/5980/#yyyy/#mm/#dd/5980_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.280 m	Blick Richtung H├Ârmoossee.
 18573	Bergrestaurant Sattelegg	Sattelegg / Einsiedeln	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18573/#yyyy/#mm/#dd/18573_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	750 m	-
 14632	Riesneralm / Berghof - Krispenleitn - Piste "6er Schuss"	Donnersbachwald - Riesneralm	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/14632/#yyyy/#mm/#dd/14632_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.560 m	Krispenleitn - Piste "6er Schuss"
+19333	Bohinj See - Seilbahnstation Richtung See	Bohinj	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19333/#yyyy/#mm/#dd/19333_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.500 m	Seilbahnstation Richtung See
 745	Aletschbord - Aletschbord auf den Grossen Aletschgletscher	Brig Simplon	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/745/#yyyy/#mm/#dd/745_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.136 m	Aletschbord auf den Grossen Aletschgletscher
 3857	Sommet Lanchettes - panorama	Valmorel - Le Grand Domaine	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/3857/#yyyy/#mm/#dd/3857_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.825 m	panorama
 17806	Trassenheide - Blick auf den Strandvorplatz.	Trassenheide	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/17806/#yyyy/#mm/#dd/17806_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1 m	Blick auf den Strandvorplatz.
@@ -20394,7 +20384,6 @@ goldbergkees2	Goldbergkees2 [UHD]	Kals am Gro├ƒglockner	https://www.foto-webc
 11711	Krinnenkopf - Kalkk├Âgel	Fulpmes / Stubaital	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11711/#yyyy/#mm/#dd/11711_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.100 m	Aussichtsplattform
 trafoi	Trafoi [UHD]	Trafoi am Ortler / Furkel	https://www.foto-webcam.eu/webcam/trafoi/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.090 m	-
 9916	Santa Caterina Valfurva - Sunny Valley - Sunny Valley	Santa Caterina / Valfurva	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/9916/#yyyy/#mm/#dd/9916_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.700 m	Sunny Valley
-19278	Rodenecker-L├╝sner Alm 1	Rodeneck	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/19278/#yyyy/#mm/#dd/19278_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.936 m	-
 19223	Stadt Hotel Citt├á 3	Bozen und Umgebung - S├╝dtirols S├╝den	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19223/#yyyy/#mm/#dd/19223_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
 8858	Alpe Tognala	San Martino di Castrozza / Rolle Pass	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/8858/#yyyy/#mm/#dd/8858_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	2.322 m	-
 18014	Sand in Taufers - Roanerhof - DolomitenblickÔÇª Kronplatz, Marmolada, Hl. Kreuzkofel	Speikboden - Tauferer Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18014/#yyyy/#mm/#dd/18014_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.570 m	DolomitenblickÔÇª Kronplatz, Marmolada, Hl. Kreuzkofel
@@ -20419,11 +20408,12 @@ trafoi	Trafoi [UHD]	Trafoi am Ortler / Furkel	https://www.foto-webcam.eu/webcam/
 17043	Tiroler Oberland - Ried - provided by #panomax.com https://tiroler-oberland.panomax.com/ried	Ried im Oberinntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/17043/#yyyy/#mm/#dd/17043_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	950 m	provided by panomax.com
 18189	Prutz - Aktiv Camping	Prutz	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/18189/#yyyy/#mm/#dd/18189_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	860 m	-
 2230	Pfarrkirchen im M├╝hlkreis - Blick in den Ort Pfarrkirchen im M├╝hlkreis	Pfarrkirchen im M├╝hlkreis	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/2230/#yyyy/#mm/#dd/2230_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	810 m	Blick in den Ort Pfarrkirchen im M├╝hlkreis
+19278	Rodenecker-L├╝sner Alm	Rodeneck	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/19278/#yyyy/#mm/#dd/19278_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.936 m	-
+15431	Solisko - Talbereich.	Szczyrk Mountain Resort	<missing>	650 m	Talbereich.
 18610	Leugangen - Richtung SO zu Kamor, Hoher Kasten und Sigelwand	Br├╝lisau-Leugangen	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18610/#yyyy/#mm/#dd/18610_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	Richtung SO zu Kamor, Hoher Kasten und Sigelwand
 18610	Leugangen - Richtung SO zu Kamor, Hoher Kasten und Sigelwand	Appenzell Innerrhoden	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/18610/#yyyy/#mm/#dd/18610_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	Richtung SO zu Kamor, Hoher Kasten und Sigelwand
 17503	Bostalsee Westufer - Ostufer mit Strandbad Gonnesweiler und Liegewiese	Sankt Wendeler Land / Bostalsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/17503/#yyyy/#mm/#dd/17503_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	412 m	Ostufer mit Strandbad Gonnesweiler und Liegewiese
 19279	Rodenecker-L├╝sner Alm 2	Rodeneck	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/19279/#yyyy/#mm/#dd/19279_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.936 m	-
-18663	Innerratschings - Hot 2 1	Ratschings Jaufen	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18663/#yyyy/#mm/#dd/18663_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.363 m	Hot 2
 19180	Hotel Talj├Ârgele	Ridnaun / Ridnauntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19180/#yyyy/#mm/#dd/19180_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.398 m	-
 5952	Hinterbichl - Wetterstation Muhs 2	Pr├ñgraten am Gro├ƒvenediger	<missing>	2.500 m	-
 2898	Bergstation Col de Valvacin - Bergstation des Sesselliftes "Pala del Geiger", der vom Val Giumela zum Col de Valvacin aufsteigt. Im Hintergrund ragen die Sellagruppe mit dem Sass Pordoi (2.950 m), auch bekannt als "Terrazza delle Dolomiti", und dem Piz Bo├¿ (3.152 m) empor.	Pozza di Fassa	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/2898/#yyyy/#mm/#dd/2898_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.354 m	Bergstation des Sesselliftes "Pala del Geiger", der vom Val Giumela zum Col de Valvacin aufsteigt. Im Hintergrund ragen die Sellagruppe mit dem Sass Pordoi (2.950 m), auch bekannt als "Terrazza delle Dolomiti", und dem Piz Bo├¿ (3.152 m) empor.
@@ -20480,13 +20470,10 @@ oberstaufen	Oberstaufen - Ort Oberstufen [UHD]	Hochgratbahn Oberstaufen - Steibi
 6266	Wiesenfelden - Dorfweiher	Sankt Englmar	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6266/#yyyy/#mm/#dd/6266_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	610 m	Dorfweiher
 19226	Stadt Hotel Citt├á 6	Bozen	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19226/#yyyy/#mm/#dd/19226_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
 19224	Stadt Hotel Citt├á 4	Bozen	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/19224/#yyyy/#mm/#dd/19224_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
-19221	Stadt Hotel Citt├á 1	Bozen	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/19221/#yyyy/#mm/#dd/19221_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
 19225	Stadt Hotel Citt├á 5	Bozen	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/19225/#yyyy/#mm/#dd/19225_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
 19222	Stadt Hotel Citt├á 2	Bozen	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/19222/#yyyy/#mm/#dd/19222_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
 19227	Stadt Hotel Citt├á 7	Bozen	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/19227/#yyyy/#mm/#dd/19227_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
 19223	Stadt Hotel Citt├á 3	Bozen	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19223/#yyyy/#mm/#dd/19223_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
-19313	Monte Pora 1	Castione della Presolana - Monte Pora	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19313/#yyyy/#mm/#dd/19313_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.630 m	-
-19313	Monte Pora 1	Val Seriana / Serio-Tal	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19313/#yyyy/#mm/#dd/19313_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.630 m	-
 12358	┼ÿ├¡─ìky v Orlick├¢ch hor├ích - lanovka	┼ÿ├¡─ìky v Orlick├¢ch hor├ích	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/12358/#yyyy/#mm/#dd/12358_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	752 m	lanovka
 7269	Kitzb├╝heler Hornk├Âpfl - Speichersee Hornk├Âpfl	Kitzb├╝hel - Kirchberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/7269/#yyyy/#mm/#dd/7269_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.780 m	Speichersee Hornk├Âpfl
 5536	Oberlappach - Pichlerhof - Lappach	Kronplatz - Dolomiten	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/5536/#yyyy/#mm/#dd/5536_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.436 m	Lappach
@@ -20504,6 +20491,9 @@ oberstaufen	Oberstaufen - Ort Oberstufen [UHD]	Hochgratbahn Oberstaufen - Steibi
 2892	Bergstation Col de Valvacin - Der Blick f├ñllt rechts auf das wundervolle Val San Nicol├▓; links kann man den Sessellift "Pala del Geiger" erblicken, der vom Val Giumela aufsteigt (im Sommer zu Fu├ƒ von Pera di Fassa erreichbar - Pfad Nr. 644).	Pozza di Fassa	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/2892/#yyyy/#mm/#dd/2892_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.354 m	Der Blick f├ñllt rechts auf das wundervolle Val San Nicol├▓; links kann man den Sessellift "Pala del Geiger" erblicken, der vom Val Giumela aufsteigt (im Sommer zu Fu├ƒ von Pera di Fassa erreichbar - Pfad Nr. 644).
 vorderloiplsau	Vorderloiplsau - Ramsau - Berchtesgadener Land - Blick zum Hochkalter, rechts die Ostabst├╝rze der Reiteralm. [UHD]	Hochschwarzeck - Ramsau bei Berchtesgaden	https://www.foto-webcam.eu/webcam/vorderloiplsau/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.054 m	Blick zum Hochkalter, rechts die Ostabst├╝rze der Reiteralm.
 694	Lisighaus - Wildhaus - Wildhauser Schwendi mit den imposanten Zacken der sieben Churfirsten.	Ferienregion Toggenburg	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/694/#yyyy/#mm/#dd/694_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.038 m	Wildhauser Schwendi mit den imposanten Zacken der sieben Churfirsten.
+19221	Stadt Hotel Citt├á	Bozen	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/19221/#yyyy/#mm/#dd/19221_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	265 m	-
+19313	Monte Pora	Castione della Presolana - Monte Pora	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19313/#yyyy/#mm/#dd/19313_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.630 m	-
+19313	Monte Pora	Val Seriana / Serio-Tal	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/19313/#yyyy/#mm/#dd/19313_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.630 m	-
 5556	Sch├Âneck - Blick auf die Pisten der Skischaukel	Sch├Âneck	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/5556/#yyyy/#mm/#dd/5556_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Blick auf die Pisten der Skischaukel
 13421	Reith bei Kitzb├╝hel - Skiwiese.	Kitzb├╝hel - Kirchberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/13421/#yyyy/#mm/#dd/13421_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	775 m	Skiwiese.
 11005	Sand in Taufers - Hotel Alte M├╝hle - Schloss Taufers	Sand in Taufers	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/11005/#yyyy/#mm/#dd/11005_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	890 m	Schloss Taufers
@@ -20525,7 +20515,6 @@ grandsberg	Grandsberg/Schwarzach - Der Blick zeigt zur Donauebene nach S├╝de
 11641	Skizentrum Ludwigstadt - H├Âfenlift Ludwigstadt.	Ludwigsstadt	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/11641/#yyyy/#mm/#dd/11641_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	500 m	H├Âfenlift Ludwigstadt.
 1852	Unken - Ortszentrum Unken - Blickrichtung Salzburg	Skilifte Unken / Heutal	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/1852/#yyyy/#mm/#dd/1852_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	654 m	Ortszentrum Unken - Blickrichtung Salzburg
 grandsberg	Grandsberg/Schwarzach - Der Blick zeigt zur Donauebene nach S├╝den mit leicht westlichem Einschlag.Links im Bild ist Plattling, rechts im Vordergrund liegt Schwarzach. [UHD]	Schwarzach	https://www.foto-webcam.eu/webcam/grandsberg/#yyyy/#mm/#dd/#hh#nn_hu.jpg	870 m	Der Blick zeigt zur Donauebene nach S├╝den mit leicht westlichem Einschlag.Links im Bild ist Plattling, rechts im Vordergrund liegt Schwarzach.
-19280	Jezersko 1	Jezersko	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19280/#yyyy/#mm/#dd/19280_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.240 m	-
 1639	Hahnenkamm	Kitzb├╝hel	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/1639/#yyyy/#mm/#dd/1639_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
 9304	Luttach - Luttach, Blick talausw├ñrts.	Luttach	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9304/#yyyy/#mm/#dd/9304_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	975 m	Luttach, Blick talausw├ñrts.
 9304	Luttach - Luttach, Blick talausw├ñrts.	Speikboden - Tauferer Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/9304/#yyyy/#mm/#dd/9304_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	975 m	Luttach, Blick talausw├ñrts.
@@ -20538,6 +20527,7 @@ grandsberg	Grandsberg/Schwarzach - Der Blick zeigt zur Donauebene nach S├╝de
 8696	Loipenh├Âttli Gonten - Loipe Gonten 2	Alpsteinblick / Gonten	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/8696/#yyyy/#mm/#dd/8696_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Loipe Gonten
 13579	Bergrestaurant Dreil├ñndereck - Blick Richtung SW zu den Taubenkogelliften und zum Dreil├ñndereck, 1.508 m.	Arnoldstein	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/13579/#yyyy/#mm/#dd/13579_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.452 m	Blick Richtung SW zu den Taubenkogelliften und zum Dreil├ñndereck, 1.508 m.
 8276	Gschwendlift 1 Bergstation - Skigebiet Aussicht von Haus Balthasar.	Balderschwang / H├Ârnerd├Ârfer	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/8276/#yyyy/#mm/#dd/8276_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.060 m	Skigebiet Aussicht von Haus Balthasar.
+19280	Jezersko	Jezersko	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/19280/#yyyy/#mm/#dd/19280_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.240 m	-
 13713	Ramsau am Dachstein - Blick Richtung Reiteralm.	Ramsau / Dachstein - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/13713/#yyyy/#mm/#dd/13713_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.180 m	Blick Richtung Reiteralm.
 16815	Seebr├╝cke Sch├Ânberger Strand - Wundervoller Blick auf die Ostsee-Seebr├╝cke am Sch├Ânberger Strand.	Sch├Ânberg in Holstein	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/16815/#yyyy/#mm/#dd/16815_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	Wundervoller Blick auf die Ostsee-Seebr├╝cke am Sch├Ânberger Strand.
 7537	Prad am Stilfserjoch - Stilfs	Vinschgau	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/7537/#yyyy/#mm/#dd/7537_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	900 m	Stilfs
@@ -20569,7 +20559,6 @@ grandsberg	Grandsberg/Schwarzach - Der Blick zeigt zur Donauebene nach S├╝de
 1015	Achensee - Strandpromenade Pertisau	Karwendel-Bergbahn Pertisau ÔÇô Achensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/1015/#yyyy/#mm/#dd/1015_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	950 m	Strandpromenade Pertisau
 6429	Cafe Feldbergblick - Hochfirst und Feldberg	Titisee-Neustadt	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/6429/#yyyy/#mm/#dd/6429_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.075 m	Hochfirst und Feldberg
 5772	Talstation Sesselbahn - Blick Richtung Tambachtal	Sankt Andreasberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/5772/#yyyy/#mm/#dd/5772_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Blick Richtung Tambachtal
-18665	Innerratschings - Panorama 1	Ratschings	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/18665/#yyyy/#mm/#dd/18665_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.363 m	Panorama
 traunstein-sued	Gmundner H├╝tte am Traunstein [UHD]	Gmunden	https://www.foto-webcam.eu/webcam/traunstein-sued/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.666 m	-
 13070	Wei├ƒenbach Ahrntal - Berghotel Alpenfrieden - Von Wei├ƒenbach im Ahrntal auf die Zillertaler Alpen.	Kronplatz - Dolomiten	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13070/#yyyy/#mm/#dd/13070_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.327 m	Von Wei├ƒenbach im Ahrntal auf die Zillertaler Alpen.
 13070	Wei├ƒenbach Ahrntal - Berghotel Alpenfrieden - Von Wei├ƒenbach im Ahrntal auf die Zillertaler Alpen.	Ahrntal	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/13070/#yyyy/#mm/#dd/13070_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.327 m	Von Wei├ƒenbach im Ahrntal auf die Zillertaler Alpen.
@@ -20595,6 +20584,7 @@ pendling-ost	Pendlinghaus - Kufstein - Inntal, Kufstein, Zahmer und Wilder Kaise
 19207	Boutique Apartments Herbert - Kauz herbert	Rennweg am Katschberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/19207/#yyyy/#mm/#dd/19207_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.650 m	Kauz herbert
 9677	Blaserturm Isny im Allg├ñu - Espantor, Naturschutzgebiet Bodenm├Âser	Oberschwaben - Allg├ñu	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/9677/#yyyy/#mm/#dd/9677_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Espantor, Naturschutzgebiet Bodenm├Âser
 6526	Gletsch - Bahnhof der Dampfbahn Furka-Bergstrecke und dem Weiler Gletsch	Obergoms / Goms	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6526/#yyyy/#mm/#dd/6526_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.765 m	Bahnhof der Dampfbahn Furka-Bergstrecke und dem Weiler Gletsch
+18665	Innerratschings - Panorama	Ratschings	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/18665/#yyyy/#mm/#dd/18665_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.363 m	Panorama
 3082	Au im Bregenzerwald - Blick nach Au	Bregenzerwald	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/3082/#yyyy/#mm/#dd/3082_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	800 m	Blick nach Au
 3082	Au im Bregenzerwald - Blick nach Au	Au - Schoppernau	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/3082/#yyyy/#mm/#dd/3082_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	800 m	Blick nach Au
 sonnalpin	Sonnalpin [UHD]	Tiroler Zugspitzbahn	https://www.foto-webcam.eu/webcam/sonnalpin/#yyyy/#mm/#dd/#hh#nn_hu.jpg	2.576 m	-
@@ -20721,6 +20711,7 @@ burgstalleralm	Burgstalleralm / Astental - Im Vordergrund sind die Astner Almen 
 1168	Flugplatz Mauterndorf - Mauterndorf und Gro├ƒeck-Speiereck	Mauterndorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/1168/#yyyy/#mm/#dd/1168_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	Mauterndorf und Gro├ƒeck-Speiereck
 1170	Jacklbauer/Fanningberg - Blick vom Jacklbauer/Fanningberg Richtung S├╝den (Zoom)	Gro├ƒeck - Speiereck - Mauterndorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/1170/#yyyy/#mm/#dd/1170_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.390 m	Blick vom Jacklbauer/Fanningberg Richtung S├╝den (Zoom)
 4993	Lungau Flugplatz Moosham - Modellflugplatz in Unternberg	Gro├ƒeck - Speiereck - Mauterndorf	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/4993/#yyyy/#mm/#dd/4993_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	Modellflugplatz in Unternberg
+15591	Szrenica - Talstation - Talstation der Seilbahn.	Ski Arena Szrenica / Sudety Lift - Szklarska Poreba	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/15591/#yyyy/#mm/#dd/15591_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	725 m	Talstation der Seilbahn.
 3256	Sternwarte - Blick von der Sternwarte auf der Stehralm	Mariazell	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/3256/#yyyy/#mm/#dd/3256_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.010 m	Blick von der Sternwarte auf der Stehralm
 14303	Mariazell - Tribein und Zellerh├╝te	Mariazell	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/14303/#yyyy/#mm/#dd/14303_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	880 m	Tribein und Zellerh├╝te
 17220	Mariazell - Gemeindealpe und ├ûtscher im Hintergrund	Mariazeller B├╝rgeralpe	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/17220/#yyyy/#mm/#dd/17220_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	860 m	Gemeindealpe und ├ûtscher im Hintergrund
@@ -20862,6 +20853,7 @@ das-kaltenbach	Das Kaltenbach - Der Blick zeigt nach Norden ├╝ber den Ort Ka
 14635	Dienten - ├£bergossene Alm Resort - Liebenau-├£bungslift, zum Einstieg in die Skiregion Hochk├Ânig	Hochk├Ânig / Maria Alm - Dienten - M├╝hlbach - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/14635/#yyyy/#mm/#dd/14635_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.580 m	Liebenau-├£bungslift, zum Einstieg in die Skiregion Hochk├Ânig
 14633	Dienten - ├£bergossene Alm Resort - Richtung Haus Petra und ├£bungswiese Skischule	Hochk├Ânig / Maria Alm - Dienten - M├╝hlbach - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/14633/#yyyy/#mm/#dd/14633_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.580 m	Richtung Haus Petra und ├£bungswiese Skischule
 16511	Dienten, B├╝rglalmabfahrt - Blick von der Die.Deantnerin. auf die Piste B├╝rglalm.	Dienten am Hochk├Ânig	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/16511/#yyyy/#mm/#dd/16511_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.250 m	Blick von der Die.Deantnerin. auf die Piste B├╝rglalm.
+16805	Gryglowka - Zieleniec	Zieleniec	<missing>	-	-
 kochelsee	Herzogstand / Fahrenbergkopf - Im Vordergrund ist der Kochelsee und die Ortschaft Kochel am See, Links ist in der Ferne der Starnberger See, rechts steht am Horizont der Blomberg. [UHD]	Walchensee	https://www.foto-webcam.eu/webcam/kochelsee/#yyyy/#mm/#dd/#hh#nn_hu.jpg	1.600 m	Im Vordergrund ist der Kochelsee und die Ortschaft Kochel am See, Links ist in der Ferne der Starnberger See, rechts steht am Horizont der Blomberg.
 18848	Camping Schluga - Hermagor - Blick auf den Strand des Pressegger Sees.	Nassfeld / Pressegger See	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/18848/#yyyy/#mm/#dd/18848_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	585 m	Blick auf den Strand des Pressegger Sees.
 4704	Bergstation Alm 6er	Hauser Kaibling / Schladming - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/4704/#yyyy/#mm/#dd/4704_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.945 m	-
@@ -20882,6 +20874,7 @@ kochelsee	Herzogstand / Fahrenbergkopf - Im Vordergrund ist der Kochelsee und di
 16286	Museum Bokrijk - Panorama	Hasselt	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/16286/#yyyy/#mm/#dd/16286_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	42 m	Panorama
 16719	Heidialm - Blick auf den See und die Rodelbahn.	Heidi Alm Falkert - Falkertsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/16719/#yyyy/#mm/#dd/16719_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.900 m	Blick auf den See und die Rodelbahn.
 2503	Falkert - R├Âdersnock, Sonntagstal & Falkert-Spitz.	Heidi Alm Falkert - Falkertsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/2503/#yyyy/#mm/#dd/2503_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.900 m	R├Âdersnock, Sonntagstal & Falkert-Spitz.
+16807	Nartorama - Zieleniec 2	Zieleniec	<missing>	-	-
 1319	Gro├ƒarl - Richtung S├╝dosten - Gro├ƒarler Marktplatz und die Pfarrkirche von Gro├ƒarl.	Gro├ƒarl	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/1319/#yyyy/#mm/#dd/1319_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	894 m	Richtung S├╝dosten - Gro├ƒarler Marktplatz und die Pfarrkirche von Gro├ƒarl.
 1455	Talschluss des Grossarltals - Steinmannbauer - Blick vom Biohof Steinmannbauer im hinteren Gro├ƒarltal Richtung S├╝den. Im Hintergrund die Hohen Tauern mit dem Gipfel des Marchkareck 2.661m an der Grenze zum Maltatal in K├ñrnten, vorne links Haseckkopf mit 2.023m im Nationalpark Hohe Tauern.	Gro├ƒarl	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/1455/#yyyy/#mm/#dd/1455_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.040 m	Blick vom Biohof Steinmannbauer im hinteren Gro├ƒarltal Richtung S├╝den. Im Hintergrund die Hohen Tauern mit dem Gipfel des Marchkareck 2.661m an der Grenze zum Maltatal in K├ñrnten, vorne links Haseckkopf mit 2.023m im Nationalpark Hohe Tauern.
 1455	Talschluss des Grossarltals - Steinmannbauer - Blick vom Biohof Steinmannbauer im hinteren Gro├ƒarltal Richtung S├╝den. Im Hintergrund die Hohen Tauern mit dem Gipfel des Marchkareck 2.661m an der Grenze zum Maltatal in K├ñrnten, vorne links Haseckkopf mit 2.023m im Nationalpark Hohe Tauern.	Gro├ƒarl Tal - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/1455/#yyyy/#mm/#dd/1455_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.040 m	Blick vom Biohof Steinmannbauer im hinteren Gro├ƒarltal Richtung S├╝den. Im Hintergrund die Hohen Tauern mit dem Gipfel des Marchkareck 2.661m an der Grenze zum Maltatal in K├ñrnten, vorne links Haseckkopf mit 2.023m im Nationalpark Hohe Tauern.
@@ -20916,6 +20909,7 @@ meilerhuette-nord	Meilerh├╝tte Nord - Blick nach Nordosten [UHD]	Garmisch-Pa
 18716	Friesoythe - Ansicht Lange Stra├ƒe, Ecke Wasserstra├ƒe	Friesoythe	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/18716/#yyyy/#mm/#dd/18716_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	6 m	Ansicht Lange Stra├ƒe, Ecke Wasserstra├ƒe
 12631	Bu─ìina / Buchwald - Hotel Alpenfernsicht, Bu─ìina.	Mauth	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/12631/#yyyy/#mm/#dd/12631_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.163 m	Hotel Alpenfernsicht, Bu─ìina.
 13282	D├Âbriach - Camping Brunner.	Goldeck am Millst├ñtter See	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13282/#yyyy/#mm/#dd/13282_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	592 m	Camping Brunner.
+16806	Nartorama - Zieleniec	Zieleniec	<missing>	-	-
 12594	Messe Frankfurt - Blick auf die Mainhatten Skyline.	Frankfurt am Main	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/12594/#yyyy/#mm/#dd/12594_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	115 m	Blick auf die Mainhatten Skyline.
 12594	Messe Frankfurt - Blick auf die Mainhatten Skyline.	FrankfurtRheinMain	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/12594/#yyyy/#mm/#dd/12594_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	115 m	Blick auf die Mainhatten Skyline.
 5287	Folgarida Malghet Aut / Family Park. - Snowpark Malghet Aut Family Park.	Folgarida - Marilleva - Val di Sole / Dolomiti di Brenta	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/5287/#yyyy/#mm/#dd/5287_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.850 m	Snowpark Malghet Aut Family Park.
@@ -20937,6 +20931,7 @@ flattach	Flattach - Im Vordergrund ist der Ortsteil Au├ƒerfragant zu sehen, i
 7416	Berggasthof Feuerkogelhaus - Bergstation Sessellift. im Hintergrund Schladminger Tauern, Dachstein-Gruppe, Gosaukamm	Ebensee - Feuerkogel	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/7416/#yyyy/#mm/#dd/7416_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.623 m	Bergstation Sessellift. im Hintergrund Schladminger Tauern, Dachstein-Gruppe, Gosaukamm
 7416	Berggasthof Feuerkogelhaus - Bergstation Sessellift. im Hintergrund Schladminger Tauern, Dachstein-Gruppe, Gosaukamm	Feuerkogel - Ebensee	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/7416/#yyyy/#mm/#dd/7416_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.623 m	Bergstation Sessellift. im Hintergrund Schladminger Tauern, Dachstein-Gruppe, Gosaukamm
 1035	Riesneralm Tal / Kinderskischaukel - Kinderland Riesneralm	Riesneralm - Schneeb├ñren	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/1035/#yyyy/#mm/#dd/1035_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.085 m	Kinderland Riesneralm
+15427	Lesko - Talstation	Lesko-Ski / Weremie┼ä	<missing>	414 m	-
 696	Gamsalp - Wildhaus - Im Bild-Vordergrund die neue 4er-Sesselbahn Oberdorf-Gamsalp mit Wetterschutzhauben und die Alp. Im Bild-Hintergrund die gegen├╝berliegende Talseite, Teil des m├ñchtigen Alpstein-Massivs rund um den 2500 m hohen S├ñntis. Besuchen Sie unser Bergrestaurant Gam	Toggenburg / Wildhaus	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/696/#yyyy/#mm/#dd/696_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.770 m	Im Bild-Vordergrund die neue 4er-Sesselbahn Oberdorf-Gamsalp mit Wetterschutzhauben und die Alp. Im Bild-Hintergrund die gegen├╝berliegende Talseite, Teil des m├ñchtigen Alpstein-Massivs rund um den 2500 m hohen S├ñntis. Besuchen Sie unser Bergrestaurant Gam
 696	Gamsalp - Wildhaus - Im Bild-Vordergrund die neue 4er-Sesselbahn Oberdorf-Gamsalp mit Wetterschutzhauben und die Alp. Im Bild-Hintergrund die gegen├╝berliegende Talseite, Teil des m├ñchtigen Alpstein-Massivs rund um den 2500 m hohen S├ñntis. Besuchen Sie unser Bergrestaurant Gam	Toggenburg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/696/#yyyy/#mm/#dd/696_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.770 m	Im Bild-Vordergrund die neue 4er-Sesselbahn Oberdorf-Gamsalp mit Wetterschutzhauben und die Alp. Im Bild-Hintergrund die gegen├╝berliegende Talseite, Teil des m├ñchtigen Alpstein-Massivs rund um den 2500 m hohen S├ñntis. Besuchen Sie unser Bergrestaurant Gam
 696	Gamsalp - Wildhaus - Im Bild-Vordergrund die neue 4er-Sesselbahn Oberdorf-Gamsalp mit Wetterschutzhauben und die Alp. Im Bild-Hintergrund die gegen├╝berliegende Talseite, Teil des m├ñchtigen Alpstein-Massivs rund um den 2500 m hohen S├ñntis. Besuchen Sie unser Bergrestaurant Gam	Ferienregion Toggenburg	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/696/#yyyy/#mm/#dd/696_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.770 m	Im Bild-Vordergrund die neue 4er-Sesselbahn Oberdorf-Gamsalp mit Wetterschutzhauben und die Alp. Im Bild-Hintergrund die gegen├╝berliegende Talseite, Teil des m├ñchtigen Alpstein-Massivs rund um den 2500 m hohen S├ñntis. Besuchen Sie unser Bergrestaurant Gam
@@ -20973,6 +20968,12 @@ fanningberg	Fanningberg - Blick von der Talstation der 6er Samsonbahn. [UHD]	Fan
 3338	Dobratsch - Blick vom ORF-Sendeturm auf dem Dobratsch (2.166 m Seeh├Âhe) in Richtung Osten, Gerlitzen (1.909 m Seeh├Âhe), Ossiachersee, W├Ârthersee, Drau, Fakersee. Davor der Wanderweg auf die Villacher Alpe (Dobratsch).	Dreil├ñndereck - Arnoldstein	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/3338/#yyyy/#mm/#dd/3338_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.166 m	Blick vom ORF-Sendeturm auf dem Dobratsch (2.166 m Seeh├Âhe) in Richtung Osten, Gerlitzen (1.909 m Seeh├Âhe), Ossiachersee, W├Ârthersee, Drau, Fakersee. Davor der Wanderweg auf die Villacher Alpe (Dobratsch).
 7018	Snowpark Obereggen - Feudo	Deutschnofen - Obereggen - Eggen - Petersberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/7018/#yyyy/#mm/#dd/7018_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.030 m	Feudo
 16504	Jatzmeder 5	Davos	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/16504/#yyyy/#mm/#dd/16504_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.050 m	-
+11734	Fiesch - POI	Aletsch Arena	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/11734/#yyyy/#mm/#dd/11734_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.220 m	POI 1
+13162	Madrisaland - POI	Klosters	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13162/#yyyy/#mm/#dd/13162_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.892 m	POI 1
+818	Todtnauberg - Pension Gl├Âcklehof - St├╝benwasenlift	Todtnau	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/818/#yyyy/#mm/#dd/818_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	St├╝benwasenlift 1
+818	Todtnauberg - Pension Gl├Âcklehof - St├╝benwasenlift	Todtnauberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/818/#yyyy/#mm/#dd/818_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.100 m	St├╝benwasenlift 1
+8223	Bergstation Brauneck - Hot	Brauneck / Lenggries	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/8223/#yyyy/#mm/#dd/8223_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.480 m	Hot 1
+15316	Wimbach Express - POI	Hochzillertal	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15316/#yyyy/#mm/#dd/15316_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 17176	Liebfrauenm├╝nster - Heilig-Kreuz Kirche	Donauw├Ârth	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/17176/#yyyy/#mm/#dd/17176_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	463 m	Heilig-Kreuz Kirche
 13051	Engelhartszell - Penzenstein - Blick vom Penzenstein Richtung Donau.	Donau Ober├Âsterreich	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/13051/#yyyy/#mm/#dd/13051_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	568 m	Blick vom Penzenstein Richtung Donau.
 15182	Seceda 2	Dolomites Val Gardena / Gr├Âden - St. Ulrich	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15182/#yyyy/#mm/#dd/15182_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.450 m	-
@@ -20992,10 +20993,19 @@ fanningberg	Fanningberg - Blick von der Talstation der 6er Samsonbahn. [UHD]	Fan
 16000	Golf Club Petersberg	Eggental	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/16000/#yyyy/#mm/#dd/16000_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.387 m	-
 18788	Sommerrodelbahn Davos Schatzalp - Sommerrodelbahn Davos Schatzalp.	Davos Klosters	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/18788/#yyyy/#mm/#dd/18788_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.870 m	Sommerrodelbahn Davos Schatzalp.
 13156	Madrisaland	Klosters	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/13156/#yyyy/#mm/#dd/13156_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.892 m	-
+18663	Innerratschings - Hot 2	Ratschings	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18663/#yyyy/#mm/#dd/18663_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.363 m	Hot 2
+8485	Doln├¡ Morava - POI	Doln├¡ Morava	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/8485/#yyyy/#mm/#dd/8485_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.105 m	POI 1
+10064	Olomouc - Olm├╝tz / Kr├íli─ì├ík - POI	Krali─ì├ík	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/10064/#yyyy/#mm/#dd/10064_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	770 m	POI 1
+11867	Laterns - POI	Laterns - Gapfohl	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/11867/#yyyy/#mm/#dd/11867_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.500 m	POI 1
+13962	Stubnerkogel Bergstation S├╝dseite - Hot	Bad Gastein	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/13962/#yyyy/#mm/#dd/13962_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.233 m	Hot 1
+12826	Talstation Fulseck - POI	Dorfgastein	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/12826/#yyyy/#mm/#dd/12826_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	873 m	POI 1
+2518	Skihang Holzhau - Holzhau	Holzhau	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/2518/#yyyy/#mm/#dd/2518_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	735 m	Holzhau 1
+6904	Bergstation starjet 3 - Hot	Flachau - Snow Space Salzburg - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/6904/#yyyy/#mm/#dd/6904_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.860 m	Hot 1
 12932	Corvatsch - Corvatsch - Blick Bernina	Corvatsch - Furtschellas	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/12932/#yyyy/#mm/#dd/12932_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.303 m	Corvatsch - Blick Bernina
 12933	Corvatsch - Corvatsch 3303, Oberengadiner Seenlandschaft 2	Corvatsch	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12933/#yyyy/#mm/#dd/12933_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	3.303 m	Corvatsch 3303, Oberengadiner Seenlandschaft
 12883	Hoffmanky - Panorama	─îern├í hora - Jansk├® L├ízn─ø / ─îern├í hora - Pec	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/12883/#yyyy/#mm/#dd/12883_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.050 m	Panorama
 5791	Johanngeorgenstadt - Blick auf die Eigenheimsiedlung "Schanzenblick".	Skilift am K├╝lliggut / Johanngeorgenstadt	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/5791/#yyyy/#mm/#dd/5791_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
+14046	Meix-Musy - Talstation Meix-Musy - Pierre ├í Feu	Meix-Musy - Pierre ├í Feu	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/14046/#yyyy/#mm/#dd/14046_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	\N	\N
 15533	Madrisa Bergstation / Kinderland 5	Klosters	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15533/#yyyy/#mm/#dd/15533_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.920 m	-
 11040	Madrisa Bergstation / Kinderland 4	Klosters Madrisa	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/11040/#yyyy/#mm/#dd/11040_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.920 m	-
 10547	Weissfluhjoch - Blick Dorft├ñli	Davos Klosters Parsenn	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/10547/#yyyy/#mm/#dd/10547_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.660 m	Blick Dorft├ñli
@@ -21013,6 +21023,43 @@ fanningberg	Fanningberg - Blick von der Talstation der 6er Samsonbahn. [UHD]	Fan
 2825	─îrna na Koro┼íkem - Blick von der Talstation.	─îrna na Koro┼íkem	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/2825/#yyyy/#mm/#dd/2825_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	600 m	Blick von der Talstation.
 5847	Maloja - Hotel Garni La Ros├®e - Silsersee.	Val Bregaglia	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/5847/#yyyy/#mm/#dd/5847_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.830 m	Silsersee.
 5845	Alpetta H├╝tta, Corvatsch - Sicht von der Alpetta auf Silvaplana, Surlej und Champf├¿r.	Corvatsch	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/5845/#yyyy/#mm/#dd/5845_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.260 m	Sicht von der Alpetta auf Silvaplana, Surlej und Champf├¿r.
+17768	Vleeshuis Oudenaarde	Oudenaarde	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/17768/#yyyy/#mm/#dd/17768_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	11 m	-
+17768	Vleeshuis Oudenaarde	Flandern	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/17768/#yyyy/#mm/#dd/17768_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	11 m	-
+10174	Kasprowy Wierch 2	Kasprowy Wierch / Zakopane	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/10174/#yyyy/#mm/#dd/10174_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
+10422	Bed┼Öichov - Malinovka	Bed┼Öichov / Jizerky	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/10422/#yyyy/#mm/#dd/10422_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
+15006	Velk├í ├Üpa - POI	Velk├í ├Üpa / ─îern├í hora - Pec	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/15006/#yyyy/#mm/#dd/15006_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	900 m	POI 1
+12817	Moorgebiet Schwemm - Moorgebiet / Miesberg	Zahmer Kaiser - Walchsee	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/12817/#yyyy/#mm/#dd/12817_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	668 m	Moorgebiet / Miesberg 1
+6976	Sportzentrum Klosters - POI	Davos Klosters	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/6976/#yyyy/#mm/#dd/6976_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.182 m	POI 1
+7615	Rohrmoos - Schladming / Goldenjet	Schladming-Rohrmoos-Pichl	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7615/#yyyy/#mm/#dd/7615_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	835 m	Schladming / Goldenjet 1
+7615	Rohrmoos - Schladming / Goldenjet	Planai / Schladming - Ski amade	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/7615/#yyyy/#mm/#dd/7615_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	835 m	Schladming / Goldenjet 1
+10621	Sportzentrum Pokljuka - Rudno Polje	Bohinj	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/10621/#yyyy/#mm/#dd/10621_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.350 m	-
+18664	Innerratschings - Hot 3	Ratschings	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18664/#yyyy/#mm/#dd/18664_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.363 m	Hot 3
+17948	Beskid - Spytkowice - Blick auf die Piste.	Beskid-Spytkowice	<missing>	-	Blick auf die Piste.
+10766	Rifugio Auronzo - Misurina und Monte Cristallo	Misurina - Col de Varda	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/10766/#yyyy/#mm/#dd/10766_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.320 m	Misurina und Monte Cristallo
+17947	Beskid - Spytkowice - Bergstation und H├╝tte Karczma na stoku.	Beskid-Spytkowice	<missing>	760 m	Bergstation und H├╝tte Karczma na stoku.
+19236	Nerezine	Nerezine	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/19236/#yyyy/#mm/#dd/19236_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	5 m	-
+19237	Split Ba─ìvice Beach	Split	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/19237/#yyyy/#mm/#dd/19237_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
+19242	Split Institute of Oceanography and Fisheries	Split	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/19242/#yyyy/#mm/#dd/19242_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
+7108	Tanvaldsk├¢ ┼ápi─ì├ík II - Hot	Tanvaldsk├¢ ┼ápi─ì├ík / Jizerky	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/7108/#yyyy/#mm/#dd/7108_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	850 m	Hot 1
+8401	Glash├╝tte - Hot	Bodenmais - Silberberg	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/8401/#yyyy/#mm/#dd/8401_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	745 m	-
+10766	Rifugio Auronzo - Misurina und Monte Cristallo	Misurina	https://vcdn.bergfex.at/webcams/archive.new/downsized/6/10766/#yyyy/#mm/#dd/10766_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2.320 m	Misurina und Monte Cristallo
+16817	Bergstation / Stacja g├│rna Kolej nr III	Kotelnica Bia┼écza┼äska	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/16817/#yyyy/#mm/#dd/16817_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	917 m	-
+8401	Glash├╝tte - Hot	Bodenmais	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/8401/#yyyy/#mm/#dd/8401_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	745 m	-
+18664	Innerratschings - Hot 3	Ratschings Jaufen	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/18664/#yyyy/#mm/#dd/18664_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.363 m	Hot 3
+18918	Se─ìovlje Salina	Se─ìovlje	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/18918/#yyyy/#mm/#dd/18918_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	2 m	-
+16820	Bergstation / Stacja g├│rna Kolej nr IX	Kotelnica Bia┼écza┼äska	https://vcdn.bergfex.at/webcams/archive.new/downsized/0/16820/#yyyy/#mm/#dd/16820_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	839 m	-
+19284	Rocher de Sampzon - Sampzon-Ebene zwischen Ruoms und Vallon Pont d┬┤Arc mit dem ber├╝hmten Sampzon-Felsen, der sich 381 m ├╝ber dem Fluss Ard├¿che erhebt.	Sampzon	https://vcdn.bergfex.at/webcams/archive.new/downsized/4/19284/#yyyy/#mm/#dd/19284_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	100 m	Sampzon-Ebene zwischen Ruoms und Vallon Pont d┬┤Arc mit dem ber├╝hmten Sampzon-Felsen, der sich 381 m ├╝ber dem Fluss Ard├¿che erhebt.
+10173	Kasprowy Wierch	Kasprowy Wierch / Zakopane	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/10173/#yyyy/#mm/#dd/10173_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	-	-
+18665	Innerratschings - Panorama	Ratschings Jaufen	https://vcdn.bergfex.at/webcams/archive.new/downsized/5/18665/#yyyy/#mm/#dd/18665_#yyyy-#mm-#dd_#hh#nn_801ea6616676539b.jpg	1.363 m	Panorama
+8427	B├¡l├í - POI	SKI B├¡l├í	https://vcdn.bergfex.at/webcams/archive.new/downsized/7/8427/#yyyy/#mm/#dd/8427_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	670 m	POI 1
+15429	Szczyrk - Gondola - Szczyrk Mountain Resort Talbereich.	Szczyrk Mountain Resort	<missing>	591 m	Szczyrk Mountain Resort Talbereich.
+18663	Innerratschings - Hot 2	Ratschings Jaufen	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/18663/#yyyy/#mm/#dd/18663_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.363 m	Hot 2
+15592	Szrenica - Talstation	Ski Arena Szrenica / Sudety Lift - Szklarska Poreba	https://vcdn.bergfex.at/webcams/archive.new/downsized/2/15592/#yyyy/#mm/#dd/15592_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	725 m	-
+15593	Szrenica - Bergstation - Bergstation Karkonosz Express.	Ski Arena Szrenica / Sudety Lift - Szklarska Poreba	https://vcdn.bergfex.at/webcams/archive.new/downsized/3/15593/#yyyy/#mm/#dd/15593_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.220 m	Bergstation Karkonosz Express.
+15428	Lesko - Bergstation	Lesko-Ski / Weremie┼ä	<missing>	540 m	-
+15418	Jaworzyna Krynicka - Blick auf den Jaworzyna-Gipfel.	Jaworzyna Krynicka	https://vcdn.bergfex.at/webcams/archive.new/downsized/8/15418/#yyyy/#mm/#dd/15418_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.114 m	Blick auf den Jaworzyna-Gipfel.
+15419	Jaworzyna Krynicka - Ansicht von der Spitze von Jaworzyna Krynicka.	Jaworzyna Krynicka	https://vcdn.bergfex.at/webcams/archive.new/downsized/9/15419/#yyyy/#mm/#dd/15419_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	1.114 m	Ansicht von der Spitze von Jaworzyna Krynicka.
+17131	Kasina Ski - Talstation Kasina Ski.	Kasina Ski&Bike Park	https://vcdn.bergfex.at/webcams/archive.new/downsized/1/17131/#yyyy/#mm/#dd/17131_#yyyy-#mm-#dd_#hh#nn_688d47e0ed941b8b.jpg	650 m	Talstation Kasina Ski.
 \.
 
 
@@ -21049,6 +21096,14 @@ ALTER TABLE ONLY webcams.subregions
 
 
 --
+-- Name: countries unique_internal_names; Type: CONSTRAINT; Schema: webcams; Owner: postgres
+--
+
+ALTER TABLE ONLY webcams.countries
+    ADD CONSTRAINT unique_internal_names UNIQUE (internal);
+
+
+--
 -- Name: webcams webcams_pkey; Type: CONSTRAINT; Schema: webcams; Owner: postgres
 --
 
@@ -21069,7 +21124,7 @@ ALTER TABLE ONLY webcams.locations
 --
 
 ALTER TABLE ONLY webcams.regions
-    ADD CONSTRAINT regions_country_fkey FOREIGN KEY (country) REFERENCES webcams.countries(name);
+    ADD CONSTRAINT regions_country_fkey FOREIGN KEY (country) REFERENCES webcams.countries(internal);
 
 
 --
