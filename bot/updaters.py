@@ -2,14 +2,25 @@ from datetime import datetime
 from re import match, findall
 
 from WebcamBot import last_working
-from db import sql_query
+from db import update_database, sql_query, generate_search
 from scrape import countries, get_regions, get_locations, get_webcams, get_hq_webcams
+
+
+# --- BUNDLED UPDATE ---
+
+
+def update_everything(countries=countries):
+    update_database(countries)
+    update_urls(['bergfex', 'foto-webcam'], countries)
+    update_subregions(countries)
+    update_metadata(countries)
 
 
 # --- MANUAL UPDATERS ---
 
+
 # adds the url column to the webcams table
-def update_urls(source, time=findall('\d+', str(datetime.now()).rsplit(':', 1)[0])):
+def update_urls(source, countries=countries, time=findall('\d+', str(datetime.now()).rsplit(':', 1)[0])):
     # initializing new column:
     # sql_query('ALTER TABLE webcams ADD COLUMN url VARCHAR')
     # sql_query("UPDATE webcams SET url = '<missing>' WHERE url ISNULL")
@@ -19,7 +30,10 @@ def update_urls(source, time=findall('\d+', str(datetime.now()).rsplit(':', 1)[0
         # starting with the basic bergfex template url, to be replaced: code, date, time, variant
         bergfex_template = 'https://vcdn.bergfex.at/webcams/archive.new/downsized/?/<c>/#yyyy/#mm/#dd/<c>_#yyyy-#mm-#dd_#hh#nn_####.jpg'
         # searching for missing urls only
-        for webcam in sql_query("SELECT DISTINCT camid FROM webcams WHERE url LIKE '%<missing>'"):
+        for webcam in sql_query("SELECT DISTINCT w.camid FROM webcams w, locations l, regions r "
+                                "WHERE url LIKE '%<missing>' "
+                                "AND w.location = l.name AND l.region = r.name AND "
+                                + generate_search('r.country', ' '.join(countries))):
             # filtering for numeric webcams codes (= bergfex url code)
             if match('^\d+$', webcam[0]):
                 # replacing the template with the code and the two variants
@@ -90,14 +104,16 @@ def update_subregions(countries=countries):
 
 
 # manually updates the sea level and viewing direction of each webcam
-def update_metadata():
+def update_metadata(countries=countries):
     # initializing new columns:
     # sql_query('ALTER TABLE webcams ADD COLUMN sealevel VARCHAR, ADD COLUMN viewdirection VARCHAR')
 
     webcams = []
     current_loc = (None, None, [])
-    for (location, region, camid) in sql_query("SELECT l.name, l.region, w.camid FROM webcams w, locations l WHERE "
-                                               "w.location = l.name AND (w.sealevel ISNULL OR w.viewdirection ISNULL) "
+    for (location, region, camid) in sql_query("SELECT l.name, l.region, w.camid FROM webcams w, locations l, regions r "
+                                               "WHERE " + generate_search('r.country', ' '.join(countries)) + " "
+                                               "AND l.region = r.name AND w.location = l.name "
+                                               "AND (w.sealevel ISNULL OR w.viewdirection ISNULL) "
                                                "ORDER BY l.name, l.region"):
         if current_loc[0] == location and current_loc[1] == region:
             current_loc[2].append(camid)
