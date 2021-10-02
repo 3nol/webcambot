@@ -64,7 +64,7 @@ def last_working(camid, url, timestamp):
 
 # checks whether the url is date-independent or self-updating
 def is_date_independent(url):
-    date_independent_urls = ["taschachhaus"]
+    date_independent_urls = ["taschachhaus", "stadtwerke-konstanz"]
     for match in date_independent_urls:
         if (match in url):
             return True
