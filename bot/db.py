@@ -25,10 +25,14 @@ def update_database(countries=countries, subregions=False):
                 for w in get_webcams(l, r, c):
                     sql_query(f"INSERT INTO webcams (camid, name, location, url, sealevel, viewdirection) (VALUES "
                               f"('{w[1]}', '{w[0]}', '{l}', '<missing>', '{w[2]}', '{w[3]}'));")
-    sql_query("UPDATE regions r SET locations = "
-              "(SELECT COUNT(DISTINCT r.name) FROM locations l WHERE l.region = r.name);")
-    sql_query("UPDATE locations l SET webcams = "
-              "(SELECT COUNT(DISTINCT w.camid) FROM webcams w WHERE w.location = l.name AND w.url NOT LIKE '%<missing>%');")
+    sql_query("UPDATE regions AS r1 SET locations = ("
+              "  SELECT COUNT(DISTINCT l.name)"
+              "  FROM regions r2, locations l "
+              "  WHERE r1.name = r2.name AND l.region = r2.name);")
+    sql_query("UPDATE locations l SET webcams = ("
+              "  SELECT COUNT(DISTINCT w.camid)"
+              "  FROM webcams w "
+              "  WHERE w.location = l.name AND w.url NOT LIKE '%<missing>%');")
     print('update done')
 
 
@@ -44,8 +48,8 @@ def sql_query(query):
         cur.execute(query)
         con.commit()
         result = list(cur.fetchall())
-    except Exception:
-        pass
+    except Exception as err:
+        print(Exception, err)
     cur.close()
     con.close()
     return result
