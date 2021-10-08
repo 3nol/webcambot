@@ -121,21 +121,21 @@ class WebcamBot(Client):
                 result = None
                 if ',' not in content:
                     query = content.split(' --')[0]
-                    if '--country' in content:           # asking for countries
+                    if '--countries' in content:           # asking for countries
                         result = sql_query('SELECT continent, name FROM countries WHERE '
-                                           + generate_search('name', query) + ' ORDER BY continent')
-                    elif '--region' in content:          # asking for regions
-                        result = sql_query('SELECT country, name FROM regions WHERE '
-                                           + generate_search('name', query) + ' ORDER BY country')
-                    elif '--subregion' in content:       # asking for subregions
+                                           + generate_search('continent', query) + ' ORDER BY continent')
+                    elif '--regions' in content:          # asking for regions
+                        result = sql_query('SELECT c.name, r.name FROM regions r JOIN countries c ON r.country = c.internal WHERE '
+                                           + generate_search('country', query) + ' ORDER BY country')
+                    elif '--subregions' in content:       # asking for subregions
                         result = sql_query('SELECT region, name FROM subregions WHERE '
-                                           + generate_search('name', query) + ' ORDER BY region')
-                    elif '--location' in content:        # asking for locations
+                                           + generate_search('region', query) + ' ORDER BY region')
+                    elif '--locations' in content:        # asking for locations
                         result = sql_query('SELECT subregion, name FROM locations WHERE '
-                                           + generate_search('name', query) + ' ORDER BY subregion')
-                    elif '--webcam' in content or True:  # for webcams
+                                           + generate_search('subregion', query) + ' ORDER BY subregion')
+                    elif '--webcams' in content or True:  # for webcams
                         result = sql_query('SELECT location, name FROM webcams WHERE '
-                                               + generate_search('name', query) + ' ORDER BY location')
+                                               + generate_search('location', query) + ' ORDER BY location')
                     if result:
                         text = ''
                         for element in result:  # formatting bold headers
