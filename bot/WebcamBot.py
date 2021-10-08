@@ -84,11 +84,11 @@ class WebcamBot(Client):
         if str(message.content) == '!w' or str(message) == '!w help':
             await message.channel.send('This bot has access to all webcams that are available on \"bergfex.com\" or \"foto-webcam.eu\":\n'
                                      + '**!w**\n -> shows this message.\n'
-                                     + '**!w  search  --country**\n -> shows all countries associated with that search term.\n'
-                                     + '**!w  search  --region**\n -> shows all regions associated with that search term.\n'
-                                     + '**!w  search  --subregion**\n -> shows all subregions associated with that search term.\n'
-                                     + '**!w  search  --location**\n -> shows all locations associated with that search term.\n'
-                                     + '**!w  search  [--webcam]**\n -> shows all webcams associated with that search term.\n'
+                                     + '**!w  search  --countries**\n -> shows all countries associated with that continent term.\n'
+                                     + '**!w  search  --regions**\n -> shows all regions associated with that country termn.\n'
+                                     + '**!w  search  --subregions**\n -> shows all subregions associated with that region term.\n'
+                                     + '**!w  search  --locations**\n -> shows all locations associated with that region term.\n'
+                                     + '**!w  search  [--webcams]**\n -> shows all webcams associated with that location term.\n'
                                      + '**!w  location , webcam**\n -> gets the latest accessible photo for that webcam.\n'
                                      + '**!w  location , webcam  -d  [dd.mm.yyyy.]hh.mm**\n -> gets the photo at that timestamp [and date].\n')
 
@@ -132,7 +132,7 @@ class WebcamBot(Client):
                                            + generate_search('region', query) + ' ORDER BY region')
                     elif '--locations' in content:        # asking for locations
                         result = sql_query('SELECT subregion, name FROM locations WHERE '
-                                           + generate_search('subregion', query) + ' ORDER BY subregion')
+                                           + generate_search('region', query) + ' ORDER BY subregion')
                     elif '--webcams' in content or True:  # for webcams
                         result = sql_query('SELECT location, name FROM webcams WHERE '
                                                + generate_search('location', query) + ' ORDER BY location')
