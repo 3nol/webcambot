@@ -83,14 +83,14 @@ class WebcamBot(Client):
         # help message
         if str(message.content) == '!w' or str(message) == '!w help':
             await message.channel.send('This bot has access to all webcams that are available on \"bergfex.com\" or \"foto-webcam.eu\":\n'
-                                     + '**!w**\n -> shows this message.\n'
-                                     + '**!w  search  --countries**\n -> shows all countries associated with that continent term.\n'
-                                     + '**!w  search  --regions**\n -> shows all regions associated with that country termn.\n'
-                                     + '**!w  search  --subregions**\n -> shows all subregions associated with that region term.\n'
-                                     + '**!w  search  --locations**\n -> shows all locations associated with that region term.\n'
-                                     + '**!w  search  [--webcams]**\n -> shows all webcams associated with that location term.\n'
-                                     + '**!w  location , webcam**\n -> gets the latest accessible photo for that webcam.\n'
-                                     + '**!w  location , webcam  -d  [dd.mm.yyyy.]hh.mm**\n -> gets the photo at that timestamp [and date].\n')
+                                     + '**!w**\n -> shows this message\n'
+                                     + '**!w  CONTINENT  --countries**\n -> shows all countries associated with that continent term\n'
+                                     + '**!w  COUNTRY  --regions**\n -> shows all regions associated with that country term\n'
+                                     + '**!w  REGION  --subregions**\n -> shows all subregions associated with that region term\n'
+                                     + '**!w  REGION  --locations**\n -> shows all locations associated with that region term\n'
+                                     + '**!w  LOCATION  [--webcams]**\n -> shows all webcams associated with that location term\n'
+                                     + '**!w  LOCATION , WEBCAM**\n -> gets the latest accessible photo for that webcam\n'
+                                     + '**!w  LOCATION , WEBCAM  -d  [dd.mm.yyyy.]hh.mm**\n -> gets the photo at that timestamp [and date]\n')
 
         elif str(message.content).startswith('!wsql'):      # SQL piping (incl. keyword filter, no printing > 10000)
             query = str(message.content).split('!wsql', 1)[1].strip()
