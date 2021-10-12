@@ -126,7 +126,7 @@ class WebcamBot(Client):
                                            + generate_search('continent', query) + ' ORDER BY continent')
                     elif '--regions' in content:          # asking for regions
                         result = sql_query('SELECT c.name, r.name FROM regions r JOIN countries c ON r.country = c.internal WHERE '
-                                           + generate_search('country', query) + ' ORDER BY country')
+                                           + generate_search('c.name', query) + ' ORDER BY c.name')
                     elif '--subregions' in content:       # asking for subregions
                         result = sql_query('SELECT region, name FROM subregions WHERE '
                                            + generate_search('region', query) + ' ORDER BY region')
