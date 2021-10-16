@@ -32,8 +32,8 @@ def update_urls(source, countries=countries, time=findall('\d+', str(datetime.no
         # searching for missing urls only
         for webcam in sql_query("SELECT DISTINCT w.camid FROM webcams w, locations l, regions r "
                                 "WHERE url LIKE '%<missing>' "
-                                "AND w.location = l.name AND l.region = r.name AND "
-                                + generate_search('r.country', ' '.join(countries))):
+                                "AND w.location = l.name AND l.region = r.name AND ("
+                                + generate_search('r.country', ' '.join(countries), 'OR') + ")"):
             # filtering for numeric webcams codes (= bergfex url code)
             if match('^\d+$', webcam[0]):
                 # replacing the template with the code and the two variants

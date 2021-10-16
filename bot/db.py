@@ -56,11 +56,11 @@ def sql_query(query):
 
 
 # generates an sql query clause with conditions based on a search term
-def generate_search(col, term):
+def generate_search(col, term, concat_term='AND'):
     words = term.lower().split(' ')
     search = "LOWER(" + col + ") LIKE '%" + words[0] + "%'"
     for w in words[1:]:
-        search += " AND LOWER(" + col + ") LIKE '%" + w + "%'"
+        search += f" {concat_term} LOWER(" + col + ") LIKE '%" + w + "%'"
     return search
 
 
