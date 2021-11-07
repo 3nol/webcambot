@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from re import match
-
+from re import match, compile
 
 # all countries
 import db
@@ -127,18 +126,23 @@ def get_webcams(location, region, country=None):
                         if code not in duplicates:
                             html = get_url_text('https://www.bergfex.at' + l[1] + 'c' + code + '/')
                             if html is not None:
-                                duplicates.append(title)  # title has been used
-                                duplicates.append(code)  # code has been used
                                 # title has not been used but code has -> duplicate naming, resolved by adding number
                                 if title in duplicates:
                                     title += ' ' + str(duplicates.count(title))  # numbering the title
+                                duplicates.append(title)  # title has been used
+                                duplicates.append(code)  # code has been used
                                 soup2 = BeautifulSoup(html, 'html.parser')
                                 sealevel, viewdirection = get_metadata(soup2)
                                 indicator = soup2.find('div', class_='section-full')
                                 # found webcams is a 'foto-webcam', will be marked with '[UHD]'
-                                if 'foto-webcam' in str(indicator) and indicator and indicator.find('iframe'):
+                                if indicator and indicator.find('iframe') and 'foto-webcam' in str(indicator):
                                     webcams.add((title + ' [UHD]',
                                                  indicator.find('iframe').get('src').split('webcam/')[1].split('?')[0],
+                                                 sealevel, viewdirection))
+                                elif indicator and indicator.find('a', string=compile('.*foto-webcam.*')):
+                                    webcams.add((title + ' [UHD]',
+                                                 indicator.find('div', class_='webcam-copyright').find('a').get('href')
+                                                 .split('webcam/')[1].split('/')[0].lower(),
                                                  sealevel, viewdirection))
                                 # found webcam belonging to bergfex
                                 else:
@@ -150,13 +154,14 @@ def get_webcams(location, region, country=None):
 def get_hq_webcams():
     webcams = {}
     soup = BeautifulSoup(requests.get('https://foto-webcam.eu').text, 'html.parser')
-    info = soup.find('body').find('script',language='JavaScript')
+    info = soup.find('body').find('script', language='JavaScript')
     info = str(info).split('var metadata= new Object({"cams":[{', 1)[1].split('}],"center":"score"});', 1)[0]
     for w in info.split('},{'):
         key = w[6:].split('",', 1)[0]
         content = w[6:].split('",', 1)[1].split(',')
         webcams[key] = content
     return webcams
+
 
 # filters out the meta-data for a saved webcam, currently sealevel and viewing direction
 def get_metadata(html):

@@ -10,17 +10,22 @@ def update_database(countries=countries, subregions=False):
     print('updating database')
     for c in countries:
         print('\nCOUNTRY:', c)
+        c = c.replace('\'', '´')
         if subregions:
             for r, s_list in get_subregions(c).items():
                 print('REGION:', r)
+                r = r.replace('\'', '´')
                 for s in s_list:
                     print('- SUBREGION:', s)
+                    s = s.replace('\'', '´')
                     sql_query(f"INSERT INTO subregions (name, region) (VALUES ('{s}', '{r}'));")
         for r in get_regions(c):
             print('REGION:', r)
+            r = r.replace('\'', '´')
             sql_query(f"INSERT INTO regions (name, country) (VALUES ('{r}', '{c}'));")
             for l in get_locations(r, c):
                 print('- LOCATION:', l)
+                l = l.replace('\'', '´')
                 sql_query(f"INSERT INTO locations (name, region, subregion) (VALUES ('{l}', '{r}', '<missing>'));")
                 for w in get_webcams(l, r, c):
                     sql_query(f"INSERT INTO webcams (camid, name, location, url, sealevel, viewdirection) (VALUES "
