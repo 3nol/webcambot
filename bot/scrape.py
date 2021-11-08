@@ -139,7 +139,8 @@ def get_webcams(location, region, country=None):
                                     webcams.add((title + ' [UHD]',
                                                  indicator.find('iframe').get('src').split('webcam/')[1].split('?')[0],
                                                  sealevel, viewdirection))
-                                elif indicator and indicator.find('a', string=compile('.*foto-webcam.*')):
+                                elif indicator and indicator.find('a', string=compile('.*foto-webcam.*')) and 'foto-' \
+                                    'webcam' in indicator.find('div', class_='webcam-copyright').find('a').get('href'):
                                     webcams.add((title + ' [UHD]',
                                                  indicator.find('div', class_='webcam-copyright').find('a').get('href')
                                                  .split('webcam/')[1].split('/')[0].lower(),
