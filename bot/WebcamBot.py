@@ -11,10 +11,10 @@ from scrape import get_url_text
 # --- WEBCAM CHECKS ---
 
 # checks whether an url exists by status_code == 200
-def exists(path):
+def exists(path, timeout=0.2):
     print('pinging ' + path)
     try:
-        if requests.head(path, timeout=0.2).status_code == 200:
+        if requests.head(path, timeout=timeout).status_code == 200:
             return True
         else:
             return False
@@ -53,9 +53,10 @@ def last_working(camid, url, timestamp):
                       .replace('#dd', f"{timestamp[2]:02d}") \
                       .replace('#hh', f"{timestamp[3]:02d}") \
                       .replace('#nn', f"{timestamp[4]:02d}")
-        if exists(test_url):
-            if is_date_independent(test_url):
-                return str(test_url) + '?' + str(randrange(42000000)), list(map(lambda x: str(x).zfill(2), timestamp))
+        if is_date_independent(test_url) and exists(test_url, 15):
+            # avoiding Discord's image caching by appending a random string of numbers
+            return str(test_url) + '?' + str(randrange(42000000)), list(map(lambda x: str(x).zfill(2), timestamp))
+        elif exists(test_url):
             return test_url, list(map(lambda x: str(x).zfill(2), timestamp))
         time = datetime.strptime(':'.join(list(map(lambda x: str(x), timestamp))), '%Y:%m:%d:%H:%M') - timedelta(minutes=delta)
         timestamp = [int(time.year), int(time.month), int(time.day), int(time.hour), int(time.minute)]
@@ -64,9 +65,9 @@ def last_working(camid, url, timestamp):
 
 # checks whether the url is date-independent or self-updating
 def is_date_independent(url):
-    date_independent_urls = ["taschachhaus", "stadtwerke-konstanz"]
-    for match in date_independent_urls:
-        if (match in url):
+    date_independent_urls = ["taschachhaus", "stadtwerke-konstanz", "media.jungfrau.ch"]
+    for keyword in date_independent_urls:
+        if keyword in url:
             return True
     return False
 
