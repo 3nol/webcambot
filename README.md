@@ -8,10 +8,12 @@ This discord bot allows the user the access all webcams that are listed on the f
  ```
 - foto-webcam: `https://www.foto-webcam.eu`
 
-The webcams are stored in a database, provided in `webcams.sql`.
+The webcams are stored in a database, provided in `webcams.psql`.
 PostgreSQL has been used to create the database. \
 In `./bot/db.py` you will find the method `sql_query()` which executes all SQL queries.
 You may have to tweak this method to get it working for you.
+
+The webcam database has also been migrated to MySQL, found in `webcams.mysql`.
 
 ## Usage
 
