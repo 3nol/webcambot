@@ -79,10 +79,10 @@ class WebcamBot(Client):
     async def on_ready(self):
         print('login successful')
     async def on_message(self, message):
-        # logging
-        print(str(message.author) + ' in ' + str(message.channel) + ': ' + str(message.content))
         # help message
         if str(message.content) == '!w' or str(message) == '!w help':
+            # logging
+            print(str(message.author) + ' in ' + str(message.channel) + ': ' + str(message.content))
             await message.channel.send('This bot has access to all webcams that are available on \"bergfex.com\" or \"foto-webcam.eu\":\n'
                                      + '**!w**\n -> shows this message\n'
                                      + '**!w  CONTINENT  --countries**\n -> shows all countries associated with that continent term\n'
@@ -94,6 +94,8 @@ class WebcamBot(Client):
                                      + '**!w  LOCATION , WEBCAM  -d  [dd.mm.yyyy.]hh.mm**\n -> gets the photo at that timestamp [and date]\n')
 
         elif str(message.content).startswith('!wsql'):      # SQL piping (incl. keyword filter, no printing > 10000)
+            # logging
+            print(str(message.author) + ' in ' + str(message.channel) + ': ' + str(message.content))
             query = str(message.content).split('!wsql', 1)[1].strip()
             for x in ['insert', 'update', 'delete', 'create', 'drop', 'alter',
                       'truncate', 'rename', 'grant', 'revoke', 'rollback', 'transaction']:
@@ -115,6 +117,8 @@ class WebcamBot(Client):
 
         # info display for countries, regions, locations, webcams
         elif str(message.content).startswith('!w'):
+            # logging
+            print(str(message.author) + ' in ' + str(message.channel) + ': ' + str(message.content))
             content = str(message.content).split('!w', 1)[1].strip()
             if all(list(map(lambda x: len(x) < 2, content.split(' ')))):
                 await message.channel.send('Your search term is too short.')
