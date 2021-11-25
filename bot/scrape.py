@@ -127,7 +127,7 @@ def get_webcams(location, region, country=None):
                             html = get_url_text('https://www.bergfex.at' + l[1] + 'c' + code + '/')
                             if html is not None:
                                 # title has not been used but code has -> duplicate naming, resolved by adding number
-                                if title in duplicates:
+                                if is_duplicate(title, duplicates):
                                     title += ' ' + str(duplicates.count(title))  # numbering the title
                                 duplicates.append(title)  # title has been used
                                 duplicates.append(code)  # code has been used
@@ -200,3 +200,11 @@ def get_title(junk):
         return junk.find('a').text.replace('&amp;', '&')
     else:
         return None
+
+
+# checks a keyword for duplicates, not only tests for equality but also if it is a subset of a duplicate
+def is_duplicate(keyword: str, duplicates_list: list) -> bool:
+    for d in duplicates_list:
+        if keyword in d:
+            return True
+    return False

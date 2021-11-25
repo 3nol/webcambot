@@ -45,7 +45,7 @@ def update_database(countries=countries, subregions=False):
 
 # executes an sql query on the webcam database
 def sql_query(query):
-    con = psycopg2.connect(port=***REMOVED***, database='postgres', user='postgres')
+    con = psycopg2.connect(port=5433, database='postgres', user='postgres')
     cur = con.cursor()
     result = None
     try:
